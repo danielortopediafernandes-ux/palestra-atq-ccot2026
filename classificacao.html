@@ -93,60 +93,75 @@
 :root{ --paper:#f4f1e9; --ink:#1f2e2b; --verde:#0f6b60; --mut:#736f63; --line:#d9d3c4;
   --mira:#a9765a; --destino:#0f6b60; }
 body{font-family:'Inter',sans-serif;color:var(--ink);background:var(--paper);line-height:1.5}
-.wrap{max-width:860px;margin:0 auto;padding:54px 34px 90px}
+.wrap{max-width:880px;margin:0 auto;padding:54px 34px 90px}
 .eyebrow{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--mut);font-weight:600}
 h1{font-family:'Fraunces',serif;font-weight:900;font-size:40px;line-height:1.04;letter-spacing:-.02em;margin:12px 0 8px;max-width:24ch}
 h1 .verde{color:var(--verde)}
-.q{font-size:16px;color:var(--mut);max-width:64ch}
-.hr{height:1px;background:var(--line);margin:28px 0}
-.fam{border:1px solid var(--line);border-radius:6px;background:#fff;padding:26px 28px;margin-bottom:20px;position:relative;overflow:hidden}
+.q{font-size:16px;color:var(--mut);max-width:66ch}
+.hr{height:1px;background:var(--line);margin:26px 0}
+.fam{border:1px solid var(--line);border-radius:6px;background:#fff;padding:24px 28px 26px;margin-bottom:20px;position:relative;overflow:hidden}
 .fam::before{content:"";position:absolute;left:0;top:0;bottom:0;width:6px}
 .fam.f1::before{background:var(--mira)}
 .fam.f2::before{background:var(--destino)}
 .famhead{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:4px}
 .famtag{font-size:11px;letter-spacing:.16em;text-transform:uppercase;font-weight:700}
 .f1 .famtag{color:var(--mira)} .f2 .famtag{color:var(--destino)}
-.famname{font-family:'Fraunces',serif;font-weight:700;font-size:28px;letter-spacing:-.01em}
-.famsub{font-size:15px;color:var(--mut);font-style:italic;margin:4px 0 16px;max-width:70ch}
-.grouplab{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--mut);font-weight:700;margin:14px 0 6px}
-.item{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:baseline;padding:10px 0;border-top:1px solid var(--line)}
-.item:first-of-type{border-top:none}
-.item .nm{font-size:18px;font-weight:600;color:var(--ink)}
-.item .nm small{display:block;font-weight:400;font-size:13.5px;color:var(--mut);margin-top:2px;letter-spacing:.01em}
-.item .rt{font-size:13px;color:var(--verde);font-weight:600;text-align:right;white-space:nowrap}
+.famname{font-family:'Fraunces',serif;font-weight:700;font-size:27px;letter-spacing:-.01em}
+.famsub{font-size:14.5px;color:var(--mut);font-style:italic;margin:4px 0 6px;max-width:74ch}
+.sub{margin-top:16px}
+.grouplab{font-family:'Fraunces',serif;font-weight:600;font-size:16px;color:var(--ink);margin:0 0 2px;
+  display:flex;align-items:center;gap:9px}
+.grouplab .g1{color:var(--mira)} .grouplab .g2{color:var(--destino)}
+.grouplab .k{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;color:var(--mut)}
+.item{display:grid;grid-template-columns:1fr auto;gap:14px;align-items:baseline;padding:9px 0;border-top:1px solid var(--line)}
+.grouplab + .item{border-top:none}
+.item .nm{font-size:17.5px;font-weight:600;color:var(--ink)}
+.item .nm small{display:block;font-weight:400;font-size:13px;color:var(--mut);margin-top:2px;letter-spacing:.01em}
+.item .rt{font-size:12.5px;color:var(--verde);font-weight:600;text-align:right;white-space:nowrap}
 .item .rt.warn{color:var(--mira)}
-.note{margin-top:24px;font-size:14px;color:var(--mut);line-height:1.6;border-top:1px solid var(--line);padding-top:16px}
+.note{margin-top:22px;font-size:14px;color:var(--mut);line-height:1.6;border-top:1px solid var(--line);padding-top:16px}
 .note b{color:var(--ink)}
-.foot{margin-top:34px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);border-top:1px solid var(--line);padding-top:14px}
+.foot{margin-top:32px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--mut);border-top:1px solid var(--line);padding-top:14px}
 </style></head><body><div class="wrap">
-<div class="eyebrow">XVI CCOT 2026 · Classificação dos temas · proposta de estrutura</div>
-<h1>A palestra em <span class="verde">duas famílias</span></h1>
-<div class="q">A pergunta que organiza tudo: <b>o que só melhora a MIRA</b> (o alvo técnico, o desfecho substituto) <b>× o que muda o DESTINO</b> (o desfecho do paciente)? Cada tema clínico se pendura numa das duas.</div>
+<div class="eyebrow">XVI CCOT 2026 · Classificação dos temas · estrutura da palestra</div>
+<h1>A palestra em <span class="verde">duas famílias</span>, quatro subclasses</h1>
+<div class="q">O eixo que organiza tudo: <b>o que só melhora a MIRA</b> (alvo técnico · desfecho substituto) <b>× o que muda o DESTINO</b> (desfecho do paciente). Dentro de cada família, uma segunda divisão.</div>
 <div class="hr"></div>
 
 <div class="fam f1">
   <div class="famhead"><span class="famtag">Família 1</span><span class="famname">Melhora a MIRA</span></div>
-  <div class="famsub">O alvo técnico — desfecho substituto. Impressiona no congresso; na artrose de rotina, não muda o resultado do paciente.</div>
-  <div class="item"><span class="nm">Planejamento por imagem<small>2D → 3D → Inteligência Artificial</small></span><span class="rt warn">benefício real: anatomia atípica</span></div>
-  <div class="item"><span class="nm">Robótica e navegação<small>posiciona melhor a taça</small></span><span class="rt warn">PROM igual em 1 ano</span></div>
-  <div class="item"><span class="nm">Alvo do cup<small>zona fixa (Lewinnek) → alvo individual coluna-quadril</small></span><span class="rt warn">promissor, sem RCT</span></div>
-  <div class="item"><span class="nm">Via de acesso<small>anterior × posterior</small></span><span class="rt warn">muda o perfil, não o desfecho</span></div>
+  <div class="famsub">O alvo técnico — desfecho substituto. Impressiona; na artrose de rotina, não muda o resultado do paciente.</div>
+  <div class="sub">
+    <div class="grouplab"><span class="g1">Dependente de tecnologia</span><span class="k">exige adotar / comprar</span></div>
+    <div class="item"><span class="nm">Planejamento 3D / Inteligência Artificial<small>reconstrução por tomografia</small></span><span class="rt warn">benefício: anatomia atípica</span></div>
+    <div class="item"><span class="nm">Robótica e navegação<small>posiciona melhor a taça</small></span><span class="rt warn">PROM igual em 1 ano</span></div>
+  </div>
+  <div class="sub">
+    <div class="grouplab"><span class="g1">Sem necessidade de novas tecnologias</span><span class="k">com o que você já tem</span></div>
+    <div class="item"><span class="nm">Templating por imagem convencional (2D)<small>radiografia calibrada</small></span><span class="rt warn">não-inferior na rotina</span></div>
+    <div class="item"><span class="nm">Alvo do cup individual<small>radiografia em pé + sentado flexionado</small></span><span class="rt warn">promissor, sem RCT</span></div>
+    <div class="item"><span class="nm">Via de acesso<small>domine a que você faz bem</small></span><span class="rt warn">muda o perfil, não o desfecho</span></div>
+  </div>
 </div>
 
 <div class="fam f2">
   <div class="famhead"><span class="famtag">Família 2</span><span class="famname">Muda o DESTINO</span></div>
   <div class="famsub">O desfecho do paciente — barato, sem glamour. É o que move revisão, luxação, transfusão e infecção.</div>
-  <div class="grouplab">— Técnico / estrutural</div>
-  <div class="item"><span class="nm">Fixação da haste no idoso<small>cimentar no grupo por evidência (mulher ≥70 · homem ≥75 · osteoporose)</small></span><span class="rt">~4× menos fratura</span></div>
-  <div class="item"><span class="nm">Reparo capsular posterior<small>a medida antiluxação de menor custo</small></span><span class="rt">~8× menos luxação</span></div>
-  <div class="grouplab">— Peri-operatório / farmacológico</div>
-  <div class="item"><span class="nm">Ácido tranexâmico</span><span class="rt">↓ transfusão</span></div>
-  <div class="item"><span class="nm">Antibiótico — cefazolina bem usada</span><span class="rt">↓ infecção</span></div>
-  <div class="item"><span class="nm">Bloqueio PENG</span><span class="rt">antecipa a marcha</span></div>
-  <div class="item"><span class="nm">Tromboprofilaxia — aspirina</span><span class="rt">↓ trombose</span></div>
+  <div class="sub">
+    <div class="grouplab"><span class="g2">Técnica cirúrgica</span><span class="k">na mesa</span></div>
+    <div class="item"><span class="nm">Fixação da haste no idoso<small>cimentar no grupo por evidência (mulher ≥70 · homem ≥75 · osteoporose)</small></span><span class="rt">~4× menos fratura</span></div>
+    <div class="item"><span class="nm">Reparo capsular posterior<small>a medida antiluxação de menor custo</small></span><span class="rt">~8× menos luxação</span></div>
+  </div>
+  <div class="sub">
+    <div class="grouplab"><span class="g2">Cuidados clínicos</span><span class="k">peri-operatório</span></div>
+    <div class="item"><span class="nm">Ácido tranexâmico</span><span class="rt">↓ transfusão</span></div>
+    <div class="item"><span class="nm">Antibiótico — cefazolina bem usada</span><span class="rt">↓ infecção</span></div>
+    <div class="item"><span class="nm">Bloqueio PENG</span><span class="rt">antecipa a marcha</span></div>
+    <div class="item"><span class="nm">Tromboprofilaxia — aspirina</span><span class="rt">↓ trombose</span></div>
+  </div>
 </div>
 
-<div class="note"><b>Outra leitura possível</b> (mesmos temas, outro eixo): organizar por <b>5 desfechos</b> — Precisão · Sobrevida · Luxação · Função · Complicações — cada um com a sua intervenção. As duas classificações convivem: os <b>desfechos</b> são o que medimos; as <b>famílias</b> são o tipo de solução. Você decide qual vira a espinha.</div>
+<div class="note"><b>Leitura da estrutura:</b> a Família 1 carrega uma provocação embutida — muito do que “melhora a mira” <b>nem precisa de tecnologia nova</b>. A Família 2 separa o que se faz <b>na mesa</b> do que se faz <b>no cuidado clínico</b>. Três níveis: família → subclasse → tema.</div>
 
 <div class="foot">XVI CCOT 2026 · Planejamento pré-operatório em ATQ · Dr. Daniel Araújo Fernandes · classificação para revisão</div>
 </div></body></html>
