@@ -35,6 +35,68 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 ---
 
+# DECISÃO 0 · O paciente — otimização clínica antes de operar
+
+A primeira decisão do planejamento não é técnica: é **"opero agora ou preparo o paciente primeiro?"**. Quatro condições modificáveis têm número publicado.
+
+## [0.1] Descolonizar *Staphylococcus aureus*?
+
+**RESPOSTA · Sim — protocolo universal antes da artroplastia eletiva.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Sem protocolo de descolonização | risco de infecção **RR 1,70** (qualquer) e **RR 2,18** (por *S. aureus*) na artroplastia eletiva | Ribau 2020 · J Arthroplasty · meta 32 estudos · [PMID 32950342](https://pubmed.ncbi.nlm.nih.gov/32950342/) · [DOI](https://doi.org/10.1016/j.arth.2020.08.014) |
+| Com rastreio + descolonização | infecção de sítio cirúrgico **RR 0,52** (IC 0,40–0,67); por *S. aureus* RR 0,48; MRSA RR 0,45 | Lin 2021 · meta 12 estudos · [PMID 33468375](https://pubmed.ncbi.nlm.nih.gov/33468375/) · [DOI](https://doi.org/10.1016/j.asjsur.2020.12.037) |
+| Estratégia | descolonização de pele **OR 0,43** · combinada (nasal + pele) **OR 0,48**; **universal ≈ dirigida por rastreio** | Henkelmann 2026 · meta 19 estudos · 64.796 pac · [PMID 41652612](https://pubmed.ncbi.nlm.nih.gov/41652612/) · [DOI](https://doi.org/10.1186/s13756-026-01713-y) · Lin 2021 |
+| Limite honesto | portador de MRSA mantém risco residual mesmo descolonizado — PJI **OR 2,42** | Javidmehr 2026 · meta 15 estudos · 318.487 pac · [PMID 42520992](https://pubmed.ncbi.nlm.nih.gov/42520992/) · [DOI](https://doi.org/10.1016/j.arth.2026.07.042) |
+
+**CONDUTA:** mupirocina nasal + banho de clorexidina no pré-operatório da eletiva (protocolo universal dispensa o rastreio); no portador de MRSA, vigilância reforçada.
+
+**Discussão.** A infecção periprotética é a complicação mais devastadora da artroplastia — e a intervenção que corta a infecção pela metade custa uma pomada e um sabonete. A comparação entre estratégias favorece a simplicidade: descolonizar todos é tão eficaz quanto rastrear e tratar só os positivos, com menos logística.
+
+## [0.2] Diabético — operar com que controle glicêmico?
+
+**RESPOSTA · Otimizar antes; o corte tradicional de HbA1c 7% não é sustentado pelos dados.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Controle glicêmico inadequado | infecção de sítio cirúrgico **OR 1,49** (IC 0,94–2,37; P = 0,09; heterogeneidade alta) | Shohat 2018 · J Arthroplasty · meta 17 estudos · [PMID 29605149](https://pubmed.ncbi.nlm.nih.gov/29605149/) · [DOI](https://doi.org/10.1016/j.arth.2018.02.020) |
+| O corte de HbA1c 7% | no subgrupo com corte em 7%, a associação **desaparece** (P = 0,50) — o limiar ideal permanece indefinido | Shohat 2018 |
+| Hiperglicemia perioperatória | associada a infecção nos **5 de 5 estudos** que a avaliaram | Shohat 2018 |
+
+**CONDUTA:** otimizar o diabético antes da eletiva e controlar a glicemia perioperatória; não usar HbA1c 7% como veto isolado — a decisão é individualizada.
+
+**Discussão.** O dado surpreende: a régua sagrada do 7% não tem sustentação na metanálise — o sinal mais consistente está na **glicemia perioperatória**, não no retrato de 3 meses. Para o planejamento, isso desloca o foco: mais importante que adiar por um decimal de HbA1c é garantir o controle no dia da cirurgia.
+
+## [0.3] Anemia — tratar antes de operar?
+
+**RESPOSTA · Sim — rastrear e corrigir com ferro antes da eletiva.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Prevalência | **22%** dos candidatos a artroplastia chegam anêmicos | meta 2024 · 21 estudos · 369.101 pac · [PMID 38637795](https://pubmed.ncbi.nlm.nih.gov/38637795/) · [DOI](https://doi.org/10.1186/s13018-024-04706-y) |
+| Ferro pré-operatório no anêmico | transfusão perioperatória **RR 0,61** (IC 0,50–0,73; −39%) | meta BMJ Open 2020 · 10 estudos · 2.178 pac · [PMID 33130561](https://pubmed.ncbi.nlm.nih.gov/33130561/) · [DOI](https://doi.org/10.1136/bmjopen-2019-036592) |
+
+**CONDUTA:** hemograma na indicação cirúrgica; anemia presente → investigar e tratar (ferro) antes de agendar a eletiva.
+
+**Discussão.** Um em cada cinco pacientes chega anêmico à fila da artroplastia — e a anemia é o principal determinante modificável de transfusão. Combinada ao ácido tranexâmico (Decisão 7), a correção pré-operatória compõe a estratégia de sangue do planejamento: chegar com reserva e perder menos.
+
+## [0.4] Tabagista — adiar para cessação?
+
+**RESPOSTA · Sim — a cessação reduz o risco; o fumante atual é o pior cenário.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Fumante atual × não-fumante | infecção periprotética **OR 2,16** (IC 1,57–2,97); complicações de ferida **OR 1,78** | Bedard 2018 · J Arthroplasty · meta 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · [DOI](https://doi.org/10.1016/j.arth.2018.09.089) |
+| Ex-fumante × não-fumante | PJI **OR 1,52** — risco cai, mas não zera | Bedard 2018 |
+| Fumante atual × ex-fumante | **OR 1,52** — parar antes da cirurgia reduz o risco de forma mensurável | Bedard 2018 |
+
+**CONDUTA:** na eletiva, orientar e documentar cessação antes de agendar; o intervalo ótimo não está definido na literatura — o que está demonstrado é que ex-fumante infecta menos que fumante atual.
+
+**Discussão.** O tabagismo dobra a infecção periprotética — e é o único fator desta lista que depende inteiramente do paciente. O dado útil da metanálise é o gradiente (atual > ex > nunca): ele transforma a conversa de "pare de fumar" em número concreto de risco, e a cirurgia eletiva em alavanca de cessação.
+
+---
+
 # DECISÃO 1 · Planejamento de imagem — que exame e que planejamento?
 
 ## [1.1] O planejamento digital é necessário na rotina?
@@ -213,6 +275,21 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 ---
 
+## [3.5] Coluna e quadril doentes — qual opera primeiro?
+
+**RESPOSTA · Quando ambos têm indicação, operar o quadril antes da fusão protege a prótese.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Fusão lombar prévia → ATQ | luxação **7,19×** e revisão **4,64×** em 12 meses (luxação 3,0% × 0,4% do controle pareado) | Perfetti 2017 · J Arthroplasty · pareamento por propensão · 1.868 pac · [PMID 27998660](https://pubmed.ncbi.nlm.nih.gov/27998660/) · [DOI](https://doi.org/10.1016/j.arth.2016.11.029) |
+| Ordem das cirurgias | ATQ **depois** da fusão × ATQ **antes** (fusão ≥ 5 anos depois): luxação **+106%**; revisão +43–49% | Malkani 2019 · Medicare · 42.300 pac · [PMID 30718171](https://pubmed.ncbi.nlm.nih.gov/30718171/) · [DOI](https://doi.org/10.1016/j.arth.2019.01.009) |
+| Mitigação quando a fusão já existe | cabeça ≥ 32 mm reduz a luxação (HR 0,70–0,71); via anterior/lateral supina: luxação < 1% na série quadril-coluna | Mononen 2020 · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) · Goyal 2022 · [PMID 35139054](https://pubmed.ncbi.nlm.nih.gov/35139054/) · [DOI](https://doi.org/10.5435/JAAOS-D-21-00499) |
+
+**CONDUTA:** no paciente com dupla indicação, planejar a **ATQ antes da fusão** quando clinicamente aceitável; se a fusão veio primeiro — radiografia funcional (unidades 3.3–3.4), cabeça ≥ 32 mm e considerar dupla mobilidade.
+
+**Discussão.** A sequência importa porque a fusão congela a compensação pélvica **antes** de a prótese existir: a taça é posicionada num alvo que a coluna já não deixa o quadril usar. Invertendo a ordem, a pelve ainda móvel acomoda a prótese e a fusão posterior encontra o quadril estável. É a extensão natural do raciocínio espinopélvico: além de **como** posicionar (3.2–3.4), o planejamento decide **quando** operar cada segmento.
+
+
 # DECISÃO 4 · Construto e via — dupla mobilidade para quem? que via? reparo?
 
 ## [4.1] Quem tem benefício real com a dupla mobilidade?
@@ -244,7 +321,38 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** O rebordo eleva a borda posterior do polietileno e aumenta a distância de salto da cabeça na direção da luxação posterior — mecânica atraente, e os registros da Nova Zelândia e da Finlândia a confirmam em números (menos revisão por luxação, sem o temido aumento de soltura por impacto do colo). O registro italiano, porém, aponta na direção oposta no longo prazo. E o dado mais útil ao planejador é o confronto direto: no espaço limitado de uma taça de 50 mm, gastar o polietileno com um rebordo custa 4 mm de cabeça — e a cabeça de 36 mm com liner neutro protege mais que a de 32 mm com rebordo. A leitura honesta: **sem ensaio randomizado, com registros em conflito**, o rebordo não é dogma — é ferramenta de exceção, decidida caso a caso no planejamento, com a posição do rebordo (póstero-superior) planejada junto.
 
-## [4.3] A via de acesso muda a função?
+## [4.3] Que tamanho de cabeça femoral planejar?
+
+**RESPOSTA · 32 mm como padrão no par metal-polietileno; 36 mm quando a taça permite com polietileno reticulado; ≥ 32 mm obrigatório no risco.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| 28 × 32 mm (metal-polietileno) | 28 mm tem **mais revisão por luxação: HR 1,67** (IC 1,38–1,98) | Tsikandylakis 2018 · registro nórdico NARA · 186.231 ATQs · [PMID 30260863](https://pubmed.ncbi.nlm.nih.gov/30260863/) · [DOI](https://doi.org/10.1097/CORR.0000000000000508) |
+| 36 × 32 mm (metal-polietileno) | **sem** redução adicional de luxação (HR 0,85; ns) e **mais revisão global** (HR 1,14) — 32 mm é o melhor compromisso | Tsikandylakis 2018 |
+| Com polietileno reticulado (XLPE) | o tamanho da cabeça **não compromete a sobrevida** (< 32 × 32 × > 32 mm: ns) | Allepuz 2014 · consórcio ICOR · 6 registros · 14.372 ATQs · [PMID 25520414](https://pubmed.ncbi.nlm.nih.gov/25520414/) · [DOI](https://doi.org/10.2106/JBJS.N.00461) |
+| No paciente com fusão lombar | cabeça ≥ 32 mm reduz luxação: 32 mm **HR 0,71** · 36 mm **HR 0,70** · 40 mm HR 0,42 (38–40 mm: mais revisão) | Mononen 2020 · registro finlandês · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) · [DOI](https://doi.org/10.1302/0301-620X.102B8.BJJ-2019-1037.R1) |
+| Cabeça grande × dupla mobilidade | revisão por luxação **sem diferença** entre DM e cabeça ≥ 36 mm; DM vence só na taça < 58 mm (HR 0,55) | Hoskins 2021 · AOANJRR · 106.163 ATQs · [PMID 34088570](https://pubmed.ncbi.nlm.nih.gov/34088570/) · [DOI](https://doi.org/10.1016/j.arth.2021.05.008) |
+
+**CONDUTA:** planejar 32 mm como padrão; subir para 36 mm quando o diâmetro da taça comporta com polietileno reticulado de espessura adequada; no risco de instabilidade (fusão/coluna rígida), nunca abaixo de 32 mm. Lembrar a unidade 4.2: cabeça maior com liner neutro protege mais que cabeça menor com rebordo.
+
+**Discussão.** A sequência das evidências monta a régua completa: sair de 28 para 32 mm compra estabilidade real; de 32 para 36 mm, no metal-polietileno, compra apenas revisão — exceto quando o polietileno é reticulado, que neutraliza o custo do desgaste, e quando o paciente é de risco, em que o salto de estabilidade volta a valer. O tamanho da cabeça, o liner (4.2) e a dupla mobilidade (4.1) são a mesma decisão vista de três ângulos — e ela se fecha no planejamento, medindo a taça no template.
+
+## [4.4] Que par tribológico? Polietileno reticulado sempre; cabeça cerâmica de preferência
+
+**RESPOSTA · O polietileno convencional está superado — reticulado (XLPE) em todos; cabeça cerâmica elimina o risco de corrosão/ARMD.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| XLPE × convencional | revisão acumulada em 16 anos: **6,2% × 11,7%** — HR 3,02 contra o convencional aos 9 anos | de Steiger 2018 · AOANJRR · 240.302 ATQs · JBJS · [PMID 30063590](https://pubmed.ncbi.nlm.nih.gov/30063590/) · [DOI](https://doi.org/10.2106/JBJS.17.01221) |
+| Desgaste do XLPE no longo prazo | 20 anos: **nenhuma revisão por desgaste**; taxa de desgaste **0,02 mm/ano** | Wright 2024 · Mayo · 690 ATQs · [PMID 38964487](https://pubmed.ncbi.nlm.nih.gov/38964487/) · [DOI](https://doi.org/10.1016/j.arth.2024.06.042) |
+| Cabeça metálica × cerâmica sobre XLPE | revisão por reação a partículas metálicas (ARMD/corrosão do trunnion): metal-XLPE **HR 3,4** × cerâmica; cabeças CoCr e ≥ 36 mm concentram o risco (raro: 0,1% em 17 anos) | de Steiger 2020 · AOANJRR · 350.027 ATQs · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · [DOI](https://doi.org/10.1097/CORR.0000000000001277) |
+| Cerâmica 36 mm sobre XLPE-vitamina E | desgaste em 14 anos: **0,01–0,10 mm totais** — 36 mm seguro nesse par | Thoen 2025 · RCT radioestereometria · Bone Joint J · [PMID 41173047](https://pubmed.ncbi.nlm.nih.gov/41173047/) · [DOI](https://doi.org/10.1302/0301-620X.107B11.BJJ-2025-0273.R1) |
+
+**CONDUTA:** polietileno reticulado em toda ATQ — o convencional não tem mais lugar; cabeça cerâmica de preferência (elimina ARMD/corrosão e libera 36 mm com segurança de desgaste).
+
+**Discussão.** Aqui a tecnologia **muda** desfecho — e é a exceção que confirma a régua da palestra: o polietileno reticulado quase divide pela metade a revisão em 16 anos de registro australiano, e a série de 20 anos da Mayo não registrou uma única revisão por desgaste. É a tecnologia certa: barata, invisível, definida por uma linha no planejamento. O refinamento seguinte — cabeça cerâmica — remove o único modo de falha metalúrgico restante do par (corrosão do trunnion), raro porém evitável por escolha de implante.
+
+## [4.5] A via de acesso muda a função?
 
 **RESPOSTA · Precoce sim, tardia não — escolher pela experiência do cirurgião.**
 
@@ -259,7 +367,7 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** O debate de vias produziu mais literatura do que diferença clínica. A vantagem funcional da via anterior é real — por seis semanas. No horizonte que interessa à artroplastia (anos), os ensaios e as metanálises convergem: nenhuma diferença que o paciente perceba. A variável que segue importando é o domínio técnico da via escolhida.
 
-## [4.4] Via posterior: reparo capsular?
+## [4.6] Via posterior: reparo capsular?
 
 **RESPOSTA · Sim, sistematicamente.**
 
@@ -272,7 +380,7 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** Um dos maiores efeitos de toda a palestra — oito vezes mais luxação sem o reparo — obtido com fio e agulha, custo zero e minutos de cirurgia. É o exemplo puro da tese: o desfecho responde ao gesto simples planejado, não ao equipamento.
 
-## [4.5] O que antecipa a marcha?
+## [4.7] O que antecipa a marcha?
 
 **RESPOSTA · O bloqueio PENG.**
 
@@ -425,16 +533,57 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 ---
 
+# DECISÃO 8 · O paciente bilateral — simultânea ou estagiada?
+
+## [8.1] Artroplastia bilateral: uma anestesia ou duas?
+
+**RESPOSTA · No paciente selecionado, a simultânea é vantajosa — ao custo de mais transfusão; a evidência é observacional e os sinais de EP/fratura divergem.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| A favor da simultânea | custo menor (SMD −0,54) · internação **−2,9 dias** · revisões **OR 0,44** · mortalidade sem diferença (OR 1,01) · função e dor favorecem a simultânea | Soler 2026 · meta 20 estudos · 13.984 pac · [PMID 41553690](https://pubmed.ncbi.nlm.nih.gov/41553690/) · [DOI](https://doi.org/10.1186/s10195-026-00904-y) |
+| Contrapartida | transfusão maior na simultânea: **OR 4,42** | Soler 2026 |
+| Sinais divergentes | meta anterior (104 mil pac): menos TVP e complicações sistêmicas/pulmonares na simultânea, porém **mais embolia pulmonar e fratura periprotética** | Ramezani 2022 · meta · [PMID 35964047](https://pubmed.ncbi.nlm.nih.gov/35964047/) · [DOI](https://doi.org/10.1186/s13018-022-03281-4) |
+| Estado da evidência | **somente estudos observacionais** — seleção de pacientes explica parte das vantagens; sem ensaio randomizado | Soler 2026 · Ramezani 2022 |
+
+**CONDUTA:** oferecer a simultânea ao bilateral **jovem/hígido selecionado**, com estratégia de sangue reforçada (ferro pré-op + ácido tranexâmico); no frágil, estagiar.
+
+**Discussão.** As metanálises concordam no essencial — menos custo, menos internação, função melhor — e divergem exatamente onde a seleção de pacientes mais confunde: eventos raros (embolia, fratura). A leitura honesta é que a simultânea funciona **porque** é oferecida a quem tolera; o planejamento é o filtro. E a contrapartida objetiva (4× mais transfusão) conecta esta decisão às unidades 0.3 e 7.1: o bilateral simultâneo é o paciente em que a otimização de sangue deixa de ser detalhe e vira pré-requisito.
+
+---
+
+# DECISÃO 9 · Depois da cirurgia — prescrever restrições de movimento?
+
+## [9.1] Restrições pós-operatórias na via posterior: ainda se justificam?
+
+**RESPOSTA · Com reparo capsular, não — as restrições não reduzem luxação e atrasam a recuperação.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Ensaio randomizado (com reparo capsular) | 1.133 pacientes: luxação **0,88%** no total — restrito 6 × livre 4 (OR 0,60; P = 0,55); função (HOOS JR) **melhor no grupo livre** em 6 semanas e 3–6 meses | Yadav 2026 · RCT · J Arthroplasty · [PMID 42055222](https://pubmed.ncbi.nlm.nih.gov/42055222/) · [DOI](https://doi.org/10.1016/j.arth.2026.04.080) |
+| Meta de ensaios randomizados | sem diferença de luxação; **sem restrição**: função melhor e abandono mais precoce dos auxiliares de marcha | Guo 2024 · meta 3 RCTs · 1.215 pac · [PMID 39686472](https://pubmed.ncbi.nlm.nih.gov/39686472/) · [DOI](https://doi.org/10.1097/MD.0000000000040348) |
+| Avaliação GRADE | 8.835 pacientes: sem diferença de luxação precoce (RCTs RR 1,8, IC amplo; NRS RR 0,9) — evidência **não sustenta prescrever restrições de rotina** | Korfitsen 2023 · Acta Orthop · [PMID 37039064](https://pubmed.ncbi.nlm.nih.gov/37039064/) · [DOI](https://doi.org/10.2340/17453674.2023.11958) |
+
+**CONDUTA:** na via posterior **com reparo capsular** (unidade 4.6), não prescrever restrições rígidas de rotina — liberar o movimento conforme conforto; reservar precauções para o paciente de risco individualizado.
+
+**Discussão.** O fecho da palestra em uma unidade: o dogma (restringir todo mundo por 6 semanas) não previne o desfecho — quem o previne é a decisão tomada **dentro** da cirurgia (o reparo capsular, RR 8,21) e **antes** dela (alvo funcional, construto certo). As restrições universais só entregam o custo: função pior, mais ansiedade, recuperação mais lenta. É a tese inteira em miniatura — o resultado não vem da cautela genérica; vem do planejamento específico.
+
+---
+
 # SÍNTESE — a tese fechada
 
 | Decisão | Conduta | Número-chave |
 |---|---|---|
+| Otimização clínica | descolonizar · glicemia · ferro no anêmico · cessação de tabagismo | RR 0,52 · RR 0,61 · OR 2,16 |
 | Imagem | RX calibrada + templating manual; 3D só anatomia atípica | manual ≥ digital (p<0,001) |
 | Execução | tecnologia não muda desfecho clínico | HR 1,00 · SMD 0,01 |
 | Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | luxação 0,4% × 1,7% |
-| Construto/via | DM no risco; via pela experiência; reparo capsular sempre; PENG | RR 8,21 sem reparo |
+| Construto/via | DM no risco; cabeça 32/36; XLPE sempre + cerâmica; reparo capsular; PENG | HR 1,67 · 6,2%×11,7% · RR 8,21 |
+| Ordem quadril-coluna | ATQ antes da fusão quando possível | luxação +106% se fusão antes |
+| Bilateral | simultânea no selecionado, com estratégia de sangue | OR 0,44 revisões · OR 4,42 transfusão |
 | Fixação | cimentar: mulher ≥70,5 · fx colo · osso ruim; senão colar + gradual-taper | OR 0,22 · HR 7,8 |
 | Reconstrução | offset + comprimento a ± 2,5 mm | ΔOHS > 25 |
 | Protocolo | TXA · cefazolina 21–30 min · profilaxia por risco · dexametasona | RR 0,26 · OR 2,0 · OR 0,21 |
+| Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
 
 **A tecnologia melhora o alvo técnico. O desfecho, quem melhora é o planejamento.**
