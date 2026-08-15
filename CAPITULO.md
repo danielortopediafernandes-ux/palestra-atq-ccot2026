@@ -54,19 +54,21 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 **Discussão.** A infecção periprotética é a complicação mais devastadora da artroplastia — e a intervenção que corta a infecção pela metade custa uma pomada e um sabonete. A comparação entre estratégias favorece a simplicidade: descolonizar todos é tão eficaz quanto rastrear e tratar só os positivos, com menos logística.
 
-## [0.2] Diabético — operar com que controle glicêmico?
+## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
 
-**RESPOSTA · Otimizar antes; o corte tradicional de HbA1c 7% não é sustentado pelos dados.**
+**RESPOSTA · A glicemia perioperatória — alvo < 137 mg/dL. A HbA1c com corte em 7% não prevê complicação.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Controle glicêmico inadequado | infecção de sítio cirúrgico **OR 1,49** (IC 0,94–2,37; P = 0,09; heterogeneidade alta) | Shohat 2018 · J Arthroplasty · meta 17 estudos · [PMID 29605149](https://pubmed.ncbi.nlm.nih.gov/29605149/) · [DOI](https://doi.org/10.1016/j.arth.2018.02.020) |
-| O corte de HbA1c 7% | no subgrupo com corte em 7%, a associação **desaparece** (P = 0,50) — o limiar ideal permanece indefinido | Shohat 2018 |
-| Hiperglicemia perioperatória | associada a infecção nos **5 de 5 estudos** que a avaliaram | Shohat 2018 |
+| A HbA1c falha como veto | prospectivo multicêntrico (1.119 pac.): os cortes de HbA1c **7% e 7,5% NÃO se associaram a complicações**; na meta de 17 estudos, o subgrupo com corte em 7% também não (P = 0,50) | Shohat 2019 · Insall Award · Bone Joint J · [PMID 31256656](https://pubmed.ncbi.nlm.nih.gov/31256656/) · [DOI](https://doi.org/10.1302/0301-620X.101B7.BJJ-2018-1418.R1) · Shohat 2018 · [PMID 29605149](https://pubmed.ncbi.nlm.nih.gov/29605149/) |
+| O que prevê: glicemia pós-operatória | associação **linear** com infecção periprotética a partir de 115 mg/dL; corte ótimo **137 mg/dL** (multivariada P = 0,028; 24.857 artroplastias) | Kheir 2018 · JBJS · [PMID 30106824](https://pubmed.ncbi.nlm.nih.gov/30106824/) · [DOI](https://doi.org/10.2106/JBJS.17.01316) |
+| Quando medir | o pico glicêmico é **às 21 h do dia da cirurgia** (65% hiperglicêmicos); a coleta da manhã seguinte **subestima** | Varady 2019 · J Arthroplasty · 314 pac · [PMID 30704771](https://pubmed.ncbi.nlm.nih.gov/30704771/) · [DOI](https://doi.org/10.1016/j.arth.2019.01.004) |
+| Marcador pré-operatório melhor | **frutosamina > 293 µmol/L** → infecção periprotética **11,2×** (reflete as últimas 2–3 semanas e responde rápido ao tratamento) | Shohat 2019 · [PMID 31256656](https://pubmed.ncbi.nlm.nih.gov/31256656/) |
+| Risco basal do diabético | infecção periprotética **2,39% × 1,46%** do não-diabético — o rótulo "diabetes" segue pesando | Kheir 2018 |
 
-**CONDUTA:** otimizar o diabético antes da eletiva e controlar a glicemia perioperatória; não usar HbA1c 7% como veto isolado — a decisão é individualizada.
+**CONDUTA:** não adiar a cirurgia por HbA1c isolada; **planejar o controle glicêmico perioperatório com alvo < 137 mg/dL**, medindo na noite do dia da cirurgia (21 h) — não apenas na manhã seguinte; onde disponível, frutosamina > 293 µmol/L é o marcador pré-operatório que de fato prediz infecção.
 
-**Discussão.** O dado surpreende: a régua sagrada do 7% não tem sustentação na metanálise — o sinal mais consistente está na **glicemia perioperatória**, não no retrato de 3 meses. Para o planejamento, isso desloca o foco: mais importante que adiar por um decimal de HbA1c é garantir o controle no dia da cirurgia.
+**Discussão.** A mensagem é uma só e vale ser dita com clareza: **o retrato de 3 meses (HbA1c) não decide — o dia da cirurgia decide.** O corte sagrado de 7% falhou tanto na metanálise quanto no estudo prospectivo multicêntrico premiado com o Insall Award; enquanto isso, a glicemia pós-operatória mostra relação linear com infecção já a partir de 115 mg/dL, mesmo em não-diabéticos (hiperglicemia de estresse). Para o planejamento, isso muda o gesto: em vez de vetar pelo laboratório de ontem, prescrever no plano cirúrgico o **protocolo de controle do dia** — meta, horário de medida e correção. A frutosamina, onde disponível, devolve ao pré-operatório um marcador que realmente prediz.
 
 ## [0.3] Anemia — tratar antes de operar?
 
