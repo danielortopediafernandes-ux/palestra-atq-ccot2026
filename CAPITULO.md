@@ -112,7 +112,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Manual × software digital | template manual **igual ou superior**: taça 77% × 70% (± 1 tamanho); haste **75% × 60%** (p < 0,001); mais rápido (119 s × 154 s) e sem custo | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) · [DOI](https://doi.org/10.1097/CORR.0000000000000000) |
+| Manual × software digital | template manual **igual ou superior**: taça 77% × 70% (± 1 tamanho); haste **75% × 60%** (p < 0,001); mais rápido (119 s × 154 s) e sem custo | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) · [DOI](https://doi.org/10.1007/s11999-015-4321-y) |
 | A comparação inversa também existe | digital (PACS) superou a sobreposição de template em tela para haste ± 1 tamanho: **93,8% × 84,1%** — o método específico importa menos que a execução | Pongkunakorn 2021 · J Arthroplasty · [PMID 33583670](https://pubmed.ncbi.nlm.nih.gov/33583670/) · [DOI](https://doi.org/10.1016/j.arth.2021.01.019) |
 | Expectativa realista | acerto do tamanho **exato**: haste ~32% · taça ~40% (± 1 tamanho é o padrão alcançável); acurácia semelhante entre cirurgião experiente e residente | Surroca 2024 · Hip Pelvis · [PMID 38825822](https://pubmed.ncbi.nlm.nih.gov/38825822/) · [DOI](https://doi.org/10.5371/hp.2024.36.2.129) |
 | O que mais degrada o template: a calibração | marcador externo: erro médio de magnificação **12,5%** (até 23,3%!), pior no obeso; marcador de dupla escala: **2,1%** | Ries 2022 · Arch Orthop Trauma Surg · prospectivo 100 pac · [PMID 35099608](https://pubmed.ncbi.nlm.nih.gov/35099608/) · [DOI](https://doi.org/10.1007/s00402-022-04355-y) |
