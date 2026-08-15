@@ -73,9 +73,9 @@ def q(px): return f"{px/12.8:.4f}cqw"   # 1cqw = 1% da largura do palco (1280px 
 
 def slide_capa(c):
     return f"""<section class="slide on" data-frags="0">
-      <div class="t title" style="left:{q(67)};top:{q(210)};width:{q(1000)};font-size:{q(60)};line-height:1.03">{c['titulo']}</div>
-      <div class="t" style="left:{q(69)};top:{q(430)};width:{q(1000)};font-size:{q(34)};color:var(--tealb);font-weight:700">{esc(c['autor'])}</div>
-      <div class="t" style="left:{q(69)};top:{q(495)};width:{q(1000)};font-size:{q(23)};color:var(--body)">{esc(c['evento'])}</div>
+      <div class="t title" style="left:{q(67)};top:{q(212)};width:{q(1150)};font-size:{q(48)};line-height:1.06">{c['titulo']}</div>
+      <div class="t" style="left:{q(69)};top:{q(452)};width:{q(1100)};font-size:{q(32)};color:var(--tealb);font-weight:700">{esc(c['autor'])}</div>
+      <div class="t" style="left:{q(69)};top:{q(514)};width:{q(1100)};font-size:{q(22)};color:var(--body)">{esc(c['evento'])}</div>
     </section>"""
 
 def slide_divisor(d):
@@ -85,34 +85,47 @@ def slide_divisor(d):
       <div class="t" style="left:{q(69)};top:{q(430)};width:{q(1050)};font-size:{q(24)};color:var(--body);line-height:1.3">{esc(d['linha'])}</div>
     </section>"""
 
-def slide_decisao(u):
-    frags = 1 + len(u["rows"]) + 1   # resposta + linhas + conduta
-    # layout vertical
+MAXROWS = 4   # letras grandes: no maximo 4 linhas por slide; excedente -> mais um slide (nunca espremer)
+
+def _decisao_section(u, chunk, has_resposta, is_last):
+    frags = (1 if has_resposta else 0) + len(chunk) + (1 if is_last else 0)
     parts = []
+    titulo = u["pergunta"] + ("" if has_resposta else " (continuação)")
     parts.append(f'<div class="t" style="left:{q(67)};top:{q(40)};font-size:{q(20)};letter-spacing:.05em;color:var(--tealb);font-weight:700">{esc(u["eyebrow"])} · {esc(u["tag"])}</div>')
-    parts.append(f'<div class="t title" style="left:{q(67)};top:{q(74)};width:{q(1150)};font-size:{q(38)};line-height:1.05">{esc(u["pergunta"])}</div>')
-    # resposta = fragmento 1
-    parts.append(f'<div class="t tag frag" style="left:{q(67)};top:{q(160)};width:{q(1146)};font-size:{q(24)}">{esc(u["resposta"])}</div>')
-    # linhas de evidencia
-    n=len(u["rows"]); top=258; rowh = (470-258)/max(n,1); rowh=min(rowh, 78)
-    fs_claim = 22 if n<=4 else 19
-    fs_num   = 20 if n<=4 else 18
-    fs_src   = 15.5 if n<=4 else 15
-    y=258
-    for (rotulo, achado, fonte) in u["rows"]:
+    parts.append(f'<div class="t title" style="left:{q(67)};top:{q(74)};width:{q(1150)};font-size:{q(37)};line-height:1.05">{esc(titulo)}</div>')
+    if has_resposta:
+        parts.append(f'<div class="t tag frag" style="left:{q(67)};top:{q(162)};width:{q(1146)};font-size:{q(23)}">{esc(u["resposta"])}</div>')
+        y0 = 252
+    else:
+        y0 = 172
+    rowh = 90
+    y = y0
+    for (rotulo, achado, fonte) in chunk:
         parts.append(
-          f'<div class="t frag rowcard" style="left:{q(67)};top:{q(y)};width:{q(1146)};min-height:{q(rowh-8)}">'
-          f'<span class="rlabel" style="font-size:{q(fs_num)}"><b>{esc(rotulo)}</b> — {esc(achado)}</span>'
-          f'<span class="rsrc" style="font-size:{q(fs_src)}">{esc(fonte)}</span>'
+          f'<div class="t frag rowcard" style="left:{q(67)};top:{q(y)};width:{q(1146)}">'
+          f'<span class="rlabel" style="font-size:{q(21)}"><b>{esc(rotulo)}</b> — {esc(achado)}</span>'
+          f'<span class="rsrc" style="font-size:{q(15.5)}">{esc(fonte)}</span>'
           f'</div>')
         y += rowh
-    # conduta (ultimo fragmento) — barra de fechamento
-    parts.append(f'<div class="t conduta frag" style="left:{q(67)};top:{q(636)};width:{q(1146)};font-size:{q(18.5)}"><b style="color:var(--tealb)">Conduta:</b> {esc(u["conduta"])}</div>')
+    if is_last:
+        cy = max(y + 14, 632)
+        parts.append(f'<div class="t conduta frag" style="left:{q(67)};top:{q(cy)};width:{q(1146)};font-size:{q(18.5)}"><b style="color:var(--tealb)">Conduta:</b> {esc(u["conduta"])}</div>')
     return f'<section class="slide" data-frags="{frags}">' + "".join(parts) + '</section>'
+
+def slides_decisao(u):
+    rows = u["rows"]
+    chunks = [rows[i:i+MAXROWS] for i in range(0, len(rows), MAXROWS)] or [[]]
+    out = []
+    for idx, chunk in enumerate(chunks):
+        out.append(_decisao_section(u, chunk, has_resposta=(idx==0), is_last=(idx==len(chunks)-1)))
+    return out
 
 SLIDES = [slide_capa(CAPA)]
 for it in DIVISORES_E_UNIDADES:
-    SLIDES.append(slide_divisor(it) if it["tipo"]=="divisor" else slide_decisao(it))
+    if it["tipo"]=="divisor":
+        SLIDES.append(slide_divisor(it))
+    else:
+        SLIDES.extend(slides_decisao(it))
 
 HTML = f"""<title>Palestra ATQ — Planejamento</title>
 <style>
