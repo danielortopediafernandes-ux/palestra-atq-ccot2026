@@ -70,18 +70,23 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 **Discussão.** A mensagem é uma só e vale ser dita com clareza: **o retrato de 3 meses (HbA1c) não decide — o dia da cirurgia decide.** O corte sagrado de 7% falhou tanto na metanálise quanto no estudo prospectivo multicêntrico premiado com o Insall Award; enquanto isso, a glicemia pós-operatória mostra relação contínua com infecção já a partir de 115 mg/dL, mesmo em não-diabéticos (hiperglicemia de estresse). Atenção à leitura dos dois números: o **risco é contínuo** (quanto mais baixo, melhor, a partir de 115), mas **protocolo exige um gatilho único** — e 137 mg/dL é o corte que melhor separa quem infecta de quem não, como o 140/90 da hipertensão: risco contínuo, conduta binária. Para o planejamento, isso muda o gesto: em vez de vetar pelo laboratório de ontem, prescrever no plano cirúrgico o **protocolo de controle do dia** — meta, horário de medida e correção. A frutosamina, onde disponível, devolve ao pré-operatório um marcador que realmente prediz.
 
-## [0.3] Anemia — tratar antes de operar?
+## [0.3] Anemia — o que é, como tratar e o que muda?
 
-**RESPOSTA · Sim — rastrear e corrigir com ferro antes da eletiva.**
+**RESPOSTA · Hb < 13 g/dL na eletiva → ferro IV 4 semanas antes: transfusão cai de 24% para 4%.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Prevalência | **22%** dos candidatos a artroplastia chegam anêmicos | meta 2024 · 21 estudos · 369.101 pac · [PMID 38637795](https://pubmed.ncbi.nlm.nih.gov/38637795/) · [DOI](https://doi.org/10.1186/s13018-024-04706-y) |
-| Ferro pré-operatório no anêmico | transfusão perioperatória **RR 0,61** (IC 0,50–0,73; −39%) | meta BMJ Open 2020 · 10 estudos · 2.178 pac · [PMID 33130561](https://pubmed.ncbi.nlm.nih.gov/33130561/) · [DOI](https://doi.org/10.1136/bmjopen-2019-036592) |
+| O que é anemia (na eletiva) | **Hb < 13 g/dL** — critério do protocolo de otimização em ATQ e do consenso internacional de manejo perioperatório | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) · [DOI](https://doi.org/10.2450/2020.0057-20) · Muñoz 2017 · consenso internacional · Anaesthesia · [PMID 27996086](https://pubmed.ncbi.nlm.nih.gov/27996086/) · [DOI](https://doi.org/10.1111/anae.13773) |
+| Quantos chegam assim | **22%** dos candidatos a artroplastia | meta 2024 · 369.101 pac · [PMID 38637795](https://pubmed.ncbi.nlm.nih.gov/38637795/) · [DOI](https://doi.org/10.1186/s13018-024-04706-y) |
+| O tratamento (protocolo publicado) | **carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia** | Pinilla-Gracia 2020 |
+| Quanto melhora | Hb na admissão **12,2 → 13,4 g/dL**; anemia corrigida em **79%** dos pacientes | Pinilla-Gracia 2020 |
+| O que reduz | transfusão **24% → 4%** (P = 0,001) · internação **7 → 6 dias** · alta direto para casa **47% → 74%** | Pinilla-Gracia 2020 |
+| Confirmação em meta | ferro pré-operatório no anêmico: transfusão **RR 0,61** (IC 0,50–0,73) | meta BMJ Open 2020 · [PMID 33130561](https://pubmed.ncbi.nlm.nih.gov/33130561/) · [DOI](https://doi.org/10.1136/bmjopen-2019-036592) |
+| IV × oral | ferro IV atinge Hb ≥ 12 g/dL em **42,3% × 23,5%** do oral (P = 0,04) — vantagem maior no ferropênico e na anemia mais profunda | Bisbe 2014 · RCT · Br J Anaesth · [PMID 24780615](https://pubmed.ncbi.nlm.nih.gov/24780615/) · [DOI](https://doi.org/10.1093/bja/aeu092) |
 
-**CONDUTA:** hemograma na indicação cirúrgica; anemia presente → investigar e tratar (ferro) antes de agendar a eletiva.
+**CONDUTA:** hemograma na indicação cirúrgica; **Hb < 13 g/dL → investigar (perfil de ferro) e tratar antes de agendar** — ferro IV (carboximaltose 1.000 mg) quando faltam ≤ 4 semanas ou há intolerância/má absorção oral; reavaliar a Hb na admissão.
 
-**Discussão.** Um em cada cinco pacientes chega anêmico à fila da artroplastia — e a anemia é o principal determinante modificável de transfusão. Combinada ao ácido tranexâmico (Decisão 7), a correção pré-operatória compõe a estratégia de sangue do planejamento: chegar com reserva e perder menos.
+**Discussão.** A pergunta operacional tem resposta publicada de ponta a ponta: o corte é **13 g/dL** (não o 12 da definição clássica feminina — na cirurgia de sangramento previsível, o consenso internacional trata homem e mulher pelo mesmo alvo), a droga e a dose estão nomeadas (carboximaltose férrica 1.000 mg IV, com epoetina nos casos selecionados), o prazo é **4 semanas**, e o resultado é mensurável em três moedas: **seis vezes menos transfusão** (24%→4%), um dia a menos de internação e o dobro de altas direto para casa. O ferro oral continua tendo lugar quando há tempo — mas com prazo curto, o IV corrige mais e mais rápido. Para o planejamento, a implicação é de agenda: a anemia se detecta **na indicação**, não na véspera — porque o tratamento precisa dessas 4 semanas para trabalhar.
 
 ## [0.4] Tabagista — adiar para cessação?
 
