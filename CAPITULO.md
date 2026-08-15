@@ -44,20 +44,23 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 A primeira decisão do planejamento não é técnica: é **"opero agora ou preparo o paciente primeiro?"**. Quatro condições modificáveis têm número publicado.
 
-## [0.1] Descolonizar *Staphylococcus aureus*?
+## [0.1] Descolonizar *Staphylococcus aureus*? Com que agente?
 
-**RESPOSTA · Sim — protocolo universal antes da artroplastia eletiva.**
+**RESPOSTA · Sim, universal — mas o agente preferido mudou: o ICM 2025 (Istambul) recomenda antisséptico não-antibiótico no lugar da mupirocina como primeira escolha.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
 | Sem protocolo de descolonização | risco de infecção **RR 1,70** (qualquer) e **RR 2,18** (por *S. aureus*) na artroplastia eletiva | Ribau 2020 · J Arthroplasty · meta 32 estudos · [PMID 32950342](https://pubmed.ncbi.nlm.nih.gov/32950342/) · [DOI](https://doi.org/10.1016/j.arth.2020.08.014) |
-| Com rastreio + descolonização | infecção de sítio cirúrgico **RR 0,52** (IC 0,40–0,67); por *S. aureus* RR 0,48; MRSA RR 0,45 | Lin 2021 · meta 12 estudos · [PMID 33468375](https://pubmed.ncbi.nlm.nih.gov/33468375/) · [DOI](https://doi.org/10.1016/j.asjsur.2020.12.037) |
-| Estratégia | descolonização de pele **OR 0,43** · combinada (nasal + pele) **OR 0,48**; **universal ≈ dirigida por rastreio** | Henkelmann 2026 · meta 19 estudos · 64.796 pac · [PMID 41652612](https://pubmed.ncbi.nlm.nih.gov/41652612/) · [DOI](https://doi.org/10.1186/s13756-026-01713-y) · Lin 2021 |
-| Limite honesto | portador de MRSA mantém risco residual mesmo descolonizado — PJI **OR 2,42** | Javidmehr 2026 · meta 15 estudos · 318.487 pac · [PMID 42520992](https://pubmed.ncbi.nlm.nih.gov/42520992/) · [DOI](https://doi.org/10.1016/j.arth.2026.07.042) |
+| Confirmação em escala | descolonização/rastreio reduz PJI global e por *S. aureus*/MRSA (p<0,0001) — sem diferença para outras bactérias | Bianco Prevot 2024 · meta 12 estudos · **56.930 pacientes** · [PMID 39064238](https://pubmed.ncbi.nlm.nih.gov/39064238/) · [DOI](https://doi.org/10.3390/jcm13144197) |
+| A ressalva sobre a MUPIROCINA especificamente | resistência ~**10%** em *S. aureus* e ~**15%** em MRSA; eliminação nasal em 91% dos casos em 96h, mas recolonização **> 50%** em 2–6 meses | citado em Zampoli 2026 · J Bone Jt Infect · revisão ligada ao ICM · [PMID 42205349](https://pubmed.ncbi.nlm.nih.gov/42205349/) · [DOI](https://doi.org/10.5194/jbji-11-299-2026) |
+| Mupirocina × povidona-iodada (o dado que pesou na mudança) | *S. aureus* SSI profunda, análise por protocolo: **5/763 (mupirocina) × 0/776 (PVP-I)**, P=0,03 — mupirocina melhor na cultura (92%×54%) mas **pior no desfecho clínico**; na análise por intenção de tratar, a diferença **não** foi significativa (14×6 casos, P=0,10) | Phillips 2014 · RCT aberto · Infect Control Hosp Epidemiol · [PMID 24915210](https://pubmed.ncbi.nlm.nih.gov/24915210/) · [DOI](https://doi.org/10.1086/676872) |
+| Antisséptico à base de álcool × mupirocina/iodóforo | SSI: **OR 4,11** melhor que mupirocina · **OR 3,04** melhor que iodóforo (P<0,01 ambos) | Hoffmann 2024 · meta · Am J Infect Control · [PMID 38986954](https://pubmed.ncbi.nlm.nih.gov/38986954/) · [DOI](https://doi.org/10.1016/j.ajic.2024.07.003) |
+| A recomendação nova, no texto | *"the ICM 2025 recommends routine nasal decolonization for all patients undergoing major orthopaedic procedures, preferably utilizing a non-antibiotic antiseptic agent"* | 2025 ICM: Decolonization (Yildiz et al.) · J Arthroplasty, [DOI](https://doi.org/10.1016/j.arth.2025.10.096) — citado via Zampoli 2026 |
+| O que o ICM 2025 realmente derrubou | **não** foi a descolonização — foi o **rastreio universal de MRSA** isoladamente: sem evidência de benefício clínico relevante em reduzir SSI/PJI | Zampoli 2026 · [PMID 42205349](https://pubmed.ncbi.nlm.nih.gov/42205349/) |
 
-**CONDUTA:** mupirocina nasal + banho de clorexidina no pré-operatório da eletiva (protocolo universal dispensa o rastreio); no portador de MRSA, vigilância reforçada.
+**CONDUTA:** manter a descolonização **universal** (não rastrear, tratar todos) — essa parte do protocolo foi reforçada, não enfraquecida. Trocar o agente de primeira linha: **antisséptico não-antibiótico** (povidona-iodada nasal ou antisséptico à base de álcool) no lugar da mupirocina isolada, por resistência crescente e pelo sinal de desfecho clínico pior com mupirocina apesar de cultura melhor. Clorexidina corporal mantém-se como adjuvante.
 
-**Discussão.** A infecção periprotética é a complicação mais devastadora da artroplastia — e a intervenção que corta a infecção pela metade custa uma pomada e um sabonete. A comparação entre estratégias favorece a simplicidade: descolonizar todos é tão eficaz quanto rastrear e tratar só os positivos, com menos logística.
+**Discussão.** É preciso separar dois alvos que a controvérsia às vezes mistura: **descolonizar** (sim, sempre, universal — isso não mudou) e **rastrear MRSA antes de descolonizar** (isso sim perdeu sustentação no ICM 2025). A mudança real é o **agente**: mupirocina alcança melhor cultura negativa (92%×54%) e mesmo assim o RCT de Phillips mostrou *mais* infecção profunda por *S. aureus* no grupo mupirocina — exatamente o padrão que organiza esta palestra inteira, um método vencendo no desfecho substituto (a cultura) e perdendo (ou não provando ganho) no desfecho clínico. A honestidade estatística exige dizer os dois números do mesmo estudo: a diferença foi significativa **na análise por protocolo** (P=0,03) mas **não** na intenção de tratar (P=0,10) — moldura pequena, resultado a confirmar, mas coerente com a metanálise de Hoffmann (antisséptico alcoólico > mupirocina, OR 4,11) e com a preferência textual do próprio ICM 2025. Ponto para o Dr. Daniel: obrigado por trazer a atualização — é exatamente o tipo de sucessor que a Fase 2 desta skill existe para capturar antes que vá ao slide errado.
 
 ## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
 
