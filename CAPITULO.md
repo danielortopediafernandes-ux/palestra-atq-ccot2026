@@ -1,3 +1,8 @@
+> ## ⚠️ PARA A SESSÃO DE SLIDES ("PALESTRA SULBRA NO CELULAR") — LEIA ANTES DE QUALQUER SLIDE
+> Este documento é a **fonte da verdade do conteúdo** (responsável: sessão de conteúdo, Claude Code no Mini).
+> **Contrato completo:** `/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/HANDOFF_CONTEUDO_PARA_SLIDES.md`
+> Regras mínimas: montar slides por mapeamento 1:1 (PERGUNTA→título · RESPOSTA→destaque · EVIDÊNCIAS→linhas com fonte · CONDUTA→barra · Discussão NÃO vai ao slide). **Não alterar, resumir nem "melhorar" conteúdo** — dúvida volta ao Daniel/sessão de conteúdo. Usar sempre o commit mais recente deste arquivo.
+
 # Planejamento pré-operatório em artroplastia total do quadril: o que realmente muda o resultado
 
 **Dr. Daniel Araújo Fernandes** · XVI Congresso Catarinense de Ortopedia e Traumatologia · 2026
