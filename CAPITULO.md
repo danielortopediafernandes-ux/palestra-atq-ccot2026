@@ -64,21 +64,35 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** Aqui aparece pela primeira vez o padrão que se repetirá na palestra inteira: a tecnologia melhora o número que **nós** medimos (acurácia de dimensionamento) e não move o número que o **paciente** sente (PROM). Noventa e seis por cento contra oitenta e sete é uma diferença real — de alvo técnico. Os dois ensaios randomizados disponíveis não converteram essa diferença em função. Guardar o padrão: ele é a chave de leitura de tudo que vem a seguir.
 
-## [1.3] Quando o 3D se justifica?
+## [1.3] "3D" — de que estamos falando? Duas tecnologias distintas
 
-**RESPOSTA · Na anatomia atípica — displasia, deformidade grave, revisão.**
+**RESPOSTA · Planejamento 3D virtual (imagem) ≠ modelo impresso em 3D (ensaio físico) — a literatura as separa.**
+
+| Evidência | Conteúdo | Fonte |
+|---|---|---|
+| Taxonomia em revisão sistemática | os estudos de impressão 3D em ATQ dividem-se em duas categorias: **modelos impressos** e **guias impressos** | Crone 2024 · World J Orthop · [PMID 39070940](https://pubmed.ncbi.nlm.nih.gov/39070940/) · [DOI](https://doi.org/10.5312/wjo.v15.i7.660) |
+| Taxonomia em revisão narrativa | usos atuais: **modelos 3D para planejamento** (avaliar defeito ósseo e anatomia) · **instrumental paciente-específico (PSI)** · **implantes customizados** | Kumar 2020 · Indian J Orthop · [PMID 34122751](https://pubmed.ncbi.nlm.nih.gov/34122751/) · [DOI](https://doi.org/10.1007/s43465-020-00263-8) |
+
+**CONDUTA:** nomear sempre qual "3D" está em discussão — **virtual** (reconstrução por tomografia no software, para planejar) ou **impresso** (biomodelo físico, para ensaiar a técnica antes da cirurgia).
+
+**Discussão.** "3D" virou palavra-valise, e a imprecisão custa raciocínio: a evidência do 3D **virtual** (unidade 1.2 — melhora o dimensionamento, não muda PROM na rotina) não é a evidência do **modelo impresso**, que pertence a outra categoria de uso — o ensaio físico do caso complexo. Segundo o PubMed, as revisões que mapeiam o campo fazem exatamente essa separação: modelos para planejamento/simulação, guias para execução, implantes customizados para reconstrução. As três aplicações têm perguntas, custos e evidências próprias.
+
+## [1.4] O modelo impresso em 3D no caso complexo — planejar testando antes
+
+**RESPOSTA · No caso complexo, o modelo físico permite ensaiar a cirurgia — e o ensaio corresponde ao encontrado na cirurgia real.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Displasia (Crowe): restauração do centro de rotação com planejamento/impressão 3D | diferença do centro de rotação **14,5 → 3,8 mm** | Zhao 2025 · [PMID 40368076](https://pubmed.ncbi.nlm.nih.gov/40368076/) |
-| Escolha da haste pela anteversão combinada na displasia | seleção guiada por 3D | Castagnini 2022 · [PMID 35840842](https://pubmed.ncbi.nlm.nih.gov/35840842/) |
-| Deformidade / revisão | planejar defeito ósseo, osteotomia e implante antes da mesa | séries retrospectivas, sem comparador |
+| Cirurgia simulada no modelo impresso (displasia) — concordância do ensaio com a cirurgia real | tamanho da taça: **ICC 0,93**; defeito ósseo medido no ensaio × real: **4,58 × 4,55 cm³** (P = 0,97 — sem diferença) | Zhang 2021 · Orthop Surg · piloto · 17 pacientes · [PMID 34898037](https://pubmed.ncbi.nlm.nih.gov/34898037/) · [DOI](https://doi.org/10.1111/os.13183) |
+| Simulação pré-operatória em Perthes/displasia (Crowe I–II) | taça correta em **100%** dos casos (1 discrepância de haste); ensaio médio de **32 min**; HHS 37,5 → 90,0 | Godoy-Monzón 2025 · Acta Ortop Mex · piloto prospectivo · 22 pacientes · [PMID 40925848](https://pubmed.ncbi.nlm.nih.gov/40925848/) |
+| Reconstrução do centro de rotação na displasia | diferença do centro de rotação **14,5 → 3,8 mm** com planejamento/impressão 3D | Zhao 2025 · [PMID 40368076](https://pubmed.ncbi.nlm.nih.gov/40368076/) |
+| Crowe IV — simulação + guias impressos para osteotomia femoral e taça | HHS 34,2 → 85,2 · discrepância de comprimento 51,5 → 10,2 mm | Tu 2020 · Hip Int · 12 pacientes · [PMID 32750257](https://pubmed.ncbi.nlm.nih.gov/32750257/) · [DOI](https://doi.org/10.1177/1120700020948006) |
 
-**CONDUTA:** indicar o 3D na displasia/Crowe, na deformidade grave e na revisão — não na artrose de rotina.
+**CONDUTA:** indicar o **modelo impresso** na anatomia atípica (displasia/Crowe, deformidade grave, revisão) para ensaiar redução, defeito ósseo, tamanho e posição antes da mesa — não na artrose de rotina.
 
-**Discussão.** Honestidade metodológica: mesmo na anatomia atípica, o que está demonstrado é ganho de **reconstrução** (acurácia do centro de rotação, escolha racional do implante) — superioridade em desfecho clínico ainda não foi provada nem aqui. A diferença é que, nesses casos, o alvo técnico tem plausibilidade forte de importar: um centro de rotação a 14 mm do anatômico não é refinamento, é erro estrutural. A indicação seletiva é o uso racional da ferramenta.
+**Discussão.** O valor do modelo impresso não é a imagem — é o **ensaio**: reamar o acetábulo do modelo, testar a taça, medir o defeito, decidir a osteotomia com o osso do paciente na mão, um dia antes de abri-lo. Os pilotos disponíveis mostram que o que se encontra no ensaio é o que se encontra na cirurgia (concordância de taça ICC 0,93; defeito ósseo estatisticamente idêntico). **Honestidade metodológica:** são séries-piloto e retrospectivas, sem comparador randomizado — o que está demonstrado é a fidelidade do ensaio e a viabilidade, não superioridade em desfecho clínico.
 
-## [1.4] Planejar com inteligência artificial — o que é e já serve?
+## [1.5] Planejar com inteligência artificial — o que é e já serve?
 
 **RESPOSTA · Ainda não — é promessa de acurácia, sem validação na nossa população.**
 
