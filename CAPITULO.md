@@ -241,7 +241,23 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** A dupla mobilidade corta a luxação praticamente pela metade — no paciente certo. A generalização indiscriminada trocaria um benefício concentrado por custos e incertezas (desgaste, luxação intraprotética) diluídos numa população que não precisava do implante.
 
-## [4.2] A via de acesso muda a função?
+## [4.2] Polietileno com rebordo ou neutro?
+
+**RESPOSTA · Decisão de planejamento sem resposta única — registros conflitam; quando compete com o tamanho da cabeça, a cabeça maior vence.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| A favor do rebordo (registro NZ, 31.247 ATQs não-cimentadas) | liner neutro × com rebordo: revisão por luxação **HR 1,84** (IC 1,41–2,41; P < 0,001) a favor do rebordo; **sem** aumento de soltura asséptica (HR 0,85; P = 0,51) | Wyatt 2020 · CORR · nível III · [PMID 31714411](https://pubmed.ncbi.nlm.nih.gov/31714411/) · [DOI](https://doi.org/10.1097/CORR.0000000000001039) |
+| A favor do rebordo (registro finlandês, taça Continuum, 11.390) | liner neutro → mais revisão por luxação: **HR 1,7** (IC 1,2–2,5) | Hemmilä 2019 · Acta Orthop · [PMID 30994043](https://pubmed.ncbi.nlm.nih.gov/30994043/) · [DOI](https://doi.org/10.1080/17453674.2019.1603596) |
+| Contra o uso indiscriminado (registro Emília-Romanha, 15.222) | rebordo associado a **mais revisão**: HR 1,53 (IC 1,05–2,23; P = 0,026); sobrevida livre de complicação mecânica em 20 anos **98,9% × 96,2%** (neutro × rebordo; P = 0,002) | Di Martino 2026 · Bone Jt Open · [PMID 41490740](https://pubmed.ncbi.nlm.nih.gov/41490740/) · [DOI](https://doi.org/10.1302/2633-1462.71.BJO-2025-0243.R1) |
+| O confronto com o tamanho da cabeça (24.921 ATQs via posterior) | cabeça **36 mm + liner neutro** superou **32 mm + rebordo 10°**: revisão por luxação maior no grupo do rebordo no 1º mês (**HR 5,58**; P = 0,019); no obeso, risco persistente em 8 anos (**HR 3,28**; P = 0,012) | Friedman 2026 · J Arthroplasty · [PMID 41534611](https://pubmed.ncbi.nlm.nih.gov/41534611/) · [DOI](https://doi.org/10.1016/j.arth.2026.01.020) |
+| Estado da evidência | **não há ensaio randomizado**; retrospectivos e registros sugerem redução de luxação com o rebordo, sem sinal claro de impacto (*impingement*) clínico | Tsikandylakis 2020 · EFORT Open Rev · [PMID 33204520](https://pubmed.ncbi.nlm.nih.gov/33204520/) · [DOI](https://doi.org/10.1302/2058-5241.5.200002) |
+
+**CONDUTA:** definir o liner no planejamento, não na mesa: quando o diâmetro da taça obrigar a escolher, **priorizar a cabeça maior com liner neutro**; o rebordo é recurso seletivo (via posterior / risco de instabilidade), não padrão universal.
+
+**Discussão.** O rebordo eleva a borda posterior do polietileno e aumenta a distância de salto da cabeça na direção da luxação posterior — mecânica atraente, e os registros da Nova Zelândia e da Finlândia a confirmam em números (menos revisão por luxação, sem o temido aumento de soltura por impacto do colo). O registro italiano, porém, aponta na direção oposta no longo prazo. E o dado mais útil ao planejador é o confronto direto: no espaço limitado de uma taça de 50 mm, gastar o polietileno com um rebordo custa 4 mm de cabeça — e a cabeça de 36 mm com liner neutro protege mais que a de 32 mm com rebordo. A leitura honesta: **sem ensaio randomizado, com registros em conflito**, o rebordo não é dogma — é ferramenta de exceção, decidida caso a caso no planejamento, com a posição do rebordo (póstero-superior) planejada junto.
+
+## [4.3] A via de acesso muda a função?
 
 **RESPOSTA · Precoce sim, tardia não — escolher pela experiência do cirurgião.**
 
@@ -256,7 +272,7 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** O debate de vias produziu mais literatura do que diferença clínica. A vantagem funcional da via anterior é real — por seis semanas. No horizonte que interessa à artroplastia (anos), os ensaios e as metanálises convergem: nenhuma diferença que o paciente perceba. A variável que segue importando é o domínio técnico da via escolhida.
 
-## [4.3] Via posterior: reparo capsular?
+## [4.4] Via posterior: reparo capsular?
 
 **RESPOSTA · Sim, sistematicamente.**
 
@@ -269,7 +285,7 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** Um dos maiores efeitos de toda a palestra — oito vezes mais luxação sem o reparo — obtido com fio e agulha, custo zero e minutos de cirurgia. É o exemplo puro da tese: o desfecho responde ao gesto simples planejado, não ao equipamento.
 
-## [4.4] O que antecipa a marcha?
+## [4.5] O que antecipa a marcha?
 
 **RESPOSTA · O bloqueio PENG.**
 
