@@ -380,21 +380,6 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 **Discussão.** Um dos maiores efeitos de toda a palestra — oito vezes mais luxação sem o reparo — obtido com fio e agulha, custo zero e minutos de cirurgia. É o exemplo puro da tese: o desfecho responde ao gesto simples planejado, não ao equipamento.
 
-## [4.7] O que antecipa a marcha?
-
-**RESPOSTA · O bloqueio PENG.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| Tempo até deambular | **8 h × 24 h** (× bloqueio do quadrado lombar anterior) | Pascarella 2021 · RCT · [PMID 34196965](https://pubmed.ncbi.nlm.nih.gov/34196965/) |
-| Mecanismo | analgesia do quadril poupando o quadríceps (*motor-sparing*); menor consumo de opioide | Et 2023 · RCT · [PMID 37013389](https://pubmed.ncbi.nlm.nih.gov/37013389/) · Elshall 2025 · RCT · [PMID 40762162](https://pubmed.ncbi.nlm.nih.gov/40762162/) |
-
-**CONDUTA:** incluir o PENG no protocolo analgésico multimodal.
-
-**Discussão.** O bloqueio do grupo de nervos pericapsulares (PENG) resolve o dilema clássico da analgesia regional no quadril: anestesiar sem paralisar. O paciente levanta no mesmo dia — e a deambulação precoce é a porta de todos os protocolos de recuperação acelerada.
-
----
-
 # DECISÃO 5 · Fixação femoral — cimentar em quem? e se não cimentar?
 
 ## [5.1] Cimentar a haste — em quem (cirurgia eletiva)?
@@ -552,9 +537,24 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ---
 
-# DECISÃO 9 · Depois da cirurgia — prescrever restrições de movimento?
+# DECISÃO 9 · Cuidados depois da cirurgia
 
-## [9.1] Restrições pós-operatórias na via posterior: ainda se justificam?
+## [9.1] O que antecipa a marcha?
+
+**RESPOSTA · O bloqueio PENG.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Tempo até deambular | **8 h × 24 h** (× bloqueio do quadrado lombar anterior) | Pascarella 2021 · RCT · [PMID 34196965](https://pubmed.ncbi.nlm.nih.gov/34196965/) |
+| Mecanismo | analgesia do quadril poupando o quadríceps (*motor-sparing*); menor consumo de opioide | Et 2023 · RCT · [PMID 37013389](https://pubmed.ncbi.nlm.nih.gov/37013389/) · Elshall 2025 · RCT · [PMID 40762162](https://pubmed.ncbi.nlm.nih.gov/40762162/) |
+
+**CONDUTA:** incluir o PENG no protocolo analgésico multimodal.
+
+**Discussão.** O bloqueio do grupo de nervos pericapsulares (PENG) resolve o dilema clássico da analgesia regional no quadril: anestesiar sem paralisar. O paciente levanta no mesmo dia — e a deambulação precoce é a porta de todos os protocolos de recuperação acelerada.
+
+---
+
+## [9.2] Restrições pós-operatórias na via posterior: ainda se justificam?
 
 **RESPOSTA · Com reparo capsular, não — as restrições não reduzem luxação e atrasam a recuperação.**
 
