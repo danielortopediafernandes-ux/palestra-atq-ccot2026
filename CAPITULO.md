@@ -88,19 +88,19 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 **Discussão.** A pergunta operacional tem resposta publicada de ponta a ponta: o corte é **13 g/dL** (não o 12 da definição clássica feminina — na cirurgia de sangramento previsível, o consenso internacional trata homem e mulher pelo mesmo alvo), a droga e a dose estão nomeadas (carboximaltose férrica 1.000 mg IV, com epoetina nos casos selecionados), o prazo é **4 semanas**, e o resultado é mensurável em três moedas: **seis vezes menos transfusão** (24%→4%), um dia a menos de internação e o dobro de altas direto para casa. O ferro oral continua tendo lugar quando há tempo — mas com prazo curto, o IV corrige mais e mais rápido. Para o planejamento, a implicação é de agenda: a anemia se detecta **na indicação**, não na véspera — porque o tratamento precisa dessas 4 semanas para trabalhar.
 
-## [0.4] Tabagista — adiar para cessação?
+## [0.4] Posso operar o fumante? Que risco ele corre — e quanto recupero se ele parar?
 
-**RESPOSTA · Sim — a cessação reduz o risco; o fumante atual é o pior cenário.**
+**RESPOSTA · Pode, mas o risco é sistêmico e alto — e 6–8 semanas de cessação derrubam as complicações de 52% para 18% (ensaio randomizado).**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Fumante atual × não-fumante | infecção periprotética **OR 2,16** (IC 1,57–2,97); complicações de ferida **OR 1,78** | Bedard 2018 · J Arthroplasty · meta 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · [DOI](https://doi.org/10.1016/j.arth.2018.09.089) |
-| Ex-fumante × não-fumante | PJI **OR 1,52** — risco cai, mas não zera | Bedard 2018 |
-| Fumante atual × ex-fumante | **OR 1,52** — parar antes da cirurgia reduz o risco de forma mensurável | Bedard 2018 |
+| Não é só infecção — é sistêmico | fumante × não-fumante: complicações totais **1,41** · ferida **1,77** · infecção periprotética **1,84** · soltura asséptica **1,62** · **revisão 2,12** · pneumonia 2,35 · AVC 2,22 · parada cardíaca 4,90 · sepse 4,35 · **mortalidade hospitalar 12,37** · opioide persistente 1,64 · PROMs piores em 1 ano | Yue 2022 · meta 40 estudos · 3.037.683 casos · [PMID 36406352](https://pubmed.ncbi.nlm.nih.gov/36406352/) · [DOI](https://doi.org/10.3389/fsurg.2022.970537) |
+| Infecção no detalhe | PJI: fumante atual **OR 2,16** · ex-fumante **OR 1,52** · atual × ex: OR 1,52 — parar reduz de forma mensurável | Bedard 2018 · meta 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · [DOI](https://doi.org/10.1016/j.arth.2018.09.089) |
+| O que a cessação recupera (nível 1) | intervenção **6–8 semanas antes** da artroplastia (aconselhamento + reposição de nicotina): complicações **52% → 18%** (P = 0,0003) · ferida **31% → 5%** (P = 0,001) · reoperação 15% → 4% · internação 13 → 11 dias | Møller 2002 · RCT · Lancet · 120 pac · [PMID 11809253](https://pubmed.ncbi.nlm.nih.gov/11809253/) · [DOI](https://doi.org/10.1016/S0140-6736(02)07369-5) |
 
-**CONDUTA:** na eletiva, orientar e documentar cessação antes de agendar; o intervalo ótimo não está definido na literatura — o que está demonstrado é que ex-fumante infecta menos que fumante atual.
+**CONDUTA:** a eletiva do fumante **não se veta — se agenda**: prescrever cessação (aconselhamento + reposição de nicotina) **6–8 semanas antes** e marcar a cirurgia depois desse intervalo; documentar. O fumante que não para segue operável, ciente do risco dobrado de infecção e do perfil sistêmico.
 
-**Discussão.** O tabagismo dobra a infecção periprotética — e é o único fator desta lista que depende inteiramente do paciente. O dado útil da metanálise é o gradiente (atual > ex > nunca): ele transforma a conversa de "pare de fumar" em número concreto de risco, e a cirurgia eletiva em alavanca de cessação.
+**Discussão.** Três respostas em uma. *Posso operar?* Pode — tabagismo não é contraindicação; é risco quantificado. *Qual risco?* Não é só a infecção (OR 1,84): a meta de 3 milhões de casos mostra dano em cadeia — ferida, soltura, revisão dobrada, pneumonia, e uma mortalidade hospitalar de razão 12 (rara em números absolutos, mas eloquente). *E se parar?* Aqui está o dado mais forte de toda a Decisão 0 — e é nível 1: o ensaio do Lancet randomizou fumantes 6–8 semanas antes da artroplastia e as complicações caíram de metade dos pacientes para um em cinco, com a ferida despencando de 31% para 5%. Poucas prescrições em ortopedia compram tanto desfecho quanto essas seis semanas de espera ativa.
 
 ---
 
