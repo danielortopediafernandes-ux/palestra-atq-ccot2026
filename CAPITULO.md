@@ -43,13 +43,13 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Acerto do tamanho da taça (± 1 tamanho) | acetato **77% × 70%** digital | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) |
-| Acerto do tamanho da haste | acetato **75% × 60%** — manual superior (p < 0,001) | Petretta 2015 |
+| Acerto do tamanho da taça (± 1 tamanho) | template manual **77% × 70%** digital | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) |
+| Acerto do tamanho da haste | template manual **75% × 60%** — manual superior (p < 0,001) | Petretta 2015 |
 | Tempo de planejamento | manual mais rápido: **119 s × 154 s** — e sem custo de software | Petretta 2015 |
 
 **CONDUTA:** na rotina, radiografia calibrada + templating manual; o software digital não é pré-requisito.
 
-**Discussão.** O planejamento pré-operatório começa pela pergunta mais barata: o que a radiografia simples, bem calibrada, já entrega? A comparação direta mostrou que o método manual com acetato não apenas equivale ao software — na haste, ele foi superior. O dado desloca o debate: a qualidade do planejamento não está na ferramenta, está na disciplina de calibrar a imagem e medir. Quem domina o templating manual carrega o método para qualquer serviço, com qualquer infraestrutura.
+**Discussão.** O planejamento pré-operatório começa pela pergunta mais barata: o que a radiografia simples, bem calibrada, já entrega? A comparação direta mostrou que o template manual não apenas equivale ao software — na haste, ele foi superior. O dado desloca o debate: a qualidade do planejamento não está na ferramenta, está na disciplina de calibrar a imagem e medir. Quem domina o templating manual carrega o método para qualquer serviço, com qualquer infraestrutura.
 
 ## [1.2] O 3D é necessário na artrose de rotina?
 

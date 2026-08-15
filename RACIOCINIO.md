@@ -18,7 +18,7 @@
 
 | Sub-questão | Resposta | Número | Fonte |
 |---|---|---|---|
-| O planejamento digital é necessário na rotina? | **Não** | acetato ≥ digital: taça 77%×70%, haste 75%×60% (p<0,001); mais rápido (119s×154s) | Petretta 2015 · CORR · PMID 25910779 |
+| O planejamento digital é necessário na rotina? | **Não** | template manual ≥ digital: taça 77%×70%, haste 75%×60% (p<0,001); mais rápido (119s×154s) | Petretta 2015 · CORR · PMID 25910779 |
 | O 3D é necessário na artrose de rotina? | **Não** | acurácia melhor (cup 96,9%×87,1%) mas PROMs comparáveis em 2 RCTs | Parisi 2024 · 39518705 · Bishi 2022 · 35076413 · Thomas 2022 RCT · 36183111 · Pongkunakorn 2025 RCT · 40140896 |
 | Quando o 3D se justifica? | **Anatomia atípica** | displasia/Crowe: centro de rotação 14,5→3,8 mm; escolha de haste pela anteversão combinada; deformidade/revisão. Honestidade: ganho demonstrado é de reconstrução — superioridade clínica não provada | Zhao 2025 · 40368076 · Castagnini 2022 · 35840842 |
 | Planejar com IA já serve? | **Ainda não** | sizing melhor (taça OR 3,85 · haste OR 3,28) mas 8 estudos, 1.371 pac., 100% China, nível III — só acurácia | Altahtamouni 2026 · meta · 41727957 |
