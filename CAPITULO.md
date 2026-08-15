@@ -51,7 +51,7 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** O planejamento pré-operatório começa pela pergunta mais barata: o que a radiografia simples, bem calibrada, já entrega? A comparação direta mostrou que o template manual não apenas equivale ao software — na haste, ele foi superior. O dado desloca o debate: a qualidade do planejamento não está na ferramenta, está na disciplina de calibrar a imagem e medir. Quem domina o templating manual carrega o método para qualquer serviço, com qualquer infraestrutura.
 
-## [1.2] O 3D é necessário na artrose de rotina?
+## [1.2] Planejamento 3D por imagem (TC) — é necessário na artrose de rotina?
 
 **RESPOSTA · Não — melhora a acurácia, não o desfecho do paciente.**
 
@@ -64,22 +64,9 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **Discussão.** Aqui aparece pela primeira vez o padrão que se repetirá na palestra inteira: a tecnologia melhora o número que **nós** medimos (acurácia de dimensionamento) e não move o número que o **paciente** sente (PROM). Noventa e seis por cento contra oitenta e sete é uma diferença real — de alvo técnico. Os dois ensaios randomizados disponíveis não converteram essa diferença em função. Guardar o padrão: ele é a chave de leitura de tudo que vem a seguir.
 
-## [1.3] "3D" — de que estamos falando? Duas tecnologias distintas
+## [1.3] Impressão 3D (modelo físico) — quando usar?
 
-**RESPOSTA · Planejamento 3D virtual (imagem) ≠ modelo impresso em 3D (ensaio físico) — a literatura as separa.**
-
-| Evidência | Conteúdo | Fonte |
-|---|---|---|
-| Taxonomia em revisão sistemática | os estudos de impressão 3D em ATQ dividem-se em duas categorias: **modelos impressos** e **guias impressos** | Crone 2024 · World J Orthop · [PMID 39070940](https://pubmed.ncbi.nlm.nih.gov/39070940/) · [DOI](https://doi.org/10.5312/wjo.v15.i7.660) |
-| Taxonomia em revisão narrativa | usos atuais: **modelos 3D para planejamento** (avaliar defeito ósseo e anatomia) · **instrumental paciente-específico (PSI)** · **implantes customizados** | Kumar 2020 · Indian J Orthop · [PMID 34122751](https://pubmed.ncbi.nlm.nih.gov/34122751/) · [DOI](https://doi.org/10.1007/s43465-020-00263-8) |
-
-**CONDUTA:** nomear sempre qual "3D" está em discussão — **virtual** (reconstrução por tomografia no software, para planejar) ou **impresso** (biomodelo físico, para ensaiar a técnica antes da cirurgia).
-
-**Discussão.** "3D" virou palavra-valise, e a imprecisão custa raciocínio: a evidência do 3D **virtual** (unidade 1.2 — melhora o dimensionamento, não muda PROM na rotina) não é a evidência do **modelo impresso**, que pertence a outra categoria de uso — o ensaio físico do caso complexo. Segundo o PubMed, as revisões que mapeiam o campo fazem exatamente essa separação: modelos para planejamento/simulação, guias para execução, implantes customizados para reconstrução. As três aplicações têm perguntas, custos e evidências próprias.
-
-## [1.4] O modelo impresso em 3D no caso complexo — planejar testando antes
-
-**RESPOSTA · No caso complexo, o modelo físico permite ensaiar a cirurgia — e o ensaio corresponde ao encontrado na cirurgia real.**
+**RESPOSTA · No caso complexo — o modelo impresso permite ensaiar a cirurgia antes; o ensaio corresponde à cirurgia real.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
@@ -90,9 +77,9 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 **CONDUTA:** indicar o **modelo impresso** na anatomia atípica (displasia/Crowe, deformidade grave, revisão) para ensaiar redução, defeito ósseo, tamanho e posição antes da mesa — não na artrose de rotina.
 
-**Discussão.** O valor do modelo impresso não é a imagem — é o **ensaio**: reamar o acetábulo do modelo, testar a taça, medir o defeito, decidir a osteotomia com o osso do paciente na mão, um dia antes de abri-lo. Os pilotos disponíveis mostram que o que se encontra no ensaio é o que se encontra na cirurgia (concordância de taça ICC 0,93; defeito ósseo estatisticamente idêntico). **Honestidade metodológica:** são séries-piloto e retrospectivas, sem comparador randomizado — o que está demonstrado é a fidelidade do ensaio e a viabilidade, não superioridade em desfecho clínico.
+**Discussão.** São duas tecnologias distintas e a evidência não se mistura: o **3D por imagem** (unidade 1.2) planeja na tela — melhora o dimensionamento, não muda PROM na rotina. A **impressão 3D** produz o osso do paciente na mão: reamar o acetábulo do modelo, testar a taça, medir o defeito, decidir a osteotomia um dia antes de abrir. Os pilotos mostram que o que se encontra no ensaio é o que se encontra na cirurgia (taça ICC 0,93; defeito ósseo P = 0,97). **Honestidade metodológica:** são séries-piloto, sem comparador randomizado — o demonstrado é a fidelidade do ensaio, não superioridade em desfecho clínico.
 
-## [1.5] Planejar com inteligência artificial — o que é e já serve?
+## [1.4] Planejar com inteligência artificial — o que é e já serve?
 
 **RESPOSTA · Ainda não — é promessa de acurácia, sem validação na nossa população.**
 
