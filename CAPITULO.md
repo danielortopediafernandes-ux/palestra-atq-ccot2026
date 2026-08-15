@@ -44,25 +44,51 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 A primeira decisão do planejamento não é técnica: é **"opero agora ou preparo o paciente primeiro?"**. Quatro condições modificáveis têm número publicado.
 
-## [0.1] Descolonizar *Staphylococcus aureus*? Com que agente?
+## [0.1] Descolonização — pele (sabonete) e nasal
 
-**RESPOSTA · Descolonização nasal UNIVERSAL, sem rastreio prévio. Agente: mupirocina segue sendo o padrão das diretrizes (CDC/OMS); povidona-iodada é alternativa com resultados comparáveis e menor custo — o consenso NÃO estabeleceu superioridade de nenhum dos dois.**
+> **⚠️ NOTA PARA A SESSÃO DE SLIDES:** decisão do Dr. Daniel em 2026-08-15 — **a descolonização de PELE (sabonete de clorexidina) VAI ao slide da palestra; a descolonização NASAL NÃO vai ao slide** (fica registrada aqui no documento como referência, sem evidência forte de alterar desfecho clínico do paciente).
 
-| Evidência | Texto / número | Fonte |
+---
+
+### PELE (sabonete de clorexidina) — VAI À PALESTRA
+
+**RESPOSTA · Sim — sabonete de clorexidina no pré-operatório reduz infecção de sítio cirúrgico.**
+
+| Evidência | Número | Fonte |
 |---|---|---|
-| **ICM 2025 · G6 — "qual o agente ótimo?" (a resposta literal)** | *"**While mupirocin remains the guideline-recommended standard**, concerns over cost, resistance, and efficacy persist. **Povidone-iodine appears to be a cost-effective alternative with comparable outcomes** in reducing colonization and SSI rates."* · **Força da recomendação: Moderada** · Conclusão: *"**Limited comparative data make it difficult to establish the superior nasal decolonization agent**"* | **Documento oficial ICM 2025 · G6** (Lizcano, Pelt, Norambuena… Higuera-Rueda) · [icmortho.org](https://www.icmortho.org/documents) · PDF em ARTIGOS/ |
-| **ICM 2025 · G5 — rastreio de MRSA** | *"There is **no concrete evidence** to support universal screening for MRSA (…) we recommend **universal nasal decolonization in all patients** (…) **preferably using a non-antibiotic antiseptic agent**"* · Nível de evidência: **Moderado** | **Documento oficial ICM 2025 · G5** (Abbaszadeh, Tarabichi, Spangehl… Parvizi) |
-| **A meta do próprio ICM (G5) — o dado que sustenta derrubar o rastreio** | rastreio+descolonização de MRSA × controle: SSI 0,76% × 1,05% — **OR 0,62 (IC 0,32–1,22; P=0,17), NÃO significativo**; heterogeneidade **I² = 93,2%**; subgrupo artroplastia OR 0,65 (P=0,26). Dos 10 estudos: 4 sem diferença, 5 a favor, 1 com risco **aumentado** (OR 4,26) | ICM 2025 · G5 · revisão sistemática de 10 estudos · 55.816 pacientes |
-| Votação dos delegados | G5: **72,7% concordam · 18,2% discordam · 9,1% abstenção** · G4 (pele): **79% · 11% · 10%** — "maioria forte, consenso moderado". *(Os PDFs oficiais trazem o campo "Delegate Vote" em branco; os percentuais vêm do relato nórdico do encontro.)* | Veltman 2026 · Acta Orthop · [PMID 42466967](https://pubmed.ncbi.nlm.nih.gov/42466967/) · [DOI](https://doi.org/10.2340/17453674.2026.46432) |
-| Onde as diretrizes se posicionam | **CDC e OMS endossam** clorexidina corporal + **mupirocina nasal 2%**. **AAOS se ABSTÉM** de recomendar descolonização nasal, citando falta de evidência nível 1 robusta em ortopedia. **ESCMID 2024**: recomendação **forte** para descolonizar portadores de MRSA e MSSA **com mupirocina** | ICM 2025 · G6 (citando CDC 2017, OMS 2016, AAOS 2019) · Righi 2024 · [DOI](https://doi.org/10.1016/j.cmi.2024.07.012) |
-| **Mupirocina universal × seletiva** (a favor da mupirocina) | universal reduz SSI global **0,2% × 0,8%** (P=0,013) e SSI por *S. aureus* **0,09% × 0,5%** (P=0,01) | Stambough 2017 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2016.09.041) |
-| **Mupirocina × povidona-iodada — o único RCT comparativo** | SSI profunda por *S. aureus*: **intenção de tratar 0,58% × 0,12% (P=0,200, NS)**; **por protocolo 0,65% × 0% (P=0,030)** | Phillips 2014 · 1.539 pacientes · citado em G6 · [PMID 24915210](https://pubmed.ncbi.nlm.nih.gov/24915210/) |
-| Estudo comparativo não randomizado | PVP-I universal × mupirocina seletiva: **mesma taxa de infecção (0,8% nos dois)**, mupirocina mais cara | Torres 2016 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2015.09.030) |
-| Limitação prática da povidona-iodada | atividade **curta**: superior às 4 h, **sem diferença às 24 h** — por isso se aplica 1–2 h antes da incisão | Rezapoor 2017 · RCT · 429 pacientes · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2017.04.039) |
+| ICM 2025 · G4 · resposta oficial | *"**Yes.** The use of preoperative skin decolonization reduces the incidence of postoperative surgical site infections in patients undergoing major orthopaedic surgery"* · **Força: Moderada** · Votação: 79% concordam · 11% discordam · 10% abstenção | ICM 2025 · G4 (Ng, Bos, Hofstaetter, Palacio, Alzate, Yayac, Mont) · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_10273376285a4e658c0b8a7e258f00c9.pdf) · Veltman 2026 · Acta Orthop · [PMID 42466967](https://pubmed.ncbi.nlm.nih.gov/42466967/) |
+| Coorte prospectiva com clorexidina 2% (5 dias) + mupirocina no portador | SSI **0,19% × 0,45%** (P = 0,0093) — 7.338 pacientes | citado em G4 |
+| Coorte com toalhetes de clorexidina | SSI **1,1% × 3,8%** (P = 0,02) — 709 pacientes | citado em G4 |
+| Coorte 2 anos, ATQ eletiva (clorexidina + mupirocina intranasal) | **zero** SSI estafilocócica × 19 em 321 controles | citado em G4 (Rao) |
+| Meta 32 estudos (Ribau) | sem descolonização corporal universal: infecção **RR 1,70** (qualquer) e **RR 2,18** (por *S. aureus*) — universal sem rastreio é o mais custo-efetivo | Ribau 2020 · [PMID 32950342](https://pubmed.ncbi.nlm.nih.gov/32950342/) |
+| Superioridade da clorexidina × PVP-I (para PELE) | *"várias metanálises demonstraram a superioridade da clorexidina em reduzir a flora bacteriana em relação à povidona-iodada"* | citado em G4 |
 
-**CONDUTA:** descolonizar **todos** os pacientes de artroplastia eletiva, **sem rastreio prévio**. Agente — **as duas opções são defensáveis pelo consenso**: **mupirocina nasal 2%, 2×/dia por 5 dias** (padrão CDC/OMS/ESCMID) **ou povidona-iodada nasal aplicada 1–2 h antes da incisão** (equivalente em desfecho, mais barata, sem pressão de resistência). **Clorexidina corporal** em ambos. Escolher pela realidade local: resistência documentada à mupirocina, custo e adesão ao esquema de 5 dias.
+**CONDUTA:** **banho com sabonete de clorexidina 2%** no pré-operatório (a noite anterior e a manhã da cirurgia) para **todos** os pacientes de artroplastia eletiva. Universal (sem rastreio prévio) é o mais eficaz e o mais custo-efetivo.
 
-**Discussão.** Três correções que só a fonte oficial permite fazer. **(1) O consenso não condenou a mupirocina.** O documento que trata especificamente do agente (G6) diz, textualmente, que *"mupirocina continua sendo o padrão recomendado pelas diretrizes"* e classifica a povidona-iodada como *"alternativa custo-efetiva com desfechos comparáveis"* — concluindo que **os dados comparativos são limitados demais para estabelecer superioridade**. A frase "preferencialmente antisséptico não-antibiótico" aparece no G5, que trata de **rastreio**, e é uma preferência de *stewardship* — não uma demonstração de superioridade. **(2) O que o ICM de fato derrubou tem número:** a própria metanálise do consenso (10 estudos, 55.816 pacientes) achou **OR 0,62 (P=0,17), não significativo**, com heterogeneidade de 93% — daí "não há evidência concreta para o rastreio universal de MRSA". **(3) Há discordância declarada entre as sociedades:** CDC e OMS endossam mupirocina; a ESCMID a recomenda fortemente; a **AAOS se abstém de recomendar descolonização nasal** por falta de evidência nível 1. Isso vai ao slide como está: **descolonizar todos tem consenso; o agente, não.**
+**Discussão (para o slide).** Intervenção simples, barata, endossada pelo consenso (ICM 2025 · Força Moderada · 79% dos delegados), com sinal consistente em coortes grandes (SSI cai à metade ou menos) e superioridade sobre a povidona-iodada demonstrada em metanálises para a **pele**. É a peça de "otimização clínica" da palestra que passa nos critérios de evidência.
+
+---
+
+### NASAL (mupirocina / povidona-iodada) — NÃO ENTRA NA PALESTRA
+
+**Justificativa da exclusão:** decisão do Dr. Daniel de 2026-08-15, após auditoria dos documentos oficiais do ICM 2025 (G5 e G6) e dos ensaios primários. A evidência para descolonização **nasal** é **modesta e inconsistente** para desfecho clínico do paciente; o próprio consenso admite *"no concrete evidence"* e *"limited comparative data make it difficult to establish the superior nasal decolonization agent"*. Fica documentada aqui, sem entrar no slide.
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **Metanálise do próprio ICM (G5)** — 10 estudos, 55.816 pacientes | rastreio+descolonização de MRSA × controle: SSI 0,76% × 1,05%, **OR 0,62 (IC 0,32–1,22; P=0,17) — NÃO significativo**; heterogeneidade **I² = 93,2%**; 4/10 sem diferença, 5/10 a favor, 1/10 com risco aumentado (OR 4,26) | ICM 2025 · G5 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_83ca74b604ce4460a701ec9ca402ebb8.pdf) |
+| Recomendação G5 literal | *"There is **no concrete evidence** to support universal screening for MRSA (…) universal nasal decolonization (…) **preferably non-antibiotic antiseptic**"* · **Moderada** | ICM 2025 · G5 |
+| Recomendação G6 literal (agente) | *"While **mupirocin remains the guideline-recommended standard**, concerns over cost, resistance, and efficacy persist. **Povidone-iodine appears to be a cost-effective alternative with comparable outcomes**"* · **Moderada** · *"Limited comparative data make it difficult to establish the superior nasal decolonization agent"* | ICM 2025 · G6 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_0c5589058aa3410f9f49b0358a6939ee.pdf) |
+| RCT clássico (Kalmeijer) | mupirocina reduz colonização nasal (16,5% × 78,2%, P<0,05); infecção MSSA **1,6% × 2,7% — NÃO significativa** (n limitado) | Kalmeijer 2002 · Clin Infect Dis · [DOI](https://doi.org/10.1086/341025) |
+| Único RCT comparativo agente × agente | SSI profunda por *S. aureus*: **ITT 0,58% × 0,12% (P=0,20, NS)**; per-protocol 0,65% × 0% (P=0,03) — sinal fraco/ambíguo | Phillips 2014 · 1.697 cirurgias · [PMID 24915210](https://pubmed.ncbi.nlm.nih.gov/24915210/) · [DOI](https://doi.org/10.1086/676872) |
+| Universal × seletiva (ambos com mupirocina) | SSI global 0,2% × 0,8% (P=0,013); *S. aureus* 0,09% × 0,5% (P=0,01) | Stambough 2017 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2016.09.041) |
+| PVP-I universal × mupirocina seletiva | **mesma taxa de infecção (0,8%)**, mupirocina mais cara | Torres 2016 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2015.09.030) |
+| PVP-I — atividade curta | superior às 4 h; **sem diferença às 24 h** — aplicar 1–2 h antes da incisão | Rezapoor 2017 · RCT 429 pac · [DOI](https://doi.org/10.1016/j.arth.2017.04.039) |
+| Meta observacional | reduz PJI global e por *S. aureus*/MRSA (p<0,0001) — mas base observacional (**viés**) | Bianco Prevot 2024 · 56.930 pac · [PMID 39064238](https://pubmed.ncbi.nlm.nih.gov/39064238/) · [DOI](https://doi.org/10.3390/jcm13144197) |
+| Limitação da mupirocina | resistência ~10% (*S. aureus*) e ~15% (MRSA); recolonização >50% em 2–6 meses | Zampoli 2026 · [PMID 42205349](https://pubmed.ncbi.nlm.nih.gov/42205349/) · [DOI](https://doi.org/10.5194/jbji-11-299-2026) |
+| Discordância entre sociedades | CDC/OMS endossam mupirocina · ESCMID 2024 recomendação forte para mupirocina · **AAOS se abstém** de recomendar descolonização nasal (falta nível 1) | ICM G6 (referências); Righi 2024 · [DOI](https://doi.org/10.1016/j.cmi.2024.07.012) |
+| ⚠️ Antisséptico à base de álcool — não considerar | meta com autores contratados e financiamento do fabricante (Nozin/Global Life Technologies); produto não disponível no Brasil | Hoffmann 2024 · [PMID 38986954](https://pubmed.ncbi.nlm.nih.gov/38986954/) · réplica: [PMID 39547746](https://pubmed.ncbi.nlm.nih.gov/39547746/) |
+
+**Síntese (só para o documento):** a descolonização nasal é **endossada** pelo ICM 2025 (força moderada), **sem evidência forte** de alterar desfecho clínico em RCT (a própria meta do consenso deu P=0,17), com dois agentes principais (mupirocina e povidona-iodada) sem superioridade estabelecida entre si. **Por decisão do Dr. Daniel, não entra na palestra** — fica aqui documentada para consulta.
 
 ## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
 
