@@ -106,19 +106,21 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 # DECISÃO 1 · Planejamento de imagem — que exame e que planejamento?
 
-## [1.1] O planejamento digital é necessário na rotina?
+## [1.1] Template manual ou digital — e o que realmente define a acurácia?
 
-**RESPOSTA · Não — o templating manual sobre radiografia calibrada basta.**
+**RESPOSTA · Qualquer um dos dois serve — o que define a acurácia é a CALIBRAÇÃO da radiografia e conhecer o desenho da haste.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Acerto do tamanho da taça (± 1 tamanho) | template manual **77% × 70%** digital | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) |
-| Acerto do tamanho da haste | template manual **75% × 60%** — manual superior (p < 0,001) | Petretta 2015 |
-| Tempo de planejamento | manual mais rápido: **119 s × 154 s** — e sem custo de software | Petretta 2015 |
+| Manual × software digital | template manual **igual ou superior**: taça 77% × 70% (± 1 tamanho); haste **75% × 60%** (p < 0,001); mais rápido (119 s × 154 s) e sem custo | Petretta 2015 · CORR · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) · [DOI](https://doi.org/10.1097/CORR.0000000000000000) |
+| A comparação inversa também existe | digital (PACS) superou a sobreposição de template em tela para haste ± 1 tamanho: **93,8% × 84,1%** — o método específico importa menos que a execução | Pongkunakorn 2021 · J Arthroplasty · [PMID 33583670](https://pubmed.ncbi.nlm.nih.gov/33583670/) · [DOI](https://doi.org/10.1016/j.arth.2021.01.019) |
+| Expectativa realista | acerto do tamanho **exato**: haste ~32% · taça ~40% (± 1 tamanho é o padrão alcançável); acurácia semelhante entre cirurgião experiente e residente | Surroca 2024 · Hip Pelvis · [PMID 38825822](https://pubmed.ncbi.nlm.nih.gov/38825822/) · [DOI](https://doi.org/10.5371/hp.2024.36.2.129) |
+| O que mais degrada o template: a calibração | marcador externo: erro médio de magnificação **12,5%** (até 23,3%!), pior no obeso; marcador de dupla escala: **2,1%** | Ries 2022 · Arch Orthop Trauma Surg · prospectivo 100 pac · [PMID 35099608](https://pubmed.ncbi.nlm.nih.gov/35099608/) · [DOI](https://doi.org/10.1007/s00402-022-04355-y) |
+| O desenho da haste muda o erro | haste *triple-taper* com colar: template sugere tamanho maior — implante ≥ 2 tamanhos abaixo do previsto **3,7×** mais frequente que na *single-taper* | Diaz-Ledezma 2025 · Arthroplast Today · [PMID 40130235](https://pubmed.ncbi.nlm.nih.gov/40130235/) · [DOI](https://doi.org/10.1016/j.artd.2025.101658) |
 
-**CONDUTA:** na rotina, radiografia calibrada + templating manual; o software digital não é pré-requisito.
+**CONDUTA:** planejar TODA artroplastia com template (manual ou digital — o software não é pré-requisito); investir onde o erro mora: **calibração rigorosa da radiografia** (marcador de dupla escala ou referência interna) e conhecer o viés de dimensionamento do desenho da própria haste.
 
-**Discussão.** O planejamento pré-operatório começa pela pergunta mais barata: o que a radiografia simples, bem calibrada, já entrega? A comparação direta mostrou que o template manual não apenas equivale ao software — na haste, ele foi superior. O dado desloca o debate: a qualidade do planejamento não está na ferramenta, está na disciplina de calibrar a imagem e medir. Quem domina o templating manual carrega o método para qualquer serviço, com qualquer infraestrutura.
+**Discussão.** A pergunta "manual ou digital?" tem resposta anticlimática — empate técnico, com estudos apontando para os dois lados conforme o desenho — e é exatamente isso que a torna útil: ela libera o cirurgião da ferramenta e o devolve ao fundamento. Os dados mostram onde a acurácia se ganha ou se perde: uma radiografia mal calibrada carrega até 23% de erro de magnificação antes de qualquer medição, e uma haste de geometria nova desloca sistematicamente o template. Quem calibra bem e conhece seu implante acerta ± 1 tamanho em ~90% — com acetato ou com software.
 
 ## [1.2] Planejamento 3D por imagem (TC) — é necessário na artrose de rotina?
 
@@ -460,10 +462,13 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 | Alvo | offset global + comprimento dentro de **± 2,5 mm** do lado contralateral → melhor ganho funcional (**ΔOHS > 25**) | Vorimore 2024 · 500 ATQs sem robótica/navegação · [PMID 38897260](https://pubmed.ncbi.nlm.nih.gov/38897260/) |
 | Preservar | não compensar offset acetabular com offset femoral aumentado — associa-se a OHS inferior | Vorimore 2024 |
 | Realidade | apenas **10%** atingem ± 2,5 mm sem planejamento dedicado — alvo exigente, alcançável por templating | Vorimore 2024 |
+| Confirmação independente (o custo de errar) | redução do offset global **> 5 mm** → força abdutora menor (associação mantida após ajuste) — "deve ser evitada" | Mahmood 2016 · Acta Orthop · prospectivo 222 pac · [PMID 26471772](https://pubmed.ncbi.nlm.nih.gov/26471772/) · [DOI](https://doi.org/10.3109/17453674.2015.1091955) |
+| Confirmação independente (o parâmetro) | o **offset femoral** é o indicador mais sensível da restauração do offset global (índice SGL, restauração ≤ 5 mm em 64,5%) | Zampogna 2026 · Hip Int · 256 quadris · [PMID 42163584](https://pubmed.ncbi.nlm.nih.gov/42163584/) · [DOI](https://doi.org/10.1177/11207000261437301) |
+| Convergência externa | em coorte pareada de robótica, **desvios de comprimento e orientação foram preditores independentes de pior função** — a restauração importa, seja qual for a ferramenta | Wan 2026 · J Clin Med · [PMID 41598344](https://pubmed.ncbi.nlm.nih.gov/41598344/) · [DOI](https://doi.org/10.3390/jcm15020405) |
 
 **CONDUTA:** templating mirando ± 2,5 mm; preservar o offset acetabular.
 
-**Discussão.** Aqui o alvo técnico **é** o caminho do desfecho — e sem nenhuma tecnologia intraoperatória: os 500 casos são de técnica convencional planejada. A precisão que importa não é a do braço robótico; é a do lápis sobre a radiografia calibrada, definindo antes da cirurgia onde ficam o centro de rotação, o offset e o comprimento.
+**Discussão.** Aqui o alvo técnico **é** o caminho do desfecho — e a convergência é de três fontes independentes: a coorte de Vorimore dá o alvo (± 2,5 mm), o prospectivo de Mahmood dá o custo de errar (offset reduzido > 5 mm enfraquece os abdutores de forma mensurável), e até a literatura de robótica confirma que o desvio de reconstrução prediz função pior. E sem nenhuma tecnologia intraoperatória: os 500 casos de Vorimore são de técnica convencional planejada. A precisão que importa não é a do braço robótico; é a do lápis sobre a radiografia calibrada, definindo antes da cirurgia onde ficam o centro de rotação, o offset e o comprimento.
 
 ---
 
