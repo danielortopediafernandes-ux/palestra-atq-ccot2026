@@ -1,0 +1,5 @@
+node_modules/
+*.pptx
+deck.pdf
+slide-*.jpg
+_figuras/_png_cache/
