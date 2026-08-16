@@ -7,13 +7,11 @@ import re, sys, zipfile, shutil, os, tempfile
 PPTX = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), "deck.pptx")
 
 def spids_em_ordem(xml):
-    """Acha, na ordem em que aparecem no XML, os cNvPr id de todo <p:sp> cujo <p:cNvPr name="anim_..."> existe."""
-    out = []
-    for frag in re.findall(r"<p:sp>.*?</p:sp>", xml, re.S):
-        m = re.search(r'<p:cNvPr id="(\d+)" name="(anim_\d+)"', frag)
-        if m:
-            out.append((int(m.group(2).split("_")[1]), m.group(1)))
-    out.sort(key=lambda t: t[0])  # respeita a ordem 1,2,3... marcada no gerador, nao a ordem no XML
+    """Acha o cNvPr id de todo elemento (texto/forma <p:sp> OU imagem <p:pic>) marcado com
+    name="anim_N" pelo gerador, e devolve na ordem N=1,2,3... (a ordem dos cliques), nao a
+    ordem em que aparecem no XML."""
+    out = [(int(n.split("_")[1]), i) for i, n in re.findall(r'<p:cNvPr id="(\d+)" name="(anim_\d+)"', xml)]
+    out.sort(key=lambda t: t[0])
     return [spid for _, spid in out]
 
 def click_par(a, b, c, d, grp, spid):
