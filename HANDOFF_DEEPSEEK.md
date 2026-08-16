@@ -9,6 +9,12 @@
 > 4. `~/.palestra-pages/CAPITULO.md` (fonte da verdade — 35 unidades, header-contrato no topo)
 > 5. `Documents/Claude/PALESTRA-ATQ-CCOT2026/HANDOFF_CONTEUDO_PARA_SLIDES.md`
 
+> ⚠️ **ATUALIZAÇÃO 16/08 (sessão de slides / Opus) — LEIA A `PARTE B` NO FIM.**
+> O Dr. tomou duas decisões que **SUPERAM as seções 5 e 7** deste manual:
+> • **Design final = deck ESCURO CCOT** (`deck.html`), letras grandes + **aparecer-ao-clique** + figuras reais de artigo — **não** o creme do piloto (seção 5 fica como histórico).
+> • **Existe .pptx REAL com as mesmas animações** (a seção 7 dizia que não). Pipeline em `PARTE B · B6`.
+> Tudo o que falta do deck (Decisões 1–9) é **100% terminal, sem API e sem navegador** — ver `PARTE B · B2`.
+
 ---
 
 ## 1 · QUEM FAZ O QUÊ (regra do Dr. Daniel, 15/08)
@@ -327,6 +333,140 @@ echo "=== CAPITULO.md, últimas 40 linhas ===" && tail -40 CAPITULO.md && \
 echo "=== último commit ===" && git log --oneline -3 && \
 echo "=== artigos ===" && ls /Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/ARTIGOS/*.pdf | wc -l
 ```
+
+---
+
+## 18 · ORIENTAÇÕES DA SESSÃO DE SLIDES (PALESTRA SULBRA NO CELULAR)
+
+**Papel:** montar os slides a partir do `CAPITULO.md` — transcrição **1:1**, sem alterar, resumir ou "melhorar" conteúdo. Números, fontes e condutas são 100% da sessão de conteúdo; se algo parecer errado ou faltando, devolve a questão (via Dr. ou arquivo), nunca corrige por conta.
+
+**Fonte da verdade — sempre o commit MAIS RECENTE:** `~/.palestra-pages/CAPITULO.md` (`git pull` antes de montar). A revisão da literatura é contínua (busca do que tem evidência de mudar desfecho) — por isso a versão mais nova é a mais fiel à verdade: não existe "escolher versão", usa-se sempre a mais recente.
+
+**Builder:** `build_deck.py` (cópia idêntica em `Documents/Claude/PALESTRA-ATQ-CCOT2026/` e `~/.palestra-pages/`). Gera o `deck.html` (escuro CCOT, escalonamento 100% via `cqw`, aparecer-ao-clique). O conteúdo é transcrito DENTRO do arquivo (lista `DIVISORES_E_UNIDADES`), unidade por unidade, 1:1 do CAPITULO.md.
+
+**Padrão de cada unidade (slide-decisão):**
+1. **eyebrow** — `DECISÃO X · TEMA`
+2. **pergunta** — título do slide (a PERGUNTA da unidade)
+3. **resposta** — barra-veredito (a RESPOSTA da unidade)
+4. **linhas de evidência** — uma por clique; cada uma com rótulo + número + fonte `autor · desenho · N · PMID`
+5. **barra Conduta**
+- A **Discussão** NÃO entra no slide.
+- `MAXROWS = 4`: unidade com mais de 4 linhas vira **mais um slide** (regra "letras grandes sempre", nunca espremer).
+
+**Estado atual (16/08):**
+- **Decisão 0 montada** — 8 slides (capa + divisor D0 + 0.1 + 0.2 [2] + 0.3 [2] + 0.4). ⚠️ a fonte avançou depois: `0.1` e `1.1` foram atualizadas no CAPITULO.md — esses slides vão precisar de re-montagem quando o Dr. pedir.
+- **Próximo:** Decisão 1 (divisor + 1.1 [2 — tem 5 linhas] + 1.2 + 1.3 + 1.4 = 6 slides).
+
+**Deploy (link do celular):**
+```bash
+cd ~/.palestra-pages
+python3 build_deck.py                # regenera deck.html
+git add deck.html build_deck.py
+git commit -q -m "Deck ATQ: <resumo>"
+git push -q origin main              # GitHub Pages ~30-60s
+```
+- URL: https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html
+- ⚠️ O `_republish-pages.sh` citado no contrato **não existe** — o deploy é o commit/push acima.
+
+---
+
+# ═══════════════════════════════════════════════════════════
+# PARTE B · MÓDULO DE SLIDES + POWERPOINT (sessão de slides / Opus · 16/08/2026)
+# ═══════════════════════════════════════════════════════════
+> Esta PARTE B **atualiza as seções 5 (design) e 7 (PowerPoint)**. Onde divergir, **PARTE B prevalece** — é a decisão mais recente do Dr.
+
+## B0 · Decisão do Dr. (16/08) — o design final
+O Dr. viu e aprovou ("ficou bom demais") um deck DIFERENTE do piloto creme:
+- **Design ESCURO CCOT** (slate `#33414B`), **letras GRANDES**, número-chave gigante, **efeito de aparecer-ao-clique** (um bloco por clique), **figuras reais de artigo** onde ajudam.
+- Vale para o **HTML (link)** E para o **.pptx (congresso)**. O piloto creme (seção 5) fica como alternativa histórica — **NÃO montar creme** sem o Dr. pedir.
+- Regra que ele reforçou: **letras grandes SEMPRE**; se não cabe, **divide em mais slides** — nunca reduzir a fonte (memória `feedback_palestra_letras_grandes_sempre_15ago`).
+
+## B1 · O que já existe (deck)
+- **Gerador:** `/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/build_deck.py` → gera `deck.html`.
+- **Publicado:** `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html`
+- **Pronto e conferido:** Capa + **Decisão 0 completa** (8 slides). **Falta: Decisões 1–9.**
+
+## B2 · Como CONTINUAR o deck (a MAIOR tarefa restante — SEM navegador, SEM API)
+1. `cd ~/.palestra-pages && git pull` (pegar o CAPITULO.md mais recente — é a fonte da verdade, mapeamento 1:1).
+2. Editar `build_deck.py`: a lista `DIVISORES_E_UNIDADES` já tem a Decisão 0. **Acrescentar Decisões 1–9** transcrevendo CADA unidade do CAPITULO.md neste formato:
+   ```python
+   {"tipo":"divisor","num":"DECISÃO 1","titulo":"Planejamento de imagem — que exame...","linha":"<frase de moldura da decisão>"},
+   {"tipo":"decisao","eyebrow":"DECISÃO 1 · IMAGEM","tag":"1.1",
+    "pergunta":"<a PERGUNTA do CAPITULO — vira o título>",
+    "resposta":"<a RESPOSTA do CAPITULO — vira a barra-veredito teal>",
+    "rows":[("<rótulo curto>","<achado COM o número exato>","<Autor Ano · desenho · N · PMID xxxxx>"), ...],
+    "conduta":"<a CONDUTA do CAPITULO>"},
+   ```
+   **Regra 1:1 (inviolável):** copiar número, autor e PMID EXATOS do CAPITULO. **Não resumir, não inventar, não "melhorar".** A **Discussão NÃO entra** no slide. Se algo parecer errado/faltando → **devolver ao Dr.**, não corrigir por conta.
+   **Splitting automático:** o gerador já divide sozinho unidades com **>4 linhas** em 2 slides (`MAXROWS=4`) e põe "(continuação)". Não precisa dividir à mão.
+3. Rodar: `python3 build_deck.py` (regenera `deck.html`).
+4. Publicar:
+   ```bash
+   cp deck.html build_deck.py ~/.palestra-pages/
+   cd ~/.palestra-pages && git add deck.html build_deck.py && git commit -q -m "Deck: Decisão 1 (1:1 do CAPITULO)" && git push -q origin main
+   ```
+5. Conferir: abrir `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html?v=N` (**mude o N** para furar o cache do navegador/CDN).
+
+## B3 · Tokens do deck escuro (usar EXATOS — já no build_deck.py)
+```
+--bg:#33414B (slate CCOT) · --card:#3E4E5A · --teal:#107368 (veredito/preenchimento) · --tealb:#35B3A3 (destaque de texto)
+--ink:#FFFFFF · --body:#D6DEE4 · --mut:#A6B2BC
+Títulos: serif system (Georgia,'Times New Roman')  ·  Corpo: sans system (-apple-system,Arial)  — SEM webfont
+Escala 100% via container units (cqw): palco 1280×720, aspect-ratio:16/9, SEM JavaScript de escala (robusto no GitHub Pages).
+Tamanhos: título 37–48px · veredito 23px · linha de evidência 21px · fonte da linha ≥15px · número gigante 54–72px.
+```
+
+## B4 · O efeito "aparecer ao clique"
+- **HTML:** cada bloco tem classe `.frag` (começa `opacity:0`); um contador revela um `.frag` por clique/seta; `data-frags="N"` no `<section>` diz quantos cliques o slide tem. Botões ‹ ›, setas do teclado e clique — tudo já no build_deck.py.
+- **.pptx:** o pptxgenjs NÃO anima; a animação é **injetada no XML depois** (ver B6).
+
+## B5 · Figuras reais de artigo
+- Artigos em `.../ARTIGOS/` (`Autor_Ano_PMIDxxxx.pdf`). Preferir **open-access / Creative Commons** (uso público com **crédito no slide**: autor · ano · licença). Figura de artigo pago = só ao vivo/PDF, não publicar na web.
+- **Comprimir PDF grande (>10 MB) com filtro nativo do macOS — sem instalar nada:**
+  ```python
+  import Quartz; from Foundation import NSURL
+  qf=Quartz.QuartzFilter.quartzFilterWithURL_(NSURL.fileURLWithPath_("/System/Library/Filters/Reduce File Size.qfilter"))
+  pdf=Quartz.CGPDFDocumentCreateWithURL(NSURL.fileURLWithPath_(SRC))
+  ctx=Quartz.CGPDFContextCreateWithURL(NSURL.fileURLWithPath_(DST),None,None); qf.applyToContext_(ctx)
+  for i in range(1,Quartz.CGPDFDocumentGetNumberOfPages(pdf)+1):
+      p=Quartz.CGPDFDocumentGetPage(pdf,i); r=Quartz.CGPDFPageGetBoxRect(p,Quartz.kCGPDFMediaBox)
+      Quartz.CGPDFContextBeginPage(ctx,{Quartz.kCGPDFContextMediaBox:r}); Quartz.CGContextDrawPDFPage(ctx,p); Quartz.CGPDFContextEndPage(ctx)
+  Quartz.CGPDFContextClose(ctx)   # 12MB → ~2MB, texto preservado
+  ```
+- **Extrair uma figura:** `pdftoppm -png -f <pág> -l <pág> -r 200 art.pdf fig` e recortar; ou usar figura já aberta (Wikimedia Commons CC/CC0, PMC open-access).
+- **Embutir no HTML:** converter para **data URI base64** (`data:image/jpeg;base64,...`) → o deck fica autossuficiente (o GitHub Pages serve tudo inline). No .pptx, inserir o arquivo local direto.
+- Exemplos já usados (no teste): radiografia AP de ATQ (Häggström, CC0) e displasia Crowe II (Zhen et al., BMC Musculoskelet Disord 2017, CC BY 4.0).
+
+## B6 · PowerPoint (.pptx) REAL com as mesmas animações — ATUALIZA a seção 7
+**Sim, há .pptx funcional** (a seção 7 estava desatualizada). Pipeline em `.../Geral/Palestras/2026_congresso-sul-brasileiro_atq-planejamento/_teste_pptx/`:
+- `build.js` — gera o .pptx com **pptxgenjs** (já instalado em `_teste_pptx/node_modules`). Paleta CCOT; cada bloco é um "texto-em-shape" (para animar limpo).
+  ```bash
+  cd .../_teste_pptx && node build.js     # gera TESTE-PPTX-4slides.pptx
+  ```
+- `inject_anim.py` — injeta `<p:timing>` (entrada **"Aparecer ao clique"**) direto no XML do .pptx, por **manipulação de string** (não re-serializa → não corrompe namespaces):
+  ```bash
+  python3 inject_anim.py TESTE-PPTX-4slides.pptx
+  ```
+- **QA do .pptx:** `soffice --headless --convert-to pdf x.pptx && pdftoppm -jpeg -r 130 x.pdf slide` → conferir os PNGs. (`soffice` já instalado: `/opt/homebrew/bin/soffice`.) ⚠️ O LibreOffice **achata** a animação no PDF (mostra tudo); o clique-a-clique só se testa abrindo no PowerPoint de verdade.
+- **Gotchas do pptxgenjs (importantes):** cores SEM `#` (`"33414B"`, nunca `"#33414B"` nem 8 dígitos); `pres.layout="LAYOUT_WIDE"` ANTES de add_slide; um objeto de opções NOVO por shape (a lib muta em lugar); `shadow.offset ≥ 0`; validar com o script `validate.py` da skill `pptx`.
+- **Para o .pptx do deck COMPLETO:** alimentar o `build.js` com as MESMAS unidades do CAPITULO (mesmo conteúdo do deck.html). Ideal: unificar a fonte de dados com a de `build_deck.py`.
+
+## B7 · Controle de navegador — o que EU usei (honestidade)
+- Eu dirigi o Chrome pela **extensão MCP do Claude** (`mcp__claude-in-chrome__*`) — isso é **específico do Claude Code**; **o DeepSeek NÃO terá esses tools.** Para tarefas de navegador (NotebookLM, QA visual), o DeepSeek deve usar **Playwright headless** (seção 11) ou o Dr. faz o passo no Chrome.
+- **QA do deck é fácil:** como está no GitHub Pages, basta **abrir a URL em qualquer navegador** (nada de MCP) — inclusive Playwright headless + screenshot.
+- ⛔ **NÃO usar Artifact (claude.ai) para o deck:** testei e o host do Artifact **colapsa** slideshow full-bleed (o iframe zera a altura ao navegar). **Use GitHub Pages.**
+
+## B8 · NotebookLM — 3 áudios (como eu fiz)
+- Notebook (conta `danielortopediafernandes@gmail.com`): **"Artroplastia de Quadril: Decisões Pré-operatórias e Desfechos Clínicos"** — `https://notebook.google.com/notebook/4aaa2aed-dc21-43ba-bb15-128993d13bd0` — **41 fontes** (40 artigos + o capítulo).
+- 3 áudios "Resumo em Áudio" (formato **Análise detalhada**, PT-BR) com os prompts de `ARTIGOS/PROMPTS_NOTEBOOKLM.md` (1 aula de congresso · 2 análise crítica · 3 panorama de evidência). O Gemini Notebook salva **múltiplos** áudios (geram em paralelo).
+- Técnica de upload (era via MCP; para replicar com Playwright): criar `<input type=file>` oculto → setar os files → **interceptar o `.click()` do input real** do botão "Enviar arquivos" e copiar os files → disparar `change`. Lotes ≤ ~8 MB (comprimir os PDFs >10 MB com o Quartz de B5). Nomes ASCII (sem acento) evitam erro de codificação.
+
+## B9 · Estado atual (16/08) — o que falta no deck
+- ✅ Capa + **Decisão 0** (deck.html, 8 slides, publicado e conferido).
+- ⏳ **Decisões 1–9** no deck.html (via `build_deck.py` — B2). **Maior tarefa; 100% terminal.**
+- ⏳ **Figuras reais** a partir da Decisão 1 (B5).
+- ⏳ Gerar o **.pptx do deck completo** (B6) para o congresso, se o Dr. quiser o arquivo.
+- ⚠️ **Pendência de conteúdo devolvida ao Dr.:** nome do evento — o CAPITULO diz **"XVI Congresso Catarinense de Ortopedia e Traumatologia" (CCOT)**; a pasta/sessão dizia "Sul-Brasileiro". **Confirmar com o Dr.** (não corrigir por conta).
 
 ---
 
