@@ -368,12 +368,15 @@ git push -q origin main              # GitHub Pages ~30-60s
 - URL: https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html
 - ⚠️ O `_republish-pages.sh` citado no contrato **não existe** — o deploy é o commit/push acima.
 
+> ⚠️ **ATUALIZAÇÃO 16/08 tarde (sessão de slides / Opus):** o deploy manual acima (`python3 build_deck.py` + commit) ainda funciona, mas **agora existe `build_all.sh`** que faz isso + gera o `.pptx` animado num passo só — ver **PARTE B · B2**. As **figuras** que vocês já implementaram em `build_deck.py` (`"figs":[...]`, `MAXROWS_FIG`) foram estendidas também para o `.pptx` (`build_pptx.js` + `sharp`, rasteriza SVG→PNG) — nenhuma mudança de conteúdo, só a ferramenta acompanhou. Deck já em **10 slides** (Decisão 0 com figuras). Ver **B6**.
+
 ---
 
 # ═══════════════════════════════════════════════════════════
 # PARTE B · MÓDULO DE SLIDES + POWERPOINT (sessão de slides / Opus · 16/08/2026)
 # ═══════════════════════════════════════════════════════════
 > Esta PARTE B **atualiza as seções 5 (design) e 7 (PowerPoint)**. Onde divergir, **PARTE B prevalece** — é a decisão mais recente do Dr.
+> **Atualizada 16/08 tarde** para refletir o trabalho da sessão de conteúdo (Seção 18: figuras já em `build_deck.py`) — ver B1/B2/B6 abaixo.
 
 ## B0 · Decisão do Dr. (16/08) — o design final
 O Dr. viu e aprovou ("ficou bom demais") um deck DIFERENTE do piloto creme:
@@ -382,30 +385,31 @@ O Dr. viu e aprovou ("ficou bom demais") um deck DIFERENTE do piloto creme:
 - Regra que ele reforçou: **letras grandes SEMPRE**; se não cabe, **divide em mais slides** — nunca reduzir a fonte (memória `feedback_palestra_letras_grandes_sempre_15ago`).
 
 ## B1 · O que já existe (deck)
-- **Gerador:** `/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/build_deck.py` → gera `deck.html`.
-- **Publicado:** `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html`
-- **Pronto e conferido:** Capa + **Decisão 0 completa** (8 slides). **Falta: Decisões 1–9.**
+- **Pasta de trabalho (a "sala de máquinas"):** `/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/` — é AQUI que ficam `node_modules` (pptxgenjs + sharp já instalados via `npm install`) e é daqui que se roda tudo. Cópias espelhadas em `~/.palestra-pages/` (sem `node_modules` — está no `.gitignore`, não sobe pro repo público).
+- **Fonte única de dados:** `build_deck.py` (edite SÓ `CAPA` e `DIVISORES_E_UNIDADES` — o resto é motor). Ele já exporta `deck_data.json`, que `build_pptx.js` lê para gerar o `.pptx` com o MESMO conteúdo — **um só lugar para editar, dois formatos de saída.**
+- **Publicado (HTML, link do celular):** `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html`
+- **Pronto e conferido:** Capa + **Decisão 0 completa com figuras reais** (10 slides — a sessão de conteúdo já implementou `"figs":[...]` em `build_deck.py`, com crédito e licença por figura). **Falta: Decisões 1–9.**
 
 ## B2 · Como CONTINUAR o deck (a MAIOR tarefa restante — SEM navegador, SEM API)
 1. `cd ~/.palestra-pages && git pull` (pegar o CAPITULO.md mais recente — é a fonte da verdade, mapeamento 1:1).
-2. Editar `build_deck.py`: a lista `DIVISORES_E_UNIDADES` já tem a Decisão 0. **Acrescentar Decisões 1–9** transcrevendo CADA unidade do CAPITULO.md neste formato:
+2. Editar **`/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/build_deck.py`** (a cópia com `node_modules`): a lista `DIVISORES_E_UNIDADES` já tem a Decisão 0. **Acrescentar Decisões 1–9** transcrevendo CADA unidade do CAPITULO.md neste formato:
    ```python
    {"tipo":"divisor","num":"DECISÃO 1","titulo":"Planejamento de imagem — que exame...","linha":"<frase de moldura da decisão>"},
    {"tipo":"decisao","eyebrow":"DECISÃO 1 · IMAGEM","tag":"1.1",
     "pergunta":"<a PERGUNTA do CAPITULO — vira o título>",
     "resposta":"<a RESPOSTA do CAPITULO — vira a barra-veredito teal>",
     "rows":[("<rótulo curto>","<achado COM o número exato>","<Autor Ano · desenho · N · PMID xxxxx>"), ...],
-    "conduta":"<a CONDUTA do CAPITULO>"},
+    "conduta":"<a CONDUTA do CAPITULO>",
+    "figs":[{"arquivo":"_figuras/1.1_algumnome.png","credito":"Adaptado de Autor Ano · licença"}, ...]},  # opcional, ver B5
    ```
    **Regra 1:1 (inviolável):** copiar número, autor e PMID EXATOS do CAPITULO. **Não resumir, não inventar, não "melhorar".** A **Discussão NÃO entra** no slide. Se algo parecer errado/faltando → **devolver ao Dr.**, não corrigir por conta.
-   **Splitting automático:** o gerador já divide sozinho unidades com **>4 linhas** em 2 slides (`MAXROWS=4`) e põe "(continuação)". Não precisa dividir à mão.
-3. Rodar: `python3 build_deck.py` (regenera `deck.html`).
-4. Publicar:
+   **Splitting automático:** o gerador já divide sozinho unidades com **>4 linhas** (ou **>3 linhas se tiver figura**, `MAXROWS_FIG=3`) em mais slides, e põe "(continuação)". Não precisa dividir à mão.
+3. **UM COMANDO** faz o resto (gera HTML + `.pptx` com animação + publica no GitHub Pages):
    ```bash
-   cp deck.html build_deck.py ~/.palestra-pages/
-   cd ~/.palestra-pages && git add deck.html build_deck.py && git commit -q -m "Deck: Decisão 1 (1:1 do CAPITULO)" && git push -q origin main
+   /Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/build_all.sh
    ```
-5. Conferir: abrir `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html?v=N` (**mude o N** para furar o cache do navegador/CDN).
+   Por baixo, ele roda `python3 build_deck.py` → `node build_pptx.js` → `python3 inject_anim.py deck.pptx` → `cp` + `git commit` + `git push` para `~/.palestra-pages/`. (Os passos manuais antigos — seção 18, e os passos 3-5 originais aqui — ainda funcionam separados se precisar debugar um por vez.)
+4. Conferir: abrir `https://danielortopediafernandes-ux.github.io/palestra-atq-ccot2026/deck.html?v=N` (**mude o N** para furar o cache do navegador/CDN). O `.pptx` fica em `.../PALESTRA-ATQ-CCOT2026/deck.pptx` (local — não vai pro GitHub público; entregar direto ao Dr.).
 
 ## B3 · Tokens do deck escuro (usar EXATOS — já no build_deck.py)
 ```
@@ -433,23 +437,26 @@ Tamanhos: título 37–48px · veredito 23px · linha de evidência 21px · font
       Quartz.CGPDFContextBeginPage(ctx,{Quartz.kCGPDFContextMediaBox:r}); Quartz.CGContextDrawPDFPage(ctx,p); Quartz.CGPDFContextEndPage(ctx)
   Quartz.CGPDFContextClose(ctx)   # 12MB → ~2MB, texto preservado
   ```
-- **Extrair uma figura:** `pdftoppm -png -f <pág> -l <pág> -r 200 art.pdf fig` e recortar; ou usar figura já aberta (Wikimedia Commons CC/CC0, PMC open-access).
-- **Embutir no HTML:** converter para **data URI base64** (`data:image/jpeg;base64,...`) → o deck fica autossuficiente (o GitHub Pages serve tudo inline). No .pptx, inserir o arquivo local direto.
-- Exemplos já usados (no teste): radiografia AP de ATQ (Häggström, CC0) e displasia Crowe II (Zhen et al., BMC Musculoskelet Disord 2017, CC BY 4.0).
+- **Extrair uma figura:** `pdftoppm -png -f <pág> -l <pág> -r 200 art.pdf fig` e recortar; ou usar figura já aberta (Wikimedia Commons CC/CC0, PMC open-access). SVG (gráfico feito a partir dos números, ex. "137 mg/dL" em destaque) também é aceito — ver B6.
+- **Embutir no HTML:** `build_deck.py` já converte para **data URI base64** automaticamente (`fig_data_uri()`) → o deck fica autossuficiente (o GitHub Pages serve tudo inline). Só apontar o campo `"figs"` na unidade (ver B2) — não precisa mexer no motor.
+- Exemplos já em produção: forest-plot do Henkelmann 2026 (CC BY 4.0, unidade 0.1), gráfico SVG "137 mg/dL" gerado dos números do Kheir 2018 (unidade 0.2) — cada um com crédito/licença visível no slide.
 
 ## B6 · PowerPoint (.pptx) REAL com as mesmas animações — ATUALIZA a seção 7
-**Sim, há .pptx funcional** (a seção 7 estava desatualizada). Pipeline em `.../Geral/Palestras/2026_congresso-sul-brasileiro_atq-planejamento/_teste_pptx/`:
-- `build.js` — gera o .pptx com **pptxgenjs** (já instalado em `_teste_pptx/node_modules`). Paleta CCOT; cada bloco é um "texto-em-shape" (para animar limpo).
+**Sim, há .pptx funcional, unificado com o HTML.** Pipeline em `/Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026/` (a pasta de trabalho, com `node_modules`):
+- `build_pptx.js` — lê **o mesmo `deck_data.json`** que `build_deck.py` gera (fonte única — não duplica conteúdo). Gera o `.pptx` com **pptxgenjs**, paleta CCOT idêntica ao HTML, cada bloco (texto/tarja/cartão/imagem) marcado com um `objectName: "anim_N"` sequencial (para a animação depois). Se a unidade tem `"figs"`, renderiza a figura em coluna à direita com o crédito — SVG é **rasterizado para PNG com `sharp`** antes de embutir (cache em `_figuras/_png_cache/`, PowerPoint não confia em SVG embutido).
   ```bash
-  cd .../_teste_pptx && node build.js     # gera TESTE-PPTX-4slides.pptx
+  cd /Users/danielfernandes/Documents/Claude/PALESTRA-ATQ-CCOT2026 && node build_pptx.js   # gera deck.pptx
   ```
-- `inject_anim.py` — injeta `<p:timing>` (entrada **"Aparecer ao clique"**) direto no XML do .pptx, por **manipulação de string** (não re-serializa → não corrompe namespaces):
+- `inject_anim.py` — injeta `<p:timing>` (entrada **"Aparecer ao clique"**) direto no XML do .pptx, por **manipulação de string** (não re-serializa → não corrompe namespaces). Acha QUALQUER elemento marcado `name="anim_N"` — texto (`<p:sp>`) **ou imagem** (`<p:pic>`) — na ordem 1,2,3...:
   ```bash
-  python3 inject_anim.py TESTE-PPTX-4slides.pptx
+  python3 inject_anim.py deck.pptx
   ```
-- **QA do .pptx:** `soffice --headless --convert-to pdf x.pptx && pdftoppm -jpeg -r 130 x.pdf slide` → conferir os PNGs. (`soffice` já instalado: `/opt/homebrew/bin/soffice`.) ⚠️ O LibreOffice **achata** a animação no PDF (mostra tudo); o clique-a-clique só se testa abrindo no PowerPoint de verdade.
-- **Gotchas do pptxgenjs (importantes):** cores SEM `#` (`"33414B"`, nunca `"#33414B"` nem 8 dígitos); `pres.layout="LAYOUT_WIDE"` ANTES de add_slide; um objeto de opções NOVO por shape (a lib muta em lugar); `shadow.offset ≥ 0`; validar com o script `validate.py` da skill `pptx`.
-- **Para o .pptx do deck COMPLETO:** alimentar o `build.js` com as MESMAS unidades do CAPITULO (mesmo conteúdo do deck.html). Ideal: unificar a fonte de dados com a de `build_deck.py`.
+  ⚠️ **Bug já corrigido nesta sessão:** a 1ª versão só procurava `<p:sp>` e deixava imagens sem clique. Se copiar uma versão antiga deste script, cheque se `spids_em_ordem()` busca `<p:cNvPr ... name="anim_N">` em **qualquer** elemento (não só dentro de `<p:sp>...</p:sp>`).
+- **Um comando faz tudo:** `build_all.sh` roda `build_deck.py` → `build_pptx.js` → `inject_anim.py` → publica o HTML. Ver B2.
+- **QA do .pptx:** `soffice --headless --convert-to pdf x.pptx && pdftoppm -jpeg -r 130 x.pdf slide` → conferir os JPGs (`Read` neles). (`soffice` já instalado: `/opt/homebrew/bin/soffice`.) Depois `validate.py` da skill `pptx` (schema/relações/charts). ⚠️ O LibreOffice **achata** a animação no PDF (mostra tudo); o clique-a-clique só se testa abrindo no PowerPoint de verdade.
+- **Gotchas do pptxgenjs (importantes):** cores SEM `#` (`"33414B"`, nunca `"#33414B"` nem 8 dígitos); `pres.layout="LAYOUT_WIDE"` ANTES de add_slide; um objeto de opções NOVO por shape (a lib muta em lugar — por isso `markAnim()` clona com `Object.assign({}, ...)`); `shadow.offset ≥ 0`.
+- **Deps já instaladas** (`npm install` rodado nesta pasta): `pptxgenjs`, `sharp`. Se clonar/mover a pasta, rodar `npm install pptxgenjs sharp` de novo aqui.
+- Pipeline antigo de teste (`.../Geral/Palestras/2026_congresso-sul-brasileiro_atq-planejamento/_teste_pptx/`) fica só como referência histórica — **o canônico agora é este** (dados unificados com o HTML).
 
 ## B7 · Controle de navegador — o que EU usei (honestidade)
 - Eu dirigi o Chrome pela **extensão MCP do Claude** (`mcp__claude-in-chrome__*`) — isso é **específico do Claude Code**; **o DeepSeek NÃO terá esses tools.** Para tarefas de navegador (NotebookLM, QA visual), o DeepSeek deve usar **Playwright headless** (seção 11) ou o Dr. faz o passo no Chrome.
@@ -461,12 +468,14 @@ Tamanhos: título 37–48px · veredito 23px · linha de evidência 21px · font
 - 3 áudios "Resumo em Áudio" (formato **Análise detalhada**, PT-BR) com os prompts de `ARTIGOS/PROMPTS_NOTEBOOKLM.md` (1 aula de congresso · 2 análise crítica · 3 panorama de evidência). O Gemini Notebook salva **múltiplos** áudios (geram em paralelo).
 - Técnica de upload (era via MCP; para replicar com Playwright): criar `<input type=file>` oculto → setar os files → **interceptar o `.click()` do input real** do botão "Enviar arquivos" e copiar os files → disparar `change`. Lotes ≤ ~8 MB (comprimir os PDFs >10 MB com o Quartz de B5). Nomes ASCII (sem acento) evitam erro de codificação.
 
-## B9 · Estado atual (16/08) — o que falta no deck
-- ✅ Capa + **Decisão 0** (deck.html, 8 slides, publicado e conferido).
-- ⏳ **Decisões 1–9** no deck.html (via `build_deck.py` — B2). **Maior tarefa; 100% terminal.**
-- ⏳ **Figuras reais** a partir da Decisão 1 (B5).
-- ⏳ Gerar o **.pptx do deck completo** (B6) para o congresso, se o Dr. quiser o arquivo.
+## B9 · Estado atual (16/08 tarde) — o que falta no deck
+- ✅ Capa + **Decisão 0 com figuras reais** (deck.html, **10 slides**, publicado e conferido).
+- ✅ **`.pptx` unificado e funcional** — mesmo conteúdo, mesmas figuras, mesma animação de clique do HTML (`deck.pptx`, validado, 32 blocos animados incl. imagens).
+- ✅ **`build_all.sh`** — 1 comando gera tudo e publica.
+- ⏳ **Decisões 1–9** no deck.html/deck.pptx (via `build_deck.py` — B2). **Maior tarefa restante; 100% terminal.**
+- ⏳ Figuras das Decisões 1–9 (mesmo padrão de `"figs"` da Decisão 0 — B5).
 - ⚠️ **Pendência de conteúdo devolvida ao Dr.:** nome do evento — o CAPITULO diz **"XVI Congresso Catarinense de Ortopedia e Traumatologia" (CCOT)**; a pasta/sessão dizia "Sul-Brasileiro". **Confirmar com o Dr.** (não corrigir por conta).
+- ⚠️ **Aviso da Seção 18 (sessão de conteúdo) ainda vale:** as unidades `0.1` e `1.1` foram atualizadas no CAPITULO.md depois de montadas — re-conferir contra o commit mais recente antes de fechar a Decisão 0/1.
 
 ---
 
