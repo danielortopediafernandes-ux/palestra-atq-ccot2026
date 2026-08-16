@@ -1,0 +1,169 @@
+[
+ {
+  "kind": "capa",
+  "titulo": "Planejamento pré-operatório em ATQ:<br>o que realmente muda o resultado",
+  "autor": "Dr. Daniel Araújo Fernandes",
+  "evento": "XVI Congresso Catarinense de Ortopedia e Traumatologia · 2026"
+ },
+ {
+  "kind": "divisor",
+  "num": "DECISÃO 0",
+  "titulo": "O paciente — otimização clínica antes de operar",
+  "linha": "A primeira decisão do planejamento não é técnica: é “opero agora ou preparo o paciente primeiro?”. Quatro condições modificáveis têm número publicado."
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.1",
+  "titulo": "Descolonizar Staphylococcus aureus?",
+  "resposta": "Sim — protocolo universal antes da artroplastia eletiva.",
+  "rows": [
+   {
+    "rotulo": "Sem descolonização",
+    "achado": "infecção RR 1,70 (qualquer) e RR 2,18 (por S. aureus)",
+    "fonte": "Ribau 2020 · J Arthroplasty · meta 32 estudos · PMID 32950342"
+   },
+   {
+    "rotulo": "Com rastreio + descolonização",
+    "achado": "ISC RR 0,52 (IC 0,40–0,67); S. aureus RR 0,48; MRSA RR 0,45",
+    "fonte": "Lin 2021 · meta 12 estudos · PMID 33468375"
+   },
+   {
+    "rotulo": "Estratégia",
+    "achado": "pele OR 0,43 · combinada OR 0,48; universal ≈ dirigida por rastreio",
+    "fonte": "Henkelmann 2026 · meta 19 estudos · 64.796 pac · PMID 41652612"
+   },
+   {
+    "rotulo": "Limite honesto",
+    "achado": "portador de MRSA mantém risco residual — PJI OR 2,42",
+    "fonte": "Javidmehr 2026 · meta 15 estudos · 318.487 pac · PMID 42520992"
+   }
+  ],
+  "conduta": "Mupirocina nasal + banho de clorexidina no pré-op da eletiva (o protocolo universal dispensa o rastreio); no portador de MRSA, vigilância reforçada."
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.2",
+  "titulo": "Diabético: controlar a HbA1c ou a glicemia da cirurgia?",
+  "resposta": "A glicemia perioperatória — alvo < 137 mg/dL. A HbA1c com corte em 7% não prevê complicação.",
+  "rows": [
+   {
+    "rotulo": "A HbA1c falha como veto",
+    "achado": "cortes de 7% e 7,5% NÃO se associaram a complicações (prospectivo 1.119 pac; meta 17 estudos, P = 0,50)",
+    "fonte": "Shohat 2019 · Insall Award · Bone Joint J · PMID 31256656"
+   },
+   {
+    "rotulo": "O que prevê: glicemia pós-op",
+    "achado": "risco contínuo (linear) a partir de 115 mg/dL; 137 mg/dL = melhor corte de discriminação · 24.857 artroplastias",
+    "fonte": "Kheir 2018 · JBJS · PMID 30106824"
+   },
+   {
+    "rotulo": "Quando medir",
+    "achado": "pico glicêmico às 21 h do dia da cirurgia (65% hiperglicêmicos); a coleta da manhã seguinte subestima",
+    "fonte": "Varady 2019 · J Arthroplasty · 314 pac · PMID 30704771"
+   },
+   {
+    "rotulo": "Marcador pré-op melhor",
+    "achado": "frutosamina > 293 µmol/L → infecção periprotética 11,2×",
+    "fonte": "Shohat 2019 · PMID 31256656"
+   }
+  ],
+  "conduta": null
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.2",
+  "titulo": "Diabético: controlar a HbA1c ou a glicemia da cirurgia? (continuação)",
+  "resposta": null,
+  "rows": [
+   {
+    "rotulo": "Risco basal do diabético",
+    "achado": "PJI 2,39% × 1,46% do não-diabético",
+    "fonte": "Kheir 2018 · JBJS · PMID 30106824"
+   }
+  ],
+  "conduta": "Não adiar por HbA1c isolada; planejar o controle glicêmico perioperatório com alvo < 137 mg/dL, medindo na noite da cirurgia (21 h); onde disponível, frutosamina > 293 µmol/L prediz infecção."
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.3",
+  "titulo": "Anemia: o que é, como tratar e o que muda?",
+  "resposta": "Hb < 13 g/dL na eletiva → ferro IV 4 semanas antes: transfusão cai de 24% para 4%.",
+  "rows": [
+   {
+    "rotulo": "O GATILHO — o que é anemia na eletiva",
+    "achado": "Hb < 13 g/dL (mesmo alvo p/ homem e mulher — protocolo de otimização + consenso internacional)",
+    "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924 · Muñoz 2017 · Anaesthesia · PMID 27996086"
+   },
+   {
+    "rotulo": "Quem chega assim",
+    "achado": "22% dos candidatos a artroplastia",
+    "fonte": "meta 2024 · 369.101 pac · PMID 38637795"
+   },
+   {
+    "rotulo": "A SOLUÇÃO — a intervenção no planejamento",
+    "achado": "carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia",
+    "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"
+   },
+   {
+    "rotulo": "Por que IV (e não oral)",
+    "achado": "Hb ≥ 12 g/dL em 42,3% × 23,5% do oral (P = 0,04) — vantagem maior no ferropênico e na anemia profunda",
+    "fonte": "Bisbe 2014 · RCT · Br J Anaesth · PMID 24780615"
+   }
+  ],
+  "conduta": null
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.3",
+  "titulo": "Anemia: o que é, como tratar e o que muda? (continuação)",
+  "resposta": null,
+  "rows": [
+   {
+    "rotulo": "FAZ DIFERENÇA — o desfecho",
+    "achado": "transfusão 24% → 4% (P = 0,001) · internação 7 → 6 dias · alta p/ casa 47% → 74%",
+    "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"
+   },
+   {
+    "rotulo": "Confirmação em meta",
+    "achado": "ferro pré-op no anêmico: transfusão RR 0,61 (IC 0,50–0,73)",
+    "fonte": "meta BMJ Open 2020 · PMID 33130561"
+   },
+   {
+    "rotulo": "O intermediário (mecanismo — NÃO é o desfecho)",
+    "achado": "Hb na admissão 12,2 → 13,4 g/dL; anemia corrigida em 79%",
+    "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"
+   }
+  ],
+  "conduta": "Hemograma na indicação; Hb < 13 g/dL → investigar (perfil de ferro) e tratar antes de agendar — ferro IV (carboximaltose 1.000 mg) quando faltam ≤ 4 semanas ou há intolerância/má absorção oral; reavaliar a Hb na admissão."
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.4",
+  "titulo": "Posso operar o fumante? Quanto recupero se ele parar?",
+  "resposta": "Pode, mas o risco é sistêmico e alto — e 6–8 semanas de cessação derrubam as complicações de 52% para 18% (ensaio randomizado).",
+  "rows": [
+   {
+    "rotulo": "Não é só infecção — é sistêmico",
+    "achado": "complicações 1,41 · ferida 1,77 · PJI 1,84 · soltura 1,62 · revisão 2,12 · mortalidade hospitalar 12,37",
+    "fonte": "Yue 2022 · meta 40 estudos · 3.037.683 casos · PMID 36406352"
+   },
+   {
+    "rotulo": "Infecção no detalhe",
+    "achado": "PJI: fumante atual OR 2,16 · ex-fumante OR 1,52 — parar reduz de forma mensurável",
+    "fonte": "Bedard 2018 · meta 14 estudos · PMID 30385090"
+   },
+   {
+    "rotulo": "O que a cessação recupera (nível 1)",
+    "achado": "intervenção 6–8 sem antes: complicações 52% → 18% (P = 0,0003) · ferida 31% → 5% · reoperação 15% → 4%",
+    "fonte": "Møller 2002 · RCT · Lancet · 120 pac · PMID 11809253"
+   }
+  ],
+  "conduta": "A eletiva do fumante não se veta — se agenda: prescrever cessação (aconselhamento + reposição de nicotina) 6–8 semanas antes e marcar depois; documentar. (Florianópolis: HU-UFSC mantém programa de cessação — encaminhar na indicação.)"
+ }
+]

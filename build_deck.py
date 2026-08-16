@@ -2,7 +2,7 @@
 # Deck da palestra ATQ — design escuro CCOT, letras grandes, aparecer-ao-clique.
 # Conteudo 1:1 do CAPITULO.md (fonte da verdade da sessao de conteudo). NAO alterar/resumir aqui.
 # Escala 100% via CSS (cqw) — sem JS de dimensionamento (robusto no GitHub Pages).
-import os, html, base64
+import os, html, json
 D = os.path.dirname(__file__)
 
 # ---------- MODELO DE CONTEUDO (transcricao fiel do CAPITULO.md) ----------
@@ -47,12 +47,13 @@ DIVISORES_E_UNIDADES = [
    "pergunta":"Anemia: o que é, como tratar e o que muda?",
    "resposta":"Hb < 13 g/dL na eletiva → ferro IV 4 semanas antes: transfusão cai de 24% para 4%.",
    "rows":[
-     ("O que é anemia (eletiva)","Hb < 13 g/dL — critério do protocolo de otimização e do consenso internacional","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924 · Muñoz 2017 · PMID 27996086"),
-     ("Quantos chegam assim","22% dos candidatos a artroplastia","meta 2024 · 369.101 pac · PMID 38637795"),
-     ("Tratamento (protocolo)","carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
-     ("Quanto reduz","transfusão 24% → 4% (P = 0,001) · internação 7 → 6 dias · alta p/ casa 47% → 74%","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
+     ("O GATILHO — o que é anemia na eletiva","Hb < 13 g/dL (mesmo alvo p/ homem e mulher — protocolo de otimização + consenso internacional)","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924 · Muñoz 2017 · Anaesthesia · PMID 27996086"),
+     ("Quem chega assim","22% dos candidatos a artroplastia","meta 2024 · 369.101 pac · PMID 38637795"),
+     ("A SOLUÇÃO — a intervenção no planejamento","carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
+     ("Por que IV (e não oral)","Hb ≥ 12 g/dL em 42,3% × 23,5% do oral (P = 0,04) — vantagem maior no ferropênico e na anemia profunda","Bisbe 2014 · RCT · Br J Anaesth · PMID 24780615"),
+     ("FAZ DIFERENÇA — o desfecho","transfusão 24% → 4% (P = 0,001) · internação 7 → 6 dias · alta p/ casa 47% → 74%","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
      ("Confirmação em meta","ferro pré-op no anêmico: transfusão RR 0,61 (IC 0,50–0,73)","meta BMJ Open 2020 · PMID 33130561"),
-     ("IV × oral","Hb ≥ 12 g/dL em 42,3% × 23,5% do oral (P = 0,04)","Bisbe 2014 · RCT · Br J Anaesth · PMID 24780615"),
+     ("O intermediário (mecanismo — NÃO é o desfecho)","Hb na admissão 12,2 → 13,4 g/dL; anemia corrigida em 79%","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
    ],
    "conduta":"Hemograma na indicação; Hb < 13 g/dL → investigar (perfil de ferro) e tratar antes de agendar — ferro IV (carboximaltose 1.000 mg) quando faltam ≤ 4 semanas ou há intolerância/má absorção oral; reavaliar a Hb na admissão."},
 
@@ -67,65 +68,84 @@ DIVISORES_E_UNIDADES = [
    "conduta":"A eletiva do fumante não se veta — se agenda: prescrever cessação (aconselhamento + reposição de nicotina) 6–8 semanas antes e marcar depois; documentar. (Florianópolis: HU-UFSC mantém programa de cessação — encaminhar na indicação.)"},
 ]
 
-# ---------- CSS / render ----------
+# ---------- FONTE ÚNICA: specs (compartilhada com build_pptx.js via deck_data.json) ----------
+# CADA slide real (capa/divisor/decisao-ja-dividida) vira 1 dict de spec.
+# build_deck.py (HTML) e build_pptx.js (.pptx) leem os MESMOS specs — editar só CAPA/DIVISORES_E_UNIDADES acima.
+MAXROWS = 4   # letras grandes: no maximo 4 linhas por slide; excedente -> mais um slide (nunca espremer)
+
+def build_specs():
+    specs = [{"kind":"capa", **CAPA}]
+    for it in DIVISORES_E_UNIDADES:
+        if it["tipo"] == "divisor":
+            specs.append({"kind":"divisor", "num":it["num"], "titulo":it["titulo"], "linha":it["linha"]})
+        else:
+            rows = it["rows"]
+            chunks = [rows[i:i+MAXROWS] for i in range(0, len(rows), MAXROWS)] or [[]]
+            for idx, chunk in enumerate(chunks):
+                has_resposta = (idx == 0)
+                is_last = (idx == len(chunks) - 1)
+                specs.append({
+                    "kind": "decisao",
+                    "eyebrow": it["eyebrow"], "tag": it["tag"],
+                    "titulo": it["pergunta"] + ("" if has_resposta else " (continuação)"),
+                    "resposta": it["resposta"] if has_resposta else None,
+                    "rows": [{"rotulo": r, "achado": a, "fonte": f} for (r, a, f) in chunk],
+                    "conduta": it["conduta"] if is_last else None,
+                })
+    return specs
+
+SPECS = build_specs()
+
+# exporta JSON — build_pptx.js le este arquivo para gerar o .pptx com o MESMO conteudo
+json_out = os.path.join(D, "deck_data.json")
+open(json_out, "w", encoding="utf-8").write(json.dumps(SPECS, ensure_ascii=False, indent=1))
+
+# ---------- CSS / render HTML (a partir dos specs) ----------
 def esc(s): return html.escape(str(s), quote=True)
 def q(px): return f"{px/12.8:.4f}cqw"   # 1cqw = 1% da largura do palco (1280px de projeto)
 
-def slide_capa(c):
+def html_capa(s):
     return f"""<section class="slide on" data-frags="0">
-      <div class="t title" style="left:{q(67)};top:{q(212)};width:{q(1150)};font-size:{q(48)};line-height:1.06">{c['titulo']}</div>
-      <div class="t" style="left:{q(69)};top:{q(452)};width:{q(1100)};font-size:{q(32)};color:var(--tealb);font-weight:700">{esc(c['autor'])}</div>
-      <div class="t" style="left:{q(69)};top:{q(514)};width:{q(1100)};font-size:{q(22)};color:var(--body)">{esc(c['evento'])}</div>
+      <div class="t title" style="left:{q(67)};top:{q(212)};width:{q(1150)};font-size:{q(48)};line-height:1.06">{s['titulo']}</div>
+      <div class="t" style="left:{q(69)};top:{q(452)};width:{q(1100)};font-size:{q(32)};color:var(--tealb);font-weight:700">{esc(s['autor'])}</div>
+      <div class="t" style="left:{q(69)};top:{q(514)};width:{q(1100)};font-size:{q(22)};color:var(--body)">{esc(s['evento'])}</div>
     </section>"""
 
-def slide_divisor(d):
+def html_divisor(s):
     return f"""<section class="slide" data-frags="0">
-      <div class="t" style="left:{q(67)};top:{q(210)};font-size:{q(30)};letter-spacing:.06em;color:var(--tealb);font-weight:700">{esc(d['num'])}</div>
-      <div class="t title" style="left:{q(67)};top:{q(258)};width:{q(1120)};font-size:{q(52)};line-height:1.04">{esc(d['titulo'])}</div>
-      <div class="t" style="left:{q(69)};top:{q(430)};width:{q(1050)};font-size:{q(24)};color:var(--body);line-height:1.3">{esc(d['linha'])}</div>
+      <div class="t" style="left:{q(67)};top:{q(210)};font-size:{q(30)};letter-spacing:.06em;color:var(--tealb);font-weight:700">{esc(s['num'])}</div>
+      <div class="t title" style="left:{q(67)};top:{q(258)};width:{q(1120)};font-size:{q(52)};line-height:1.04">{esc(s['titulo'])}</div>
+      <div class="t" style="left:{q(69)};top:{q(430)};width:{q(1050)};font-size:{q(24)};color:var(--body);line-height:1.3">{esc(s['linha'])}</div>
     </section>"""
 
-MAXROWS = 4   # letras grandes: no maximo 4 linhas por slide; excedente -> mais um slide (nunca espremer)
-
-def _decisao_section(u, chunk, has_resposta, is_last):
-    frags = (1 if has_resposta else 0) + len(chunk) + (1 if is_last else 0)
+def html_decisao(s):
+    has_resposta = s["resposta"] is not None
+    is_last = s["conduta"] is not None
+    frags = (1 if has_resposta else 0) + len(s["rows"]) + (1 if is_last else 0)
     parts = []
-    titulo = u["pergunta"] + ("" if has_resposta else " (continuação)")
-    parts.append(f'<div class="t" style="left:{q(67)};top:{q(40)};font-size:{q(20)};letter-spacing:.05em;color:var(--tealb);font-weight:700">{esc(u["eyebrow"])} · {esc(u["tag"])}</div>')
-    parts.append(f'<div class="t title" style="left:{q(67)};top:{q(74)};width:{q(1150)};font-size:{q(37)};line-height:1.05">{esc(titulo)}</div>')
+    parts.append(f'<div class="t" style="left:{q(67)};top:{q(40)};font-size:{q(20)};letter-spacing:.05em;color:var(--tealb);font-weight:700">{esc(s["eyebrow"])} · {esc(s["tag"])}</div>')
+    parts.append(f'<div class="t title" style="left:{q(67)};top:{q(74)};width:{q(1150)};font-size:{q(37)};line-height:1.05">{esc(s["titulo"])}</div>')
     if has_resposta:
-        parts.append(f'<div class="t tag frag" style="left:{q(67)};top:{q(162)};width:{q(1146)};font-size:{q(23)}">{esc(u["resposta"])}</div>')
+        parts.append(f'<div class="t tag frag" style="left:{q(67)};top:{q(162)};width:{q(1146)};font-size:{q(23)}">{esc(s["resposta"])}</div>')
         y0 = 252
     else:
         y0 = 172
     rowh = 90
     y = y0
-    for (rotulo, achado, fonte) in chunk:
+    for r in s["rows"]:
         parts.append(
           f'<div class="t frag rowcard" style="left:{q(67)};top:{q(y)};width:{q(1146)}">'
-          f'<span class="rlabel" style="font-size:{q(21)}"><b>{esc(rotulo)}</b> — {esc(achado)}</span>'
-          f'<span class="rsrc" style="font-size:{q(15.5)}">{esc(fonte)}</span>'
+          f'<span class="rlabel" style="font-size:{q(21)}"><b>{esc(r["rotulo"])}</b> — {esc(r["achado"])}</span>'
+          f'<span class="rsrc" style="font-size:{q(15.5)}">{esc(r["fonte"])}</span>'
           f'</div>')
         y += rowh
     if is_last:
         cy = max(y + 14, 632)
-        parts.append(f'<div class="t conduta frag" style="left:{q(67)};top:{q(cy)};width:{q(1146)};font-size:{q(18.5)}"><b style="color:var(--tealb)">Conduta:</b> {esc(u["conduta"])}</div>')
+        parts.append(f'<div class="t conduta frag" style="left:{q(67)};top:{q(cy)};width:{q(1146)};font-size:{q(18.5)}"><b style="color:var(--tealb)">Conduta:</b> {esc(s["conduta"])}</div>')
     return f'<section class="slide" data-frags="{frags}">' + "".join(parts) + '</section>'
 
-def slides_decisao(u):
-    rows = u["rows"]
-    chunks = [rows[i:i+MAXROWS] for i in range(0, len(rows), MAXROWS)] or [[]]
-    out = []
-    for idx, chunk in enumerate(chunks):
-        out.append(_decisao_section(u, chunk, has_resposta=(idx==0), is_last=(idx==len(chunks)-1)))
-    return out
-
-SLIDES = [slide_capa(CAPA)]
-for it in DIVISORES_E_UNIDADES:
-    if it["tipo"]=="divisor":
-        SLIDES.append(slide_divisor(it))
-    else:
-        SLIDES.extend(slides_decisao(it))
+RENDER = {"capa": html_capa, "divisor": html_divisor, "decisao": html_decisao}
+SLIDES = [RENDER[s["kind"]](s) for s in SPECS]
 
 HTML = f"""<title>Palestra ATQ — Planejamento</title>
 <style>
