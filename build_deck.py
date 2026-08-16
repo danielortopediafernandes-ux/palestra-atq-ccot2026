@@ -2,7 +2,7 @@
 # Deck da palestra ATQ — design escuro CCOT, letras grandes, aparecer-ao-clique.
 # Conteudo 1:1 do CAPITULO.md (fonte da verdade da sessao de conteudo). NAO alterar/resumir aqui.
 # Escala 100% via CSS (cqw) — sem JS de dimensionamento (robusto no GitHub Pages).
-import os, html, json
+import os, html, json, base64
 D = os.path.dirname(__file__)
 
 # ---------- MODELO DE CONTEUDO (transcricao fiel do CAPITULO.md) ----------
@@ -29,6 +29,9 @@ DIVISORES_E_UNIDADES = [
      ("Estratégia","pele OR 0,43 · combinada OR 0,48; universal ≈ dirigida por rastreio","Henkelmann 2026 · meta 19 estudos · 64.796 pac · PMID 41652612"),
      ("Limite honesto","portador de MRSA mantém risco residual — PJI OR 2,42","Javidmehr 2026 · meta 15 estudos · 318.487 pac · PMID 42520992"),
    ],
+   "figs":[
+     {"arquivo":"_figuras/0.1_henkelmann_descolonizacao.png","credito":"Adaptado de Henkelmann 2026 · CC BY 4.0"},
+   ],
    "conduta":"Mupirocina nasal + banho de clorexidina no pré-op da eletiva (o protocolo universal dispensa o rastreio); no portador de MRSA, vigilância reforçada."},
 
   {"tipo":"decisao", "eyebrow":"DECISÃO 0 · O PACIENTE", "tag":"0.2",
@@ -40,6 +43,9 @@ DIVISORES_E_UNIDADES = [
      ("Quando medir","pico glicêmico às 21 h do dia da cirurgia (65% hiperglicêmicos); a coleta da manhã seguinte subestima","Varady 2019 · J Arthroplasty · 314 pac · PMID 30704771"),
      ("Marcador pré-op melhor","frutosamina > 293 µmol/L → infecção periprotética 11,2×","Shohat 2019 · PMID 31256656"),
      ("Risco basal do diabético","PJI 2,39% × 1,46% do não-diabético","Kheir 2018 · JBJS · PMID 30106824"),
+   ],
+   "figs":[
+     {"arquivo":"_figuras/0.2_glicemia_137.svg","credito":"Dados: Kheir 2018 · JBJS · PMID 30106824"},
    ],
    "conduta":"Não adiar por HbA1c isolada; planejar o controle glicêmico perioperatório com alvo < 137 mg/dL, medindo na noite da cirurgia (21 h); onde disponível, frutosamina > 293 µmol/L prediz infecção."},
 
@@ -55,6 +61,10 @@ DIVISORES_E_UNIDADES = [
      ("Confirmação em meta","ferro pré-op no anêmico: transfusão RR 0,61 (IC 0,50–0,73)","meta BMJ Open 2020 · PMID 33130561"),
      ("O intermediário (mecanismo — NÃO é o desfecho)","Hb na admissão 12,2 → 13,4 g/dL; anemia corrigida em 79%","Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"),
    ],
+   "figs":[
+     {"arquivo":"_figuras/0.3_zhang_prevalencia.png","credito":"Adaptado de Zhang 2024 · CC BY 4.0"},
+     {"arquivo":"_figuras/0.3_transfusao_24_4.svg","credito":"Dados: Pinilla-Gracia 2020 · PMID 32281924"},
+   ],
    "conduta":"Hemograma na indicação; Hb < 13 g/dL → investigar (perfil de ferro) e tratar antes de agendar — ferro IV (carboximaltose 1.000 mg) quando faltam ≤ 4 semanas ou há intolerância/má absorção oral; reavaliar a Hb na admissão."},
 
   {"tipo":"decisao", "eyebrow":"DECISÃO 0 · O PACIENTE", "tag":"0.4",
@@ -65,6 +75,9 @@ DIVISORES_E_UNIDADES = [
      ("Infecção no detalhe","PJI: fumante atual OR 2,16 · ex-fumante OR 1,52 — parar reduz de forma mensurável","Bedard 2018 · meta 14 estudos · PMID 30385090"),
      ("O que a cessação recupera (nível 1)","intervenção 6–8 sem antes: complicações 52% → 18% (P = 0,0003) · ferida 31% → 5% · reoperação 15% → 4%","Møller 2002 · RCT · Lancet · 120 pac · PMID 11809253"),
    ],
+   "figs":[
+     {"arquivo":"_figuras/0.4_complicacoes_52_18.svg","credito":"Dados: Møller 2002 · Lancet · PMID 11809253"},
+   ],
    "conduta":"A eletiva do fumante não se veta — se agenda: prescrever cessação (aconselhamento + reposição de nicotina) 6–8 semanas antes e marcar depois; documentar. (Florianópolis: HU-UFSC mantém programa de cessação — encaminhar na indicação.)"},
 ]
 
@@ -72,6 +85,7 @@ DIVISORES_E_UNIDADES = [
 # CADA slide real (capa/divisor/decisao-ja-dividida) vira 1 dict de spec.
 # build_deck.py (HTML) e build_pptx.js (.pptx) leem os MESMOS specs — editar só CAPA/DIVISORES_E_UNIDADES acima.
 MAXROWS = 4   # letras grandes: no maximo 4 linhas por slide; excedente -> mais um slide (nunca espremer)
+MAXROWS_FIG = 3   # slide com figura cabe menos linha (a figura ocupa a coluna direita)
 
 def build_specs():
     specs = [{"kind":"capa", **CAPA}]
@@ -80,18 +94,23 @@ def build_specs():
             specs.append({"kind":"divisor", "num":it["num"], "titulo":it["titulo"], "linha":it["linha"]})
         else:
             rows = it["rows"]
-            chunks = [rows[i:i+MAXROWS] for i in range(0, len(rows), MAXROWS)] or [[]]
+            figs = it.get("figs")
+            maxrows = MAXROWS_FIG if figs else MAXROWS
+            chunks = [rows[i:i+maxrows] for i in range(0, len(rows), maxrows)] or [[]]
             for idx, chunk in enumerate(chunks):
                 has_resposta = (idx == 0)
                 is_last = (idx == len(chunks) - 1)
-                specs.append({
+                spec = {
                     "kind": "decisao",
                     "eyebrow": it["eyebrow"], "tag": it["tag"],
                     "titulo": it["pergunta"] + ("" if has_resposta else " (continuação)"),
                     "resposta": it["resposta"] if has_resposta else None,
                     "rows": [{"rotulo": r, "achado": a, "fonte": f} for (r, a, f) in chunk],
                     "conduta": it["conduta"] if is_last else None,
-                })
+                }
+                if figs and idx < len(figs) and figs[idx]:
+                    spec["fig"] = figs[idx]
+                specs.append(spec)
     return specs
 
 SPECS = build_specs()
@@ -118,10 +137,23 @@ def html_divisor(s):
       <div class="t" style="left:{q(69)};top:{q(430)};width:{q(1050)};font-size:{q(24)};color:var(--body);line-height:1.3">{esc(s['linha'])}</div>
     </section>"""
 
+def fig_data_uri(arquivo):
+    ext = os.path.splitext(arquivo)[1].lower()
+    raw = open(os.path.join(D, arquivo), "rb").read()
+    mime = "image/png" if ext == ".png" else "image/svg+xml"
+    return f"data:{mime};base64," + base64.b64encode(raw).decode()
+
+def fig_card(fig, top):
+    return (f'<div class="t frag" style="left:{q(792)};top:{q(top)};width:{q(420)};display:flex;flex-direction:column;align-items:center;gap:{q(10)}">'
+            f'<img src="{fig_data_uri(fig["arquivo"])}" alt="" style="width:{q(420)};height:{q(300)};object-fit:contain;border-radius:{q(8)};box-shadow:0 {q(6)} {q(16)} rgba(0,0,0,.4)">'
+            f'<div style="font-size:{q(11.5)};color:var(--mut);font-style:italic;line-height:1.25;text-align:center;width:{q(420)}">{esc(fig["credito"])}</div>'
+            f'</div>')
+
 def html_decisao(s):
     has_resposta = s["resposta"] is not None
     is_last = s["conduta"] is not None
-    frags = (1 if has_resposta else 0) + len(s["rows"]) + (1 if is_last else 0)
+    fig = s.get("fig")
+    frags = (1 if has_resposta else 0) + len(s["rows"]) + (1 if fig else 0) + (1 if is_last else 0)
     parts = []
     parts.append(f'<div class="t" style="left:{q(67)};top:{q(40)};font-size:{q(20)};letter-spacing:.05em;color:var(--tealb);font-weight:700">{esc(s["eyebrow"])} · {esc(s["tag"])}</div>')
     parts.append(f'<div class="t title" style="left:{q(67)};top:{q(74)};width:{q(1150)};font-size:{q(37)};line-height:1.05">{esc(s["titulo"])}</div>')
@@ -130,15 +162,18 @@ def html_decisao(s):
         y0 = 252
     else:
         y0 = 172
-    rowh = 90
+    row_w = 690 if fig else 1146
+    rowh = 100 if fig else 90
     y = y0
     for r in s["rows"]:
         parts.append(
-          f'<div class="t frag rowcard" style="left:{q(67)};top:{q(y)};width:{q(1146)}">'
+          f'<div class="t frag rowcard" style="left:{q(67)};top:{q(y)};width:{q(row_w)}">'
           f'<span class="rlabel" style="font-size:{q(21)}"><b>{esc(r["rotulo"])}</b> — {esc(r["achado"])}</span>'
           f'<span class="rsrc" style="font-size:{q(15.5)}">{esc(r["fonte"])}</span>'
           f'</div>')
         y += rowh
+    if fig:
+        parts.append(fig_card(fig, y0))
     if is_last:
         cy = max(y + 14, 632)
         parts.append(f'<div class="t conduta frag" style="left:{q(67)};top:{q(cy)};width:{q(1146)};font-size:{q(18.5)}"><b style="color:var(--tealb)">Conduta:</b> {esc(s["conduta"])}</div>')

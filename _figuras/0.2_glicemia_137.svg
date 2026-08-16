@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <rect width="400" height="280" rx="14" fill="#3E4E5A"/>
+  <text x="30" y="44" font-family="-apple-system,Arial" font-size="16" font-weight="700" fill="#D6DEE4" letter-spacing="0.6">ALVO GLICÊMICO PERIOPERATÓRIO</text>
+  <text x="30" y="124" font-family="-apple-system,Arial" font-size="92" font-weight="800" fill="#35B3A3">137</text>
+  <text x="184" y="116" font-family="-apple-system,Arial" font-size="30" font-weight="700" fill="#FFFFFF">mg/dL</text>
+  <text x="30" y="152" font-family="-apple-system,Arial" font-size="15" fill="#D6DEE4">risco de infecção sobe a partir de 115 mg/dL</text>
+  <line x1="30" y1="174" x2="370" y2="174" stroke="#2A363E" stroke-width="1"/>
+  <text x="30" y="202" font-family="-apple-system,Arial" font-size="14" fill="#A6B2BC">HbA1c corte 7% — não prevê (P = 0,50)</text>
+  <text x="30" y="228" font-family="-apple-system,Arial" font-size="14" fill="#35B3A3" font-weight="700">glicemia perioperatória — prevê</text>
+  <text x="30" y="262" font-family="-apple-system,Arial" font-size="11.5" fill="#A6B2BC" font-style="italic">Dados: Kheir 2018 · JBJS · PMID 30106824</text>
+</svg>

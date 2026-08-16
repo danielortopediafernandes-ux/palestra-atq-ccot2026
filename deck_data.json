@@ -32,7 +32,21 @@
     "rotulo": "Estratégia",
     "achado": "pele OR 0,43 · combinada OR 0,48; universal ≈ dirigida por rastreio",
     "fonte": "Henkelmann 2026 · meta 19 estudos · 64.796 pac · PMID 41652612"
-   },
+   }
+  ],
+  "conduta": null,
+  "fig": {
+   "arquivo": "_figuras/0.1_henkelmann_descolonizacao.png",
+   "credito": "Adaptado de Henkelmann 2026 · CC BY 4.0"
+  }
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.1",
+  "titulo": "Descolonizar Staphylococcus aureus? (continuação)",
+  "resposta": null,
+  "rows": [
    {
     "rotulo": "Limite honesto",
     "achado": "portador de MRSA mantém risco residual — PJI OR 2,42",
@@ -62,14 +76,13 @@
     "rotulo": "Quando medir",
     "achado": "pico glicêmico às 21 h do dia da cirurgia (65% hiperglicêmicos); a coleta da manhã seguinte subestima",
     "fonte": "Varady 2019 · J Arthroplasty · 314 pac · PMID 30704771"
-   },
-   {
-    "rotulo": "Marcador pré-op melhor",
-    "achado": "frutosamina > 293 µmol/L → infecção periprotética 11,2×",
-    "fonte": "Shohat 2019 · PMID 31256656"
    }
   ],
-  "conduta": null
+  "conduta": null,
+  "fig": {
+   "arquivo": "_figuras/0.2_glicemia_137.svg",
+   "credito": "Dados: Kheir 2018 · JBJS · PMID 30106824"
+  }
  },
  {
   "kind": "decisao",
@@ -78,6 +91,11 @@
   "titulo": "Diabético: controlar a HbA1c ou a glicemia da cirurgia? (continuação)",
   "resposta": null,
   "rows": [
+   {
+    "rotulo": "Marcador pré-op melhor",
+    "achado": "frutosamina > 293 µmol/L → infecção periprotética 11,2×",
+    "fonte": "Shohat 2019 · PMID 31256656"
+   },
    {
     "rotulo": "Risco basal do diabético",
     "achado": "PJI 2,39% × 1,46% do não-diabético",
@@ -107,14 +125,13 @@
     "rotulo": "A SOLUÇÃO — a intervenção no planejamento",
     "achado": "carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia",
     "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"
-   },
-   {
-    "rotulo": "Por que IV (e não oral)",
-    "achado": "Hb ≥ 12 g/dL em 42,3% × 23,5% do oral (P = 0,04) — vantagem maior no ferropênico e na anemia profunda",
-    "fonte": "Bisbe 2014 · RCT · Br J Anaesth · PMID 24780615"
    }
   ],
-  "conduta": null
+  "conduta": null,
+  "fig": {
+   "arquivo": "_figuras/0.3_zhang_prevalencia.png",
+   "credito": "Adaptado de Zhang 2024 · CC BY 4.0"
+  }
  },
  {
   "kind": "decisao",
@@ -124,6 +141,11 @@
   "resposta": null,
   "rows": [
    {
+    "rotulo": "Por que IV (e não oral)",
+    "achado": "Hb ≥ 12 g/dL em 42,3% × 23,5% do oral (P = 0,04) — vantagem maior no ferropênico e na anemia profunda",
+    "fonte": "Bisbe 2014 · RCT · Br J Anaesth · PMID 24780615"
+   },
+   {
     "rotulo": "FAZ DIFERENÇA — o desfecho",
     "achado": "transfusão 24% → 4% (P = 0,001) · internação 7 → 6 dias · alta p/ casa 47% → 74%",
     "fonte": "Pinilla-Gracia 2020 · Blood Transfus · PMID 32281924"
@@ -132,7 +154,21 @@
     "rotulo": "Confirmação em meta",
     "achado": "ferro pré-op no anêmico: transfusão RR 0,61 (IC 0,50–0,73)",
     "fonte": "meta BMJ Open 2020 · PMID 33130561"
-   },
+   }
+  ],
+  "conduta": null,
+  "fig": {
+   "arquivo": "_figuras/0.3_transfusao_24_4.svg",
+   "credito": "Dados: Pinilla-Gracia 2020 · PMID 32281924"
+  }
+ },
+ {
+  "kind": "decisao",
+  "eyebrow": "DECISÃO 0 · O PACIENTE",
+  "tag": "0.3",
+  "titulo": "Anemia: o que é, como tratar e o que muda? (continuação)",
+  "resposta": null,
+  "rows": [
    {
     "rotulo": "O intermediário (mecanismo — NÃO é o desfecho)",
     "achado": "Hb na admissão 12,2 → 13,4 g/dL; anemia corrigida em 79%",
@@ -164,6 +200,10 @@
     "fonte": "Møller 2002 · RCT · Lancet · 120 pac · PMID 11809253"
    }
   ],
-  "conduta": "A eletiva do fumante não se veta — se agenda: prescrever cessação (aconselhamento + reposição de nicotina) 6–8 semanas antes e marcar depois; documentar. (Florianópolis: HU-UFSC mantém programa de cessação — encaminhar na indicação.)"
+  "conduta": "A eletiva do fumante não se veta — se agenda: prescrever cessação (aconselhamento + reposição de nicotina) 6–8 semanas antes e marcar depois; documentar. (Florianópolis: HU-UFSC mantém programa de cessação — encaminhar na indicação.)",
+  "fig": {
+   "arquivo": "_figuras/0.4_complicacoes_52_18.svg",
+   "credito": "Dados: Møller 2002 · Lancet · PMID 11809253"
+  }
  }
 ]

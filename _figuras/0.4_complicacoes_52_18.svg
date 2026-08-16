@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <rect width="400" height="280" rx="14" fill="#3E4E5A"/>
+  <text x="30" y="44" font-family="-apple-system,Arial" font-size="16" font-weight="700" fill="#D6DEE4" letter-spacing="0.6">COMPLICAÇÕES NO FUMANTE (RCT)</text>
+  <text x="30" y="80" font-family="-apple-system,Arial" font-size="14" fill="#A6B2BC">Sem cessação</text>
+  <rect x="30" y="88" width="300" height="24" rx="6" fill="#2A363E"/>
+  <rect x="30" y="88" width="156" height="24" rx="6" fill="#8A97A1"/>
+  <text x="192" y="105" font-family="-apple-system,Arial" font-size="14" font-weight="700" fill="#FFFFFF">52%</text>
+  <text x="30" y="154" font-family="-apple-system,Arial" font-size="14" fill="#D6DEE4">Cessação 6–8 sem</text>
+  <rect x="30" y="162" width="300" height="24" rx="6" fill="#2A363E"/>
+  <rect x="30" y="162" width="54" height="24" rx="6" fill="#35B3A3"/>
+  <text x="94" y="179" font-family="-apple-system,Arial" font-size="14" font-weight="700" fill="#35B3A3">18%</text>
+  <text x="30" y="226" font-family="-apple-system,Arial" font-size="14" fill="#35B3A3" font-weight="700">cessação 6–8 sem · P = 0,0003</text>
+  <text x="30" y="262" font-family="-apple-system,Arial" font-size="11.5" fill="#A6B2BC" font-style="italic">Dados: Møller 2002 · Lancet · PMID 11809253</text>
+</svg>
