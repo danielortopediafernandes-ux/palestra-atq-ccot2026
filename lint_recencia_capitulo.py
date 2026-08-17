@@ -78,7 +78,12 @@ def main():
         if cols[0].lower().startswith("evidência") or cols[0].lower().startswith("decisão"):
             continue  # cabeçalho
         fonte = cols[-1]
-        anos = [int(a) for a in RE_ANO.findall(fonte)]
+        # A justificativa é prosa livre e costuma citar anos ("busca 2021-2026 não
+        # achou..."). Se extrairmos o ano dela, o fiscal se engana com o próprio
+        # texto que está julgando. Então: ano SÓ da parte anterior à justificativa.
+        m_just = RE_JUST.search(fonte)
+        fonte_citacao = fonte[:m_just.start()] if m_just else fonte
+        anos = [int(a) for a in RE_ANO.findall(fonte_citacao)]
         # PMIDs são números de 8 dígitos — RE_ANO não os pega, mas anos dentro de
         # URLs de PMID não existem, então a extração é segura.
         item = {
@@ -94,7 +99,7 @@ def main():
             avisos.append(item)
         elif max(anos) >= LIMIAR:
             ok += 1
-        elif RE_JUST.search(fonte):
+        elif m_just:
             justificados.append(item)
         else:
             bloqueios.append(item)
