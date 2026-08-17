@@ -3,3 +3,6 @@ node_modules/
 deck.pdf
 slide-*.jpg
 _figuras/_png_cache/
+
+# PDFs de artigos/consenso (copyright) — nunca no repo publico; ficam locais + Syncthing/restic
+*.pdf

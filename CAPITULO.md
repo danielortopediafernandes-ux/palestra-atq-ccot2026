@@ -32,11 +32,57 @@ Toda a lógica deste capítulo repousa numa distinção:
 
 A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo técnico; os desfechos clínicos são modificados por decisões simples, de baixo custo, tomadas antes da incisão.**
 
-**Mini-glossário** (definições para leitura autônoma):
-- **PROM** *(patient-reported outcome measure)*: questionário de desfecho respondido pelo próprio paciente (ex.: Oxford Hip Score, HOOS).
-- **MCID** *(minimal clinically important difference)*: a menor diferença que o paciente percebe como relevante. Diferença estatística abaixo do MCID não é ganho clínico.
-- **SMD** *(standardized mean difference)*: diferença entre grupos em unidades de desvio-padrão; 0 = nenhuma diferença; 0,2 já é considerado efeito pequeno.
-- **OR / RR / HR:** razões de chance, de risco e de risco instantâneo; < 1 favorece o grupo tratado, 1,00 = nenhuma diferença.
+**Glossário de siglas** — toda sigla do capítulo tem seu significado aqui (e aparece por extenso na primeira ocorrência do texto):
+
+*Medidas de desfecho e função*
+- **PROM** *(patient-reported outcome measure)* — desfecho relatado pelo próprio paciente (ex.: Oxford Hip Score, HOOS).
+- **MCID** *(minimal clinically important difference)* — a menor diferença que o paciente percebe como relevante. Abaixo do MCID, diferença estatística não é ganho clínico.
+- **SCB** *(substantial clinical benefit)* — limiar de melhora que o paciente considera grande.
+- **PASS** *(patient acceptable symptom state)* — pontuação a partir da qual o paciente se considera "bem".
+- **OHS** (Oxford Hip Score) — escore funcional do quadril, 0–48 (maior = melhor).
+- **HHS** (Harris Hip Score) — escore funcional do quadril, 0–100 (maior = melhor).
+- **HOOS / HOOS-JR** (Hip disability and Osteoarthritis Outcome Score) — escore funcional do quadril; **-JR** = versão reduzida.
+- **FJS-12** (Forgotten Joint Score) — escore de "esquecimento" da articulação, 0–100 (maior = o paciente "esquece" que tem a prótese).
+- **UCLA** — escore de atividade física (0–10; maior = mais ativo).
+
+*Estatística e desenho de estudo*
+- **RCT** *(randomized controlled trial)* — ensaio clínico randomizado (nível 1 de evidência).
+- **OR / RR / HR** — razão de chance, razão de risco e razão de risco instantâneo; < 1 favorece o grupo tratado, 1,00 = nenhuma diferença.
+- **IC** — intervalo de confiança (95% quando não indicado).
+- **SMD** *(standardized mean difference)* — diferença de média padronizada (0 = nenhuma; 0,2 = efeito pequeno).
+- **ICC** *(intraclass correlation coefficient)* — coeficiente de correlação intraclasse (concordância; 1,00 = perfeita).
+- **IRR** *(incidence rate ratio)* — razão de incidência.
+- **ITT** *(intention to treat)* — análise por intenção de tratar.
+- **NS / n.s.** — não significativo estatisticamente.
+- **NRS** *(non-randomized studies)* — estudos não randomizados.
+- **GRADE** — sistema de graduação da qualidade da evidência.
+
+*Diagnóstico e clínica geral*
+- **ATQ** — artroplastia total do quadril. **ATJ** — artroplastia total do joelho.
+- **TEV** — tromboembolismo venoso. **TVP** — trombose venosa profunda. **EP / TEP** — embolia (tromboembolismo) pulmonar.
+- **PJI** *(periprosthetic joint infection)* — infecção articular periprotética.
+- **SSI** *(surgical site infection)* — infecção do sítio cirúrgico.
+- **MRSA / MSSA** — *Staphylococcus aureus* resistente / sensível à meticilina.
+- **ASA** — classificação de risco anestésico da *American Society of Anesthesiologists* (ASA > 2 = comorbidade relevante).
+- **DPOC** — doença pulmonar obstrutiva crônica. **AVC** — acidente vascular cerebral.
+- **IV** — intravenoso. **TXA** — ácido tranexâmico. **AAS** — ácido acetilsalicílico (aspirina). **PVP-I** — povidona-iodada. **HbA1c** — hemoglobina glicada.
+- **TC** — tomografia computadorizada. **RX** — radiografia. **IA** — inteligência artificial.
+- **ICM** — *International Consensus Meeting* (aqui, o consenso internacional de infecção musculoesquelética).
+- **PENG** — bloqueio do grupo de nervos pericapsulares do quadril (anestesia *motor-sparing*).
+
+*Implante e biomecânica*
+- **DM** — dupla mobilidade (taça de articulação dupla contra luxação).
+- **XLPE** *(highly cross-linked polyethylene)* — polietileno reticulado.
+- **ARMD** *(adverse reaction to metal debris)* — reação a partículas metálicas (corrosão/desgaste do *trunnion*).
+- **BCIS** — síndrome de implantação do cimento ósseo (colapso cardiovascular na cimentação).
+- **CSI** *(Combined Sagittal Index)* — índice sagital combinado, o alvo funcional da taça (205–245°).
+- **LLD** *(leg length discrepancy)* — discrepância de comprimento do membro.
+- **GO / FO / AO** — offset global, femoral e acetabular (distâncias de lateralização / centro de rotação).
+- **SGL** — índice que soma a discrepância de comprimento (LLD) com a diferença do offset global numa única medida de restauração coronal.
+- **PSI** — instrumentação paciente-específica (guias impressos personalizados).
+
+*Registros e sociedades (nomes próprios citados na coluna Fonte)*
+- **NJR** — National Joint Registry (Inglaterra/Gales). **AJRR** — American Joint Replacement Registry (EUA). **AOANJRR** — registro australiano. **NARA** — registro nórdico. **ICOR** — consórcio internacional de registros. **AAOS** — American Academy of Orthopaedic Surgeons. **ACCP** — American College of Chest Physicians.
 
 ---
 
@@ -56,7 +102,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| ICM 2025 · G4 · resposta oficial | *"**Yes.** The use of preoperative skin decolonization reduces the incidence of postoperative surgical site infections in patients undergoing major orthopaedic surgery"* · **Força: Moderada** · Votação: 79% concordam · 11% discordam · 10% abstenção | ICM 2025 · G4 (Ng, Bos, Hofstaetter, Palacio, Alzate, Yayac, Mont) · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_10273376285a4e658c0b8a7e258f00c9.pdf) · Veltman 2026 · Acta Orthop · [PMID 42466967](https://pubmed.ncbi.nlm.nih.gov/42466967/) |
+| ICM 2025 · G4 · resposta oficial | *"**Yes.** The use of preoperative skin decolonization reduces the incidence of postoperative surgical site infections in patients undergoing major orthopaedic surgery"* · **Força: Moderada** · Votação: 79% concordam · 11% discordam · 10% abstenção | ICM 2025 · G4 (Ng, Bos, Hofstaetter, Palacio, Alzate, Yayac, Mont) · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_10273376285a4e658c0b8a7e258f00c9.pdf) |
 | Coorte prospectiva com clorexidina 2% (5 dias) + mupirocina no portador | SSI **0,19% × 0,45%** (P = 0,0093) — 7.338 pacientes | citado em G4 |
 | Coorte com toalhetes de clorexidina | SSI **1,1% × 3,8%** (P = 0,02) — 709 pacientes | citado em G4 |
 | Coorte 2 anos, ATQ eletiva (clorexidina + mupirocina intranasal) | **zero** SSI estafilocócica × 19 em 321 controles | citado em G4 (Rao) |
@@ -112,13 +158,14 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| O que é anemia (na eletiva) | **Hb < 13 g/dL** — critério do protocolo de otimização em ATQ e do consenso internacional de manejo perioperatório | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) · [DOI](https://doi.org/10.2450/2020.0057-20) · Muñoz 2017 · consenso internacional · Anaesthesia · [PMID 27996086](https://pubmed.ncbi.nlm.nih.gov/27996086/) · [DOI](https://doi.org/10.1111/anae.13773) |
-| Quantos chegam assim | **22%** dos candidatos a artroplastia | meta 2024 · 369.101 pac · [PMID 38637795](https://pubmed.ncbi.nlm.nih.gov/38637795/) · [DOI](https://doi.org/10.1186/s13018-024-04706-y) |
-| O tratamento (protocolo publicado) | **carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia** | Pinilla-Gracia 2020 |
-| Quanto melhora | Hb na admissão **12,2 → 13,4 g/dL**; anemia corrigida em **79%** dos pacientes | Pinilla-Gracia 2020 |
-| O que reduz | transfusão **24% → 4%** (P = 0,001) · internação **7 → 6 dias** · alta direto para casa **47% → 74%** | Pinilla-Gracia 2020 |
-| Confirmação em meta | ferro pré-operatório no anêmico: transfusão **RR 0,61** (IC 0,50–0,73) | meta BMJ Open 2020 · [PMID 33130561](https://pubmed.ncbi.nlm.nih.gov/33130561/) · [DOI](https://doi.org/10.1136/bmjopen-2019-036592) |
-| IV × oral | ferro IV atinge Hb ≥ 12 g/dL em **42,3% × 23,5%** do oral (P = 0,04) — vantagem maior no ferropênico e na anemia mais profunda | Bisbe 2014 · RCT · Br J Anaesth · [PMID 24780615](https://pubmed.ncbi.nlm.nih.gov/24780615/) · [DOI](https://doi.org/10.1093/bja/aeu092) |
+| **GATILHO — o que é anemia na eletiva** | **Hb < 13 g/dL** (mesmo alvo para homem e mulher — protocolo de otimização em ATQ + consenso internacional) | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) · Muñoz 2017 · Anaesthesia · [PMID 27996086](https://pubmed.ncbi.nlm.nih.gov/27996086/) |
+| **Quem chega assim** | **22%** dos candidatos a artroplastia | meta 2024 · 369.101 pac · [PMID 38637795](https://pubmed.ncbi.nlm.nih.gov/38637795/) |
+| **A SOLUÇÃO — a intervenção no planejamento** | **carboximaltose férrica IV 1.000 mg ± epoetina-α 40.000 UI, 4 semanas antes da cirurgia** | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) |
+| **Por que IV (e não oral) — RCT pré-op** | ferro IV × oral → transfusão **1,1% × 9,4%** (P = 0,01) — ensaio em artroplastia total do joelho | Lee 2026 · Indian J Orthop · [PMID 42261422](https://pubmed.ncbi.nlm.nih.gov/42261422/) |
+| **Por que IV (e não oral) — correção de anemia** | ferro IV atinge Hb ≥ 12 g/dL em **42,3% × 23,5%** do oral (P = 0,04) — ensaio em anemia **pós**-operatória de artroplastia | Bisbe 2014 · RCT · Br J Anaesth · [PMID 24780615](https://pubmed.ncbi.nlm.nih.gov/24780615/) |
+| **FAZ DIFERENÇA — o desfecho** | transfusão **24% → 4%** (P = 0,001) · internação **7 → 6 dias** · alta direto para casa **47% → 74%** | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) |
+| **Confirmação em meta** | ferro pré-operatório no anêmico: transfusão **RR 0,61** (IC 0,50–0,73) | meta BMJ Open 2020 · [PMID 33130561](https://pubmed.ncbi.nlm.nih.gov/33130561/) |
+| **O intermediário (mecanismo — NÃO é o desfecho)** | Hb na admissão **12,2 → 13,4 g/dL**; anemia corrigida em **79%** dos pacientes | Pinilla-Gracia 2020 · Blood Transfus · [PMID 32281924](https://pubmed.ncbi.nlm.nih.gov/32281924/) |
 
 **CONDUTA:** hemograma na indicação cirúrgica; **Hb < 13 g/dL → investigar (perfil de ferro) e tratar antes de agendar** — ferro IV (carboximaltose 1.000 mg) quando faltam ≤ 4 semanas ou há intolerância/má absorção oral; reavaliar a Hb na admissão.
 
@@ -132,11 +179,12 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 |---|---|---|
 | Não é só infecção — é sistêmico | fumante × não-fumante: complicações totais **1,41** · ferida **1,77** · infecção periprotética **1,84** · soltura asséptica **1,62** · **revisão 2,12** · pneumonia 2,35 · AVC 2,22 · parada cardíaca 4,90 · sepse 4,35 · **mortalidade hospitalar 12,37** · opioide persistente 1,64 · PROMs piores em 1 ano | Yue 2022 · meta 40 estudos · 3.037.683 casos · [PMID 36406352](https://pubmed.ncbi.nlm.nih.gov/36406352/) · [DOI](https://doi.org/10.3389/fsurg.2022.970537) |
 | Infecção no detalhe | PJI: fumante atual **OR 2,16** · ex-fumante **OR 1,52** · atual × ex: OR 1,52 — parar reduz de forma mensurável | Bedard 2018 · meta 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · [DOI](https://doi.org/10.1016/j.arth.2018.09.089) |
+| Efeito independente (pareamento nacional) | fumante → infecção **OR 1,31** (IC 1,15–1,49) · **SEM** associação com mortalidade hospitalar nem outras complicações maiores | Tanaka 2026 · Int Orthop · 105.102 pac (52.551/grupo) · [PMID 41667730](https://pubmed.ncbi.nlm.nih.gov/41667730/) |
 | O que a cessação recupera (nível 1) | intervenção **6–8 semanas antes** da artroplastia (aconselhamento + reposição de nicotina): complicações **52% → 18%** (P = 0,0003) · ferida **31% → 5%** (P = 0,001) · reoperação 15% → 4% · internação 13 → 11 dias | Møller 2002 · RCT · Lancet · 120 pac · [PMID 11809253](https://pubmed.ncbi.nlm.nih.gov/11809253/) · [DOI](https://doi.org/10.1016/S0140-6736(02)07369-5) |
 
 **CONDUTA:** a eletiva do fumante **não se veta — se agenda**: prescrever cessação (aconselhamento + reposição de nicotina) **6–8 semanas antes** e marcar a cirurgia depois desse intervalo; documentar. O fumante que não para segue operável, ciente do risco dobrado de infecção e do perfil sistêmico. *Nota prática (Florianópolis): o Hospital Universitário (HU-UFSC) mantém programa de cessação do tabagismo — encaminhar o paciente na consulta de indicação, alinhando o programa às 6–8 semanas do agendamento.*
 
-**Discussão.** Três respostas em uma. *Posso operar?* Pode — tabagismo não é contraindicação; é risco quantificado. *Qual risco?* Não é só a infecção (OR 1,84): a meta de 3 milhões de casos mostra dano em cadeia — ferida, soltura, revisão dobrada, pneumonia, e uma mortalidade hospitalar de razão 12 (rara em números absolutos, mas eloquente). *E se parar?* Aqui está o dado mais forte de toda a Decisão 0 — e é nível 1: o ensaio do Lancet randomizou fumantes 6–8 semanas antes da artroplastia e as complicações caíram de metade dos pacientes para um em cinco, com a ferida despencando de 31% para 5%. Poucas prescrições em ortopedia compram tanto desfecho quanto essas seis semanas de espera ativa.
+**Discussão.** Três respostas em uma. *Posso operar?* Pode — tabagismo não é contraindicação; é risco quantificado. *Qual risco?* O efeito independente mais sólido é a **infecção** — OR 1,31 num pareamento nacional contemporâneo (52.551 por grupo), que não encontrou associação independente com mortalidade. A meta de 3 milhões de casos pinta um quadro sistêmico mais amplo (ferida, soltura, revisão dobrada, pneumonia, mortalidade hospitalar de razão 12) — mas esses extremos são de metanálise observacional e devem ser lidos como perfil de risco, não como causalidade isolada. *E se parar?* Aqui está o dado mais forte de toda a Decisão 0 — e é nível 1: o ensaio do Lancet randomizou fumantes 6–8 semanas antes da artroplastia e as complicações caíram de metade dos pacientes para um em cinco, com a ferida despencando de 31% para 5%. Poucas prescrições em ortopedia compram tanto desfecho quanto essas seis semanas de espera ativa.
 
 ---
 
@@ -165,11 +213,12 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 | Evidência | Número | Fonte |
 |---|---|---|
 | Acerto do tamanho da taça | 3D **96,9% × 87,1%** 2D | Parisi 2024 · [PMID 39518705](https://pubmed.ncbi.nlm.nih.gov/39518705/) · Bishi 2022 · meta · [PMID 35076413](https://pubmed.ncbi.nlm.nih.gov/35076413/) |
-| PROMs (desfecho do paciente) | **comparáveis** nos 2 ensaios randomizados que sortearam 2D × 3D | Thomas 2022 · RCT · [PMID 36183111](https://pubmed.ncbi.nlm.nih.gov/36183111/) · Pongkunakorn 2025 · RCT · [PMID 40140896](https://pubmed.ncbi.nlm.nih.gov/40140896/) |
+| PROMs (desfecho do paciente) | **sem diferença** no único ensaio randomizado que mediu PROM (2D × 3D) | Thomas 2022 · RCT · [PMID 36183111](https://pubmed.ncbi.nlm.nih.gov/36183111/) |
+| Só acurácia (o outro RCT) | o ensaio de Pongkunakorn mediu **apenas acurácia de dimensionamento** — não sustenta "PROMs comparáveis" | Pongkunakorn 2025 · RCT · [PMID 40140896](https://pubmed.ncbi.nlm.nih.gov/40140896/) |
 
 **CONDUTA:** na artrose de rotina, o templating 2D basta.
 
-**Discussão.** Aqui aparece pela primeira vez o padrão que se repetirá na palestra inteira: a tecnologia melhora o número que **nós** medimos (acurácia de dimensionamento) e não move o número que o **paciente** sente (PROM). Noventa e seis por cento contra oitenta e sete é uma diferença real — de alvo técnico. Os dois ensaios randomizados disponíveis não converteram essa diferença em função. Guardar o padrão: ele é a chave de leitura de tudo que vem a seguir.
+**Discussão.** Aqui aparece pela primeira vez o padrão que se repetirá na palestra inteira: a tecnologia melhora o número que **nós** medimos (acurácia de dimensionamento) e não move o número que o **paciente** sente (PROM). Noventa e seis por cento contra oitenta e sete é uma diferença real — de alvo técnico. A correção de rigor: dos dois ensaios randomizados citados, só um (Thomas 2022) mediu de fato a função; o outro (Pongkunakorn 2025) é um ensaio de **acurácia** — e um ensaio de acurácia não pode ser invocado como prova de "PROMs comparáveis". Guardar o padrão: ele é a chave de leitura de tudo que vem a seguir.
 
 ## [1.3] Impressão 3D (modelo físico) — quando usar?
 
@@ -179,12 +228,12 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 |---|---|---|
 | Cirurgia simulada no modelo impresso (displasia) — concordância do ensaio com a cirurgia real | tamanho da taça: **ICC 0,93**; defeito ósseo medido no ensaio × real: **4,58 × 4,55 cm³** (P = 0,97 — sem diferença) | Zhang 2021 · Orthop Surg · piloto · 17 pacientes · [PMID 34898037](https://pubmed.ncbi.nlm.nih.gov/34898037/) · [DOI](https://doi.org/10.1111/os.13183) |
 | Simulação pré-operatória em Perthes/displasia (Crowe I–II) | taça correta em **100%** dos casos (1 discrepância de haste); ensaio médio de **32 min**; HHS 37,5 → 90,0 | Godoy-Monzón 2025 · Acta Ortop Mex · piloto prospectivo · 22 pacientes · [PMID 40925848](https://pubmed.ncbi.nlm.nih.gov/40925848/) |
-| Reconstrução do centro de rotação na displasia | diferença do centro de rotação **14,5 → 3,8 mm** com planejamento/impressão 3D | Zhao 2025 · [PMID 40368076](https://pubmed.ncbi.nlm.nih.gov/40368076/) |
+| Reconstrução do centro de rotação na displasia | diferença do centro de rotação **14,5 → 3,8 mm** — com **implante acetabular customizado impresso** (não o modelo de planejamento) | Zhao 2025 · [PMID 40368076](https://pubmed.ncbi.nlm.nih.gov/40368076/) |
 | Crowe IV — simulação + guias impressos para osteotomia femoral e taça | HHS 34,2 → 85,2 · discrepância de comprimento 51,5 → 10,2 mm | Tu 2020 · Hip Int · 12 pacientes · [PMID 32750257](https://pubmed.ncbi.nlm.nih.gov/32750257/) · [DOI](https://doi.org/10.1177/1120700020948006) |
 
 **CONDUTA:** indicar o **modelo impresso** na anatomia atípica (displasia/Crowe, deformidade grave, revisão) para ensaiar redução, defeito ósseo, tamanho e posição antes da mesa — não na artrose de rotina.
 
-**Discussão.** São duas tecnologias distintas e a evidência não se mistura: o **3D por imagem** (unidade 1.2) planeja na tela — melhora o dimensionamento, não muda PROM na rotina. A **impressão 3D** produz o osso do paciente na mão: reamar o acetábulo do modelo, testar a taça, medir o defeito, decidir a osteotomia um dia antes de abrir. Os pilotos mostram que o que se encontra no ensaio é o que se encontra na cirurgia (taça ICC 0,93; defeito ósseo P = 0,97). **Honestidade metodológica:** são séries-piloto, sem comparador randomizado — o demonstrado é a fidelidade do ensaio, não superioridade em desfecho clínico.
+**Discussão.** São duas tecnologias distintas e a evidência não se mistura: o **3D por imagem** (unidade 1.2) planeja na tela — melhora o dimensionamento, não muda PROM na rotina. A **impressão 3D** produz o osso do paciente na mão: reamar o acetábulo do modelo, testar a taça, medir o defeito, decidir a osteotomia um dia antes de abrir. Os pilotos mostram que o que se encontra no ensaio é o que se encontra na cirurgia (taça ICC 0,93; defeito ósseo P = 0,97). Atenção a um limite de precisão: o estudo de Zhao que reconstrói o centro de rotação usa **implante customizado impresso** — tecnologia distinta do modelo de planejamento, e não se deve somar as duas como se fossem a mesma coisa. **Honestidade metodológica:** são séries-piloto, sem comparador randomizado — o demonstrado é a fidelidade do ensaio, não superioridade em desfecho clínico.
 
 ## [1.4] Planejar com inteligência artificial — o que é e já serve?
 
@@ -195,11 +244,12 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 | O que é | software que reconstrói o quadril em 3D a partir da TC e prevê por aprendizado de máquina o tamanho de taça e haste | Altahtamouni 2026 · meta · [PMID 41727957](https://pubmed.ncbi.nlm.nih.gov/41727957/) |
 | Acerto do tamanho — IA × 2D | taça **OR 3,85** · haste **OR 3,28** | Altahtamouni 2026 |
 | Onde foi estudada | **8 estudos · 1.371 pacientes · 100% na China** — nível de evidência III | Altahtamouni 2026 |
-| O que mede | apenas acurácia de dimensionamento (desfecho substituto) — não revisão, luxação, função ou satisfação | Altahtamouni 2026 |
+| O que mede (essa meta) | apenas acurácia de dimensionamento (desfecho substituto) | Altahtamouni 2026 |
+| **Quando mede função, fica aquém** | IA/3D no templating: ganho de **HHS +0,73 ponto** — **abaixo do MCID** | Taghavi 2026 · Arthroplasty · meta · [PMID 42547897](https://pubmed.ncbi.nlm.nih.gov/42547897/) |
 
 **CONDUTA:** não adotar fora de validação local; acompanhar a literatura.
 
-**Discussão.** A IA aplicada ao planejamento é o capítulo mais novo da mesma história: prevê o tamanho do implante melhor que o 2D — e isso é tudo o que se sabe. Toda a evidência vem de um único país, sem ensaio randomizado, medindo exclusivamente o alvo técnico. Não é ceticismo contra a ferramenta; é a sequência natural de validação que qualquer tecnologia deve percorrer antes de entrar na rotina.
+**Discussão.** A IA aplicada ao planejamento é o capítulo mais novo da mesma história: prevê o tamanho do implante melhor que o 2D. E quando uma metanálise recente se dispôs a medir a função — e não só o alvo técnico — o ganho veio de +0,73 ponto no Harris Hip Score, abaixo do que o paciente consegue perceber (MCID). A validação de dimensionamento segue concentrada num único país e sem ensaio randomizado. Não é ceticismo contra a ferramenta; é a sequência natural de validação que qualquer tecnologia deve percorrer antes de entrar na rotina.
 
 ---
 
@@ -220,18 +270,19 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [2.2] E os demais desfechos — a robótica muda algum?
 
-**RESPOSTA · Nenhum desfecho clínico.**
+**RESPOSTA · Sinais observacionais 2026 favorecem o robô em luxação e infecção — mas a certeza é baixa e a função não muda.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Revisão | **HR 1,00** (P = 1,00) — sem diferença na sobrevida da prótese | Poyser 2026 · coorte pareada · 268 pares · [PMID 41519489](https://pubmed.ncbi.nlm.nih.gov/41519489/) |
-| Luxação | **OR 1,00** (P = 1,00) | Poyser 2026 |
-| Infecção | **OR 0,75** (P = 0,70) | Poyser 2026 |
-| Função (PROMs) | **SMD 0,01** | Ruangsomboon 2024 · [PMID 38888718](https://pubmed.ncbi.nlm.nih.gov/38888718/) |
+| Sobrevida/revisão (registro nacional) | revisão global **HR 0,947** (P = 0,726) · revisão por luxação HR 0,929 (P = 0,810) — sem diferença | Farhan-Alanie 2025 · NJR · [PMID 41442047](https://pubmed.ncbi.nlm.nih.gov/41442047/) |
+| Luxação (coorte pareada, subdimensionada) | **OR 1,00** (P = 1,00) — 268 pares, poder insuficiente para evento raro | Poyser 2026 · [PMID 41519489](https://pubmed.ncbi.nlm.nih.gov/41519489/) |
+| **Luxação (registro hospitalar ~100 mil)** | robô → **OR 0,57** em 1 ano — sinal emergente | Giannakis 2026 · Premier Database · [PMID 42093134](https://pubmed.ncbi.nlm.nih.gov/42093134/) |
+| **Infecção (registro + meta de 1,83 mi)** | robô → **OR 0,83** (1 ano) · metanálise de 1,83 mi ATQs: **OR 0,77** | Giannakis 2026 · [PMID 42093134](https://pubmed.ncbi.nlm.nih.gov/42093134/) · Zhang 2026 · meta · [PMID 42009981](https://pubmed.ncbi.nlm.nih.gov/42009981/) |
+| Função (PROMs) | **SMD 0,01** — abaixo de qualquer MCID | Ruangsomboon 2024 · [PMID 38888718](https://pubmed.ncbi.nlm.nih.gov/38888718/) |
 
-**CONDUTA:** nenhum desfecho clínico sustenta a adoção.
+**CONDUTA:** nenhum desfecho sustenta adoção por função; luxação e infecção mostram sinal favorável ao robô em bancos observacionais — ainda sem ensaio randomizado que o confirme.
 
-**Discussão.** A coorte pareada moderna responde uma a uma: revisão, luxação e infecção com razões de risco de exatamente 1,00 ou próximas, com valores de P que não deixam margem a leitura otimista. O conjunto é coerente com a metanálise de função — não é um estudo isolado, é um padrão.
+**Discussão.** A frase "nenhum desfecho clínico" era sustentada por uma coorte pareada de 268 pares — poder insuficiente para luxação e infecção, eventos raros. Duas fontes observacionais de 2026 (registro hospitalar de ~100 mil ATQs e metanálise de 1,83 milhão) acendem sinal favorável ao robô nesses desfechos específicos, com a ressalva metodológica de toda base administrativa: resíduo de confundimento e ausência de randomização. A sobrevida em registro nacional segue sem diferença (HR 0,947), e a função permanece travada em zero clínico. Leitura honesta: a robótica deixou de ser "inócua" e passou a "promissora em luxação e infecção, sem prova nível 1".
 
 ## [2.3] O que a robótica de fato alterou?
 
@@ -249,16 +300,17 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [2.4] Navegação e guias personalizados (PSI) mudam o desfecho?
 
-**RESPOSTA · Sem evidência de ganho clínico.**
+**RESPOSTA · Sinal observacional favorável à navegação em complicação mecânica e infecção — mesma ressalva da robótica, sem ensaio randomizado.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Navegação | melhora a medida radiográfica intraoperatória; na displasia, o robô supera a navegação nos ângulos (anteversão 1,3° × 3,3°), mas o posicionamento espacial foi semelhante | Tamaki 2023 · pareado · [PMID 36801090](https://pubmed.ncbi.nlm.nih.gov/36801090/) |
-| Guias personalizados (PSI) | dados escassos no quadril; superioridade clínica não demonstrada | Gauci 2021 · revisão · nível V · [PMID 34838754](https://pubmed.ncbi.nlm.nih.gov/34838754/) |
+| Navegação (registro hospitalar ~100 mil) | **menos complicação mecânica OR 0,63** e **infecção OR 0,46** — nesses desfechos, melhor que o robô | Giannakis 2026 · Premier Database · [PMID 42093134](https://pubmed.ncbi.nlm.nih.gov/42093134/) |
+| Navegação × robô na displasia | o robô supera a navegação nos ângulos (anteversão 1,3° × 3,3°), mas o posicionamento espacial foi semelhante | Tamaki 2024 · pareado · [PMID 36801090](https://pubmed.ncbi.nlm.nih.gov/36801090/) |
+| Guias personalizados (PSI) | dados escassos no quadril; superioridade clínica não demonstrada | Gauci 2022 · revisão · nível V · [PMID 34838754](https://pubmed.ncbi.nlm.nih.gov/34838754/) |
 
-**CONDUTA:** não adotar navegação ou PSI na rotina com expectativa de desfecho.
+**CONDUTA:** não adotar navegação ou PSI na rotina com expectativa de desfecho; acompanhar o sinal observacional da navegação, ainda sem confirmação randomizada.
 
-**Discussão.** As tecnologias intermediárias seguem a mesma regra da robótica, com menos dados: melhoram a medida, não comprovam desfecho. No quadril, o PSI sequer acumulou evidência de acurácia comparável à de outras articulações.
+**Discussão.** As tecnologias intermediárias seguem a mesma regra da robótica: melhoram a medida, não comprovam desfecho — com uma diferença nova. O mesmo registro hospitalar de 2026 que acende o sinal do robô aponta a navegação com números até melhores em complicação mecânica e infecção, o que reforça a conclusão de que a eventual vantagem dessas tecnologias virá de eventos raros, e não da função. No quadril, o PSI sequer acumulou evidência de acurácia comparável à de outras articulações.
 
 ---
 
@@ -271,7 +323,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 | Evidência | Número | Fonte |
 |---|---|---|
 | Luxações com taça dentro da zona | **58%** das próteses que luxaram estavam dentro da zona dita segura | Abdel 2016 · CORR · [PMID 26150264](https://pubmed.ncbi.nlm.nih.gov/26150264/) |
-| Confirmação independente | achado replicado em coorte europeia | Seagrave 2016 · Acta Orthop · [PMID 27879150](https://pubmed.ncbi.nlm.nih.gov/27879150/) |
+| Confirmação independente | achado replicado em revisão sistemática da posição da taça | Seagrave 2017 · Acta Orthop · [PMID 27879150](https://pubmed.ncbi.nlm.nih.gov/27879150/) |
 
 **CONDUTA:** o ângulo estático, sozinho, não é alvo suficiente.
 
@@ -298,7 +350,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 |---|---|---|
 | Coluna rígida | variação do *sacral slope* em pé × sentado **ΔSS < 10°** | Vigdorchik 2021 · Otto Aufranc Award · BJJ · 2.081 ATQs · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
 | Desbalanço sagital (*flatback*) | **PI − LL > 10°** | Vigdorchik 2021 |
-| Artrodese/fusão lombar | qualquer extensão — risco proporcional ao número de níveis | Vigdorchik 2021 |
+| Artrodese/fusão lombar | sobretudo **> 3 níveis** ou estendendo ao sacro — risco proporcional ao número de níveis | Vigdorchik 2021 |
 
 **CONDUTA:** rastrear esses três critérios no pré-operatório; presentes → radiografia funcional.
 
@@ -306,49 +358,53 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [3.4] A radiografia funcional muda o quê na cirurgia?
 
-**RESPOSTA · Três parâmetros — nenhum inferido.**
+**RESPOSTA · Três parâmetros — e o ganho demonstrado é de FUNÇÃO, não de luxação.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Alvo da taça (CSI — *Combined Sagittal Index*) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Dentro × fora do alvo: luxação **0,4% × 1,7%** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
-| Anteversão | aumentar no rígido — anteversão média dentro do alvo: **26° ± 8°** (× 22° ± 10° fora) | Verhaegen 2025 · Sharma/Vigdorchik 2021 · [PMID 33526398](https://pubmed.ncbi.nlm.nih.gov/33526398/) |
+| Alvo da taça (CSI — *Combined Sagittal Index*) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Atingir o alvo funcional → **OHS 42 × 40 (P = 0,003)** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
+| A diferença de luxação (não o desfecho-chave) | dentro × fora do alvo: luxação 0,4% × 1,7% — **NÃO significativa (P = 0,178)** | Verhaegen 2025 |
+| Anteversão | aumentar no rígido — anteversão média dentro do alvo: **26° ± 8°** (× 22° ± 10° fora) | Verhaegen 2025 · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
 | Construto | dupla mobilidade sistemática nos grupos **2B (rígidos)** e **fusão > 3 níveis** → luxação **0,8%** (99,2% livre em 5 anos) | Vigdorchik 2021 · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
 
 **CONDUTA:** na coluna rígida/desbalanceada — alvo CSI, anteversão aumentada, dupla mobilidade conforme o grupo.
 
-**Discussão.** Identificar o paciente de risco só tem valor se muda a cirurgia — e muda em três pontos concretos, todos com número publicado. O CSI traduz a orientação da taça para o plano sagital funcional; a diferença de luxação entre estar dentro e fora do alvo (0,4% × 1,7%) é da mesma ordem de grandeza dos melhores resultados da literatura de instabilidade.
+**Discussão.** Identificar o paciente de risco só tem valor se muda a cirurgia — e muda em três pontos concretos, todos com número publicado. A honestidade estatística, porém, reposiciona o benefício do CSI: o estudo multicêntrico de Verhaegen não confirmou diferença **significativa** de luxação entre estar dentro e fora do alvo (0,4% × 1,7%, P = 0,178) — o que ele demonstrou com clareza foi a **função** (OHS 42 × 40). O alvo funcional não deve ser vendido como redutor comprovado de luxação; deve ser vendido pelo que a evidência sustenta: mais função no paciente de coluna rígida, com o construto certo (dupla mobilidade) cobrindo a instabilidade.
 
 ---
 
-## [3.5] Coluna e quadril doentes — qual opera primeiro?
+## [3.5] Coluna e quadril doentes — a ordem importa?
 
-**RESPOSTA · Quando ambos têm indicação, operar o quadril antes da fusão protege a prótese.**
+**RESPOSTA · A fusão em si é o risco — a ordem das cirurgias não muda o desfecho (duas metanálises 2026).**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Fusão lombar prévia → ATQ | luxação **7,19×** e revisão **4,64×** em 12 meses (luxação 3,0% × 0,4% do controle pareado) | Perfetti 2017 · J Arthroplasty · pareamento por propensão · 1.868 pac · [PMID 27998660](https://pubmed.ncbi.nlm.nih.gov/27998660/) · [DOI](https://doi.org/10.1016/j.arth.2016.11.029) |
-| Ordem das cirurgias | ATQ **depois** da fusão × ATQ **antes** (fusão ≥ 5 anos depois): luxação **+106%**; revisão +43–49% | Malkani 2019 · Medicare · 42.300 pac · [PMID 30718171](https://pubmed.ncbi.nlm.nih.gov/30718171/) · [DOI](https://doi.org/10.1016/j.arth.2019.01.009) |
+| Fusão lombar prévia → ATQ (o risco é a fusão existir) | luxação **7,19×** e revisão **4,64×** em 12 meses (luxação 3,0% × 0,4% do controle pareado) | Perfetti 2017 · J Arthroplasty · pareamento por propensão · 1.868 pac · [PMID 27998660](https://pubmed.ncbi.nlm.nih.gov/27998660/) · [DOI](https://doi.org/10.1016/j.arth.2016.11.029) |
+| **A ordem NÃO muda desfecho** (meta 22 estudos) | quadril-depois × quadril-antes: **nenhuma diferença** em luxação (P = 0,7), soltura, fratura, infecção ou revisão (3,6% × 2,6%; P = 0,5) | Al-Saidi 2026 · Spine · 22 estudos · 161.326 pac · [PMID 41887675](https://pubmed.ncbi.nlm.nih.gov/41887675/) |
+| Confirmação independente (meta 10 estudos) | luxação OR 1,19 (0,73–1,86; P = 0,45) · revisão OR 1,01 (P = 0,94) — sem diferença entre as sequências | Liu 2026 · J Orthop Traumatol · 10 estudos · 59.607 pac · [PMID 42283757](https://pubmed.ncbi.nlm.nih.gov/42283757/) |
 | Mitigação quando a fusão já existe | cabeça ≥ 32 mm reduz a luxação (HR 0,70–0,71); via anterior/lateral supina: luxação < 1% na série quadril-coluna | Mononen 2020 · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) · Goyal 2022 · [PMID 35139054](https://pubmed.ncbi.nlm.nih.gov/35139054/) · [DOI](https://doi.org/10.5435/JAAOS-D-21-00499) |
 
-**CONDUTA:** no paciente com dupla indicação, planejar a **ATQ antes da fusão** quando clinicamente aceitável; se a fusão veio primeiro — radiografia funcional (unidades 3.3–3.4), cabeça ≥ 32 mm e considerar dupla mobilidade.
+**CONDUTA:** o que manda não é a ordem — é a fusão. Na dupla indicação, decidir a sequência pelo critério clínico de cada segmento (dor dominante, progressão); quando a fusão existir ou vier, tratar o quadril com radiografia funcional (3.3–3.4), cabeça ≥ 32 mm e considerar dupla mobilidade.
 
-**Discussão.** A sequência importa porque a fusão congela a compensação pélvica **antes** de a prótese existir: a taça é posicionada num alvo que a coluna já não deixa o quadril usar. Invertendo a ordem, a pelve ainda móvel acomoda a prótese e a fusão posterior encontra o quadril estável. É a extensão natural do raciocínio espinopélvico: além de **como** posicionar (3.2–3.4), o planejamento decide **quando** operar cada segmento.
+**Discussão.** Esta unidade é um bom exemplo de a ciência se autocorrigir — e merece ser dita assim, porque é exatamente o tipo de "verdade de palestra" que envelhece. O raciocínio clássico (fundamentado na coorte de Malkani) era que operar o quadril **antes** da fusão protegia a prótese, pois a pelve ainda móvel acomodaria a taça. Duas metanálises de 2026, somando mais de 220 mil pacientes, testaram essa hipótese com nível de evidência superior e não a confirmaram: a sequência não muda luxação, revisão ou infecção. O que permanece sólido — e é o que o planejamento deve reter — é que a **fusão em si** multiplica o risco (Perfetti: luxação 7×, revisão 4,6×), e é nela que a mitigação atua (radiografia funcional, cabeça grande, dupla mobilidade). O planejamento decide, então, não *quando* operar cada segmento — mas *como* preparar o quadril para uma coluna que já é, ou será, rígida.
 
 
 # DECISÃO 4 · Construto e via — dupla mobilidade para quem? que via? reparo?
 
 ## [4.1] Quem tem benefício real com a dupla mobilidade?
 
-**RESPOSTA · O grupo de risco — não é implante para todos.**
+**RESPOSTA · O grupo de risco — coluna rígida/fusão, revisão e fratura do colo do fêmur. Não é implante para todos.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Fusão lombar / doença degenerativa ≥ 65 anos | luxação em 1 ano **0,91% × 1,68%** (OR 0,53) | Nessler 2022 · AJRR · 15.572 pacientes · [PMID 36728665](https://pubmed.ncbi.nlm.nih.gov/36728665/) |
+| **Fratura do colo do fêmur (≥ 65 anos)** | **Duality** — primeiro RCT de dupla mobilidade (DM) × taça padrão na fratura: luxação **1,3% × 4,2%** · **aHR 0,27** (IC 0,13–0,56; P < 0,0001) · menos "qualquer complicação cirúrgica" | Hailer 2026 · **Lancet** · RCT multicêntrico · n = 1.600 · [PMID 42392114](https://pubmed.ncbi.nlm.nih.gov/42392114/) |
+| Fusão lombar / doença degenerativa ≥ 65 anos | luxação em 1 ano **0,91% × 1,68%** (OR 0,53) | Nessler 2023 · JAAOS · 15.572 pacientes · [PMID 36728665](https://pubmed.ncbi.nlm.nih.gov/36728665/) |
 | Cirurgia de revisão | dupla mobilidade × par fixo: **OR 0,24** | Levin & Mont 2018 · meta · [PMID 30195654](https://pubmed.ncbi.nlm.nih.gov/30195654/) |
+| DM × cabeça grande (≥ 36 mm) | cabeça grande teve **MAIS** luxação que a DM (primário OR 4,81; revisão OR 1,99; HR 2,67) e mais revisão por luxação — a proteção da DM é **independente do tamanho da taça** | Ibrahim 2025 · JBJS Rev · meta · 18 estudos · 133.474 quadris · [PMID 41379986](https://pubmed.ncbi.nlm.nih.gov/41379986/) |
 
-**CONDUTA:** indicar no grupo de risco definido no pré-operatório (coluna rígida/fusão, revisão) — não universalmente.
+**CONDUTA:** indicar a dupla mobilidade no grupo de risco definido no pré-operatório (coluna rígida/fusão, revisão, fratura do colo do idoso) — não universalmente.
 
-**Discussão.** A dupla mobilidade corta a luxação praticamente pela metade — no paciente certo. A generalização indiscriminada trocaria um benefício concentrado por custos e incertezas (desgaste, luxação intraprotética) diluídos numa população que não precisava do implante.
+**Discussão.** A dupla mobilidade corta a luxação — e agora em dois cenários com nível de evidência distinto. O **Duality** (Lancet 2026) trouxe o primeiro ensaio randomizado em fratura do colo: a DM reduziu a luxação para um terço (1,3% × 4,2%, aHR 0,27), no cenário em que antes só havia extrapolação. No eletivo, o benefício segue concentrado no grupo de risco (fusão/coluna rígida, revisão), e a metanálise de 133 mil quadris fecha o argumento mecânico: cabeça grande **não** substitui a DM — a proteção extra independe do tamanho da taça. A generalização indiscriminada, porém, trocaria um benefício concentrado por custos e incertezas (desgaste, luxação intraprotética) diluídos numa população que não precisava do implante.
 
 ## [4.2] Polietileno com rebordo ou neutro?
 
@@ -429,17 +485,19 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [5.1] Cimentar a haste — em quem (cirurgia eletiva)?
 
-**RESPOSTA · Mulher ≥ 70,5 anos e osso de má qualidade — critérios objetivos.**
+**RESPOSTA · Mulher ≥ 70,5 anos e osso de má qualidade — com a contrapartida honesta: não cimentar tem menos mortalidade.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
 | Mulher ≥ 70,5 anos | cimentar reduz revisões em **−21%** nesse subgrupo | Ladurner 2023 · Registro Suíço · 86.423 ATQs · *recursive partitioning* · [PMID 37595764](https://pubmed.ncbi.nlm.nih.gov/37595764/) |
 | Homem | a fixação **não** altera o risco de revisão; o único preditor associado foi **ASA > 2** (comorbidade), não a idade | Ladurner 2023 |
 | Osso de má qualidade (qualquer sexo) | fêmur *stove-pipe* / cortical fina — mensurável pelo *canal-diaphysis ratio*, corte **0,49** | Kim 2024 · [PMID 39126454](https://pubmed.ncbi.nlm.nih.gov/39126454/) · Faundez 2023 · [PMID 37597819](https://pubmed.ncbi.nlm.nih.gov/37597819/) |
+| **A contrapartida (eletivo)** | não-cimentada × cimentada: **MENOS mortalidade (OR 0,73; IC 0,69–0,78)** — porém **MAIS revisão (OR 1,51)** e fratura periprotética (**OR 2,40**) | Alagha 2025 · J Arthroplasty · 60.064 pareados · [PMID 39814112](https://pubmed.ncbi.nlm.nih.gov/39814112/) |
+| **O TIPO de cimento importa** | no registro nacional (515.433 ATQs), 5 formulações têm revisão maior — ex. DePuy **CMW3 IRR 2,21** (1,75–2,75) | Deere 2026 · NJR · Bone Joint J · [PMID 41823624](https://pubmed.ncbi.nlm.nih.gov/41823624/) |
 
-**CONDUTA:** decidir a fixação no planejamento por critério objetivo — não pela impressão de "idoso frágil".
+**CONDUTA:** decidir a fixação no planejamento por critério objetivo (mulher ≥ 70,5, osso de má qualidade, fratura do colo) — cientes de que o cimento compra revisão ao preço de mortalidade no eletivo, e que a formulação do cimento importa.
 
-**Discussão.** "Idoso" não é critério — é impressão. O registro suíço, com particionamento recursivo em 86 mil artroplastias, entrega o corte que a impressão não entrega: mulher, a partir de 70,5 anos, revisa menos com cimento; homem não muda com a fixação. E a qualidade óssea deixou de ser julgamento visual: o índice canal-diáfise dá número ao fêmur em chaminé.
+**Discussão.** "Idoso" não é critério — é impressão. O registro suíço, com particionamento recursivo em 86 mil artroplastias, entrega o corte que a impressão não entrega: mulher, a partir de 70,5 anos, revisa menos com cimento; homem não muda com a fixação. Mas a decisão ganhou uma segunda face que antes faltava: no eletivo, o pareamento de 60 mil pacientes inverte o sinal da mortalidade (a não-cimentada tem menos) enquanto mantém a vantagem de revisão e fratura para o cimento. É um trade-off, não uma escolha unívoca — e a formulação do cimento entra como terceira variável, com diferenças de até 2× no risco de revisão. A síntese é a mesma da fratura (5.2) só para quem o perfil favorece; no eletivo, o critério objetivo diz *quem* se beneficia, e a honestidade diz *ao preço de quê*.
 
 ## [5.2] E na fratura do colo do fêmur?
 
@@ -471,7 +529,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [5.4] O cimento tem risco perioperatório? (a contrapartida honesta)
 
-**RESPOSTA · Sim — a síndrome de implantação do cimento ósseo (BCIS): real, concentrada no frágil, mitigável.**
+**RESPOSTA · Sim — a síndrome de implantação do cimento ósseo (BCIS): real, concentrada no frágil, mitigável — e com sinal de mortalidade em 1 ano.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
@@ -479,11 +537,12 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 | Incidência (hemiartroplastia cimentada) | grau 1 ~**21%** · grave (2–3) **5–7%** · grau 3 **1,7%** | Olsen 2014 |
 | Letalidade do grave | grau 3: mortalidade precoce até **88%**; BCIS grave → óbito em 30 dias **HR 3,46** (IC 2,1–5,8) | Rassir 2021 · CORR · n = 3.294 · [PMID 33165048](https://pubmed.ncbi.nlm.nih.gov/33165048/) |
 | Quem faz a forma grave | ASA III–IV · > 75 anos · insuficiência renal · DPOC · haste *shape-closed* (**OR 19,1**) | Rassir 2021 · Chulsomlee 2022 · [PMID 36273503](https://pubmed.ncbi.nlm.nih.gov/36273503/) |
-| Mitigação | lavagem/secagem do canal · evitar pressurização excessiva · *venting* femoral · técnica de 3ª geração (**58% → 35%**) · anestesia neuraxial (**19% × 55%** da geral) · avisar o anestesista | Olsen 2020 · [PMID 32237931](https://pubmed.ncbi.nlm.nih.gov/32237931/) · Zastrow 2024 · [PMID 39231275](https://pubmed.ncbi.nlm.nih.gov/39231275/) |
+| **Sinal de dano além do intraoperatório** | o cimento foi **fator independente de mortalidade em 1 ano** (HR 1,9; IC 1,3–2,7) | Olsen 2020 · [PMID 32237931](https://pubmed.ncbi.nlm.nih.gov/32237931/) |
+| Mitigação | lavagem/secagem do canal · evitar pressurização excessiva · *venting* femoral · técnica de 3ª geração · anestesia neuraxial (**19% × 55%** da geral) · avisar o anestesista | Zastrow 2024 · [PMID 39231275](https://pubmed.ncbi.nlm.nih.gov/39231275/) |
 
-**CONDUTA:** cimentar quando indicado — com técnica de 3ª geração, canal preparado e anestesista avisado.
+**CONDUTA:** cimentar quando indicado — com técnica de 3ª geração, canal preparado e anestesista avisado; no eletivo, lembrar a contrapartida de mortalidade (5.1).
 
-**Discussão.** Defender a cimentação sem nomear a BCIS seria meia-verdade. A tensão honesta: nos ensaios randomizados a mortalidade global **não** aumentou com o cimento (WHiTE 5: 23,9% × 27,8%; metanálise: OR 0,83 a favor) — porque o risco se concentra no paciente frágil e é fortemente técnica-dependente. A resposta ao risco não é abandonar o cimento no paciente que precisa dele; é técnica moderna e comunicação com a anestesia.
+**Discussão.** Defender a cimentação sem nomear a BCIS seria meia-verdade. A tensão honesta: na fratura do colo, a metanálise de ensaios randomizados acha mortalidade **menor** com cimento (OR 0,83 — Malki 2026); no eletivo, o pareamento de 60 mil (Alagha, unidade 5.1) acha mortalidade **menor** sem cimento. A reconciliação não é dogmática — é anatômica: o cimento protege o frágil contra a fratura periprotética (o evento que mata na fratura) e expõe ao evento cardiovascular (o que mata no eletivo de risco). Some-se o dado de longo prazo: o cimento como fator independente de mortalidade em 1 ano (HR 1,9). A resposta ao risco não é abandonar o cimento no paciente que precisa dele; é técnica moderna, comunicação com a anestesia e a escolha certa da população.
 
 ---
 
@@ -491,20 +550,20 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [6.1] Qual reconstrução muda a função?
 
-**RESPOSTA · Offset global e comprimento a ± 2,5 mm do contralateral.**
+**RESPOSTA · O offset e o centro de rotação — o comprimento isolado é contestado.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Alvo | offset global + comprimento dentro de **± 2,5 mm** do lado contralateral → melhor ganho funcional (**ΔOHS > 25**) | Vorimore 2024 · 500 ATQs sem robótica/navegação · [PMID 38897260](https://pubmed.ncbi.nlm.nih.gov/38897260/) |
-| Preservar | não compensar offset acetabular com offset femoral aumentado — associa-se a OHS inferior | Vorimore 2024 |
-| Realidade | apenas **10%** atingem ± 2,5 mm sem planejamento dedicado — alvo exigente, alcançável por templating | Vorimore 2024 |
-| Confirmação independente (o custo de errar) | redução do offset global **> 5 mm** → força abdutora menor (associação mantida após ajuste) — "deve ser evitada" | Mahmood 2016 · Acta Orthop · prospectivo 222 pac · [PMID 26471772](https://pubmed.ncbi.nlm.nih.gov/26471772/) · [DOI](https://doi.org/10.3109/17453674.2015.1091955) |
-| Confirmação independente (o parâmetro) | o **offset femoral** é o indicador mais sensível da restauração do offset global (índice SGL, restauração ≤ 5 mm em 64,5%) | Zampogna 2026 · Hip Int · 256 quadris · [PMID 42163584](https://pubmed.ncbi.nlm.nih.gov/42163584/) · [DOI](https://doi.org/10.1177/11207000261437301) |
-| Convergência externa | em coorte pareada de robótica, **desvios de comprimento e orientação foram preditores independentes de pior função** — a restauração importa, seja qual for a ferramenta | Wan 2026 · J Clin Med · [PMID 41598344](https://pubmed.ncbi.nlm.nih.gov/41598344/) · [DOI](https://doi.org/10.3390/jcm15020405) |
+| Alvo (offset + comprimento ± 2,5 mm) | offset global + comprimento dentro de **± 2,5 mm** do lado contralateral → melhor ganho funcional (**ΔOHS > 25**) | Vorimore 2024 · 500 ATQs sem robótica/navegação · [PMID 38897260](https://pubmed.ncbi.nlm.nih.gov/38897260/) |
+| **O que de fato prediz a função** | centro de rotação nativo (MCID/SCB/PASS, P ≤ 0,008) e **aumento do offset femoral** (UCLA + satisfação, P ≤ 0,004) **SIM** predizem PROMs — o **comprimento (LLD) NÃO** (P ≥ 0,167; poder ≥ 87%) | Schneider 2025 · J Arthroplasty · n = 1.682 · [PMID 40158748](https://pubmed.ncbi.nlm.nih.gov/40158748/) |
+| **Nem ± 5 mm de comprimento traduz em função** | grupo "restauração anatômica" (offset + comprimento ≤ 5 mm, taça ≤ 10°) × controle: **sem diferença** em OHS (P = 0,438), HOOS JR (P = 0,630) ou satisfação (P = 0,854) | Kim 2026 · J Exp Orthop · n = 125 · [PMID 42006230](https://pubmed.ncbi.nlm.nih.gov/42006230/) |
+| Perna longa, quando incomoda | perna mais longa piora FJS-12 (P = 0,0004) — a orientação é **aumentar offset, não alongar** | Konishi 2025 · Sci Rep · n = 203 · [PMID 40108294](https://pubmed.ncbi.nlm.nih.gov/40108294/) |
+| O custo de errar o offset | redução do offset global **> 5 mm** → força abdutora menor (associação mantida após ajuste) — "deve ser evitada" | Mahmood 2016 · Acta Orthop · prospectivo 222 pac · [PMID 26471772](https://pubmed.ncbi.nlm.nih.gov/26471772/) · [DOI](https://doi.org/10.3109/17453674.2015.1091955) |
+| O parâmetro (offset femoral) | o **offset femoral** é o indicador mais sensível da restauração do offset global (índice SGL, restauração ≤ 5 mm em 64,5%) | Zampogna 2026 · Hip Int · 256 quadris · [PMID 42163584](https://pubmed.ncbi.nlm.nih.gov/42163584/) · [DOI](https://doi.org/10.1177/11207000261437301) |
 
-**CONDUTA:** templating mirando ± 2,5 mm; preservar o offset acetabular.
+**CONDUTA:** templating mirando a restauração do **centro de rotação e do offset** (referência ± 2,5–5 mm); preservar o offset acetabular e não alongar o membro para compensar offset perdido.
 
-**Discussão.** Aqui o alvo técnico **é** o caminho do desfecho — e a convergência é de três fontes independentes: a coorte de Vorimore dá o alvo (± 2,5 mm), o prospectivo de Mahmood dá o custo de errar (offset reduzido > 5 mm enfraquece os abdutores de forma mensurável), e até a literatura de robótica confirma que o desvio de reconstrução prediz função pior. E sem nenhuma tecnologia intraoperatória: os 500 casos de Vorimore são de técnica convencional planejada. A precisão que importa não é a do braço robótico; é a do lápis sobre a radiografia calibrada, definindo antes da cirurgia onde ficam o centro de rotação, o offset e o comprimento.
+**Discussão.** O alvo técnico **é** o caminho do desfecho — mas a evidência recente redistribuiu o peso entre as duas metades. A coorte de Vorimore dá o alvo combinado (± 2,5 mm); os sucessores diretos a esmiúçaram: com poder de 87%, o comprimento **isolado não prediz** a função do paciente, enquanto o centro de rotação e o offset femoral, sim. O corolário clínico é direto — se a pelve subir o centro de rotação, a correção certa é restaurar o **offset**, não esticar a perna (alongar pode até piorar a sensação de rigidez, medido pelo FJS-12). A precisão que importa não é a do braço robótico; é a do lápis sobre a radiografia calibrada, definindo antes da cirurgia onde ficam o centro de rotação, o offset e o comprimento.
 
 ---
 
@@ -512,16 +571,16 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [7.1] O ácido tranexâmico reduz transfusão?
 
-**RESPOSTA · Sim — de rotina.**
+**RESPOSTA · Sim — de rotina, e a via intravenosa basta.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Transfusão | **RR 0,26** × placebo (redução de ~74%) — sem aumento de TVP/EP | Chen 2016 · meta · 14 estudos · 2.594 pacientes · [PMID 26878845](https://pubmed.ncbi.nlm.nih.gov/26878845/) |
+| Transfusão (via tópica) | **RR 0,26** × placebo (redução de ~74%) — sem aumento de trombose venosa profunda (TVP) ou embolia pulmonar (EP) | Chen 2016 · meta de TXA **tópico** · 14 estudos · 2.594 pacientes · [PMID 26878845](https://pubmed.ncbi.nlm.nih.gov/26878845/) |
 | Via | **IV = tópica** (sem diferença) — a via intravenosa, barata, basta | Boucher 2025 · meta de 59 RCTs · 6.791 pacientes · [PMID 40763214](https://pubmed.ncbi.nlm.nih.gov/40763214/) |
 
 **CONDUTA:** ácido tranexâmico intravenoso de rotina, salvo contraindicação.
 
-**Discussão.** Custo de centavos, efeito de três quartos de redução de transfusão, segurança demonstrada em metanálise — o protótipo da intervenção que muda desfecho sem mudar orçamento.
+**Discussão.** Custo de centavos, efeito de três quartos de redução de transfusão, segurança demonstrada em metanálise — o protótipo da intervenção que muda desfecho sem mudar orçamento. O detalhe de rigor: o RR 0,26 mais citado vem da metanálise de TXA **tópico**; como a via intravenosa se mostrou equivalente, não importa na prática — a escolha recai na mais barata e simples.
 
 ## [7.2] Quando administrar a cefazolina?
 
@@ -538,31 +597,35 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [7.3] A aspirina isolada basta na profilaxia de tromboembolismo?
 
-**RESPOSTA · Depende do risco — a controvérsia é real e deve ser dita.**
+**RESPOSTA · Sim — aspirina isolada é não inferior à anticoagulação e sangra menos (EPCAT III, NEJM 2026).**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Sozinha, desde o dia 0 | TEV sintomático **maior**: **3,27% × 1,76%** (× heparina de baixo peso) — maior ensaio (CRISTAL) | Javor 2025 · [PMID 40620160](https://pubmed.ncbi.nlm.nih.gov/40620160/) |
-| Em protocolo sequencial | **não-inferior** quando iniciada após curso inicial de anticoagulante (EPCAT II) | Riediger 2026 · revisão estruturada · [PMID 42355718](https://pubmed.ncbi.nlm.nih.gov/42355718/) |
-| Meta de 7 RCTs | TEV global semelhante, porém sinal de embolia pulmonar maior: **OR 1,79** | Salman 2024 · 12.134 pacientes · nível I · [PMID 39228215](https://pubmed.ncbi.nlm.nih.gov/39228215/) |
+| **O divisor de águas — EPCAT III** | aspirina **81 mg/dia isolada** foi **não inferior** a rivaroxabana→aspirina: tromboembolismo venoso (TEV) sintomático **0,48% × 0,45%** (dif 0,02 pp; IC −0,34 a 0,39; P < 0,001 para não-inferioridade) · **sangramento MENOR com aspirina: 1,66% × 2,04%** | Shivakumar 2026 · **NEJM** · RCT multicêntrico · n = 5.429 · [PMID 42437501](https://pubmed.ncbi.nlm.nih.gov/42437501/) |
+| Confirmação em metanálise | antiplaquetário = anticoagulante: TEV RR 1,08 (0,81–1,44) · TVP RR 1,12 (0,83–1,51) · EP RR 1,26 (0,94–1,69) — **com menos sangramento** | Zhang 2026 · EFORT Open Rev · 19 RCTs · 30.290 pac · [PMID 42383695](https://pubmed.ncbi.nlm.nih.gov/42383695/) |
+| Confirmação em coorte longa | AAS **81 mg 1×/dia não inferior** a esquemas BID e a anticoagulante potente (TEV global 1,1%; P = 0,61) | Guo 2026 · J Arthroplasty · 8.073 casos · 10 anos · [PMID 42456789](https://pubmed.ncbi.nlm.nih.gov/42456789/) |
+| O contraponto que caiu (CRISTAL) | aspirina **de partida** teve TEV maior que enoxaparina: **3,45% × 1,82%** (dif 1,97%; IC 0,54–3,41; P = 0,007) — foi este ensaio que sustentou "não no alto risco" | Sidhu 2022 · **JAMA** · RCT (CRISTAL) · [PMID 35997730](https://pubmed.ncbi.nlm.nih.gov/35997730/) |
+| O alerta antigo (pré-EPCAT III) | meta de 7 RCTs: TEV global semelhante, sinal de EP maior (OR 1,79) — compara AAS × HBPM, **anterior** ao EPCAT III | Salman 2024 · nível I · 12.134 pac · [PMID 39228215](https://pubmed.ncbi.nlm.nih.gov/39228215/) |
+| Estado das diretrizes | AAOS/ACCP/ICM **ainda divergem** — não há consenso unificado em 2026 | Rigney 2026 · J Arthroplasty · [PMID 40543826](https://pubmed.ncbi.nlm.nih.gov/40543826/) |
 
-**CONDUTA:** estratificar o risco — aspirina isolada desde o dia 0 **não** no alto risco; razoável no baixo risco ou em protocolo sequencial estruturado.
+**CONDUTA:** aspirina **81 mg/dia desde o dia 0** como profilaxia de rotina na ATQ eletiva de risco habitual; a rivaroxabana→aspirina não agrega desfecho e sangra mais. Reservar anticoagulação potente ao risco individualizado muito alto (TEP prévio, trombofilia ativa), onde a decisão segue individual.
 
-**Discussão.** Este é o tema em que a literatura genuinamente diverge — e a apresentação honesta é dizer isso. O ensaio CRISTAL pesa contra a aspirina isolada de partida; o protocolo sequencial do EPCAT II a reabilita após anticoagulação inicial; a metanálise acende o alerta específico da embolia pulmonar. A síntese defensável hoje é a estratificação — não a bandeira de um lado.
+**Discussão.** Esta unidade mudou de resposta em julho de 2026 — e é o caso mais didático de como um ensaio nível 1 reordena a conduta. Até então a leitura era de controvérsia: o CRISTAL (JAMA 2022) pesava contra a aspirina de partida, o EPCAT II a reabilitava só em protocolo sequencial, e a metanálise de Salman acendia o alerta da embolia. O **EPCAT III** (NEJM, 5.429 pacientes) fez a pergunta direta — aspirina **desde o dia 0** × rivaroxabana seguida de aspirina — e a aspirina foi **não inferior** para TEV com **menos** sangramento (1,66% × 2,04%). Duas fontes independentes convergem: metanálise de 30 mil pacientes e coorte de 8 mil. Nuance honesta (que não muda a conduta, mas o rigor exige): a metanálise de Zhang observa que, em estudos pós-2015 e com profilaxia mecânica combinada, o antiplaquetário teve TEV um pouco maior — e as diretrizes ainda não unificaram a recomendação. O saldo para o planejamento é de simplificação: a profilaxia de TEV volta a ser uma linha — aspirina, salvo risco individualizado.
 
 ## [7.4] A dexametasona ajuda na recuperação?
 
-**RESPOSTA · Sim — reduz náusea e vômito (no não-diabético).**
+**RESPOSTA · Sim — reduz náusea e vômito; segura também no diabético (glicemia sobe, mas sem mais infecção).**
 
 | Evidência | Número | Fonte |
 |---|---|---|
 | Náusea/vômito pós-operatórios | **OR 0,21** × controle | Abdelaziz 2026 · meta GRADE · 12 RCTs · 1.128 pacientes · [PMID 42226274](https://pubmed.ncbi.nlm.nih.gov/42226274/) |
-| Antiemético de resgate | **OR 0,33** · internação mais curta · sem sinal de dano em não-diabéticos | Abdelaziz 2026 |
-| Limite honesto | reduz dor, mas abaixo do MCID — não é analgésico primário; cautela no diabético | Abdelaziz 2026 |
+| Antiemético de resgate | **OR 0,33** · internação mais curta | Abdelaziz 2026 |
+| **No diabético** | glicemia do 1º dia pós-op **170 × 158 mg/dL** (ambas < 200) · **sem diferença de infecção** (RR 0,82; IC 0,39–1,72) | Razick 2025 · J Arthroplasty · meta · 12 estudos · 46.685 pac · [PMID 39706354](https://pubmed.ncbi.nlm.nih.gov/39706354/) |
+| Limite honesto | reduz dor, mas abaixo do MCID — não é analgésico primário | Abdelaziz 2026 |
 
-**CONDUTA:** dexametasona IV em dose única (10–20 mg) no perioperatório do não-diabético.
+**CONDUTA:** dexametasona IV em dose única (10–20 mg) no perioperatório — incluindo o diabético, com vigilância glicêmica de rotina.
 
-**Discussão.** Fechando o protocolo: um corticoide de dose única, barato, com efeito antiemético expressivo e limite declarado (a analgesia fica aquém do relevante). Prescrever pelo que faz, não pelo que promete.
+**Discussão.** Fechando o protocolo: um corticoide de dose única, barato, com efeito antiemético expressivo e limite declarado (a analgesia fica aquém do relevante). A "cautela no diabético" era o senso comum — a metanálise específica a relativiza: a glicemia sobe um degrau (170 × 158), fica aquém do limiar de 200 e não se traduz em mais infecção. Prescrever pelo que faz, não pelo que promete.
 
 ---
 
@@ -570,18 +633,19 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [8.1] Artroplastia bilateral: uma anestesia ou duas?
 
-**RESPOSTA · No paciente selecionado, a simultânea é vantajosa — ao custo de mais transfusão; a evidência é observacional e os sinais de EP/fratura divergem.**
+**RESPOSTA · No paciente selecionado, a simultânea é vantajosa — ao custo de mais transfusão; a evidência é observacional e divergem EP, fratura E revisão.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
 | A favor da simultânea | custo menor (SMD −0,54) · internação **−2,9 dias** · revisões **OR 0,44** · mortalidade sem diferença (OR 1,01) · função e dor favorecem a simultânea | Soler 2026 · meta 20 estudos · 13.984 pac · [PMID 41553690](https://pubmed.ncbi.nlm.nih.gov/41553690/) · [DOI](https://doi.org/10.1186/s10195-026-00904-y) |
 | Contrapartida | transfusão maior na simultânea: **OR 4,42** | Soler 2026 |
-| Sinais divergentes | meta anterior (104 mil pac): menos TVP e complicações sistêmicas/pulmonares na simultânea, porém **mais embolia pulmonar e fratura periprotética** | Ramezani 2022 · meta · [PMID 35964047](https://pubmed.ncbi.nlm.nih.gov/35964047/) · [DOI](https://doi.org/10.1186/s13018-022-03281-4) |
+| **Divergência na REVISÃO** | pareamento nacional (82.897/grupo): estagiada teve **MENOS revisão (OR 0,85)** e menos reintervenção por infecção — contradiz o OR 0,44 da simultânea | Peng 2025 · 165.794 pac · [PMID 41118549](https://pubmed.ncbi.nlm.nih.gov/41118549/) |
+| Sinais divergentes (eventos raros) | meta anterior (104 mil pac): menos TVP e complicações sistêmicas/pulmonares na simultânea, porém **mais embolia pulmonar e fratura periprotética** | Ramezani 2022 · meta · [PMID 35964047](https://pubmed.ncbi.nlm.nih.gov/35964047/) · [DOI](https://doi.org/10.1186/s13018-022-03281-4) |
 | Estado da evidência | **somente estudos observacionais** — seleção de pacientes explica parte das vantagens; sem ensaio randomizado | Soler 2026 · Ramezani 2022 |
 
-**CONDUTA:** oferecer a simultânea ao bilateral **jovem/hígido selecionado**, com estratégia de sangue reforçada (ferro pré-op + ácido tranexâmico); no frágil, estagiar.
+**CONDUTA:** oferecer a simultânea ao bilateral **jovem/hígido selecionado**, com estratégia de sangue reforçada (ferro pré-op + ácido tranexâmico); no frágil, estagiar — ciente de que a própria vantagem de revisão não é unânime.
 
-**Discussão.** As metanálises concordam no essencial — menos custo, menos internação, função melhor — e divergem exatamente onde a seleção de pacientes mais confunde: eventos raros (embolia, fratura). A leitura honesta é que a simultânea funciona **porque** é oferecida a quem tolera; o planejamento é o filtro. E a contrapartida objetiva (4× mais transfusão) conecta esta decisão às unidades 0.3 e 7.1: o bilateral simultâneo é o paciente em que a otimização de sangue deixa de ser detalhe e vira pré-requisito.
+**Discussão.** As metanálises concordam no essencial — menos custo, menos internação, função melhor — e divergem exatamente onde a seleção de pacientes mais confunde. A novidade é que a **revisão** também entrou na lista dos desfechos que divergem: o pareamento nacional de 165 mil pacientes favorece a estagiada nesse ponto, contra o OR 0,44 da metanálise. É a assinatura clássica de viés de seleção — a simultânea funciona **porque** é oferecida a quem tolera, e a comparação bruta não consegue separar o efeito da intervenção do efeito do filtro. O planejamento é esse filtro. E a contrapartida objetiva (4× mais transfusão) conecta esta decisão às unidades 0.3 e 7.1: o bilateral simultâneo é o paciente em que a otimização de sangue deixa de ser detalhe e vira pré-requisito.
 
 ---
 
@@ -593,8 +657,8 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Tempo até deambular | **8 h × 24 h** (× bloqueio do quadrado lombar anterior) | Pascarella 2021 · RCT · [PMID 34196965](https://pubmed.ncbi.nlm.nih.gov/34196965/) |
-| Mecanismo | analgesia do quadril poupando o quadríceps (*motor-sparing*); menor consumo de opioide | Et 2023 · RCT · [PMID 37013389](https://pubmed.ncbi.nlm.nih.gov/37013389/) · Elshall 2025 · RCT · [PMID 40762162](https://pubmed.ncbi.nlm.nih.gov/40762162/) |
+| Tempo até deambular | **8 h × 24 h** (× bloqueio do quadrado lombar anterior) | Elshall 2025 · RCT · [PMID 40762162](https://pubmed.ncbi.nlm.nih.gov/40762162/) · Et 2023 · RCT · [PMID 37013389](https://pubmed.ncbi.nlm.nih.gov/37013389/) |
+| Mecanismo (PENG) | analgesia do quadril poupando o quadríceps (*motor-sparing*); menor consumo de opioide e melhor recuperação funcional | Pascarella 2021 · RCT · [PMID 34196965](https://pubmed.ncbi.nlm.nih.gov/34196965/) · Et 2023 · Elshall 2025 |
 
 **CONDUTA:** incluir o PENG no protocolo analgésico multimodal.
 
@@ -622,16 +686,16 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Decisão | Conduta | Número-chave |
 |---|---|---|
-| Otimização clínica | descolonizar · glicemia · ferro no anêmico · cessação de tabagismo | RR 0,52 · RR 0,61 · OR 2,16 |
+| Otimização clínica | descolonizar · glicemia · ferro no anêmico · cessação de tabagismo | transfusão 24→4% · complicações 52→18% |
 | Imagem | RX calibrada + templating manual; 3D só anatomia atípica | manual ≥ digital (p<0,001) |
-| Execução | tecnologia não muda desfecho clínico | HR 1,00 · SMD 0,01 |
-| Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | luxação 0,4% × 1,7% |
-| Construto/via | DM no risco; cabeça 32/36; XLPE sempre + cerâmica; reparo capsular; PENG | HR 1,67 · 6,2%×11,7% · RR 8,21 |
-| Ordem quadril-coluna | ATQ antes da fusão quando possível | luxação +106% se fusão antes |
-| Bilateral | simultânea no selecionado, com estratégia de sangue | OR 0,44 revisões · OR 4,42 transfusão |
-| Fixação | cimentar: mulher ≥70,5 · fx colo · osso ruim; senão colar + gradual-taper | OR 0,22 · HR 7,8 |
-| Reconstrução | offset + comprimento a ± 2,5 mm | ΔOHS > 25 |
-| Protocolo | TXA · cefazolina 21–30 min · profilaxia por risco · dexametasona | RR 0,26 · OR 2,0 · OR 0,21 |
+| Execução | tecnologia não muda função; sinal observacional em luxação/infecção | SMD 0,01 · HR 0,947 |
+| Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | OHS 42 × 40 (P=0,003) |
+| Construto/via | DM no risco (inclui fratura do colo); cabeça 32/36; XLPE + cerâmica; reparo capsular; PENG | aHR 0,27 · 6,2%×11,7% · RR 8,21 |
+| Ordem quadril-coluna | a fusão é o risco; a ordem não muda desfecho | luxação 7× (fusão) |
+| Bilateral | simultânea no selecionado, com estratégia de sangue | OR 0,44 × OR 0,85 (diverge) · OR 4,42 transfusão |
+| Fixação | cimentar: mulher ≥70,5 · fx colo · osso ruim — ciente do trade-off de mortalidade | OR 0,22 (fx) · OR 0,73 mortalidade (eletivo) |
+| Reconstrução | offset + centro de rotação; comprimento contestado | ΔOHS > 25 |
+| Protocolo | TXA · cefazolina 21–30 min · aspirina de rotina · dexametasona | RR 0,26 · OR 2,0 · OR 0,21 |
 | Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
 
 **A tecnologia melhora o alvo técnico. O desfecho, quem melhora é o planejamento.**

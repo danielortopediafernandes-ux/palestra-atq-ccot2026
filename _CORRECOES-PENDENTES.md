@@ -1,3 +1,6 @@
+> ✅ **RESOLVIDO 2026-08-14 19:4x** pela sessão desktop (que TEM acesso a Documents): a correção foi **dobrada no COMPENDIO canônico** (`~/Documents/Claude/.../COMPENDIO-PALESTRA-ATQ.md`, Tema 5 · Fixação da haste), com os 6 PMIDs **re-conferidos no PubMed** (Chen 42297121 · Kelly 38323976 · Ladurner 37595764 · WHiTE5 35139272 · Humez 38568216 · Malki 42259040). Números corrigidos no canon: Chen = 4% vs 7% (cimentada×não) e 3% vs 2% colar-pareado (NS); Kelly HR 7,8 = sem-colar × com-colar (ambos SEM cimento); homem = ASA>2, não idade. A "escada 2,4/3,0/7,1" foi eliminada. **Falta só o lado SLIDES** (esta sessão cloud já vem tratando em slides-sobrevida.html) — o COMPENDIO já está correto.
+> Nota infra: o "FDA voltar" não é necessário para o canon — a sessão desktop é a ponte para Documents. O grant de acesso continua sendo item de GUI do Daniel (ver relatório no chat).
+
 # Correções pendentes → dobrar no COMPENDIO/slides quando o Documents (FDA) voltar
 ## 2026-08-14 · SUBGRUPO QUE FRATURA — números/critérios REAIS (verificado no PubMed)
 
