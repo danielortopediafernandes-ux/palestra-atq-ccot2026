@@ -138,7 +138,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
 
-**RESPOSTA · A glicemia perioperatória — alvo < 137 mg/dL. A HbA1c com corte em 7% não prevê complicação.**
+**RESPOSTA · A glicemia perioperatória — alvo < 137 mg/dL. A hemoglobina glicada (HbA1c) com corte em 7% não prevê complicação.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
@@ -362,7 +362,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Alvo da taça (CSI — *Combined Sagittal Index*) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Atingir o alvo funcional → **OHS 42 × 40 (P = 0,003)** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
+| Alvo da taça — índice sagital combinado (CSI) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Atingir o alvo funcional → **OHS 42 × 40 (P = 0,003)** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
 | A diferença de luxação (não o desfecho-chave) | dentro × fora do alvo: luxação 0,4% × 1,7% — **NÃO significativa (P = 0,178)** | Verhaegen 2025 |
 | Anteversão | aumentar no rígido — anteversão média dentro do alvo: **26° ± 8°** (× 22° ± 10° fora) | Verhaegen 2025 · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
 | Construto | dupla mobilidade sistemática nos grupos **2B (rígidos)** e **fusão > 3 níveis** → luxação **0,8%** (99,2% livre em 5 anos) | Vigdorchik 2021 · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
@@ -653,7 +653,7 @@ A primeira decisão do planejamento não é técnica: é **"opero agora ou prepa
 
 ## [9.1] O que antecipa a marcha?
 
-**RESPOSTA · O bloqueio PENG.**
+**RESPOSTA · O bloqueio dos nervos pericapsulares do quadril (PENG).**
 
 | Evidência | Número | Fonte |
 |---|---|---|
