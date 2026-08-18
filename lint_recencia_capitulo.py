@@ -66,18 +66,26 @@ def main():
 
     bloqueios, avisos, justificados, via_icm, ok = [], [], [], [], 0
 
+    em_sintese = False
     for i, ln in enumerate(linhas):
         s = ln.strip()
-        # a tabela SÍNTESE final não é tabela de evidências (não tem coluna Fonte)
+        # o quadro SÍNTESE não é tabela de evidências (não tem coluna Fonte) e,
+        # desde a reestruturação de 18/08, vive no MEIO do documento (slide S17):
+        # pular apenas o quadro, não interromper a varredura.
         if s.startswith("# SÍNTESE"):
-            break
+            em_sintese = True
+            continue
+        if em_sintese and (s.startswith("# ") or s.startswith("## ")):
+            em_sintese = False
+        if em_sintese:
+            continue
         if not s.startswith("|") or RE_SEP.match(s):
             continue
         cols = [c.strip() for c in s.strip("|").split("|")]
         if len(cols) < 3:
             continue
-        if cols[0].lower().startswith("evidência") or cols[0].lower().startswith("decisão"):
-            continue  # cabeçalho
+        if cols[0].lower().startswith(("evidência", "decisão", "ato")):
+            continue  # cabeçalho ou cronograma da Parte I
         fonte = cols[-1]
         # A justificativa é prosa livre e costuma citar anos ("busca 2021-2026 não
         # achou..."). Se extrairmos o ano dela, o fiscal se engana com o próprio

@@ -1,0 +1,133 @@
+[
+  {
+    "kind": "capa",
+    "eyebrow": "ARTROPLASTIA TOTAL DO QUADRIL",
+    "titulo": "Planejamento pré-operatório em artroplastia total do quadril",
+    "subtitulo": "o que altera o desfecho",
+    "autor": "Dr. Daniel Araújo Fernandes",
+    "evento": "Congresso [nome a confirmar] de Ortopedia e Traumatologia · 2026"
+  },
+
+  {
+    "kind": "conceito",
+    "eyebrow": "CONCEITO FUNDADOR",
+    "titulo": "Dois planos de medida",
+    "planoA": {
+      "rotulo": "ALVO TÉCNICO",
+      "sub": "o que o cirurgião mede e busca acertar",
+      "itens": "anteversão · inclinação · offset · comprimento do membro · dimensionamento dos implantes",
+      "tag": "é o meio"
+    },
+    "planoB": {
+      "rotulo": "DESFECHO CLÍNICO",
+      "sub": "o que o paciente vive",
+      "itens": "revisão · luxação · infecção · função · satisfação · complicações",
+      "tag": "é o fim"
+    },
+    "tese": "A tecnologia melhora sistematicamente o ALVO TÉCNICO; o DESFECHO CLÍNICO é modificado por decisões de planejamento — de baixo custo, tomadas antes da incisão."
+  },
+
+  {
+    "kind": "unidade",
+    "eyebrow": "ATO 1 · PLANEJAMENTO DE IMAGEM · UNIDADE 1.1",
+    "titulo": "Template manual ou digital?",
+    "tituloSize": 38,
+    "tagline": "Qualquer um serve — a acurácia depende da calibração radiográfica e do conhecimento do desenho da haste.",
+    "hero": {
+      "num": "12,5%",
+      "label": "erro médio de magnificação com marcador externo único (até 23,3%) — cai para 2,1% com marcador de dupla escala",
+      "fonte": "Ries 2022 · Arch Orthop Trauma Surg · 100 pac · PMID 35099608"
+    },
+    "rows": [
+      {
+        "rotulo": "Manual × software",
+        "achado": "empate técnico — acerto da haste ± 1 tamanho 75% × 60% (p < 0,001)",
+        "fonte": "Petretta 2015 · CORR · 5 observadores, 52 ATQs · PMID 25910779"
+      },
+      {
+        "rotulo": "O desenho da haste desloca o template",
+        "achado": "triple-taper com colar: subdimensionar ≥ 2 tamanhos é 3,7× mais frequente",
+        "fonte": "Diaz-Ledezma 2025 · Arthroplast Today · PMID 40130235"
+      }
+    ],
+    "conduta": "template em toda artroplastia (o software não é pré-requisito); investir na calibração radiográfica — marcador de dupla escala — e conhecer o viés de dimensionamento da própria haste."
+  },
+
+  {
+    "kind": "unidade",
+    "eyebrow": "ATO 1 · PLANEJAMENTO DE IMAGEM · UNIDADE 1.2 / 1.3",
+    "titulo": "Planejamento tridimensional por tomografia",
+    "tituloSize": 34,
+    "tagline": "Ganho de acurácia técnica — sem alteração do desfecho relatado pelo paciente na artrose de rotina.",
+    "hero": {
+      "num": "96,9%",
+      "label": "acerto do tamanho da taça no planejamento 3D — contra 87,1% no 2D",
+      "fonte": "Parisi 2024 · PMID 39518705"
+    },
+    "rows": [
+      {
+        "rotulo": "Função (desfecho do paciente)",
+        "achado": "sem diferença no único ensaio randomizado que mediu PROM (2D × 3D)",
+        "fonte": "Thomas 2022 · RCT · PMID 36183111"
+      },
+      {
+        "rotulo": "Exceção — impressão 3D (modelo físico)",
+        "achado": "na anatomia complexa, o ensaio corresponde à cirurgia real: taça ICC 0,93; defeito ósseo P = 0,97",
+        "fonte": "Zhang 2021 · Orthop Surg · piloto 17 pac · PMID 34898037"
+      }
+    ],
+    "conduta": "templating 2D basta na artrose de rotina; reservar o modelo impresso à anatomia atípica — displasia/Crowe, deformidade grave, revisão."
+  },
+
+  {
+    "kind": "unidade",
+    "eyebrow": "ATO 1 · PLANEJAMENTO DE IMAGEM · UNIDADE 1.4",
+    "titulo": "Planejamento assistido por inteligência artificial",
+    "tituloSize": 32,
+    "tagline": "Acurácia de dimensionamento sem validação de desfecho clínico.",
+    "hero": {
+      "num": "+0,73",
+      "label": "ganho de função (Harris Hip Score) com IA/3D — abaixo do MCID, imperceptível ao paciente",
+      "fonte": "Taghavi 2026 · Arthroplasty · meta · PMID 42547897"
+    },
+    "rows": [
+      {
+        "rotulo": "Acerto do tamanho (IA × 2D)",
+        "achado": "taça OR 3,85 · haste OR 3,28",
+        "fonte": "Altahtamouni 2026 · meta · PMID 41727957"
+      },
+      {
+        "rotulo": "Base de evidência limitada",
+        "achado": "8 estudos, 1.371 pacientes, 100% em um único país, nível III",
+        "fonte": "Altahtamouni 2026 · PMID 41727957"
+      }
+    ],
+    "conduta": "não adotar fora de validação na população local; acompanhar a literatura."
+  },
+
+  {
+    "kind": "unidade",
+    "eyebrow": "ATO 1 · TECNOLOGIA DE EXECUÇÃO · UNIDADE 2.1",
+    "titulo": "Assistência robótica melhora a função?",
+    "tituloSize": 34,
+    "tagline": "Acurácia superior no alvo técnico — sem tradução em função (o desfecho do paciente).",
+    "hero": {
+      "num": "0,01",
+      "label": "diferença de função (PROM) robô × convencional (SMD) — meta de 8 ensaios randomizados: equivale a zero",
+      "fonte": "Ruangsomboon 2024 · meta 8 RCTs · 1.014 pac · PMID 38888718"
+    },
+    "rows": [
+      {
+        "rotulo": "Acurácia (alvo técnico) ✓",
+        "achado": "o robô acerta melhor — anteversão da taça 2,6° × 8,9°; centro de rotação 1,4 × 4,3 mm",
+        "fonte": "Fontalis 2024 · RCT · TC pré e pós · 60 pac · PMID 38555946"
+      },
+      {
+        "rotulo": "Único ganho clínico comprovado",
+        "achado": "internação −0,49 dia (~12 h; P = 0,044, marginal; estudo subdimensionado pelos próprios autores)",
+        "fonte": "Poyser 2026 · PMID 41519489"
+      }
+    ],
+    "conduta": "não indicar a robótica por ganho de função; o comprovado limita-se à acurácia e a ~meia diária de internação (sinais de luxação/infecção ainda sem ensaio randomizado)."
+  }
+]
