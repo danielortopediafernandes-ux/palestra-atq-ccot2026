@@ -2,11 +2,13 @@
 
 **Decidido pelo Dr. Daniel em 17–18/08/2026.** Estrutura em 3 atos. O deck carrega MAIS que 10 minutos de propósito: o Dr. treina a fala e corta pelas RESERVAS e pelas FUSÕES indicadas. Fonte de todo conteúdo: `CAPITULO.md` (38 unidades, fiscal de recência em 0 bloqueios) — a coluna "Unidade" aponta a origem exata de cada slide.
 
-**⛔ REGISTRO LINGUÍSTICO — REGRA INVIOLÁVEL #9 do CLAUDE.md (canonizada pelo Dr. em 18/08):** linguagem **formal e científica em TODO texto da apresentação** — títulos, destaques, condutas e transições. Mesma linguagem dos artigos científicos. **Proibido:** frase de efeito, coloquialismo, primeira pessoa, jogo de palavras. Onde a redação do CAPITULO.md for coloquial (ex.: em CONDUTA), **a redação deste mapa prevalece para o slide**. E, por ordem do Dr. (18/08): **além do número, cada slide traz uma EXPLICAÇÃO ESCRITA clara e explícita** — frases completas, autossuficientes para quem não leu a literatura. O texto obrigatório de cada slide está na seção "Texto explicativo de cada slide", abaixo.
+**⛔ REGISTRO LINGUÍSTICO — REGRA INVIOLÁVEL #9 do CLAUDE.md (canonizada pelo Dr. em 18/08):** linguagem **formal e científica em TODO texto da apresentação** — títulos, destaques, condutas e transições. Mesma linguagem dos artigos científicos. **Proibido:** frase de efeito, coloquialismo, primeira pessoa, jogo de palavras. Onde a redação do CAPITULO.md for coloquial (ex.: em CONDUTA), **a redação deste mapa prevalece para o slide**. E, por ordem do Dr. (18/08): **o texto do slide é um RESUMO EM TÓPICOS — poucas palavras, fácil de entender, sem poluir o slide** (seção "Resumo em tópicos", abaixo: é este o texto que vai ao slide). A **explicação escrita completa** de cada slide permanece na seção "Texto explicativo" e serve de **base do roteiro de fala e do documento-anexo — NÃO vai ao slide**.
 
 **Ênfase definida pelo Dr. (18/08):** o Ato 1 — tecnologias de planejamento e execução — é o núcleo de impacto da palestra, por ser a área de maior pressão comercial da indústria. Tratado tecnologia por tecnologia, cada uma como decisão própria, sempre no eixo desfecho substituto × desfecho clínico.
 
 **Demais regras herdadas (canônicas):** letras grandes sempre · 1 ideia por slide · número em destaque · fonte no rodapé do slide · Discussão NUNCA vai ao slide · figuras reais de artigo, nunca IA · a sessão de slides não altera conteúdo — dúvida volta ao Dr.
+
+**⛔ DIVISÃO DE PAPÉIS (ordem do Dr., 18/08):** a sessão de CONTEÚDO não busca figuras — nunca. **Figuras são responsabilidade integral da sessão de SLIDES** (a lista de sugestões no fim deste mapa indica artigo e o que mostrar; obter via VPN UFSC no Mini).
 
 ---
 
@@ -84,7 +86,140 @@
 
 ---
 
-## TEXTO EXPLICATIVO DE CADA SLIDE (obrigatório no slide, além do número — registro formal)
+## RESUMO EM TÓPICOS — O TEXTO QUE VAI AO SLIDE (poucas palavras · registro formal · número em destaque)
+
+**S1 — Capa / eixo conceitual**
+- Desfecho substituto: o que o cirurgião mede
+- Desfecho clínico: o que o paciente vive — revisão, luxação, infecção, função
+- Tese: a tecnologia melhora o substituto; o planejamento melhora o clínico
+
+**S2 — Template manual × digital**
+- Acerto da haste: acetato **75% × 60%** software (p < 0,001)
+- Erro de magnificação: marcador único **12,5%** · dupla escala **2,1%**
+- O desenho da haste desloca a previsão (subdimensionamento 3,7×)
+- Conduta: template em toda ATQ · investir na calibração
+
+**S3 — Planejamento 3D e impressão 3D**
+- Acerto da taça: 3D **96,9% × 87,1%** (2D)
+- Desfecho relatado pelo paciente: **sem diferença** (ensaio randomizado)
+- Modelo impresso: ensaio corresponde à cirurgia (ICC 0,93) — anatomia complexa
+- Conduta: 2D na rotina · impressão 3D na displasia e revisão
+
+**S4 — Inteligência artificial**
+- Acerto do tamanho: OR **3,85** (taça)
+- Validação: 1.371 pacientes · um único país · nível III
+- Função: **+0,73** ponto no HHS — abaixo do MCID
+- Conduta: não adotar sem validação local
+
+**S5 — Assistência robótica: função**
+- Erro de anteversão: **2,6° × 8,9°** (TC pré/pós, ensaio randomizado)
+- Função: **SMD 0,01** — sem diferença clínica (metanálise, 8 ensaios)
+- Internação: **−0,49 dia** — significância marginal
+- Conclusão: maior acurácia, sem ganho demonstrado para o paciente
+
+**S6 — Robótica e navegação: demais desfechos**
+- Revisão em registro nacional: HR **0,947** — sem diferença
+- Sinais observacionais 2026: luxação OR 0,57 · infecção OR 0,83
+- Navegação: complicação mecânica OR 0,63 · infecção OR 0,46
+- Sem confirmação randomizada — não indicar por função
+
+**S7 — Zona de segurança de Lewinnek**
+- **58%** das luxações com a taça DENTRO da zona (9.784 ATQs)
+- Confirmação independente: **55,8%**
+- O alvo não é uniforme entre pacientes
+- Conclusão: o posicionamento requer individualização
+
+**S8 — Tabagismo**
+- Cessação **6–8 semanas** antes: complicações **52% → 18%**
+- Ferida: **31% → 5%** (ensaio randomizado, Lancet)
+- Confirmação: infecção de ferida OR 0,37 (cessação ≥ 4 semanas)
+- Conduta: prescrever cessação · agendar após o intervalo
+
+**S9 — Descolonização e glicemia**
+- Banho de clorexidina: infecção **OR 0,43** · nasal isolada: não significativa
+- HbA1c com corte de 7%: não prediz complicações
+- Glicemia perioperatória: limiar **137 mg/dL** · pico às 21 h
+- Conduta: clorexidina universal · protocolo glicêmico do dia da cirurgia
+
+**S10 — Avaliação espinopélvica**
+- Rastreio: **ΔSS < 10°** · **PI−LL > 10°** · artrodese > 3 níveis
+- Presente ≥ 1 critério → radiografia em pé × sentado
+- Modifica: alvo da taça · anteversão · indicação de dupla mobilidade
+- Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
+
+**S11 — Cabeça femoral**
+- Luxação: 36 mm **0,46%** × 32 mm **0,68%** (4 registros nacionais)
+- ≥ 40 mm: sem ganho · mais revisão e infecção
+- Cerâmica no jovem (HR 0,73 < 55 anos) · corrosão concentrada no cobalto-cromo
+- Conduta: **36 mm em cerâmica** · polietileno reticulado sempre
+
+**S12 — Dupla mobilidade**
+- Fratura do colo ≥ 65 anos: luxação **1,3% × 4,2%** (aHR 0,27 · RCT Lancet)
+- Eletivo: benefício nos grupos de risco — coluna rígida/artrodese · revisão
+- Cabeça grande não substitui a dupla mobilidade
+- Conduta: indicação dirigida ao risco — não universal
+
+**S13 — Fixação femoral**
+- Cimentar: mulher **≥ 70,5 anos** · fratura do colo · osso de má qualidade
+- Fratura do colo (nível 1): fratura periprotética OR 0,22 · mortalidade RR **0,86**
+- Risco do cimento: agudo, dia 0–1 (**0,4%** absoluto) · embolia RR 3,56
+- Sem cimento: haste **com colar** (sem colar: HR 7,8)
+
+**S14 — Reparo capsular e restrições**
+- Luxação sem reparo capsular: **RR ≈ 8** (IC 4–17)
+- Com reparo: via posterior equivale às demais vias
+- Restrições pós-operatórias: sem redução de luxação · pior função (RCT)
+- Conduta: reparo sistemático · sem restrições de rotina
+
+**S15 — Protocolo farmacológico**
+- Ácido tranexâmico IV: transfusão **RR ≈ 0,48**
+- Cefazolina: **21–30 min** antes da incisão (atraso > 50 min: OR 2,0)
+- Aspirina 81 mg desde o dia 0: não inferior · menos sangramento
+- Dexametasona dose única: náusea OR 0,21 · segura no diabético
+- Bloqueio PENG: deambulação **8 h × 24 h**
+
+**S16 — Sobrevida do implante**
+- **93,6%** sem revisão aos **20 anos** (8 registros · 1.904.237 ATQs)
+- 25 anos: 92,8% · 30 anos: 92,1% — **projeção por modelo**
+- Dado medido ≠ projeção: citar sempre com a distinção
+
+**S17 — Síntese**
+- Tecnologias: melhoram o desfecho substituto
+- Desfecho clínico: modificado por decisões de planejamento de baixo custo
+- Quadro-síntese na ordem cronológica das decisões
+
+**R1 — Anemia**
+- Hb < 13 g/dL na indicação → investigar a causa
+- Ferro IV não reduz transfusão (pré RR 0,91 · pós sem diferença)
+- Redução de transfusão: ácido tranexâmico
+- Ferro pós-operatório: acelera a recuperação da Hb (62% × 32%)
+
+**R2 — Frutosamina**
+- Identifica risco com HbA1c aparentemente adequada (4/5 das infecções: HbA1c < 8%)
+- Limitações: AUC 0,58 · corte sem validação independente · sem estudo de intervenção
+- Uso: reclassificação de risco (jejum > 100 mg/dL) — não critério de adiamento
+
+**R3 — Artrodese lombar prévia**
+- Luxação: OR **2,50** (1,79 milhão de pacientes)
+- Gradiente por níveis: 2,2% → 7,8%
+- A ordem das cirurgias não modifica o desfecho (2 metanálises 2026)
+
+**R4 — Offset**
+- Redução > **5 mm**: menor força abdutora
+- Desfecho relatado: piora apenas com redução > **20 mm**
+- Não compensar offset acetabular com o femoral (P = 0,040)
+- Base integralmente observacional
+
+**R5 — Liner com rebordo**
+- Registro inglês: favorável · registro alemão: sem diferença
+- Cabeça maior com liner neutro supera cabeça menor com rebordo
+
+**R6 — Bilateral simultânea**
+- Paciente selecionado: menor custo e internação · melhor função
+- Custo: transfusão OR **4,42**
+- Revisão diverge entre fontes · evidência observacional
+
+## TEXTO EXPLICATIVO DE CADA SLIDE (base do roteiro de fala e do documento-anexo — NÃO vai ao slide)
 
 **S1 —** Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimensionamento dos componentes — são desfechos substitutos. Os desfechos clínicos são os eventos vividos pelo paciente: revisão, luxação, infecção e função. A tese desta apresentação: as tecnologias melhoram sistematicamente o desfecho substituto; os desfechos clínicos são modificados por decisões de planejamento de baixo custo.
 
@@ -140,7 +275,7 @@
 - **S14 → S15:** "As últimas decisões do planejamento são as do protocolo perioperatório, definidas em prescrição."
 - **S16:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
 
-## Figuras reais a buscar (para a sessão de slides)
+## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
 1. S3 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
 2. S7 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
