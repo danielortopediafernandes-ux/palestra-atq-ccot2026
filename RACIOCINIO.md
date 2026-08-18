@@ -7,7 +7,7 @@
 ## ABERTURA — a tese
 
 **Dois planos de medida** (organiza a palestra inteira):
-- **Alvo técnico (desfecho substituto):** inclinação/anteversão do componente, offset, comprimento, dimensionamento — medido por nós.
+- **Alvo técnico (parâmetros técnicos):** inclinação/anteversão do componente, offset, comprimento, dimensionamento — medido por nós.
 - **Desfecho clínico:** revisão, luxação, infecção, função, complicações — vivido pelo paciente.
 
 **Tese:** a tecnologia melhora sistematicamente o **alvo técnico**; os **desfechos clínicos** são modificados por decisões simples, de baixo custo, definidas **antes da incisão**.

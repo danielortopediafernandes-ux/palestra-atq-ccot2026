@@ -301,7 +301,7 @@ Ao mexer em qualquer conteúdo de palestra, siga:
 Skill completa: `~/.claude/skills/palestra-medica/SKILL.md` (o Dr. investiu tempo pesado nesta skill — respeite).
 
 ### As 13 armadilhas — memorize
-1. Patrocínio industrial 2. Substituto vestido de clínico 3. Sample piloto 4. Dose/via/composição diferente 5. Nicho geográfico 6. IC estreito perto do nulo 7. "P<0.05" isolado 8. Paper superado por sucessor 9. Metadados errados 10. Narrativa viral 11. Slide↔documento divergem 12. Nulo NS vendido como negativo provado 13. Manchete contradiz evidência de maior tier
+1. Patrocínio industrial 2. Alvo técnico vestido de desfecho clínico 3. Sample piloto 4. Dose/via/composição diferente 5. Nicho geográfico 6. IC estreito perto do nulo 7. "P<0.05" isolado 8. Paper superado por sucessor 9. Metadados errados 10. Narrativa viral 11. Slide↔documento divergem 12. Nulo NS vendido como negativo provado 13. Manchete contradiz evidência de maior tier
 
 ---
 

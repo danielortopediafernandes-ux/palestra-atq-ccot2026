@@ -1,6 +1,6 @@
 > ## ⚠️ PARA A SESSÃO DE SLIDES — LEIA ANTES DE QUALQUER SLIDE
 > Este documento é a **fonte única da verdade** — conteúdo E estrutura da apresentação consolidados (ordem do Dr., 18/08).
-> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o planejamento (Opção 3, 3 atos, alvo 10 min). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
+> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o planejamento (Opção 3, 3 atos). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
 > **Regras invioláveis:** registro científico FORMAL em todo texto (Regra #9, canonizada 18/08 — sem frase de efeito, coloquialismo ou primeira pessoa) · letras grandes · 1 ideia por slide · número em destaque · fonte no rodapé · figuras reais de artigo, nunca IA — **figuras são responsabilidade integral da sessão de slides**.
 > **Não alterar, resumir nem "melhorar" conteúdo** — dúvida volta ao Dr. Usar sempre o commit mais recente deste arquivo.
 
@@ -15,10 +15,10 @@ Documento-base da palestra — versão completa, com discussão e referências v
 
 Documento único da palestra — conteúdo e estrutura consolidados (decisão do Dr., 18/08/2026). Organização:
 
-- **PARTE I — A APRESENTAÇÃO:** os 17 slides do núcleo (3 atos, alvo 10 min) e os 6 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
+- **PARTE I — A APRESENTAÇÃO:** os 18 slides do núcleo (3 atos) e os 6 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
 - **APÊNDICE:** unidade auditada não incluída na apresentação (material de consulta).
 
-As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — as referências cruzadas entre unidades permanecem válidas. O material está completo, sem cortes: a seleção do que se fala em 10 minutos é decisão do autor, feita no treino.
+As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — as referências cruzadas entre unidades permanecem válidas. O material está completo, sem cortes: a sessão de conteúdo responde pela qualidade da informação e pela estrutura lógica; o tempo e a seleção final do que fica são decisão exclusiva do Dr., tomada somente ao final.
 
 ---
 
@@ -26,7 +26,7 @@ As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — a
 
 Toda a lógica deste capítulo repousa numa distinção:
 
-- **Alvo técnico (desfecho substituto):** aquilo que o cirurgião mede — inclinação e anteversão do componente acetabular, anteversão femoral, offset, comprimento do membro, dimensionamento dos implantes. É importante, mas é um **meio**.
+- **Alvo técnico (parâmetros técnicos):** aquilo que o cirurgião mede — inclinação e anteversão do componente acetabular, anteversão femoral, offset, comprimento do membro, dimensionamento dos implantes. É importante, mas é um **meio**.
 - **Desfecho clínico:** aquilo que o paciente vive — revisão, luxação, infecção, função, satisfação, complicações. É o **fim**.
 
 A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo técnico; os desfechos clínicos são modificados por decisões simples, de baixo custo, tomadas antes da incisão.**
@@ -88,73 +88,108 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 ---
 
 
-# PARTE I — A APRESENTAÇÃO (Opção 3 · 3 atos · alvo 10 min)
+# PARTE I — A APRESENTAÇÃO (Opção 3 · 3 atos)
 
-**Estrutura decidida pelo Dr. em 17–18/08/2026.** O núcleo (S1–S17) soma ~12 min de propósito: o Dr. treina a fala e corta pelas reservas e fusões. **Fusões previstas:** S4 pode ser incorporado a S3 (uma linha); S6 pode ser incorporado a S5 (rodapé). **Ordem de corte das reservas:** R6 → R5 → R4 → R3 → R2 → R1.
+**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S5 pode ser incorporado a S4 (uma linha); S7 pode ser incorporado a S6 (rodapé). **Ordem sugerida de corte das reservas:** R6 → R5 → R4 → R3 → R2 → R1.
 
-| Ato | Slides | Tempo |
-|---|---|---|
-| Ato 1 · Tecnologias: acurácia × desfecho | S1–S7 | ~4 min |
-| Ato 2 · Decisões com impacto no desfecho | S8–S15 | ~6,5 min |
-| Ato 3 · Síntese | S16–S17 | ~1,5 min |
+| Ato | Slides |
+|---|---|
+| Ato 1 · Tecnologias: acurácia × desfecho | S1–S8 |
+| Ato 2 · Decisões com impacto no desfecho | S9–S16 |
+| Ato 3 · Síntese | S17–S18 |
 
 ---
 
 
-# ATO 1 — TECNOLOGIAS DE PLANEJAMENTO E EXECUÇÃO: ACURÁCIA VERSUS DESFECHO (~4 min)
+# ATO 1 — TECNOLOGIAS DE PLANEJAMENTO E EXECUÇÃO: ACURÁCIA VERSUS DESFECHO
 
-## SLIDE S1 · Planejamento pré-operatório em artroplastia total do quadril: o que altera o desfecho (capa)  *(tempo estimado: 0:30)*
+## SLIDE S1 · Planejamento pré-operatório em artroplastia total do quadril: o que altera o desfecho (capa)
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Desfecho substituto: o que o cirurgião mede
+- Alvo técnico: o que o cirurgião mede
 - Desfecho clínico: o que o paciente vive — revisão, luxação, infecção, função
-- Tese: a tecnologia melhora o substituto; o planejamento melhora o clínico
+- Tese: a tecnologia melhora o alvo técnico; o planejamento melhora o desfecho clínico
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimensionamento dos componentes — são desfechos substitutos. Os desfechos clínicos são os eventos vividos pelo paciente: revisão, luxação, infecção e função. A tese desta apresentação: as tecnologias melhoram sistematicamente o desfecho substituto; os desfechos clínicos são modificados por decisões de planejamento de baixo custo.
+Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimensionamento dos componentes — constituem o alvo técnico. Os desfechos clínicos são os eventos vividos pelo paciente: revisão, luxação, infecção e função. A tese desta apresentação: as tecnologias melhoram sistematicamente o alvo técnico; os desfechos clínicos são modificados por decisões de planejamento de baixo custo.
 
 **BASE DE EVIDÊNCIA:** seção "Conceitos fundadores — os dois planos de medida", no preâmbulo deste documento.
 
 
 ---
 
-## SLIDE S2 · Template manual versus digital: acurácia equivalente — o determinante é a calibração radiográfica  *(tempo estimado: 0:35)*
+## SLIDE S2 · Template manual versus digital: acurácia equivalente — a ferramenta não é o determinante
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Acerto da haste: acetato **75% × 60%** software (p < 0,001)
-- Erro de magnificação: marcador único **12,5%** · dupla escala **2,1%**
+- Acerto da haste: template manual **75% × 60%** software (p < 0,001)
+- Comparação inversa: digital **93,8% × 84,1%** — o método importa menos que a execução
+- Padrão alcançável: ± 1 tamanho em ~90% · tamanho exato em ~32–40%
 - O desenho da haste desloca a previsão (subdimensionamento 3,7×)
-- Conduta: template em toda ATQ · investir na calibração
+- Conduta: template em TODA artroplastia — manual ou digital
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O template em acetato aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). O principal determinante da acurácia não é a ferramenta, e sim a calibração da radiografia: com marcador externo único, o erro médio de magnificação é de 12,5%, chegando a 23,3%; com marcador de dupla escala, 2,1%. Conduta: planejar toda artroplastia com template — manual ou digital — e dirigir o investimento à calibração radiográfica e ao conhecimento do desenho do implante.
+O template manual aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). A comparação inversa também existe: em outro desenho de estudo, o método digital superou a sobreposição manual (93,8% versus 84,1%). O conjunto configura equivalência prática entre as ferramentas, com padrão alcançável de acerto dentro de um tamanho em cerca de 90% e acerto exato em 32–40% — e o desenho da haste desloca sistematicamente a previsão. A ferramenta, portanto, não define a acurácia; o determinante é a calibração da radiografia, objeto do slide seguinte.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
 ## [1.1] Template manual ou digital — e o que realmente define a acurácia?
 
-**RESPOSTA · Qualquer um dos dois serve — o que define a acurácia é a CALIBRAÇÃO da radiografia e conhecer o desenho da haste.**
+**RESPOSTA · Qualquer um dos dois serve — o que define a acurácia é a CALIBRAÇÃO da radiografia (unidade [1.1.1]) e conhecer o desenho da haste.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Acetato sobre imagem digital × software de templating | o **acetato** foi igual ou superior: haste **75% × 60% (p < 0,001)** — este é o achado forte; taça 77% × 70% com **p = 0,050**, apenas limítrofe. Mais rápido (119 s × 154 s) e sem custo | Petretta 2015 · CORR · nível III, 5 observadores, 52 ATQs · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) · **sem sucessor: a busca 2021–2026 não encontrou comparação direta acetato × software de alto padrão; os estudos recentes são séries pequenas sem braço comparador** ⚠️ **correção 17/08/2026:** o capítulo aplicava o p < 0,001 também à taça, onde o valor real é 0,050. E o comparador não é "filme impresso": é **acetato sobreposto a imagem digital calibrada** |
+| Template manual sobre imagem digital × software de templating | o **template manual** foi igual ou superior: haste **75% × 60% (p < 0,001)** — este é o achado forte; taça 77% × 70% com **p = 0,050**, apenas limítrofe. Mais rápido (119 s × 154 s) e sem custo | Petretta 2015 · CORR · nível III, 5 observadores, 52 ATQs · [PMID 25910779](https://pubmed.ncbi.nlm.nih.gov/25910779/) · **sem sucessor: a busca 2021–2026 não encontrou comparação direta template manual × software de alto padrão; os estudos recentes são séries pequenas sem braço comparador** ⚠️ **correção 17/08/2026:** o capítulo aplicava o p < 0,001 também à taça, onde o valor real é 0,050. E o comparador não é "filme impresso": é **template manual sobreposto a imagem digital calibrada** |
 | A comparação inversa também existe | digital (PACS) superou a sobreposição de template em tela para haste ± 1 tamanho: **93,8% × 84,1%** — o método específico importa menos que a execução | Pongkunakorn 2021 · J Arthroplasty · [PMID 33583670](https://pubmed.ncbi.nlm.nih.gov/33583670/) · [DOI](https://doi.org/10.1016/j.arth.2021.01.019) |
 | Expectativa realista | acerto do tamanho **exato**: haste ~32% · taça ~40% (± 1 tamanho é o padrão alcançável); acurácia semelhante entre cirurgião experiente e residente | Surroca 2024 · Hip Pelvis · [PMID 38825822](https://pubmed.ncbi.nlm.nih.gov/38825822/) · [DOI](https://doi.org/10.5371/hp.2024.36.2.129) |
-| O que mais degrada o template: a calibração | marcador externo: erro médio de magnificação **12,5%** (até 23,3%!), pior no obeso; marcador de dupla escala: **2,1%** | Ries 2022 · Arch Orthop Trauma Surg · prospectivo 100 pac · [PMID 35099608](https://pubmed.ncbi.nlm.nih.gov/35099608/) · [DOI](https://doi.org/10.1007/s00402-022-04355-y) |
 | O desenho da haste muda o erro | haste *triple-taper* com colar: template sugere tamanho maior — implante ≥ 2 tamanhos abaixo do previsto **3,7×** mais frequente que na *single-taper* | Diaz-Ledezma 2025 · Arthroplast Today · [PMID 40130235](https://pubmed.ncbi.nlm.nih.gov/40130235/) · [DOI](https://doi.org/10.1016/j.artd.2025.101658) |
 
-**CONDUTA:** planejar TODA artroplastia com template (manual ou digital — o software não é pré-requisito); investir onde o erro mora: **calibração rigorosa da radiografia** (marcador de dupla escala ou referência interna) e conhecer o viés de dimensionamento do desenho da própria haste.
+**CONDUTA:** planejar TODA artroplastia com template (manual ou digital — o software não é pré-requisito); conhecer o viés de dimensionamento do desenho da própria haste; a calibração da radiografia — onde o erro efetivamente mora — é tratada na unidade [1.1.1].
 
-**Discussão.** A pergunta "manual ou digital?" tem resposta anticlimática — empate técnico, com estudos apontando para os dois lados conforme o desenho — e é exatamente isso que a torna útil: ela libera o cirurgião da ferramenta e o devolve ao fundamento. Os dados mostram onde a acurácia se ganha ou se perde: uma radiografia mal calibrada carrega até 23% de erro de magnificação antes de qualquer medição, e uma haste de geometria nova desloca sistematicamente o template. Quem calibra bem e conhece seu implante acerta ± 1 tamanho em ~90% — com acetato ou com software.
+**Discussão.** A pergunta "manual ou digital?" tem resposta anticlimática — empate técnico, com estudos apontando para os dois lados conforme o desenho — e é exatamente isso que a torna útil: ela libera o cirurgião da ferramenta e o devolve ao fundamento. Quem calibra bem e conhece seu implante acerta ± 1 tamanho em ~90% — com template manual ou com software.
 
 
 ---
 
-## SLIDE S3 · Planejamento tridimensional por tomografia e impressão 3D: acurácia sem alteração de desfecho na rotina; modelo impresso na anatomia complexa  *(tempo estimado: 0:40)*
+## SLIDE S3 · Calibração radiográfica: o marcador único convencional é insuficiente para o fêmur — calibração de dupla escala
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Erro de magnificação: marcador único **12,5%** (até 23,3%) · dupla escala **2,1%**
+- Acerto exato da haste: dupla escala **54% × 32%** (p = 0,04) · taça: sem diferença
+- Erro de calibração **> 1,5%** já altera o tamanho planejado
+- Fator fixo (115–120%): magnificação real varia **116–140%** e muda com IMC e sexo
+- Conduta: calibração de dupla escala em toda radiografia de planejamento
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+A calibração convencional com marcador externo único carrega erro médio de magnificação de 12,5%, alcançando 23,3%, maior no paciente obeso — contra 2,1% com o marcador de dupla escala. Como o erro de calibração superior a 1,5% já é suficiente para alterar o tamanho do implante planejado, a calibração convencional é insuficiente para o planejamento femoral: na comparação direta, o acerto exato da haste foi de 54% com dupla escala contra 32% com marcador único; para a taça, não houve diferença. O fator de magnificação fixo é a alternativa menos confiável: a magnificação real varia de 116% a 140% conforme a técnica radiográfica e aumenta com o índice de massa corporal. Conduta: calibrar toda radiografia de planejamento com marcador de dupla escala; não planejar com fator fixo.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [1.1.1] A calibração tradicional (marcador único) é suficiente?
+
+**RESPOSTA · Não para o fêmur — o marcador único carrega erro médio de magnificação de 12,5% (limiar de relevância: 1,5%) e perde acerto exato da haste (32% × 54% da dupla escala); para a taça, não há diferença demonstrada. O fator de magnificação fixo é a pior opção.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Erro de magnificação por método de calibração | marcador externo único: erro médio **12,5%** (até 23,3%!), pior no obeso; marcador de dupla escala: **2,1%** | Ries 2022 · Arch Orthop Trauma Surg · prospectivo 100 pac · [PMID 35099608](https://pubmed.ncbi.nlm.nih.gov/35099608/) · [DOI](https://doi.org/10.1007/s00402-022-04355-y) |
+| Dupla escala × marcador único — acerto do implante | haste exata: **54% × 32% (p = 0,04)** a favor da dupla escala; taça: **30% × 32% (p = 0,83)** — sem diferença | Maatough 2025 · Cureus · retrospectivo, 2 coortes históricas de 50 pac · [PMID 40470419](https://pubmed.ncbi.nlm.nih.gov/40470419/) · [DOI](https://doi.org/10.7759/cureus.83501) — ⚠️ fraqueza metodológica: retrospectivo, coortes sequenciais não randomizadas, periódico de baixo fator de impacto |
+| Limiar de relevância do erro | erro de calibração **> 1,5%** já sub/superdimensiona o implante planejado; métodos convencionais carregam erro médio de 6,5% | Boese 2023 · Int Orthop · estudo em modelo físico (phantom) · [PMID 36881153](https://pubmed.ncbi.nlm.nih.gov/36881153/) · [DOI](https://doi.org/10.1007/s00264-023-05747-4) |
+| Fator fixo não é alternativa | magnificação real variou de **116% a 140%** conforme posicionamento do marcador, distância foco-detector e condição do exame | Holliday 2021 · J Med Radiat Sci · estudo em modelo físico (phantom) · [PMID 33590673](https://pubmed.ncbi.nlm.nih.gov/33590673/) · [DOI](https://doi.org/10.1002/jmrs.461) |
+| A magnificação depende do paciente | IMC e sexo alteram a magnificação (obeso **121,8% × 119,9%** não obeso, p < 0,001; correlação com IMC r = 0,544) — um fator fixo único não cobre a variação | Ashkenazi 2023 · SICOT-J · 97 radiografias calibradas · [PMID 37195151](https://pubmed.ncbi.nlm.nih.gov/37195151/) · [DOI](https://doi.org/10.1051/sicotj/2023009) |
+
+**CONDUTA:** calibrar TODA radiografia de planejamento com marcador de dupla escala (ou referência interna de dimensão conhecida); não usar fator de magnificação fixo; no paciente obeso, atenção redobrada — é onde o marcador único mais erra.
+
+**Discussão.** A pergunta admite resposta quantitativa. O marcador único convencional é superior ao fator fixo, porém carrega erro médio de 12,5% — cerca de oito vezes o limiar de 1,5% que já altera o tamanho planejado — e a comparação direta disponível mostrou perda de acerto exato da haste, sem diferença para a taça. Limitações declaradas: a comparação direta é retrospectiva, pequena e publicada em periódico de baixo fator de impacto; e nenhum estudo de calibração mediu desfecho clínico — todo este bloco opera no plano do alvo técnico (dimensionamento). A recomendação é operacional: o custo do marcador de dupla escala é desprezível e a redução do erro é consistente entre os desenhos de estudo.
+
+
+---
+
+## SLIDE S4 · Planejamento tridimensional por tomografia e impressão 3D: acurácia sem alteração de desfecho na rotina; modelo impresso na anatomia complexa
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -202,7 +237,7 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho da taç
 
 ---
 
-## SLIDE S4 · Planejamento assistido por inteligência artificial: acurácia sem validação de desfecho  *(tempo estimado: 0:30)*
+## SLIDE S5 · Planejamento assistido por inteligência artificial: acurácia sem validação de desfecho
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -226,7 +261,7 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 | O que é | software que reconstrói o quadril em 3D a partir da TC e prevê por aprendizado de máquina o tamanho de taça e haste | Altahtamouni 2026 · meta · [PMID 41727957](https://pubmed.ncbi.nlm.nih.gov/41727957/) |
 | Acerto do tamanho — IA × 2D | taça **OR 3,85** · haste **OR 3,28** | Altahtamouni 2026 |
 | Onde foi estudada | **8 estudos · 1.371 pacientes · 100% na China** — nível de evidência III | Altahtamouni 2026 |
-| O que mede (essa meta) | apenas acurácia de dimensionamento (desfecho substituto) | Altahtamouni 2026 |
+| O que mede (essa meta) | apenas acurácia de dimensionamento (alvo técnico) | Altahtamouni 2026 |
 | **Quando mede função, fica aquém** | IA/3D no templating: ganho de **HHS +0,73 ponto** — **abaixo do MCID** | Taghavi 2026 · Arthroplasty · meta · [PMID 42547897](https://pubmed.ncbi.nlm.nih.gov/42547897/) |
 
 **CONDUTA:** não adotar fora de validação local; acompanhar a literatura.
@@ -236,7 +271,7 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 
 ---
 
-## SLIDE S5 · Assistência robótica: acurácia superior sem tradução em função  *(tempo estimado: 0:45)*
+## SLIDE S6 · Assistência robótica: acurácia superior sem tradução em função
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -257,7 +292,7 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Acurácia (desfecho substituto) ✓ | erro de anteversão da taça **2,6° × 8,9°**; centro de rotação **1,4 × 4,3 mm** | Fontalis 2024 · RCT · 60 pacientes · TC pré e pós · [PMID 38555946](https://pubmed.ncbi.nlm.nih.gov/38555946/) |
+| Acurácia (alvo técnico) ✓ | erro de anteversão da taça **2,6° × 8,9°**; centro de rotação **1,4 × 4,3 mm** | Fontalis 2024 · RCT · 60 pacientes · TC pré e pós · [PMID 38555946](https://pubmed.ncbi.nlm.nih.gov/38555946/) |
 | Função (desfecho clínico) ✗ | PROMs **SMD 0,01** (IC −0,27 a 0,30) — equivalente ao convencional | Ruangsomboon 2024 · meta de 8 RCTs · 1.014 pacientes · [PMID 38888718](https://pubmed.ncbi.nlm.nih.gov/38888718/) |
 
 **CONDUTA:** não indicar a robótica com o objetivo de melhorar a função na artrose de rotina.
@@ -281,7 +316,7 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 ---
 
-## SLIDE S6 · Robótica e navegação: demais desfechos — sinais observacionais sem confirmação randomizada  *(tempo estimado: 0:40)*
+## SLIDE S7 · Robótica e navegação: demais desfechos — sinais observacionais sem confirmação randomizada
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -329,7 +364,7 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 ---
 
-## SLIDE S7 · A zona de segurança estática é insuficiente: 58% das luxações ocorrem com o componente dentro da zona  *(tempo estimado: 0:40)*
+## SLIDE S8 · A zona de segurança estática é insuficiente: 58% das luxações ocorrem com o componente dentro da zona
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -363,9 +398,9 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-# ATO 2 — DECISÕES DE PLANEJAMENTO COM IMPACTO DEMONSTRADO NO DESFECHO (~6,5 min)
+# ATO 2 — DECISÕES DE PLANEJAMENTO COM IMPACTO DEMONSTRADO NO DESFECHO
 
-## SLIDE S8 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1  *(tempo estimado: 0:50)*
+## SLIDE S9 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -409,7 +444,7 @@ Isso não significa que os estudos sejam ruins nem que a resposta seja desconhec
 
 ---
 
-## SLIDE S9 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório  *(tempo estimado: 0:50)*
+## SLIDE S10 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -492,7 +527,7 @@ O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico
 
 ---
 
-## SLIDE S10 · Avaliação espinopélvica: indicações da radiografia funcional e repercussões no planejamento  *(tempo estimado: 0:50)*
+## SLIDE S11 · Avaliação espinopélvica: indicações da radiografia funcional e repercussões no planejamento
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -560,7 +595,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 ---
 
-## SLIDE S11 · Diâmetro e material da cabeça femoral: 36 mm em cerâmica, quando o diâmetro acetabular permite  *(tempo estimado: 0:50)*
+## SLIDE S12 · Diâmetro e material da cabeça femoral: 36 mm em cerâmica, quando o diâmetro acetabular permite
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -629,7 +664,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 ---
 
-## SLIDE S12 · Articulação de dupla mobilidade: indicação restrita aos grupos de risco  *(tempo estimado: 0:45)*
+## SLIDE S13 · Articulação de dupla mobilidade: indicação restrita aos grupos de risco
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -663,7 +698,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S13 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento  *(tempo estimado: 0:50)*
+## SLIDE S14 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -747,7 +782,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S14 · Reparo capsular na via posterior e a ausência de benefício das restrições pós-operatórias  *(tempo estimado: 0:45)*
+## SLIDE S15 · Reparo capsular na via posterior e a ausência de benefício das restrições pós-operatórias
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -795,7 +830,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S15 · Protocolo farmacológico perioperatório  *(tempo estimado: 0:50)*
+## SLIDE S16 · Protocolo farmacológico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -922,9 +957,9 @@ Três honestidades que devem ser ditas no palco. **Primeira:** a base randomizad
 ---
 
 
-# ATO 3 — SÍNTESE (~1,5 min)
+# ATO 3 — SÍNTESE
 
-## SLIDE S16 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção  *(tempo estimado: 0:45)*
+## SLIDE S17 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -968,17 +1003,17 @@ Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos imp
 
 ---
 
-## SLIDE S17 · Síntese: condutas de planejamento com impacto demonstrado no desfecho  *(tempo estimado: 0:45)*
+## SLIDE S18 · Síntese: condutas de planejamento com impacto demonstrado no desfecho
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Tecnologias: melhoram o desfecho substituto
+- Tecnologias: melhoram o alvo técnico
 - Desfecho clínico: modificado por decisões de planejamento de baixo custo
 - Quadro-síntese na ordem cronológica das decisões
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-As tecnologias avaliadas melhoraram consistentemente o desfecho substituto sem modificar o desfecho clínico. As condutas com impacto demonstrado no desfecho são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
+As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos sem modificar o desfecho clínico. As condutas com impacto demonstrado no desfecho são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
 
 **BASE DE EVIDÊNCIA (o quadro-síntese do slide):**
 
@@ -987,7 +1022,7 @@ As tecnologias avaliadas melhoraram consistentemente o desfecho substituto sem m
 | Decisão | Conduta | Número-chave |
 |---|---|---|
 | Otimização clínica | descolonizar a pele · glicemia do dia · **detectar** anemia na indicação · cessação de tabagismo | pele OR 0,43 · cessação 52→18% |
-| Imagem | RX calibrada + templating manual; 3D só anatomia atípica | manual ≥ digital (p<0,001) |
+| Imagem | RX com calibração de dupla escala + template (manual ou digital); 3D só anatomia atípica | manual ≥ digital (p<0,001) · erro 12,5% → 2,1% |
 | Execução | tecnologia não muda função; sinal observacional em luxação/infecção | SMD 0,01 · HR 0,947 |
 | Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | OHS 42 × 40 (P=0,003) |
 | Construto/via | DM no risco (inclui fratura do colo); **cabeça 36 mm, teto em 36**; XLPE + cerâmica; reparo capsular; PENG | 36 mm 0,46% × 32 mm 0,68% · RR ~8 (IC 4–17) |
@@ -1004,7 +1039,7 @@ As tecnologias avaliadas melhoraram consistentemente o desfecho substituto sem m
 ---
 
 
-# SLIDES-RESERVA (entram no deck; saem no treino — ordem de corte: R6 primeiro)
+# SLIDES-RESERVA (entram no deck — o corte é decisão do Dr., ao final; ordem sugerida: R6 primeiro)
 
 ## SLIDE-RESERVA R1 · Anemia pré-operatória: detecção na indicação e manejo baseado em evidência
 
@@ -1261,18 +1296,19 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 ## Transições faladas (notas de treino — registro sóbrio)
 
 - **S1 → S2:** "A avaliação de cada tecnologia segue o mesmo eixo: o que ela melhora no parâmetro técnico, e o que se demonstra no desfecho clínico."
-- **S7 → S8:** "Se o alvo de posicionamento requer individualização, o planejamento começa pela avaliação do paciente, antes de qualquer exame de imagem."
-- **S10 → S11:** "Definida a posição-alvo dos componentes, a decisão seguinte é a seleção do construto."
-- **S14 → S15:** "As últimas decisões do planejamento são as do protocolo perioperatório, definidas em prescrição."
-- **S16:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
+- **S2 → S3:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
+- **S8 → S9:** "Se o alvo de posicionamento requer individualização, o planejamento começa pela avaliação do paciente, antes de qualquer exame de imagem."
+- **S11 → S12:** "Definida a posição-alvo dos componentes, a decisão seguinte é a seleção do construto."
+- **S15 → S16:** "As últimas decisões do planejamento são as do protocolo perioperatório, definidas em prescrição."
+- **S17:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
-1. S3 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
-2. S7 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-3. S10 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-4. S13 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-5. S16 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+1. S4 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
+2. S8 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
+3. S11 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+4. S14 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+5. S17 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 

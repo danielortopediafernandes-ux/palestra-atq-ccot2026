@@ -28,7 +28,7 @@ O Insall Award 2019 é **exclusivamente TKA**. Numa palestra de ATQ, é a refer�
 O capítulo escreve *"grave (2-3) **5-7%**"*. O abstract diz **grau 1 = 21% · grau 2 = 5,1% · grau 3 = 1,7%**. O "5-7%" é uma soma feita pelo capítulo (5,1 + 1,7 = 6,8), apresentada como se fosse número publicado. Trocar pelos dois valores literais. Além disso, Olsen 2014 é de **hemiartroplastia por fratura**, não ATQ eletiva — para ATQ o número certo é o do Rassir 2021, já citado: **24% (165/677)**.
 
 ### 1.4 · [1.1] Petretta 2015 — precisão do p e do desenho
-O `p < 0,001` vale **só para a haste** (75% × 60%). Para a **taça**, 77% × 70% teve **p = 0,050** (limítrofe). E o desenho não é "filme × digital": é **acetato sobre imagem digital calibrada × software de templating** — e o acetato venceu (é o título do artigo).
+O `p < 0,001` vale **só para a haste** (75% × 60%). Para a **taça**, 77% × 70% teve **p = 0,050** (limítrofe). E o desenho não é "filme × digital": é **template manual sobre imagem digital calibrada × software de templating** — e o template manual venceu (é o título do artigo).
 
 ---
 

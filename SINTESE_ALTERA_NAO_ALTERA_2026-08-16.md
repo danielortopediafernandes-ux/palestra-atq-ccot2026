@@ -3,7 +3,7 @@
 **Palestra:** Planejamento pré-operatório em ATQ — o que realmente muda o resultado · XVI CCOT · 21/08/2026.
 **Fonte:** pesquisa extensa por Decisão (10 agentes, Fase 2 do protocolo `palestra-medica`), registro bruto em `AUDIT_SUCESSORES_2026-08-16.md`. Todos os PMIDs abaixo verificados via eutils (título exato conferido).
 
-> Convenção: **ALTERA** = há evidência de efeito em desfecho clínico (revisão, luxação, infecção, função, transfusão, mortalidade). **NÃO altera** = efeito é substituto (acurácia/ângulo/tamanho) ou estatisticamente ausente. "⚠️" = frase do CAPITULO.md que precisa de correção/ajuste.
+> Convenção: **ALTERA** = há evidência de efeito em desfecho clínico (revisão, luxação, infecção, função, transfusão, mortalidade). **NÃO altera** = efeito restrito ao alvo técnico (acurácia/ângulo/tamanho) ou estatisticamente ausente. "⚠️" = frase do CAPITULO.md que precisa de correção/ajuste.
 
 ---
 
