@@ -16,7 +16,8 @@ capítulo: cada linha de tabela de EVIDÊNCIAS tem a fonte na última coluna.
 POLÍTICA (fail-closed):
   • Fonte com ano >= ANO_ATUAL-5  ................................ PASSA
   • Fonte antiga COM justificativa explícita ..................... PASSA
-        formato: `clássico: <razão>`  ou  `sem sucessor: <razão>`
+        formato: `clássico: <razão>` · `sem sucessor: <razão>` · `superado: <razão>`
+        ("superado" = a fonte velha fica de propósito, para mostrar o que mudou)
         (a razão precisa ter >= MIN_JUST caracteres — a palavra sozinha NÃO basta,
          era a porta dos fundos do linter antigo)
   • Fonte antiga SEM justificativa ............................... BLOQUEIA
@@ -34,7 +35,7 @@ LIMIAR = ANO_ATUAL - JANELA                       # 2026-5 = 2021 → >= 2021 é
 MIN_JUST = 15                                     # mín. de chars da razão
 
 RE_ANO = re.compile(r"\b(19\d{2}|20\d{2})\b")
-RE_JUST = re.compile(r"(cl[áa]ssico|sem sucessor)\s*[:·—-]\s*(.{%d,})" % MIN_JUST, re.I)
+RE_JUST = re.compile(r"(cl[áa]ssico|sem sucessor|superad[oa])\s*[:·—-]\s*(.{%d,})" % MIN_JUST, re.I)
 # linhas de separador de tabela: |---|---|---|
 RE_SEP = re.compile(r"^\|[\s:|-]+\|$")
 # coortes que o capítulo cita POR DENTRO do consenso ICM 2025 (fonte secundária de 2025)
