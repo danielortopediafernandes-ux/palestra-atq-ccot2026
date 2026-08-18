@@ -2,7 +2,7 @@
 
 **Decidido pelo Dr. Daniel em 17–18/08/2026.** Estrutura em 3 atos. O deck carrega MAIS que 10 minutos de propósito: o Dr. treina a fala e corta pelas RESERVAS e pelas FUSÕES indicadas. Fonte de todo conteúdo: `CAPITULO.md` (38 unidades, fiscal de recência em 0 bloqueios) — a coluna "Unidade" aponta a origem exata de cada slide.
 
-**⛔ REGISTRO LINGUÍSTICO (regra do Dr., 14/08, reforçada em 18/08):** linguagem **formal e científica em TODO texto da apresentação** — títulos, destaques, condutas e transições. Mesma linguagem dos artigos científicos. **Proibido:** frase de efeito, coloquialismo, primeira pessoa, jogo de palavras. Onde a redação do CAPITULO.md for coloquial (ex.: em CONDUTA), **a redação deste mapa prevalece para o slide**.
+**⛔ REGISTRO LINGUÍSTICO — REGRA INVIOLÁVEL #9 do CLAUDE.md (canonizada pelo Dr. em 18/08):** linguagem **formal e científica em TODO texto da apresentação** — títulos, destaques, condutas e transições. Mesma linguagem dos artigos científicos. **Proibido:** frase de efeito, coloquialismo, primeira pessoa, jogo de palavras. Onde a redação do CAPITULO.md for coloquial (ex.: em CONDUTA), **a redação deste mapa prevalece para o slide**. E, por ordem do Dr. (18/08): **além do número, cada slide traz uma EXPLICAÇÃO ESCRITA clara e explícita** — frases completas, autossuficientes para quem não leu a literatura. O texto obrigatório de cada slide está na seção "Texto explicativo de cada slide", abaixo.
 
 **Ênfase definida pelo Dr. (18/08):** o Ato 1 — tecnologias de planejamento e execução — é o núcleo de impacto da palestra, por ser a área de maior pressão comercial da indústria. Tratado tecnologia por tecnologia, cada uma como decisão própria, sempre no eixo desfecho substituto × desfecho clínico.
 
@@ -83,6 +83,54 @@
 | R6 | **Artroplastia bilateral: simultânea versus estagiada** | simultânea no paciente selecionado: menor custo e internação, função superior — à custa de transfusão OR 4,42 · a taxa de revisão diverge entre as fontes · evidência exclusivamente observacional | [8.1] |
 
 ---
+
+## TEXTO EXPLICATIVO DE CADA SLIDE (obrigatório no slide, além do número — registro formal)
+
+**S1 —** Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimensionamento dos componentes — são desfechos substitutos. Os desfechos clínicos são os eventos vividos pelo paciente: revisão, luxação, infecção e função. A tese desta apresentação: as tecnologias melhoram sistematicamente o desfecho substituto; os desfechos clínicos são modificados por decisões de planejamento de baixo custo.
+
+**S2 —** O template em acetato aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). O principal determinante da acurácia não é a ferramenta, e sim a calibração da radiografia: com marcador externo único, o erro médio de magnificação é de 12,5%, chegando a 23,3%; com marcador de dupla escala, 2,1%. Conduta: planejar toda artroplastia com template — manual ou digital — e dirigir o investimento à calibração radiográfica e ao conhecimento do desenho do implante.
+
+**S3 —** O planejamento tridimensional por tomografia aumenta o acerto do tamanho da taça (96,9% versus 87,1% do bidimensional), porém o único ensaio randomizado que mediu desfecho relatado pelo paciente não encontrou diferença. Na anatomia complexa (displasia, revisão), o modelo físico impresso permite ensaiar a cirurgia previamente, e o ensaio corresponde à cirurgia real (concordância de 0,93 para o tamanho da taça; defeito ósseo P = 0,97). Conduta: templating bidimensional na artrose de rotina; modelo impresso reservado à anatomia atípica.
+
+**S4 —** Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melhor que o planejamento bidimensional (taça OR 3,85). A validação, porém, restringe-se a 1.371 pacientes de um único país, sem ensaio randomizado; quando a função foi medida, o ganho foi de 0,73 ponto no Harris Hip Score — abaixo da diferença mínima percebida pelo paciente (MCID). Conduta: não incorporar à rotina fora de validação local.
+
+**S5 —** A assistência robótica triplica a precisão do posicionamento: erro de anteversão de 2,6° versus 8,9°, medido por tomografia pré e pós-operatória em ensaio randomizado. A metanálise de oito ensaios randomizados, contudo, demonstra diferença de função de 0,01 desvio-padrão — nula do ponto de vista clínico. O único ganho adicional demonstrado é de 0,49 dia de internação, com significância marginal em estudo subdimensionado. Conclusão: o ganho de acurácia ocorre numa faixa em que o desfecho já não é sensível ao erro.
+
+**S6 —** Em registro nacional, a taxa de revisão não difere entre artroplastias robóticas e convencionais (HR 0,947). Bases observacionais de 2026 sugerem menos luxação (OR 0,57) e infecção (OR 0,83) com a robótica, e sinais semelhantes com a navegação — achados ainda não confirmados por ensaio randomizado. Conduta: a robótica não deve ser indicada com expectativa de ganho funcional; os sinais em luxação e infecção justificam acompanhamento da literatura.
+
+**S7 —** Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular dentro da zona de segurança de Lewinnek — achado replicado em série independente (55,8%). A implicação: a luxação não decorre apenas de erro de execução do alvo; o alvo em si não é o mesmo para todos os pacientes. O posicionamento seguro requer individualização, objeto da segunda parte da apresentação.
+
+**S8 —** Em ensaio randomizado, a cessação do tabagismo iniciada 6 a 8 semanas antes da artroplastia reduziu as complicações de 52% para 18% e as complicações de ferida de 31% para 5%. Metanálise contemporânea com 417.767 pacientes confirma a direção do efeito (infecção de ferida OR 0,37 com cessação ≥ 4 semanas). Conduta: a cirurgia eletiva do fumante não se contraindica — reprograma-se: prescrever cessação assistida e agendar após o intervalo.
+
+**S9 —** O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico (OR 0,43; IC 0,29–0,64); a descolonização nasal isolada não alcança significância (OR 0,65). Quanto ao controle glicêmico, a HbA1c com corte de 7% não prediz complicações; o que se associa a infecção é a glicemia perioperatória, com limiar de melhor discriminação em 137 mg/dL e pico às 21 horas do dia operatório. Conduta: clorexidina universal; protocolo de controle glicêmico do dia da cirurgia, em vez de veto pela HbA1c.
+
+**S10 —** Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40).
+
+**S11 —** Quatro registros nacionais demonstram menor revisão por luxação com cabeça de 36 mm em comparação com 32 mm (0,46% versus 0,68%); a partir de 40 mm, o benefício cessa e a revisão e a infecção aumentam (0,82% versus 0,43%). A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, há equivalência com o metal. O risco de corrosão das cabeças ≥ 36 mm concentra-se no cobalto-cromo — as duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
+
+**S12 —** No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1.600 pacientes ≥ 65 anos), a luxação caiu de 4,2% para 1,3% (aHR 0,27). Na cirurgia eletiva, o benefício concentra-se nos grupos de risco: artrodese lombar ou coluna rígida e cirurgia de revisão. A cabeça de grande diâmetro não substitui o efeito da dupla mobilidade. Conduta: indicação dirigida ao risco, não universal.
+
+**S13 —** A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo femoral (nível 1: menos fratura periprotética, OR 0,22, e menor mortalidade em 12 meses, RR 0,86) e no osso de má qualidade. O excesso de mortalidade atribuível ao cimento restringe-se às primeiras 24–48 horas (diferença absoluta de 0,4%) e desaparece após a primeira semana; o desfecho que se eleva é a embolia pulmonar (RR 3,56) — mitigável com técnica de terceira geração e comunicação com a anestesia. Na fixação sem cimento, hastes com colar reduzem a fratura periprotética (sem colar: HR 7,8).
+
+**S14 —** Sem reparo capsular, a via posterior apresenta risco de luxação aproximadamente 8 vezes maior (IC 4–17); com o reparo, iguala-se às demais vias (1,01% versus 0,70% e 0,43%). Ensaio randomizado com 1.133 pacientes demonstrou que, realizado o reparo, as restrições pós-operatórias não reduzem a luxação (0,88% global) e resultam em pior função. Conduta: reparo capsular sistemático; sem restrições de rotina.
+
+**S15 —** Cinco prescrições com efeito demonstrado: ácido tranexâmico intravenoso (transfusão RR ≈ 0,48; contraindicações absolutas restritas a hipersensibilidade e trombose ativa); cefazolina administrada 21 a 30 minutos antes da incisão (o atraso além de 50 minutos dobra a infecção); aspirina 81 mg/dia a partir do dia zero (não inferior à anticoagulação, com menos sangramento: 1,66% versus 2,04%); dexametasona em dose única (náusea e vômito OR 0,21, segura no paciente diabético); e bloqueio PENG (deambulação em 8 versus 24 horas).
+
+**S16 —** Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos implantes com pares tribológicos modernos permanecem sem revisão aos 20 anos — dado medido em registro. Os valores de 25 anos (92,8%) e 30 anos (92,1%) são extrapolação por modelo estatístico, não seguimento observado, e devem ser citados como projeção.
+
+**S17 —** As tecnologias avaliadas melhoraram consistentemente o desfecho substituto sem modificar o desfecho clínico. As condutas com impacto demonstrado no desfecho são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
+
+**R1 —** A anemia (hemoglobina < 13 g/dL) deve ser detectada na consulta de indicação e investigada etiologicamente. O ferro intravenoso não reduz transfusão — nem no pré-operatório (RR 0,91; rede de 22 ensaios randomizados) nem no pós-operatório em artroplastia; a redução de transfusão é atribuível ao ácido tranexâmico. O papel do ferro pós-operatório é acelerar a recuperação da hemoglobina (respondedores 62,1% versus 31,6%).
+
+**R2 —** A frutosamina identifica pacientes de risco com HbA1c aparentemente adequada: 4 dos 5 pacientes que infectaram com frutosamina elevada tinham HbA1c inferior a 8%. O corte de 293 µmol/L, porém, não possui validação externa independente, a discriminação na coorte de quadril foi de AUC 0,58 (IC 0,40–0,70) e não há estudos de intervenção. Uso racional: reclassificação de risco em pacientes com glicemia de jejum > 100 mg/dL — não critério de adiamento.
+
+**R3 —** O risco de luxação no paciente com artrodese lombar decorre da artrodese em si (OR 2,50; 1.789.356 pacientes), com gradiente pelo número de níveis (2,2% a 7,8%). Duas metanálises de 2026 demonstram que a ordem das cirurgias não modifica o desfecho: a sequência é decisão clínica de cada segmento.
+
+**R4 —** A redução do offset global além de 5 mm associa-se a menor força abdutora; os desfechos relatados pelo paciente somente se alteram com reduções acima de 20 mm. Compensar a perda de offset acetabular com aumento do femoral piora o resultado (P = 0,040). Não há ensaio randomizado nem metanálise sobre restauração de offset — a base é integralmente observacional.
+
+**R5 —** Os registros divergem quanto ao liner com rebordo elevado: o inglês (213.146 artroplastias) favorece o desenho assimétrico; o alemão (151.096) não encontra diferença para falha mecânica. Na comparação direta, a cabeça de maior diâmetro com liner neutro supera a cabeça menor com rebordo.
+
+**R6 —** A artroplastia bilateral simultânea, no paciente selecionado, associa-se a menor custo, menor internação e melhor função, à custa de maior transfusão (OR 4,42). A taxa de revisão diverge entre as fontes e toda a evidência é observacional — a seleção do paciente é o próprio planejamento.
 
 ## Transições faladas (notas de treino — registro sóbrio)
 
