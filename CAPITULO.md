@@ -716,7 +716,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 - Cimentar: mulher **≥ 70,5 anos** · fratura do colo · osso de má qualidade
   *Ladurner · Registro Suíço · 2023 · PMID 37595764 · Fernandez (WHiTE 5) · 2022 · PMID 35139272 · Kim · 2024 · PMID 39126454*
 - Fratura do colo (nível 1): fratura periprotética OR 0,22 · mortalidade RR **0,86**
-  *Fernandez (WHiTE 5) · 2022 · PMID 35139272 · Lewis · Cochrane · 2022 · PMID 35156194*
+  *Malki · meta 16 RCTs · 2026 · PMID 42259040 (OR 0,22) · Lewis · Cochrane · 2022 · PMID 35156194 (RR 0,86)*
 - Risco do cimento: agudo, dia 0–1 (**0,4%** absoluto) · embolia RR 3,56
   *Viberg · Bone Joint J · 2022 · PMID 34969285 · Lewis · Cochrane · 2022 · PMID 35156194*
 - Sem cimento: haste **com colar** (sem colar: HR 7,8)
@@ -809,7 +809,8 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
   *Reddy · J Arthroplasty · AJRR · 2025 · PMID 40939940 · Pakarinen · J Arthroplasty · NARA · 2024 · PMID 39173975*
 - Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
   *de Steiger · AOANJRR · 2020 · PMID 32345846*
-- Desgaste do 36 mm sobre reticulado: **0,01–0,10 mm em 14 anos** (ensaio randomizado)
+- Desgaste do 36 mm sobre reticulado: **0,01 mm em 14 anos** — a cabeça de 32 mm desgastou mais (0,10 mm)
+  *Thoen · Bone Joint J · ensaio randomizado · 2025 · PMID 41173047*
   *Thoen · Bone Joint J · 2025 · PMID 41173047*
 - Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
   *de Steiger · JBJS · 2018 · PMID 30063590 · de Steiger · AOANJRR · 2020 · PMID 32345846*
@@ -837,7 +838,7 @@ O polietileno reticulado divide aproximadamente pela metade a revisão em dezess
 | **7. O que a cerâmica evita — e o tamanho real desse problema** | revisão por reação a partículas metálicas (ARMD / corrosão do cone do colo): metal-reticulado **HR 3,4 (IC 1,9–6,0; P < 0,001)** contra cerâmica. ⚠️ desfecho **raro: 0,1% em 17 anos** — é motivo de preferência, não de alarme | de Steiger 2020 · AOANJRR · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: única análise de registro dedicada ao ARMD em pares modernos, com captura de quase 100%; a busca 2021–2026 não encontrou sucessor** |
 | 🎯 **8. A síntese que amarra [4.3] e [4.4]** | no **mesmo** estudo, cabeças **≥ 36 mm** tiveram **HR 3,2 (1,9–5,3)** de revisão por ARMD contra ≤ 32 mm — **mas** o risco esteve associado às cabeças de **cobalto-cromo** e a **duas hastes nominalmente identificadas**: **Accolade I (Stryker) — HR 8,3 (IC 4,7–14,7)** e **M/L Taper (Zimmer) — HR 14,4 (IC 6,0–34,6)**, ambas P < 0,001. Portanto isto **não** é argumento contra o 36 mm: é argumento a favor do **36 mm DE CERÂMICA** | de Steiger 2020 · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: mesma fonte da linha 7 — é a única análise de registro que estratifica o ARMD por tamanho de cabeça E por material** · fabricantes confirmados em: van den Hout 2018 (*"Accolade TMZF stem, Stryker Orthopedics, Mahwah, New Jersey"*) · [PMID 30352541](https://pubmed.ncbi.nlm.nih.gov/30352541/) · Hussey 2017 (*"M/L Taper… Zimmer, Inc, Warsaw, IN"*) · [PMID 28392135](https://pubmed.ncbi.nlm.nih.gov/28392135/) |
 | ⚠️ **8b. E o modo de falha dessa haste é catastrófico, não sutil** | análise de 10 hastes **Accolade I (Stryker)** recuperadas: todas com padrão destrutivo de desgaste do cone (*"bico de pássaro"*), levando a **6 dissociações e 4 fraturas do cone**, em média **8,9 anos** após a cirurgia. Todas em combinação com cabeça de **cobalto-cromo LFIT V40 ou MITCH de 36 mm ou mais**. Os autores propõem **revisão clínica e radiológica ativa** desses pacientes | Wylde 2020 · Hip Int · série de recuperação de implantes · [PMID 32323587](https://pubmed.ncbi.nlm.nih.gov/32323587/) · **sem sucessor: nenhuma análise de recuperação desta combinação específica foi publicada entre 2021 e 2026** — ⚠️ série de casos (n = 10), sem denominador: mostra o **mecanismo** e a gravidade, não a incidência |
-| **9. E o 36 mm de cerâmica desgasta mais?** | desgaste em 14 anos com reticulado + vitamina E: **0,01–0,10 mm totais** — remove a objeção clássica de que cabeça maior consome mais polietileno | Thoen 2025 · ensaio randomizado com radioestereometria · Bone Joint J · [PMID 41173047](https://pubmed.ncbi.nlm.nih.gov/41173047/) |
+| **9. E o 36 mm de cerâmica desgasta mais?** | desgaste proximal em 14 anos com reticulado + vitamina E: **36 mm 0,01 mm × 32 mm 0,10 mm** (p = 0,022) — a cabeça MAIOR desgastou MENOS, o oposto da objeção clássica de que cabeça maior consome mais polietileno | Thoen 2025 · ensaio randomizado com radioestereometria · Bone Joint J · [PMID 41173047](https://pubmed.ncbi.nlm.nih.gov/41173047/) |
 | ⚖️ **10. Polietileno antioxidante (vitamina E) — sinal favorável, ainda não replicado** | registro australiano (198.073 ATQs, 35.309 com antioxidante): **sem diferença precoce**, mas **após 3 anos HR 0,64 (IC 0,48–0,84)**, ajustado 0,63; menos revisão por soltura, desgaste e fratura, **sem** diferença em luxação ou infecção. ⚖️ registro finlandês (5.430 ATQs): sobrevida em 7 anos **94% × 93%**, revisão por qualquer causa **HR 0,7 (IC 0,4–1,1) — sem diferença** | Lewis 2026 · Acta Orthop · AOANJRR · [PMID 41575536](https://pubmed.ncbi.nlm.nih.gov/41575536/) · Hemmilä 2021 · Acta Orthop · registro finlandês · [PMID 33517823](https://pubmed.ncbi.nlm.nih.gov/33517823/) — ⚠️ os próprios autores australianos declaram que a diferença **pode em parte decorrer dos componentes femorais ou acetabulares associados** (confundimento por geração de implante) |
 
 **CONDUTA:** polietileno **reticulado em toda ATQ** — o convencional não tem mais lugar. **Cabeça de cerâmica preferencialmente no paciente jovem/ativo**, onde o ganho é de 20 a 35% de redução relativa de revisão; **acima de 55 anos, metal sobre reticulado é equivalente** e a escolha pode ser por disponibilidade e custo. Quando o planejamento indicar cabeça de **36 mm** (unidade 4.3), preferir **cerâmica** — é exatamente ali que o risco de corrosão do cobalto-cromo se concentra. Polietileno antioxidante: sinal favorável num registro grande, sem replicação — ainda não é razão para trocar de implante.
@@ -862,7 +863,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- **93,6%** sem revisão aos **20 anos** (8 registros · 1.904.237 ATQs)
+- **93,6%** sem revisão aos **20 anos** (8 registros · 1.899.034 ATQs)
   *Pentland · The Lancet · 2026 · PMID 41763743*
 - 25 anos: 92,8% · 30 anos: 92,1% — **projeção por modelo**
   *Pentland · The Lancet · 2026 · PMID 41763743*
@@ -872,7 +873,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos implantes com pares tribológicos modernos permanecem sem revisão aos 20 anos — dado medido em registro. Os valores de 25 anos (92,8%) e 30 anos (92,1%) são extrapolação por modelo estatístico, não seguimento observado, e devem ser citados como projeção.
+Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no total do estudo, incluídas 29 coortes clínicas): 93,6% dos implantes com pares tribológicos modernos permanecem sem revisão aos 20 anos — dado medido em registro. Os valores de 25 anos (92,8%) e 30 anos (92,1%) são extrapolação por modelo estatístico, não seguimento observado, e devem ser citados como projeção.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
