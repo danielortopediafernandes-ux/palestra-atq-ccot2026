@@ -172,13 +172,14 @@ Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo q
   *Pongkunakorn · J Arthroplasty · 2021 · PMID 33583670*
 - No componente acetabular, nenhum método foi superior
   *Petretta 2015 (p = 0,05) · Pongkunakorn 2021 (p = 0,48)*
-- Conduta: planejar toda artroplastia com template — manual ou digital
+- Nenhum estudo comparou desfecho clínico entre os métodos — apenas acurácia
+  *busca 2015–2026, sem comparação de desfecho*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Nenhum método altera o resultado: a acurácia depende da calibração da radiografia, não da escolha da ferramenta.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Nenhum desses dois métodos é superior em acurácia.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O template manual aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). A comparação inversa também existe: em outro desenho de estudo, o método digital superou a sobreposição manual na haste (93,8% versus 84,1%). As duas comparações divergem na direção, mas convergem num ponto que merece registro: **toda diferença encontrada entre os métodos está na haste — para o componente acetabular, nenhuma das duas demonstrou diferença** (p = 0,050 limítrofe; p = 0,483). O conjunto configura equivalência prática entre as ferramentas, com padrão alcançável de acerto dentro de um tamanho em cerca de 90% e acerto exato em 32–40% — e o desenho da haste desloca sistematicamente a previsão. A ferramenta, portanto, não define a acurácia; o determinante é a calibração da radiografia, objeto do slide seguinte — onde a mesma assimetria se repete: é o fêmur que responde à calibração, não a taça.
+O template manual aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). A comparação inversa também existe: em outro desenho de estudo, o método digital superou a sobreposição manual na haste (93,8% versus 84,1%). As duas comparações divergem na direção, mas convergem num ponto que merece registro: **toda diferença encontrada entre os métodos está na haste — para o componente acetabular, nenhuma das duas demonstrou diferença** (p = 0,050 limítrofe; p = 0,483). O conjunto configura equivalência prática entre as ferramentas, com padrão alcançável de acerto dentro de um tamanho em cerca de 90% e acerto exato em 32–40%. Não há, além disso, nenhum estudo que compare desfecho clínico — revisão, luxação, função — entre o método manual e o digital: a comparação disponível é toda de acurácia, e nela os dois se equivalem. A variabilidade relevante concentra-se na haste femoral; o determinante dessa variabilidade — a calibração da radiografia — é o tema do próximo slide.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
