@@ -90,14 +90,14 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 
 # PARTE I — A APRESENTAÇÃO (esqueleto do Dr., 18/08 · 3 atos + apêndice clínico)
 
-**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S9 pode ser incorporado a S7 (uma linha); S11 pode ser incorporado a S10 (rodapé). **Ordem sugerida de corte das reservas:** R4 → R3 → R2 → R1. **O conteúdo clínico-farmacológico está no APÊNDICE (A1–A5), fora da palestra — por decisão do Dr. (18/08), em princípio não haverá tempo para ele.**
+**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S9 pode ser incorporado a S7 (uma linha); S12 pode ser incorporado a S10 (rodapé). **Ordem sugerida de corte das reservas:** R4 → R3 → R2 → R1. **O conteúdo clínico-farmacológico está no APÊNDICE (A1–A5), fora da palestra — por decisão do Dr. (18/08), em princípio não haverá tempo para ele.**
 
 | Parte | Slides |
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
-| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S13 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S14–S19 |
-| Ato 3 · Síntese | S20–S21 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S14 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S15–S20 |
+| Ato 3 · Síntese | S21–S22 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -406,22 +406,21 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 ---
 
-## SLIDE S11 · Robótica e navegação alteram os demais desfechos?
+## SLIDE S11 · A robótica altera os demais desfechos — revisão, luxação, infecção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Revisão em registro nacional: HR **0,947** — sem diferença
   *Farhan-Alanie · NJR · 2025 · PMID 41442047*
-- Sinais observacionais 2026: luxação OR 0,57 · infecção OR 0,83
-- Navegação: complicação mecânica OR 0,63 · infecção OR 0,46
-  *Giannakis · Premier Database · 2026 · PMID 42093134*
-- Sem confirmação randomizada — não indicar por função
+- Sinais observacionais 2026 (certeza baixa): luxação **OR 0,57** · infecção **OR 0,83**
+  *Giannakis · Premier Database · 2026 · PMID 42093134 · Zhang · meta 1,83 mi · 2026 · PMID 42009981*
+- Conduta: sem ensaio randomizado, não indicar por função — acompanhar o sinal
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sem confirmação randomizada — sinais observacionais em luxação e infecção; revisão em registro nacional sem diferença (HR 0,947).
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Revisão sem diferença; sinais observacionais favoráveis em luxação e infecção, ainda sem confirmação randomizada.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Em registro nacional, a taxa de revisão não difere entre artroplastias robóticas e convencionais (HR 0,947). Bases observacionais de 2026 sugerem menos luxação (OR 0,57) e infecção (OR 0,83) com a robótica, e sinais semelhantes com a navegação — achados ainda não confirmados por ensaio randomizado. Conduta: a robótica não deve ser indicada com expectativa de ganho funcional; os sinais em luxação e infecção justificam acompanhamento da literatura.
+Em registro nacional, a taxa de revisão não difere entre artroplastias robóticas e convencionais (HR 0,947). Bases observacionais de 2026 sugerem menos luxação (OR 0,57) e infecção (OR 0,83) com a robótica — achados ainda não confirmados por ensaio randomizado. Conduta: a robótica não deve ser indicada com expectativa de ganho funcional; os sinais em luxação e infecção justificam acompanhamento da literatura.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -441,6 +440,27 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 **Discussão.** A frase "nenhum desfecho clínico" era sustentada por uma coorte pareada de 268 pares — poder insuficiente para luxação e infecção, eventos raros. Duas fontes observacionais de 2026 (registro hospitalar de ~100 mil ATQs e metanálise de 1,83 milhão) acendem sinal favorável ao robô nesses desfechos específicos, com a ressalva metodológica de toda base administrativa: resíduo de confundimento e ausência de randomização. A sobrevida em registro nacional segue sem diferença (HR 0,947), e a função permanece travada em zero clínico. Leitura honesta: a robótica deixou de ser "inócua" e passou a "promissora em luxação e infecção, sem prova nível 1".
 
+
+---
+
+## SLIDE S12 · A navegação e os guias personalizados alteram o desfecho?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Navegação (observacional): complicação mecânica **OR 0,63** · infecção **OR 0,46**
+  *Giannakis · Premier Database · 2026 · PMID 42093134*
+- Guias personalizados (PSI): dados escassos no quadril, superioridade não demonstrada
+  *Gauci · revisão · 2022 · PMID 34838754*
+- Conduta: não adotar na rotina por desfecho — acompanhar o sinal da navegação
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sinal observacional favorável à navegação; o PSI carece de evidência — nenhum confirmado por ensaio randomizado.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+O mesmo registro hospitalar de 2026 aponta a navegação com sinais em complicação mecânica (OR 0,63) e infecção (OR 0,46) — números até melhores que os do robô nesses desfechos. Os guias personalizados (PSI) têm dados escassos no quadril e superioridade clínica não demonstrada. Conduta: não adotar navegação ou PSI na rotina com expectativa de desfecho; acompanhar o sinal observacional da navegação, ainda sem confirmação randomizada.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
 ## [2.4] Navegação e guias personalizados (PSI) mudam o desfecho?
 
 **RESPOSTA · Sinal observacional favorável à navegação em complicação mecânica e infecção — mesma ressalva da robótica, sem ensaio randomizado.**
@@ -458,7 +478,10 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 ---
 
-## SLIDE S12 · A zona de segurança de Lewinnek é suficiente?
+
+---
+
+## SLIDE S13 · A zona de segurança de Lewinnek é suficiente?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -496,7 +519,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-## SLIDE S13 · Em quem a avaliação espinopélvica altera o planejamento?
+## SLIDE S14 · Em quem a avaliação espinopélvica altera o planejamento?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -570,7 +593,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S14 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S15 · A articulação de dupla mobilidade altera o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -607,7 +630,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S15 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S16 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -653,7 +676,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S16 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S17 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -690,7 +713,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S17 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S18 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -729,7 +752,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S18 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S19 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -819,7 +842,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S19 · O par tribológico altera o resultado?
+## SLIDE S20 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -878,7 +901,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S20 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S21 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -926,7 +949,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S21 · Síntese: o que altera o resultado?
+## SLIDE S22 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1505,16 +1528,18 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S7 → S8:** "A imagem tridimensional na tela melhora a acurácia sem alterar o desfecho na rotina; resta o modelo físico impresso, cuja indicação se restringe à anatomia complexa."
 - **S8 → S9:** "Encerrado o planejamento por imagem e por modelo físico, a fronteira seguinte é o planejamento assistido por inteligência artificial."
 - **S9 → S10:** "As tecnologias apresentadas até este ponto atuam no planejamento; as duas seguintes atuam na execução. O critério de avaliação permanece o mesmo: parâmetro técnico versus desfecho clínico."
-- **S11 → S12:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
-- **S12 → S13:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S13 → S14:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S14 → S15:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S15 → S16:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S16 → S17:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S17 → S18:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S18 → S19:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S19 → S20:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S20:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S10 → S11:** "Além da função, a robótica é avaliada nos demais desfechos — revisão, luxação e infecção."
+- **S11 → S12:** "O mesmo padrão observacional — sinal promissor sem confirmação randomizada — aparece na navegação e nos guias personalizados."
+- **S12 → S13:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
+- **S13 → S14:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
+- **S14 → S15:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S15 → S16:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S16 → S17:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S17 → S18:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S18 → S19:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S19 → S20:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S20 → S21:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S21:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1523,10 +1548,11 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 1. S7 — reconstrução 3D por TC · ganho de acurácia 3D × 2D (Parisi 2024; Bishi meta 2022)
 2. S8 — modelo 3D impresso × achado cirúrgico no quadril displásico (Zhang 2021, Orthop Surg)
 3. S10 — braço robótico / sobreposição da TC pré e pós-operatória (Fontalis 2024)
-4. S12 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-5. S13 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-6. S18 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-7. S20 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+4. S12 — sistema de navegação intraoperatória / guia personalizado (PSI)
+5. S13 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
+6. S14 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+7. S19 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+8. S21 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
