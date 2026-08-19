@@ -1,6 +1,6 @@
 > ## ⚠️ PARA A SESSÃO DE SLIDES — LEIA ANTES DE QUALQUER SLIDE
 > Este documento é a **fonte única da verdade** — conteúdo E estrutura da apresentação consolidados (ordem do Dr., 18/08).
-> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o esqueleto definido pelo Dr. (3 atos + apêndice clínico, 18/08). Cada slide traz: **TEXTO DO SLIDE** (título = PERGUNTA · explicação breve e objetiva baseada em artigo) · **CONCLUSÃO** (destaque GRANDE, é a ÚLTIMA informação — fecha o slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
+> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o esqueleto definido pelo Dr. (3 atos + apêndice clínico, 18/08). Cada slide traz: **TEXTO DO SLIDE** (título = PERGUNTA · explicação breve e objetiva baseada em artigo, com a referência de cada afirmação abaixo dela) · **CONCLUSÃO** (destaque grande, posicionada logo ABAIXO DO TÍTULO; na animação surge por ÚLTIMO — depois dos tópicos —, para fechar o slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
 > **Regras invioláveis:** registro científico FORMAL em todo texto (Regra #9, canonizada 18/08 — sem frase de efeito, coloquialismo ou primeira pessoa) · letras grandes · 1 ideia por slide · número em destaque · fonte no rodapé · figuras reais de artigo, nunca IA — **figuras são responsabilidade integral da sessão de slides**.
 > **Não alterar, resumir nem "melhorar" conteúdo** — dúvida volta ao Dr. Usar sempre o commit mais recente deste arquivo.
 
@@ -149,7 +149,7 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 - A evidência atual dissocia os dois planos: o ganho das tecnologias concentra-se no alvo técnico
 - Os desfechos clínicos respondem às decisões de planejamento: alvo individualizado, construto, técnica
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -174,7 +174,7 @@ Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo q
   *Petretta 2015 (p = 0,05) · Pongkunakorn 2021 (p = 0,48)*
 - Conduta: planejar toda artroplastia com template — manual ou digital
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Nenhum método altera o resultado: a acurácia depende da calibração da radiografia, não da escolha da ferramenta.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Nenhum método altera o resultado: a acurácia depende da calibração da radiografia, não da escolha da ferramenta.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -216,7 +216,7 @@ O template manual aplicado sobre imagem digital calibrada obteve acurácia igual
   *Holliday · J Med Radiat Sci · 2021 · PMID 33590673 · Ashkenazi · 2023 · PMID 37195151*
 - Conduta: calibração de dupla escala em toda radiografia de planejamento
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não para o fêmur — a dupla escala reduz o erro de magnificação de 12,5% para 2,1% e eleva o acerto exato da haste de 32% para 54%.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não para o fêmur — a dupla escala reduz o erro de magnificação de 12,5% para 2,1% e eleva o acerto exato da haste de 32% para 54%.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -255,7 +255,7 @@ A calibração convencional com marcador externo único carrega erro médio de m
 - Conduta: 2D na rotina · impressão 3D na displasia e revisão
   *Thomas · RCT · 2022 · PMID 36183111 · Zhang · Orthop Surg · 2021 · PMID 34898037*
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não na rotina — maior acurácia sem alteração de desfecho; o modelo impresso reserva-se à anatomia complexa.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não na rotina — maior acurácia sem alteração de desfecho; o modelo impresso reserva-se à anatomia complexa.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -308,7 +308,7 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho da taç
   *Taghavi · Arthroplasty · meta · 2026 · PMID 42547897*
 - Conduta: não adotar sem validação local
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Ainda não — acurácia superior sem validação de desfecho: +0,73 ponto no HHS, abaixo do MCID.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Ainda não — acurácia superior sem validação de desfecho: +0,73 ponto no HHS, abaixo do MCID.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -347,7 +347,7 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
   *Poyser · 2026 · PMID 41519489*
 - Conclusão: maior acurácia, sem ganho demonstrado para o paciente
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não — com o triplo da precisão, a diferença de função é SMD 0,01: equivalência clínica.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — com o triplo da precisão, a diferença de função é SMD 0,01: equivalência clínica.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -396,7 +396,7 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
   *Giannakis · Premier Database · 2026 · PMID 42093134*
 - Sem confirmação randomizada — não indicar por função
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sem confirmação randomizada — sinais observacionais em luxação e infecção; revisão em registro nacional sem diferença (HR 0,947).
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sem confirmação randomizada — sinais observacionais em luxação e infecção; revisão em registro nacional sem diferença (HR 0,947).
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -448,7 +448,7 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 - O alvo não é uniforme entre pacientes
 - Conclusão: o posicionamento requer individualização
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não — 58% das luxações ocorrem com o componente dentro da zona; o alvo requer individualização.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — 58% das luxações ocorrem com o componente dentro da zona; o alvo requer individualização.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -488,7 +488,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 - Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
   *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Na coluna rígida, desbalanceada ou artrodesada — a radiografia funcional modifica alvo, anteversão e construto: luxação de 0,8% em 5 anos.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Na coluna rígida, desbalanceada ou artrodesada — a radiografia funcional modifica alvo, anteversão e construto: luxação de 0,8% em 5 anos.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -559,7 +559,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 - Cabeça grande não substitui a dupla mobilidade
 - Conduta: indicação dirigida ao risco — não universal
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim, no grupo de risco — luxação 1,3% × 4,2% na fratura do colo (ensaio randomizado); indicação dirigida, não universal.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim, no grupo de risco — luxação 1,3% × 4,2% na fratura do colo (ensaio randomizado); indicação dirigida, não universal.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -600,7 +600,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 - Conduta: **36 mm quando a taça comporta** · piso 32 mm
   *Bender · J Arthroplasty · 2025 · PMID 40015384 · Tsikandylakis · registro NARA · 2018 · PMID 30260863*
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — 36 mm quando o acetábulo comporta: revisão por luxação 0,46% × 0,68%, com teto do benefício em 36 mm.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — 36 mm quando o acetábulo comporta: revisão por luxação 0,46% × 0,68%, com teto do benefício em 36 mm.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -644,7 +644,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
   *Cherry · Int Orthop · 2025 · PMID 40715845*
 - Conduta: reparo capsular sistemático em toda via posterior
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — sem reparo, risco de luxação aproximadamente 8 vezes maior; reparo capsular sistemático.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — sem reparo, risco de luxação aproximadamente 8 vezes maior; reparo capsular sistemático.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -681,7 +681,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
   *Korfitsen · Acta Orthop · 2023 · PMID 37039064*
 - Conduta: com reparo capsular, sem restrições rígidas de rotina
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não — com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce; sem restrições de rotina.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce; sem restrições de rotina.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -721,7 +721,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 - Sem cimento: haste **com colar** (sem colar: HR 7,8)
   *Kelly · AJRR · 2024 · PMID 38323976*
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -813,7 +813,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 - Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
   *de Steiger · JBJS · 2018 · PMID 30063590 · de Steiger · AOANJRR · 2020 · PMID 32345846*
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — polietileno reticulado em toda artroplastia; cabeça de 36 mm em cerâmica.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — polietileno reticulado em toda artroplastia; cabeça de 36 mm em cerâmica.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -867,7 +867,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
   *Pentland · The Lancet · 2026 · PMID 41763743*
 - Dado medido ≠ projeção: citar sempre com a distinção
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** 93,6% livres de revisão em 20 anos — dado medido; os valores de 25 e 30 anos são projeção por modelo.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** 93,6% livres de revisão em 20 anos — dado medido; os valores de 25 e 30 anos são projeção por modelo.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -913,7 +913,7 @@ Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos imp
 - Os desfechos clínicos responderam às decisões de planejamento
 - Quadro-síntese na ordem cronológica das decisões
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
