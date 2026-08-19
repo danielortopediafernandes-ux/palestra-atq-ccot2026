@@ -60,7 +60,7 @@ def blocos(linhas):
     i = 0
     while i < len(linhas):
         s = linhas[i]
-        m = re.match(r"^##+\s*SLIDE\s+(\S+)", s)
+        m = re.match(r"^##+\s*SLIDE(?:-RESERVA)?\s+(\S+)",s)
         if m:
             slide = m.group(1)
         if s.lstrip().startswith("**TEXTO DO SLIDE"):
@@ -83,6 +83,30 @@ def eh_fonte(txt):
     return bool(RE_PMID.search(txt) or RE_ANO.search(txt))
 
 
+RE_PMID_NUM = re.compile(r"PMID\s*(\d{6,9})", re.I)
+
+
+def pmids_por_slide(linhas):
+    """Mapa slide -> conjunto de PMIDs presentes na BASE DE EVIDÊNCIA do slide.
+    Serve para checar CASAMENTO: um PMID colado no tópico do slide TEM de existir
+    na base daquele mesmo slide (senão o casamento número→fonte é suspeito)."""
+    base, texto, slide, em_base = {}, {}, None, False
+    for ln in linhas:
+        m = re.match(r"^##+\s*SLIDE(?:-RESERVA)?\s+(\S+)",ln)
+        if m:
+            slide = m.group(1); base.setdefault(slide, set()); texto.setdefault(slide, set()); em_base = False
+            continue
+        if re.match(r"^#\s|^# (ATO|APÊNDICE|ABERTURA|SLIDES-RESERVA|NOTAS)", ln):
+            slide = None
+        if slide is None:
+            continue
+        if ln.lstrip().startswith("**BASE DE EVIDÊNCIA"):
+            em_base = True
+        for pm in RE_PMID_NUM.findall(ln):
+            (base[slide] if em_base else texto[slide]).add(pm)
+    return base, texto
+
+
 def main():
     caminho = sys.argv[1] if len(sys.argv) > 1 else os.path.join(
         os.path.dirname(os.path.abspath(__file__)), "CAPITULO.md")
@@ -103,7 +127,12 @@ def main():
                     erros.append((nl, slide, "AFIRMAÇÃO C/ NÚMERO SEM REFERÊNCIA", t[:90]))
         # regras 1–4 em todo o texto do bloco
         for nl, ln in buf:
-            t = ln.strip().lstrip("-* ").strip()
+            raw = ln.strip()
+            # linha de CITAÇÃO (*Autor · Revista · ano · PMID*) é metadado de fonte,
+            # não prosa do slide — nome de revista (CORR, NEJM) não é ênfase.
+            if raw.startswith("*") and (RE_PMID.search(raw) or RE_ANO.search(raw)):
+                continue
+            t = raw.lstrip("-* ").strip()
             low = t.lower()
             for cap in RE_CAPS.findall(t):
                 base = cap.rstrip("S")  # plural de sigla (PROMs, RCTs)
@@ -117,6 +146,13 @@ def main():
                 erros.append((nl, slide, "1ª PESSOA", RE_1P.search(low).group()))
             if RE_ELIPSE.search(t):
                 avisos.append((nl, slide, "POSSÍVEL ELIPSE-COM-VÍRGULA (calque)", t[:90]))
+
+    # CASAMENTO: todo PMID citado no TEXTO DO SLIDE tem de existir na BASE do mesmo slide
+    base_pm, texto_pm = pmids_por_slide(linhas)
+    for slide, pms in texto_pm.items():
+        for pm in pms:
+            if pm not in base_pm.get(slide, set()):
+                erros.append((0, slide, "PMID DO TÓPICO NÃO ESTÁ NA BASE DO SLIDE (casamento suspeito)", f"PMID {pm}"))
 
     print("FISCAL DE LINGUAGEM —", os.path.basename(caminho))
     print(f"  bloqueios .... {len(erros)}")

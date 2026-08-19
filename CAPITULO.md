@@ -135,7 +135,7 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 - Renan Matineli
 - Marco Galeazi
 
-*(⚠️ nota de produção — NÃO vai ao slide: grafias conforme ditadas pelo Dr. em 18/08; **confirmar a grafia oficial de "Matineli" e "Galeazi" antes do deck final**.)*
+*(⚠️ nota de produção — não vai ao slide: grafias conforme ditadas pelo Dr. em 18/08; **confirmar a grafia oficial de "Matineli" e "Galeazi" antes do deck final**.)*
 
 
 ---
@@ -207,9 +207,13 @@ O template manual aplicado sobre imagem digital calibrada obteve acurácia igual
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Erro de magnificação: marcador único **12,5%** (até 23,3%) · dupla escala **2,1%**
+  *Ries · Arch Orthop Trauma Surg · 2022 · PMID 35099608*
 - Acerto exato da haste: dupla escala **54% × 32%** (p = 0,04) · taça: sem diferença
+  *Maatough · Cureus · 2025 · PMID 40470419*
 - Erro de calibração **> 1,5%** já altera o tamanho planejado
+  *Boese · Int Orthop · 2023 · PMID 36881153*
 - Fator fixo (115–120%): magnificação real varia **116–140%** e muda com IMC e sexo
+  *Holliday · J Med Radiat Sci · 2021 · PMID 33590673 · Ashkenazi · 2023 · PMID 37195151*
 - Conduta: calibração de dupla escala em toda radiografia de planejamento
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não para o fêmur — a dupla escala reduz o erro de magnificação de 12,5% para 2,1% e eleva o acerto exato da haste de 32% para 54%.
@@ -244,9 +248,12 @@ A calibração convencional com marcador externo único carrega erro médio de m
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Acerto da taça: 3D **96,9% × 87,1%** (2D)
+  *Parisi · 2024 · PMID 39518705 · Bishi · meta · 2022 · PMID 35076413*
 - Desfecho relatado pelo paciente: **sem diferença** (ensaio randomizado)
 - Modelo impresso: ensaio corresponde à cirurgia (ICC 0,93) — anatomia complexa
+  *Zhang · Orthop Surg · 2021 · PMID 34898037*
 - Conduta: 2D na rotina · impressão 3D na displasia e revisão
+  *Thomas · RCT · 2022 · PMID 36183111 · Zhang · Orthop Surg · 2021 · PMID 34898037*
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não na rotina — maior acurácia sem alteração de desfecho; o modelo impresso reserva-se à anatomia complexa.
 
@@ -294,8 +301,11 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho da taç
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Acerto do tamanho: OR **3,85** (taça)
+  *Altahtamouni · meta · 2026 · PMID 41727957*
 - Validação: 1.371 pacientes · um único país · nível III
+  *Altahtamouni · meta · 2026 · PMID 41727957*
 - Função: **+0,73** ponto no HHS — abaixo do MCID
+  *Taghavi · Arthroplasty · meta · 2026 · PMID 42547897*
 - Conduta: não adotar sem validação local
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Ainda não — acurácia superior sem validação de desfecho: +0,73 ponto no HHS, abaixo do MCID.
@@ -330,8 +340,11 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Erro de anteversão: **2,6° × 8,9°** (TC pré/pós, ensaio randomizado)
+  *Fontalis · RCT · 2024 · PMID 38555946*
 - Função: **SMD 0,01** — sem diferença clínica (metanálise, 8 ensaios)
+  *Ruangsomboon · meta · 2024 · PMID 38888718*
 - Internação: **−0,49 dia** — significância marginal
+  *Poyser · 2026 · PMID 41519489*
 - Conclusão: maior acurácia, sem ganho demonstrado para o paciente
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não — com o triplo da precisão, a diferença de função é SMD 0,01: equivalência clínica.
@@ -377,8 +390,10 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Revisão em registro nacional: HR **0,947** — sem diferença
+  *Farhan-Alanie · NJR · 2025 · PMID 41442047*
 - Sinais observacionais 2026: luxação OR 0,57 · infecção OR 0,83
 - Navegação: complicação mecânica OR 0,63 · infecção OR 0,46
+  *Giannakis · Premier Database · 2026 · PMID 42093134*
 - Sem confirmação randomizada — não indicar por função
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sem confirmação randomizada — sinais observacionais em luxação e infecção; revisão em registro nacional sem diferença (HR 0,947).
@@ -426,8 +441,10 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- **58%** das luxações com a taça DENTRO da zona (9.784 ATQs)
+- **58%** das luxações com a taça **dentro** da zona (9.784 ATQs)
+  *Abdel · CORR · 2016 · PMID 26150264*
 - Confirmação independente: **55,8%**
+  *Hernández · J Clin Orthop Trauma · 2021 · PMID 34434695*
 - O alvo não é uniforme entre pacientes
 - Conclusão: o posicionamento requer individualização
 
@@ -464,9 +481,12 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 
 - A causa da insuficiência da zona estática: a pelve roda ao sentar
 - Rastreio: **ΔSS < 10°** · **PI−LL > 10°** · artrodese > 3 níveis
+  *Vigdorchik · Bone Joint J · Prêmio Otto Aufranc · 2021 · PMID 34192913*
 - Presente ≥ 1 critério → radiografia em pé × sentado
+  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
 - Modifica: alvo da taça · anteversão · indicação de dupla mobilidade
 - Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
+  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Na coluna rígida, desbalanceada ou artrodesada — a radiografia funcional modifica alvo, anteversão e construto: luxação de 0,8% em 5 anos.
 
@@ -534,6 +554,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Fratura do colo ≥ 65 anos: luxação **1,3% × 4,2%** (aHR 0,27 · RCT Lancet)
+  *Hailer · Lancet · 2026 · PMID 42392114*
 - Eletivo: benefício nos grupos de risco — coluna rígida/artrodese · revisão
 - Cabeça grande não substitui a dupla mobilidade
 - Conduta: indicação dirigida ao risco — não universal
@@ -570,10 +591,14 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Revisão por luxação: **1,4%** (22–28 mm) → **0,9%** (32 mm) → **0,6%** (36 mm)
+  *van Steenbergen · registro LROI · 2023 · PMID 36935558*
 - Confirmação: 36 mm **0,46%** × 32 mm **0,68%** (319.531 ATQs)
+  *Bender · J Arthroplasty · registro AJRR · 2025 · PMID 40015384*
 - Teto em 36: com ≥ 40 mm a luxação **não cai mais** · revisão e infecção sobem
+  *Bender · J Arthroplasty · 2025 · PMID 40015384*
 - Cabeça grande **não substitui** a dupla mobilidade
 - Conduta: **36 mm quando a taça comporta** · piso 32 mm
+  *Bender · J Arthroplasty · 2025 · PMID 40015384 · Tsikandylakis · registro NARA · 2018 · PMID 30260863*
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — 36 mm quando o acetábulo comporta: revisão por luxação 0,46% × 0,68%, com teto do benefício em 36 mm.
 
@@ -612,8 +637,11 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Luxação sem reparo capsular: **RR ≈ 8** (IC 4–17)
+  *Kwon · CORR · meta de 5 estudos · 2006 · PMID 16741471*
 - Com reparo: via posterior equivale às demais vias (1,01% × 0,70% × 0,43%)
+  *Kwon · CORR · 2006 · PMID 16741471*
 - Mecanismo medido: torque para luxar **9,12 × 2,73 N·m**
+  *Cherry · Int Orthop · 2025 · PMID 40715845*
 - Conduta: reparo capsular sistemático em toda via posterior
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — sem reparo, risco de luxação aproximadamente 8 vezes maior; reparo capsular sistemático.
@@ -646,8 +674,11 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Ensaio randomizado, 1.133 pacientes: luxação **0,88%** — sem diferença restrito × livre
+  *Yadav · RCT · J Arthroplasty · 2026 · PMID 42055222*
 - Função (HOOS JR): **melhor no grupo livre** (6 semanas e 3–6 meses)
+  *Yadav · RCT · J Arthroplasty · 2026 · PMID 42055222*
 - GRADE, 8.835 pacientes: evidência não sustenta restrições de rotina
+  *Korfitsen · Acta Orthop · 2023 · PMID 37039064*
 - Conduta: com reparo capsular, sem restrições rígidas de rotina
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Não — com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce; sem restrições de rotina.
@@ -682,9 +713,13 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Cimentar: mulher **≥ 70,5 anos** · fratura do colo · osso de má qualidade
+  *Ladurner · Registro Suíço · 2023 · PMID 37595764 · Fernandez (WHiTE 5) · 2022 · PMID 35139272 · Kim · 2024 · PMID 39126454*
 - Fratura do colo (nível 1): fratura periprotética OR 0,22 · mortalidade RR **0,86**
+  *Fernandez (WHiTE 5) · 2022 · PMID 35139272 · Lewis · Cochrane · 2022 · PMID 35156194*
 - Risco do cimento: agudo, dia 0–1 (**0,4%** absoluto) · embolia RR 3,56
+  *Viberg · Bone Joint J · 2022 · PMID 34969285 · Lewis · Cochrane · 2022 · PMID 35156194*
 - Sem cimento: haste **com colar** (sem colar: HR 7,8)
+  *Kelly · AJRR · 2024 · PMID 38323976*
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
 
@@ -768,10 +803,15 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Polietileno reticulado: revisão em 16 anos **6,2% × 11,7%** — pergunta encerrada
+  *de Steiger · AOANJRR · JBJS · 2018 · PMID 30063590*
 - Cerâmica no jovem: **HR 0,73** (< 55 anos) · acima de 55, equivalente ao metal
+  *Reddy · J Arthroplasty · AJRR · 2025 · PMID 40939940 · Pakarinen · J Arthroplasty · NARA · 2024 · PMID 39173975*
 - Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
+  *de Steiger · AOANJRR · 2020 · PMID 32345846*
 - Desgaste do 36 mm sobre reticulado: **0,01–0,10 mm em 14 anos** (ensaio randomizado)
+  *Thoen · Bone Joint J · 2025 · PMID 41173047*
 - Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
+  *de Steiger · JBJS · 2018 · PMID 30063590 · de Steiger · AOANJRR · 2020 · PMID 32345846*
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Sim — polietileno reticulado em toda artroplastia; cabeça de 36 mm em cerâmica.
 
@@ -822,7 +862,9 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - **93,6%** sem revisão aos **20 anos** (8 registros · 1.904.237 ATQs)
+  *Pentland · The Lancet · 2026 · PMID 41763743*
 - 25 anos: 92,8% · 30 anos: 92,1% — **projeção por modelo**
+  *Pentland · The Lancet · 2026 · PMID 41763743*
 - Dado medido ≠ projeção: citar sempre com a distinção
 
 **CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** 93,6% livres de revisão em 20 anos — dado medido; os valores de 25 e 30 anos são projeção por modelo.
@@ -908,8 +950,11 @@ As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos se
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Cessação **6–8 semanas** antes: complicações **52% → 18%**
+  *Møller · ensaio randomizado · Lancet · 2002 · PMID 11809253*
 - Ferida: **31% → 5%** (ensaio randomizado, Lancet)
+  *Møller · ensaio randomizado · Lancet · 2002 · PMID 11809253*
 - Confirmação: infecção de ferida OR 0,37 (cessação ≥ 4 semanas)
+  *Xu · EClinicalMedicine · 2021 · PMID 34765953*
 - Conduta: prescrever cessação · agendar após o intervalo
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
@@ -952,8 +997,11 @@ Isso não significa que os estudos sejam ruins nem que a resposta seja desconhec
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Banho de clorexidina: infecção **OR 0,43** · nasal isolada: não significativa
+  *Henkelmann · Antimicrob Resist Infect Control · meta · 2026 · PMID 41652612*
 - HbA1c com corte de 7%: não prediz complicações
+  *Tarabichi · J Arthroplasty · 2025 · PMID 40339933*
 - Glicemia perioperatória: limiar **137 mg/dL** · pico às 21 h
+  *Kheir · JBJS · 2018 · PMID 30106824 · Varady · J Arthroplasty · 2019 · PMID 30704771*
 - Conduta: clorexidina universal · protocolo glicêmico do dia da cirurgia
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
@@ -1035,10 +1083,15 @@ O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - Ácido tranexâmico IV: transfusão **RR ≈ 0,48**
+  *Gibbs · Cochrane · 2023 · PMID 37272509*
 - Cefazolina: **21–30 min** antes da incisão (atraso > 50 min: OR 2,0)
+  *Morris · 2025 · PMID 41277271*
 - Aspirina 81 mg desde o dia 0: não inferior · menos sangramento
+  *Shivakumar · ensaio randomizado · 2026 · PMID 42437501*
 - Dexametasona dose única: náusea OR 0,21 · segura no diabético
+  *Abdelaziz · meta GRADE · 2026 · PMID 42226274 · Razick · J Arthroplasty · meta · 2025 · PMID 39706354*
 - Bloqueio PENG: deambulação **8 h × 24 h**
+  *Elshall · RCT · 2025 · PMID 40762162 · Et · RCT · 2023 · PMID 37013389*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1161,9 +1214,12 @@ Três honestidades que devem ser ditas no palco. **Primeira:** a base randomizad
 **TEXTO DO SLIDE (resumo em tópicos):**
 
 - Hb < 13 g/dL na indicação → investigar a causa
+  *Muñoz · Anaesthesia · 2017 · PMID 27996086*
 - Ferro IV não reduz transfusão (pré RR 0,91 · pós sem diferença)
+  *Liu · EClinicalMedicine · 2025 · PMID 40727015 · Kim · ensaio randomizado · 2021 · PMID 33918110 · Choi · ensaio randomizado · 2022 · PMID 35566482*
 - Redução de transfusão: ácido tranexâmico
 - Ferro pós-operatório: acelera a recuperação da Hb (62% × 32%)
+  *Kim · ensaio randomizado · 2021 · PMID 33918110*
 
 **ROTEIRO DE FALA:**
 
@@ -1212,8 +1268,11 @@ E se a pergunta é "o que reduz transfusão", a resposta está na mesma revisão
 **TEXTO DO SLIDE (resumo em tópicos):**
 
 - Identifica risco com HbA1c aparentemente adequada (4/5 das infecções: HbA1c < 8%)
+  *Shohat · Sci Rep · 2021 · PMID 33500515*
 - Limitações: AUC 0,58 · corte sem validação independente · sem estudo de intervenção
+  *Shohat · Sci Rep · 2021 · PMID 33500515*
 - Uso: reclassificação de risco (jejum > 100 mg/dL) — não critério de adiamento
+  *Shohat · Sci Rep · 2021 · PMID 33500515*
 
 **ROTEIRO DE FALA:**
 
@@ -1264,7 +1323,9 @@ A frutosamina identifica pacientes de risco com HbA1c aparentemente adequada: 4 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
 - Luxação: OR **2,50** (1,79 milhão de pacientes)
+  *Soler · Eur Spine J · meta · 2024 · PMID 38267733*
 - Gradiente por níveis: 2,2% → 7,8%
+  *Yang · J Arthroplasty · 2022 · PMID 35337945*
 - A ordem das cirurgias não modifica o desfecho (2 metanálises 2026)
 
 **ROTEIRO DE FALA:**
@@ -1299,8 +1360,11 @@ O risco de luxação no paciente com artrodese lombar decorre da artrodese em si
 **TEXTO DO SLIDE (resumo em tópicos):**
 
 - Redução > **5 mm**: menor força abdutora
+  *Mahmood · Acta Orthop · 2016 · PMID 26471772*
 - Desfecho relatado: piora apenas com redução > **20 mm**
+  *Bullen · J Arthroplasty · 2023 · PMID 36096271*
 - Não compensar offset acetabular com o femoral (P = 0,040)
+  *Vorimore · 2024 · PMID 38897260*
 - Base integralmente observacional
 
 **ROTEIRO DE FALA:**
@@ -1381,6 +1445,7 @@ Os registros divergem quanto ao liner com rebordo elevado: o inglês (213.146 ar
 
 - Paciente selecionado: menor custo e internação · melhor função
 - Custo: transfusão OR **4,42**
+  *Soler · meta de 20 estudos · 2026 · PMID 41553690*
 - Revisão diverge entre fontes · evidência observacional
 
 **ROTEIRO DE FALA:**
