@@ -164,15 +164,17 @@ Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo q
 
 ## SLIDE S5 · Template manual versus digital: qual altera o resultado?
 
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+**TEXTO DO SLIDE (resumo em tópicos — cada afirmação com a SUA referência abaixo; é isto que vai ao slide):**
 
-- Acerto da HASTE: manual **75% × 60%** software · comparação inversa: digital **93,8% × 84,1%**
-- **Toda diferença registrada entre métodos está na haste · taça: sem diferença** (p = 0,050 limítrofe · p = 0,483)
-- Padrão alcançável: ± 1 tamanho em ~90% · tamanho exato em ~32–40%
-- O desenho da haste desloca a previsão (subdimensionamento 3,7×)
-- Conduta: template em TODA artroplastia — manual ou digital
+- Na haste femoral, o template manual superou o software: acerto de **75% × 60%**
+  *Petretta · CORR · 2015 · PMID 25910779*
+- Na haste femoral, o método digital superou o manual: acerto de **94% × 84%**
+  *Pongkunakorn · J Arthroplasty · 2021 · PMID 33583670*
+- No componente acetabular, nenhum método foi superior
+  *Petretta 2015 (p = 0,05) · Pongkunakorn 2021 (p = 0,48)*
+- Conduta: planejar toda artroplastia com template — manual ou digital
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Nenhum dos dois altera o resultado — a diferença entre métodos restringe-se à haste; o determinante é a calibração.
+**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** Nenhum método altera o resultado: a acurácia depende da calibração da radiografia, não da escolha da ferramenta.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
