@@ -125,21 +125,21 @@ Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimension
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Acerto da haste: template manual **75% × 60%** software (p < 0,001)
-- Comparação inversa: digital **93,8% × 84,1%** — o método importa menos que a execução
+- Acerto da HASTE: manual **75% × 60%** software · comparação inversa: digital **93,8% × 84,1%**
+- **Toda diferença registrada entre métodos está na haste · taça: sem diferença** (p = 0,050 limítrofe · p = 0,483)
 - Padrão alcançável: ± 1 tamanho em ~90% · tamanho exato em ~32–40%
 - O desenho da haste desloca a previsão (subdimensionamento 3,7×)
 - Conduta: template em TODA artroplastia — manual ou digital
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O template manual aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). A comparação inversa também existe: em outro desenho de estudo, o método digital superou a sobreposição manual (93,8% versus 84,1%). O conjunto configura equivalência prática entre as ferramentas, com padrão alcançável de acerto dentro de um tamanho em cerca de 90% e acerto exato em 32–40% — e o desenho da haste desloca sistematicamente a previsão. A ferramenta, portanto, não define a acurácia; o determinante é a calibração da radiografia, objeto do slide seguinte.
+O template manual aplicado sobre imagem digital calibrada obteve acurácia igual ou superior à do software de planejamento: acerto da haste dentro de um tamanho em 75% versus 60% (p < 0,001). A comparação inversa também existe: em outro desenho de estudo, o método digital superou a sobreposição manual na haste (93,8% versus 84,1%). As duas comparações divergem na direção, mas convergem num ponto que merece registro: **toda diferença encontrada entre os métodos está na haste — para o componente acetabular, nenhuma das duas demonstrou diferença** (p = 0,050 limítrofe; p = 0,483). O conjunto configura equivalência prática entre as ferramentas, com padrão alcançável de acerto dentro de um tamanho em cerca de 90% e acerto exato em 32–40% — e o desenho da haste desloca sistematicamente a previsão. A ferramenta, portanto, não define a acurácia; o determinante é a calibração da radiografia, objeto do slide seguinte — onde a mesma assimetria se repete: é o fêmur que responde à calibração, não a taça.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
 ## [1.1] Template manual ou digital — e o que realmente define a acurácia?
 
-**RESPOSTA · Qualquer um dos dois serve — o que define a acurácia é a CALIBRAÇÃO da radiografia (unidade [1.1.1]) e conhecer o desenho da haste.**
+**RESPOSTA · Qualquer um dos dois serve — e a diferença entre métodos, quando aparece, está na HASTE: a taça é indiferente ao método nas duas comparações diretas 2D. O que define a acurácia é a CALIBRAÇÃO da radiografia (unidade [1.1.1]) e conhecer o desenho da haste.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
@@ -152,7 +152,7 @@ O template manual aplicado sobre imagem digital calibrada obteve acurácia igual
 
 **CONDUTA:** planejar TODA artroplastia com template (manual ou digital — o software não é pré-requisito); conhecer o viés de dimensionamento do desenho da própria haste; a calibração da radiografia — onde o erro efetivamente mora — é tratada na unidade [1.1.1].
 
-**Discussão.** A pergunta "manual ou digital?" tem resposta anticlimática — empate técnico, com estudos apontando para os dois lados conforme o desenho — e é exatamente isso que a torna útil: ela libera o cirurgião da ferramenta e o devolve ao fundamento. O estado da literatura, mapeado em 18/08/2026: **três comparações diretas** (Petretta 2015, a única contra software comercial — manual venceu na haste; Pongkunakorn 2021, contra método digital de baixo custo — digital venceu na haste; Chen 2022, contra TC-3D — o 3D venceu em tamanho exato, sem alterar desfecho) e **três validações recentes** do template manual sobre a tela (2020, 2021, 2026), todas em torno de 90% para ± 1 tamanho no fêmur. Nenhuma revisão sistemática 2021–2026 refez a pergunta manual × digital: a produção migrou para 2D × 3D e para a inteligência artificial — o próprio campo tratou o empate como assunto encerrado. Quem calibra bem e conhece seu implante acerta ± 1 tamanho em ~90% — com template manual ou com software.
+**Discussão.** A pergunta "manual ou digital?" tem resposta anticlimática — empate técnico, com estudos apontando para os dois lados conforme o desenho — e é exatamente isso que a torna útil: ela libera o cirurgião da ferramenta e o devolve ao fundamento. O estado da literatura, mapeado em 18/08/2026: **três comparações diretas** (Petretta 2015, a única contra software comercial — manual venceu na haste; Pongkunakorn 2021, contra método digital de baixo custo — digital venceu na haste; Chen 2022, contra TC-3D — o 3D venceu em tamanho exato, sem alterar desfecho) e **três validações recentes** do template manual sobre a tela (2020, 2021, 2026), todas em torno de 90% para ± 1 tamanho no fêmur. Nenhuma revisão sistemática 2021–2026 refez a pergunta manual × digital: a produção migrou para 2D × 3D e para a inteligência artificial — o próprio campo tratou o empate como assunto encerrado. **O padrão que atravessa as comparações 2D (observação do Dr., 18/08): a diferença entre métodos, quando aparece, está sempre na HASTE — a taça não distinguiu método em nenhuma das duas comparações diretas (p = 0,050 limítrofe; p = 0,483). E a mesma assimetria se repete na calibração (unidade [1.1.1]): a dupla escala melhora o acerto da haste (54% × 32%) sem efeito na taça. No planejamento bidimensional, o componente sensível a método e calibração é o femoral; o acetabular é robusto a ambos.** Quem calibra bem e conhece seu implante acerta ± 1 tamanho em ~90% — com template manual ou com software.
 
 
 ---
