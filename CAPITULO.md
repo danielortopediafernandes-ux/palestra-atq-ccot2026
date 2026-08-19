@@ -250,7 +250,8 @@ A calibração convencional com marcador externo único carrega erro médio de m
 
 - Acerto do componente acetabular: 3D **96,9% × 87,1%** (2D)
   *Parisi · 2024 · PMID 39518705 · Bishi · meta · 2022 · PMID 35076413*
-- Desfecho relatado pelo paciente: **sem diferença** (ensaio randomizado)
+- Desfecho relatado pelo paciente (PROM): **sem diferença** 2D × 3D (ensaio randomizado)
+  *Thomas · RCT · 2022 · PMID 36183111*
 - Modelo impresso: ensaio corresponde à cirurgia (ICC 0,93) — anatomia complexa
   *Zhang · Orthop Surg · 2021 · PMID 34898037*
 - Conduta: 2D na rotina · impressão 3D na displasia e anatomia complexa
@@ -260,7 +261,7 @@ A calibração convencional com marcador externo único carrega erro médio de m
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O planejamento tridimensional por tomografia aumenta o acerto do tamanho do componente acetabular (96,9% versus 87,1% do bidimensional), porém o único ensaio randomizado que mediu desfecho relatado pelo paciente não encontrou diferença. Na anatomia complexa (displasia, revisão), o modelo físico impresso permite ensaiar a cirurgia previamente, e o ensaio corresponde à cirurgia real (concordância de 0,93 para o tamanho do componente acetabular; defeito ósseo P = 0,97). Conduta: templating bidimensional na artrose de rotina; modelo impresso reservado à anatomia atípica.
+O planejamento tridimensional por tomografia aumenta o acerto do tamanho do componente acetabular (96,9% versus 87,1% do bidimensional), porém o único ensaio randomizado que mediu desfecho relatado pelo paciente não encontrou diferença. Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso permite ensaiar a cirurgia previamente, e o ensaio corresponde à cirurgia real (concordância de 0,93 para o tamanho do componente acetabular; defeito ósseo P = 0,97). Conduta: templating bidimensional na artrose de rotina; modelo impresso reservado à anatomia atípica.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
