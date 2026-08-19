@@ -96,8 +96,8 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
 | Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S17 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S24 |
-| Ato 3 · Síntese | S25–S26 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S26 |
+| Ato 3 · Síntese | S27–S28 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -896,22 +896,24 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Cimentar: mulher **≥ 70,5 anos** · fratura do colo · osso de má qualidade
-  *Ladurner · Registro Suíço · 2023 · PMID 37595764 · Fernandez (WHiTE 5) · 2022 · PMID 35139272 · Kim · 2024 · PMID 39126454*
-- Fratura do colo (nível 1): fratura periprotética OR 0,22 · mortalidade RR **0,86**
-  *Malki · meta 16 RCTs · 2026 · PMID 42259040 (OR 0,22) · Lewis · Cochrane · 2022 · PMID 35156194 (RR 0,86)*
-- Risco do cimento: agudo, dia 0–1 (**0,4%** absoluto) · embolia RR 3,56
+- Cimentar: mulher **≥ 70,5 anos** · osso de má qualidade
+  *Ladurner · Bone Joint J · Registro Suíço · 86.423 ATQs · 2023 · PMID 37595764 · Kim · 2024 · PMID 39126454*
+- Fratura do colo (nível 1): fratura periprotética **OR 0,22** · mortalidade **RR 0,86**
+  *Malki · meta 16 RCTs · 2026 · PMID 42259040 · Lewis · Cochrane · 2022 · PMID 35156194*
+- Risco do cimento: **agudo, dia 0–1** — diferença absoluta **0,4%** · embolia RR 3,56; após 7 dias sem diferença
   *Viberg · Bone Joint J · 2022 · PMID 34969285 · Lewis · Cochrane · 2022 · PMID 35156194*
-- Sem cimento: haste **com colar** (sem colar: HR 7,8)
-  *Kelly · AJRR · 2024 · PMID 38323976*
+- No eletivo, o cimento tem contrapartida: menos revisão × mais mortalidade global (OR 0,73)
+  *Alagha · J Arthroplasty · 60.064 pareados · 2025 · PMID 39814112*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo femoral (nível 1: menos fratura periprotética, OR 0,22, e menor mortalidade em 12 meses, RR 0,86) e no osso de má qualidade. O excesso de mortalidade atribuível ao cimento restringe-se às primeiras 24–48 horas (diferença absoluta de 0,4%) e desaparece após a primeira semana; o desfecho que se eleva é a embolia pulmonar (RR 3,56) — mitigável com técnica de terceira geração e comunicação com a anestesia. Na fixação sem cimento, hastes com colar reduzem a fratura periprotética (sem colar: HR 7,8).
+A cimentação é indicada na mulher com 70,5 anos ou mais, no osso de má qualidade e na fratura do colo femoral. Neste último cenário a evidência é de nível 1: metanálise de 16 ensaios randomizados mostra menos fratura periprotética (OR 0,22) e menor mortalidade em 12 meses (RR 0,86). O excesso de mortalidade atribuível ao cimento restringe-se às primeiras 24–48 horas — diferença absoluta de 0,4% — e desaparece após a primeira semana; o desfecho que se eleva é a embolia pulmonar (RR 3,56), mitigável com técnica de terceira geração e comunicação com a anestesia. Na cirurgia eletiva, o pareamento de 60 mil pacientes mostra a contrapartida: a fixação não-cimentada tem menor mortalidade global (OR 0,73), embora custe mais revisão. A decisão fica pelo perfil objetivo, não pela impressão de "idoso".
 
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+**BASE DE EVIDÊNCIA:** unidades **[5.1]** (cimentar — eletivo) e **[5.2]** (fratura do colo) abaixo; a unidade **[5.4]** (BCIS — o cimento tem risco perioperatório?) segue no bloco do S24 e detalha o risco agudo referenciado no tópico 3.
+
+**Unidades:**
 
 ## [5.1] Cimentar a haste — em quem (cirurgia eletiva)?
 
@@ -942,6 +944,30 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 **CONDUTA:** haste cimentada na fratura do colo do idoso; na eletiva, o registro confirma o sentido do efeito.
 
 **Discussão.** Este é o território de maior certeza da palestra: dezesseis ensaios randomizados, metanálise com quatro vezes menos fratura periprotética **e** mortalidade menor. Distinguir sempre os dois cenários — fratura do colo (nível 1) e eletiva (registro, mesma direção) — para não sobrestender a evidência.
+
+---
+
+## SLIDE S24 · Se não cimentar, qual haste?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Haste **com colar** (sem colar: fratura periprotética **HR 7,8**)
+  *Kelly · J Arthroplasty · AJRR · 266.040 hastes ≥ 65 anos · 2024 · PMID 38323976*
+- Geometria **gradual-taper** (em cunha: **HR 2,9–3,0**)
+  *Kelly · J Arthroplasty · 2024 · PMID 38323976*
+- Cimentless com colar equipara-se à cimentada polished taper-slip — o desenho pesa mais que o cimento
+  *Lamb · JBJS · 809.832 ATQs · 2025 · PMID 39874379*
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** No paciente sem indicação de cimento, haste com colar e geometria gradual-taper — o desenho pesa mais que o cimento.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Se a decisão for pela fixação não-cimentada, o desenho do implante é a variável mais potente. No registro americano de 266 mil hastes acima de 65 anos, a ausência do colar multiplicou por quase oito o risco de fratura periprotética; a geometria em cunha, sem estreitamento gradual, associou-se a risco três vezes maior. Uma casuística de 809 mil artroplastias mostra que a haste cimentless com colar atinge desempenho comparável ou superior ao da haste cimentada polished taper-slip — o que reposiciona o debate: a decisão relevante é o desenho, mais do que o cimento em si.
+
+**BASE DE EVIDÊNCIA:** unidade **[5.3]** abaixo (colar + gradual-taper — números por evidência).
+
+
+---
 
 ## [5.3] Se não cimentar, qual desenho de haste?
 
@@ -982,28 +1008,50 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S24 · O par tribológico altera o resultado?
+## SLIDE S25 · Polietileno reticulado altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Polietileno reticulado: revisão em 16 anos **6,2% × 11,7%** — pergunta encerrada
-  *de Steiger · AOANJRR · JBJS · 2018 · PMID 30063590*
-- Cabeça de cerâmica **sobre reticulado**: vantagem no jovem — **HR 0,73** (< 55 anos); acima de 55, equivale ao metal (não inferior)
-  *Reddy · J Arthroplasty · AJRR · 2025 · PMID 40939940 · Pakarinen · J Arthroplasty · NARA · 2024 · PMID 39173975*
-- Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
-  *de Steiger · AOANJRR · 2020 · PMID 32345846*
-- Desgaste do 36 mm sobre reticulado: **0,01 mm em 14 anos** — a cabeça de 32 mm desgastou mais (0,10 mm)
-  *Thoen · Bone Joint J · ensaio randomizado · 2025 · PMID 41173047*
-- Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
-  *de Steiger · JBJS · 2018 · PMID 30063590 · de Steiger · AOANJRR · 2020 · PMID 32345846*
+- Reticulado × convencional em 16 anos: revisão **6,2% × 11,7%** (razão de risco 3,02 aos 9 anos)
+  *de Steiger · AOANJRR · JBJS · 199.131 × 41.171 procedimentos · 2018 · PMID 30063590*
+- Desgaste no longo prazo: **20 anos sem nenhuma revisão por desgaste** · taxa **0,02 mm/ano**
+  *Wright · Mayo · 690 ATQs · 2024 · PMID 38964487*
+- Pergunta encerrada: o convencional saiu de uso; nenhum registro moderno mantém braço de comparação
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — polietileno reticulado em toda artroplastia; cabeça de 36 mm em cerâmica.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Polietileno reticulado em toda artroplastia — a revisão em 16 anos cai à metade e o desgaste em 20 anos é desprezível.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O polietileno reticulado divide aproximadamente pela metade a revisão em dezesseis anos de registro (6,2% versus 11,7%) — pergunta encerrada. A cabeça de cerâmica sobre o polietileno reticulado associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, equivale ao metal — nunca é inferior. A comparação relevante é cerâmica versus metal sobre o mesmo polietileno reticulado, não o par cerâmica-cerâmica. Retomando a cabeça de 36 mm recomendada no bloco da instabilidade, agora sob o aspecto tribológico: o risco de corrosão do cone nas cabeças de 36 mm ou mais concentra-se no cobalto-cromo e em duas hastes especificamente identificadas — não é argumento contra o diâmetro, é argumento pela cerâmica. O ensaio randomizado com radioestereometria remove a última objeção: o desgaste do 36 mm sobre polietileno reticulado é de centésimos de milímetro em catorze anos. As duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
+O polietileno reticulado divide aproximadamente pela metade a revisão em dezesseis anos de registro australiano (6,2% versus 11,7%), com razão de risco de 3,02 aos nove anos. A série de vinte anos da Mayo não registrou uma única revisão por desgaste e mensurou taxa de 0,02 milímetros por ano. Não há sucessor recente porque o polietileno convencional saiu de uso — nenhum registro moderno tem braço de comparação. É pergunta encerrada, não pergunta órfã, e ilustra a regra de recência aplicada.
 
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+**BASE DE EVIDÊNCIA:** unidade **[4.4]** abaixo, linhas 1–3 (reticulado, desgaste, durabilidade global do par moderno). Cabeça (cerâmica × metal, 36 mm cerâmica, corrosão) segue no slide S27.
+
+
+---
+
+## SLIDE S26 · Que cabeça: cerâmica ou metal? E por que 36 mm em cerâmica?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- **< 55 anos:** cerâmica-polietileno **HR 0,73** contra metal-polietileno; **zircônio oxidado HR 0,72**
+  *Reddy · J Arthroplasty · AJRR · 101.313 ATQs · 2025 · PMID 40939940*
+- **≥ 55 anos:** cerâmica-reticulado × metal-reticulado **HR 1,0** — sem diferença
+  *Pakarinen · J Arthroplasty · NARA · 158.044 ATQs · 2024 · PMID 39173975*
+- Corrosão do cone (ARMD) nas cabeças ≥ 36 mm concentra-se no cobalto-cromo: Accolade I (Stryker) **HR 8,3** · M/L Taper (Zimmer) **HR 14,4**
+  *de Steiger · AOANJRR · 2020 · PMID 32345846*
+- Desgaste do 36 mm sobre reticulado: **0,01 mm em 14 anos** — a cabeça de 32 mm desgastou mais (0,10 mm)
+  *Thoen · Bone Joint J · ensaio randomizado · 2025 · PMID 41173047*
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Cerâmica no jovem; no idoso, metal sobre reticulado é equivalente. Quando o planejamento indicar 36 mm (S20), preferir cerâmica — é ali que a corrosão do cobalto-cromo se concentra.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+A escolha do material da cabeça depende da idade do paciente. No registro americano restrito a menores de 55 anos, a cerâmica-polietileno reduziu a revisão em 27% (HR 0,73) contra o metal-polietileno, e o metal cerametizado teve efeito semelhante (HR 0,72); acima dos 55 anos, os registros nórdicos mostram equivalência (HR 1,0). Esse padrão é coerente com o mecanismo: desgaste e corrosão precisam de tempo e de carga para se expressar. Retomando a cabeça de 36 milímetros recomendada no bloco da instabilidade, agora sob o aspecto tribológico: o risco de corrosão do cone nas cabeças de 36 milímetros ou mais concentra-se em cobalto-cromo e em duas hastes especificamente identificadas — Accolade I com razão de risco 8,3 e M/L Taper com razão de risco 14,4. Não é argumento contra o diâmetro; é argumento a favor da cerâmica. O ensaio randomizado com radioestereometria remove a objeção clássica de que cabeça maior desgasta mais: sobre polietileno reticulado com vitamina E, o desgaste do 36 milímetros em quatorze anos foi de 0,01 milímetro, enquanto o do 32 milímetros foi de 0,10 milímetro. As duas decisões convergem numa única frase de planejamento: 36 milímetros, em cerâmica, sobre polietileno reticulado.
+
+**BASE DE EVIDÊNCIA:** unidade **[4.4]** abaixo, linhas 4–9 (cerâmica × metal por idade, ARMD/36 mm cobalto-cromo, desgaste 36 mm cerâmica sobre reticulado).
+
+
+---
 
 ## [4.4] Que par tribológico? Polietileno reticulado sempre; cabeça cerâmica de preferência
 
@@ -1041,7 +1089,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S25 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S27 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1089,7 +1137,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S26 · Síntese: o que altera o resultado?
+## SLIDE S28 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1682,10 +1730,12 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S19 → S20:** "Fixado o critério de leitura, retorna-se à decisão de diâmetro da cabeça femoral, válida para todos os pacientes: 36 mm."
 - **S20 → S21:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
 - **S21 → S22:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S22 → S23:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S23 → S24:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S24 → S25:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S25:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S22 → S23:** "Encerrado o bloco da instabilidade, segue a fixação femoral — primeiro, em quem cimentar."
+- **S23 → S24:** "Estabelecido o critério para cimentar, o cenário oposto tem sua própria decisão: quando não se cimenta, o desenho da haste é a variável mais potente."
+- **S24 → S25:** "Definida a fixação, o par tribológico completa as decisões de construto — começando pelo polietileno reticulado, cuja pergunta está encerrada."
+- **S25 → S26:** "Fixado o polietileno reticulado como padrão, a decisão relevante do par é o material da cabeça — e por que 36 mm pede cerâmica."
+- **S26 → S27:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S27 → S28:** "A estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação."
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1700,9 +1750,10 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 7. S15 — esquema em pé × sentado mostrando os parâmetros do rastreio: ΔSS (mobilidade) e PI − LL (alinhamento) — Vigdorchik 2021 (BJJ) **[COMPLEXO — figura essencial]**
 8. S16 — **matriz 2×2 da classificação quadril-coluna** (eixos alinhamento × mobilidade → grupos 1A/1B/2A/2B, 2B em destaque) — Vigdorchik 2021 (BJJ) **[figura essencial]**
 9. S17 — alvo do índice sagital combinado (CSI) / anteversão funcional — Verhaegen 2025
-10. S23 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-11. S25 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
-12. S19 — **gráfico de barras proporcionais ao tamanho de amostra** das metanálises (133.474 × 12.511 × 5.004 quadris) + esquema do que é "ajustar por confundidor" (meta-regressão pelo tamanho do componente) — Ibrahim 2025 (JBJS Rev) **[figura essencial — a própria tabela/gráfico do slide-licença]**
+10. S23 — curva de mortalidade precoce por fixação (excesso agudo dia 0–1; sobrevida sem diferença após 7 dias) — Viberg 2022 (BJJ)
+11. S24 — esquema da haste com colar apoiando o calcar (mecanismo do HR 7,8 do cimentless sem colar) — Kelly 2024 (AJRR)
+12. S27 — curva de sobrevida com demarcação entre dado observado (20 anos) e projeção estatística (25 e 30 anos) — Pentland 2026 (Lancet)
+13. S19 — **gráfico de barras proporcionais ao tamanho de amostra** das metanálises (133.474 × 12.511 × 5.004 quadris) + esquema do que é "ajustar por confundidor" (meta-regressão pelo tamanho do componente) — Ibrahim 2025 (JBJS Rev) **[figura essencial — a própria tabela/gráfico do slide-licença]**
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 

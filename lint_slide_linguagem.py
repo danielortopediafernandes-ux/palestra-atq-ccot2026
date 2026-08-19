@@ -95,26 +95,59 @@ def eh_fonte(txt):
 
 
 RE_PMID_NUM = re.compile(r"PMID\s*(\d{6,9})", re.I)
+# Unidade compartilhada (ex.: `## [4.4] ...`, `## [5.3] ...`) — vira "container" de PMIDs.
+RE_UNIDADE = re.compile(r"^##+\s*\[(\d+(?:\.\d+)*)\]")
+# Referência a unidade dentro do slide (padrão canônico de base compartilhada):
+# "**BASE DE EVIDÊNCIA:** unidade **[X.Y]** abaixo" ou "unidade [X.Y]" no texto.
+# Nasceu em 19/08 (2ª rodada): a divisão do S23/S24 e S25/S26 criou slides magros que
+# apontam para uma base compartilhada — o casamento PMID precisa unir a base da unidade.
+RE_REF_UNI = re.compile(r"\bunidade\s+\*?\*?\[(\d+(?:\.\d+)*)\]", re.I)
 
 
 def pmids_por_slide(linhas):
     """Mapa slide -> conjunto de PMIDs presentes na BASE DE EVIDÊNCIA do slide.
-    Serve para checar CASAMENTO: um PMID colado no tópico do slide TEM de existir
-    na base daquele mesmo slide (senão o casamento número→fonte é suspeito)."""
-    base, texto, slide, em_base = {}, {}, None, False
+    Além da base própria, herda PMIDs de qualquer unidade [X.Y] referenciada no
+    texto do slide (padrão canônico de base compartilhada). Serve para checar
+    CASAMENTO: PMID colado num tópico tem de estar na base do próprio slide OU
+    numa unidade que o slide explicitamente referencia."""
+    base, texto, refs = {}, {}, {}
+    unidades = {}  # {"5.4": set(PMIDs)}
+    slide, unid, em_base = None, None, False
     for ln in linhas:
-        m = re.match(r"^##+\s*SLIDE(?:-RESERVA)?\s+(\S+)",ln)
-        if m:
-            slide = m.group(1); base.setdefault(slide, set()); texto.setdefault(slide, set()); em_base = False
+        m_slide = re.match(r"^##+\s*SLIDE(?:-RESERVA)?\s+(\S+)", ln)
+        m_unid = RE_UNIDADE.match(ln)
+        if m_slide:
+            slide = m_slide.group(1); unid = None; em_base = False
+            base.setdefault(slide, set()); texto.setdefault(slide, set()); refs.setdefault(slide, set())
+            continue
+        if m_unid:
+            unid = m_unid.group(1); unidades.setdefault(unid, set())
+            # unidade DENTRO de um slide também alimenta a base própria daquele slide
             continue
         if re.match(r"^#\s|^# (ATO|APÊNDICE|ABERTURA|SLIDES-RESERVA|NOTAS)", ln):
-            slide = None
-        if slide is None:
-            continue
+            slide, unid = None, None
         if ln.lstrip().startswith("**BASE DE EVIDÊNCIA"):
             em_base = True
+            for u in RE_REF_UNI.findall(ln):
+                if slide:
+                    refs[slide].add(u)
+        # captura referências a unidades no CORPO do slide também
+        if slide and not em_base:
+            for u in RE_REF_UNI.findall(ln):
+                refs[slide].add(u)
         for pm in RE_PMID_NUM.findall(ln):
-            (base[slide] if em_base else texto[slide]).add(pm)
+            if unid:
+                unidades[unid].add(pm)
+            if slide is None:
+                continue
+            if em_base:
+                base[slide].add(pm)
+            else:
+                texto[slide].add(pm)
+    # aplica herança: PMIDs de unidades referenciadas viram parte da base do slide
+    for sl, ref_ids in refs.items():
+        for u in ref_ids:
+            base[sl] |= unidades.get(u, set())
     return base, texto
 
 
