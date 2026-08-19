@@ -366,9 +366,9 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
   *Ruangsomboon · meta · 2024 · PMID 38888718*
 - Internação: **−0,49 dia** — significância marginal
   *Poyser · 2026 · PMID 41519489*
-- Conclusão: maior acurácia, sem ganho demonstrado para o paciente
+- Conduta: não indicar a robótica para melhorar a função na rotina
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — com o triplo da precisão, a diferença de função é SMD 0,01: equivalência clínica.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — a precisão triplica, mas a função permanece equivalente à do método convencional.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1522,10 +1522,11 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 
 1. S7 — reconstrução 3D por TC · ganho de acurácia 3D × 2D (Parisi 2024; Bishi meta 2022)
 2. S8 — modelo 3D impresso × achado cirúrgico no quadril displásico (Zhang 2021, Orthop Surg)
-3. S12 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-4. S13 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-5. S18 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-6. S20 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+3. S10 — braço robótico / sobreposição da TC pré e pós-operatória (Fontalis 2024)
+4. S12 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
+5. S13 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+6. S18 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+7. S20 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
