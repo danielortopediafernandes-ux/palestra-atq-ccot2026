@@ -408,15 +408,15 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Internação: **−0,49 dia** (meia diária) — coorte pareada, significância marginal (P = 0,044)
+- Internação: **−0,49 dia** (~12 h) — coorte pareada, significância marginal (P = 0,044)
   *Poyser · coorte pareada · 2026 · PMID 41519489*
 - Revisão: HR **0,947** — sem diferença (registro nacional)
   *Farhan-Alanie · NJR · 2025 · PMID 41442047*
 - Luxação **OR 0,57** · infecção **OR 0,83** — sinais observacionais de registro
   *Giannakis · Premier Database · 2026 · PMID 42093134 · Zhang · meta 1,83 mi · 2026 · PMID 42009981*
-- Conduta: estes desfechos NÃO têm ensaio randomizado com poder — não indicar por eles, acompanhar o sinal
+- Conduta: estes desfechos não têm ensaio randomizado com poder — não indicar por eles, acompanhar o sinal
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Só a função tem ensaio randomizado; estes desfechos, não — revisão sem diferença, meia diária de internação, sinais observacionais em luxação e infecção.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Só a função tem ensaio randomizado; estes desfechos, não — revisão sem diferença, internação 0,49 dia menor, sinais observacionais em luxação e infecção.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
