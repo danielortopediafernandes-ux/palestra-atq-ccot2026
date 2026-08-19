@@ -95,9 +95,9 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 | Parte | Slides |
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
-| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S14 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S15–S20 |
-| Ato 3 · Síntese | S21–S22 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S15 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S16–S21 |
+| Ato 3 · Síntese | S22–S23 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -443,45 +443,80 @@ Diferentemente da função — medida em ensaios randomizados —, os demais des
 
 ---
 
-## SLIDE S12 · A navegação e os guias personalizados alteram o desfecho?
+## SLIDE S12 · A navegação intraoperatória altera o desfecho?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Navegação (observacional): complicação mecânica **OR 0,63** · infecção **OR 0,46**
-  *Giannakis · Premier Database · 2026 · PMID 42093134*
-- Guias personalizados (PSI): dados escassos no quadril, superioridade não demonstrada
-  *Gauci · revisão · 2022 · PMID 34838754*
-- Conduta: não adotar na rotina por desfecho — acompanhar o sinal da navegação
+- Acurácia intraoperatória maior (navegação por imagem: até **83%** da taça na zona-alvo), mas anteversão (P = 0,08) e inclinação (P = 0,94) finais **sem diferença**
+  *Braun · J Arthroplasty · 150 pac · 2025 · PMID 40588106*
+- Luxação: navegação **0,3% × 1,2%** convencional — tendência **não significativa** (o maior fator foi o tabagismo, OR 6,31)
+  *Alqazzaz · J Arthroplasty · coorte 3.243 ATQ · 2026 · PMID 42103591*
+- Obesos mórbidos: navegação (com ou sem imagem) **não reduziu** complicações, tromboembolismo nem revisão
+  *Latifi · J Robot Surg · 2026 · PMID 42474881 · Latifi · Int Orthop · 2026 · PMID 42118304*
+- Conduta: não adotar por desfecho — o sinal observacional de registro não se confirma nas coortes pareadas recentes
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sinal observacional favorável à navegação; o PSI carece de evidência — nenhum confirmado por ensaio randomizado.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A navegação melhora o posicionamento intraoperatório, mas o benefício clínico não se confirma — sem ensaio randomizado de desfecho.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O mesmo registro hospitalar de 2026 aponta a navegação com sinais em complicação mecânica (OR 0,63) e infecção (OR 0,46) — números até melhores que os do robô nesses desfechos. Os guias personalizados (PSI) têm dados escassos no quadril e superioridade clínica não demonstrada. Conduta: não adotar navegação ou PSI na rotina com expectativa de desfecho; acompanhar o sinal observacional da navegação, ainda sem confirmação randomizada.
+A navegação por imagem aumenta a acurácia do posicionamento intraoperatório da taça (até 83% na zona-alvo), mas o resultado radiográfico final não difere do convencional (anteversão P = 0,08; inclinação P = 0,94). No plano do desfecho, o quadro é de sinal fraco e inconsistente: numa coorte de 3.243 artroplastias, a luxação com navegação foi de 0,3% contra 1,2% do convencional, diferença não significativa — e o maior determinante de luxação foi o tabagismo (OR 6,31). Em duas coortes pareadas de 2026 no paciente com obesidade mórbida, a navegação com e sem imagem não reduziu complicações, eventos tromboembólicos nem revisão. O sinal de registro que favorecia a navegação (complicação mecânica OR 0,63; infecção OR 0,46) não se sustenta nesses dados pareados. Conduta: não adotar a navegação com expectativa de desfecho; acompanhar a literatura.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
-## [2.4] Navegação e guias personalizados (PSI) mudam o desfecho?
+## [2.4] Navegação intraoperatória — muda o desfecho?
 
-**RESPOSTA · Sinal observacional favorável à navegação em complicação mecânica e infecção — mesma ressalva da robótica, sem ensaio randomizado.**
+**RESPOSTA · Melhora a acurácia intraoperatória; o benefício clínico é fraco e inconsistente, sem ensaio randomizado de desfecho.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Navegação (registro hospitalar ~100 mil) | **menos complicação mecânica OR 0,63** e **infecção OR 0,46** — nesses desfechos, melhor que o robô | Giannakis 2026 · Premier Database · [PMID 42093134](https://pubmed.ncbi.nlm.nih.gov/42093134/) |
-| Navegação × robô na displasia | o robô supera a navegação nos ângulos (anteversão 1,3° × 3,3°), mas o posicionamento espacial foi semelhante | Tamaki 2024 · pareado · [PMID 36801090](https://pubmed.ncbi.nlm.nih.gov/36801090/) |
-| Guias personalizados (PSI) | dados escassos no quadril; superioridade clínica não demonstrada | Gauci 2022 · revisão · nível V · [PMID 34838754](https://pubmed.ncbi.nlm.nih.gov/34838754/) |
+| Acurácia intraoperatória | navegação por imagem: até **83%/69%** da taça na zona-alvo (× convencional e sem-imagem); porém anteversão (P = 0,08) e inclinação (P = 0,94) finais **sem diferença**; sem-imagem custa mais tempo operatório | Braun 2025 · J Arthroplasty · retrospectivo, 150 pac (3×50) · [PMID 40588106](https://pubmed.ncbi.nlm.nih.gov/40588106/) |
+| Luxação (coorte grande) | navegação (via anterior) **0,3%** × convencional 1,2% — **tendência não significativa**; o preditor forte foi o **tabagismo (OR 6,31)** | Alqazzaz 2026 · J Arthroplasty · coorte 3.243 ATQ, 7 cirurgiões · [PMID 42103591](https://pubmed.ncbi.nlm.nih.gov/42103591/) |
+| Desfecho no obeso mórbido (IMC ≥ 40) | navegação **por imagem** e **sem imagem** NÃO reduziram complicações cirúrgicas, tromboembolismo nem revisão em coortes pareadas | Latifi 2026 · J Robot Surg · [PMID 42474881](https://pubmed.ncbi.nlm.nih.gov/42474881/) · Latifi 2026 · Int Orthop · PearlDiver · [PMID 42118304](https://pubmed.ncbi.nlm.nih.gov/42118304/) |
+| Sinal observacional de registro | menos complicação mecânica **OR 0,63** e infecção **OR 0,46** — não confirmado pelas coortes pareadas acima | Giannakis 2026 · Premier Database · [PMID 42093134](https://pubmed.ncbi.nlm.nih.gov/42093134/) |
+| Navegação × robô | o robô supera a navegação nos ângulos (anteversão **1,3° × 3,3°**), com posicionamento espacial semelhante | Tamaki 2024 · pareado · [PMID 36801090](https://pubmed.ncbi.nlm.nih.gov/36801090/) |
 
-**CONDUTA:** não adotar navegação ou PSI na rotina com expectativa de desfecho; acompanhar o sinal observacional da navegação, ainda sem confirmação randomizada.
+**CONDUTA:** não adotar a navegação na rotina com expectativa de desfecho; o ganho é de acurácia intraoperatória, sem tradução clínica demonstrada.
 
-**Discussão.** As tecnologias intermediárias seguem a mesma regra da robótica: melhoram a medida, não comprovam desfecho — com uma diferença nova. O mesmo registro hospitalar de 2026 que acende o sinal do robô aponta a navegação com números até melhores em complicação mecânica e infecção, o que reforça a conclusão de que a eventual vantagem dessas tecnologias virá de eventos raros, e não da função. No quadril, o PSI sequer acumulou evidência de acurácia comparável à de outras articulações.
+**Discussão.** A navegação é o exemplo mais recente do padrão da palestra: melhora a medida intraoperatória e não move o desfecho. O sinal de registro de 2026 (Giannakis) chegou a sugerir vantagem em complicação mecânica e infecção, mas as coortes pareadas do mesmo ano — inclusive no paciente de maior risco, o obeso mórbido — não confirmaram redução de complicações, tromboembolismo ou revisão. E a diferença de luxação, ainda que numericamente favorável, não alcançou significância, com o tabagismo pesando muito mais que a tecnologia. Nível de evidência: observacional em todos os desfechos; a acurácia intraoperatória tem estudo comparativo, mas não se traduz no resultado radiográfico final.
 
 
 ---
 
+## SLIDE S13 · Os guias personalizados (PSI) alteram o resultado?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Acurácia: ensaio randomizado (PSI × mão livre) reduz o **erro de anteversão femoral** (p < 0,05) — porém n = 60
+  *Zheng · Biomed Eng Online · RCT · 2023 · PMID 37705017*
+- Evidência escassa no quadril; **superioridade clínica não demonstrada**
+  *Gauci · revisão · nível V · 2022 · PMID 34838754*
+- Conduta: não adotar na rotina — ganho de acurácia, sem prova de desfecho
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Um ensaio randomizado pequeno mostra melhor acurácia de anteversão; não há evidência de desfecho clínico no quadril.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Os guias personalizados são a tecnologia de execução com menos evidência no quadril. Um ensaio randomizado pequeno (60 pacientes) mostrou que o guia reduz o erro absoluto de anteversão femoral em relação à técnica de mão livre — um ganho de acurácia, medido no plano do alvo técnico. A superioridade em desfecho clínico não foi demonstrada, e a evidência acumulada no quadril é escassa, muito aquém da de outras articulações. Conduta: não adotar na rotina com expectativa de desfecho.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [2.4.1] Guias personalizados (PSI) — mudam o resultado?
+
+**RESPOSTA · Ganho de acurácia num ensaio randomizado pequeno; sem evidência de desfecho clínico no quadril.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Acurácia (ensaio randomizado) | PSI × mão livre: **erro de anteversão femoral significativamente menor** (p < 0,05) | Zheng 2023 · Biomed Eng Online · RCT, 30 × 30 pacientes · [PMID 37705017](https://pubmed.ncbi.nlm.nih.gov/37705017/) |
+| Evidência clínica no quadril | dados escassos; superioridade clínica não demonstrada | Gauci 2022 · revisão · nível V · [PMID 34838754](https://pubmed.ncbi.nlm.nih.gov/34838754/) |
+
+**CONDUTA:** não adotar o PSI na rotina do quadril com expectativa de desfecho; o único dado de qualidade é de acurácia, em série pequena.
+
+**Discussão.** O guia personalizado tem, no quadril, o menor lastro de evidência entre as tecnologias de execução. Há um ensaio randomizado — o que já o coloca acima de muitas séries observacionais em nível —, mas com sessenta pacientes e desfecho de acurácia (erro de anteversão), não de função ou revisão. É promissor no alvo técnico e mudo no desfecho clínico; permanece fora da rotina.
+
 
 ---
 
-## SLIDE S13 · A zona de segurança de Lewinnek é suficiente?
+## SLIDE S14 · A zona de segurança de Lewinnek é suficiente?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -519,7 +554,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-## SLIDE S14 · Em quem a avaliação espinopélvica altera o planejamento?
+## SLIDE S15 · Em quem a avaliação espinopélvica altera o planejamento?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -593,7 +628,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S15 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S16 · A articulação de dupla mobilidade altera o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -630,7 +665,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S16 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S17 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -676,7 +711,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S17 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S18 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -713,7 +748,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S18 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S19 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -752,7 +787,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S19 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S20 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -842,7 +877,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S20 · O par tribológico altera o resultado?
+## SLIDE S21 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -901,7 +936,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S21 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S22 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -949,7 +984,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S22 · Síntese: o que altera o resultado?
+## SLIDE S23 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1529,17 +1564,18 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S8 → S9:** "Encerrado o planejamento por imagem e por modelo físico, a fronteira seguinte é o planejamento assistido por inteligência artificial."
 - **S9 → S10:** "As tecnologias apresentadas até este ponto atuam no planejamento; as duas seguintes atuam na execução. O critério de avaliação permanece o mesmo: parâmetro técnico versus desfecho clínico."
 - **S10 → S11:** "Além da função, a robótica é avaliada nos demais desfechos — revisão, luxação e infecção."
-- **S11 → S12:** "O mesmo padrão observacional — sinal promissor sem confirmação randomizada — aparece na navegação e nos guias personalizados."
-- **S12 → S13:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
-- **S13 → S14:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S14 → S15:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S15 → S16:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S16 → S17:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S17 → S18:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S18 → S19:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S19 → S20:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S20 → S21:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S21:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S11 → S12:** "O mesmo padrão observacional — sinal promissor sem confirmação randomizada — aparece na navegação intraoperatória."
+- **S12 → S13:** "A última tecnologia de execução avaliada é o guia personalizado."
+- **S13 → S14:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
+- **S14 → S15:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
+- **S15 → S16:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S16 → S17:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S17 → S18:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S18 → S19:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S19 → S20:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S20 → S21:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S21 → S22:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S22:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1548,11 +1584,12 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 1. S7 — reconstrução 3D por TC · ganho de acurácia 3D × 2D (Parisi 2024; Bishi meta 2022)
 2. S8 — modelo 3D impresso × achado cirúrgico no quadril displásico (Zhang 2021, Orthop Surg)
 3. S10 — braço robótico / sobreposição da TC pré e pós-operatória (Fontalis 2024)
-4. S12 — sistema de navegação intraoperatória / guia personalizado (PSI)
-5. S13 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-6. S14 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-7. S19 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-8. S21 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+4. S12 — sistema de navegação intraoperatória (braço/tela de posicionamento)
+5. S13 — guia personalizado (PSI) impresso sobre o osso
+6. S14 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
+7. S15 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+8. S20 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+9. S22 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
