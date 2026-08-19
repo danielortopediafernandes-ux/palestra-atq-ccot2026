@@ -94,14 +94,14 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 | Ato | Slides |
 |---|---|
-| Ato 1 · Tecnologias: acurácia × desfecho | S1–S8 |
-| Ato 2 · Decisões com impacto no desfecho | S9–S16 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S1–S9 |
+| Ato 2 · Decisões com impacto no desfecho | S10–S16 |
 | Ato 3 · Síntese | S17–S18 |
 
 ---
 
 
-# ATO 1 — TECNOLOGIAS DE PLANEJAMENTO E EXECUÇÃO: ACURÁCIA VERSUS DESFECHO
+# ATO 1 — TECNOLOGIAS DE PLANEJAMENTO E EXECUÇÃO E O ALVO DE POSICIONAMENTO: ACURÁCIA VERSUS DESFECHO
 
 ## SLIDE S1 · Planejamento pré-operatório em artroplastia total do quadril: o que altera o desfecho (capa)
 
@@ -375,7 +375,7 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular dentro da zona de segurança de Lewinnek — achado replicado em série independente (55,8%). A implicação: a luxação não decorre apenas de erro de execução do alvo; o alvo em si não é o mesmo para todos os pacientes. O posicionamento seguro requer individualização, objeto da segunda parte da apresentação.
+Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular dentro da zona de segurança de Lewinnek — achado replicado em série independente (55,8%). A implicação: a luxação não decorre apenas de erro de execução do alvo; o alvo em si não é o mesmo para todos os pacientes, porque a pelve muda de orientação entre as posições em pé e sentada. O posicionamento seguro requer individualização — objeto do slide seguinte, a avaliação espinopélvica.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -398,9 +398,79 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
+## SLIDE S9 · Avaliação espinopélvica: a individualização do alvo — indicações da radiografia funcional e repercussões no planejamento
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- A causa da insuficiência da zona estática: a pelve roda ao sentar
+- Rastreio: **ΔSS < 10°** · **PI−LL > 10°** · artrodese > 3 níveis
+- Presente ≥ 1 critério → radiografia em pé × sentado
+- Modifica: alvo da taça · anteversão · indicação de dupla mobilidade
+- Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional da taça. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões de planejamento com impacto na luxação — diâmetro da cabeça femoral, dupla mobilidade nos grupos de risco e reparo capsular na via posterior — completam esta cadeia e são tratadas no segundo ato.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [3.2] O alvo real: estático ou funcional?
+
+**RESPOSTA · Funcional — e o melhor preditor é a mobilidade FEMORAL, não o ângulo da taça.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. Quadris "dentro da Lewinnek" porém fora da zona funcional** | de 320 quadris, 296 (92,5%) estavam dentro de Lewinnek — e destes, **14,2%** estavam **fora** da zona funcional: em risco não detectado pelo alvo estático | Tezuka & Dorr 2019 · J Arthroplasty · [PMID 30454867](https://pubmed.ncbi.nlm.nih.gov/30454867/) · **clássico: primeiro estudo a quantificar a discordância entre alvo estático e funcional; o conceito foi levado adiante pela linha 3, que não o substitui** |
+| ⚠️ **2. Qual é o melhor preditor — a hierarquia real** | o próprio estudo diz que o melhor preditor de cair fora da zona funcional é a **mobilidade FEMORAL aumentada (r = 0,632)**, acima da mobilidade espinopélvica diminuída (r = 0,455) e da incidência pélvica (r = 0,400) — e **não** a posição sagital da taça | Tezuka & Dorr 2019 · [PMID 30454867](https://pubmed.ncbi.nlm.nih.gov/30454867/) · **clássico: mesma fonte da linha 1 — esta linha existe para corrigir a leitura corrente, que inverte a hierarquia dos preditores** |
+| **3. O conceito validado com desfecho clínico** | classificação quadril-coluna aplicada prospectivamente: sobrevida livre de luxação em 5 anos **99,2%** (taxa de luxação **0,8%**); concordância entre observadores 0,83 | **Vigdorchik 2021 · Bone Joint J · Prêmio Otto Aufranc · 3.777 ATQs consecutivas, 2.081 analisadas · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/)** — ⚠️ apenas 3 cirurgiões e **sem grupo-controle contemporâneo**: os 0,8% não podem ser atribuídos causalmente ao sistema |
+| **4. E mudar o plano muda o número** | no subgrupo de maior risco (coluna rígida e desbalanceada), a luxação caiu de **6,8% para 1,5%** (P = 0,03) depois que o planejamento acetabular passou do plano supino para o plano **em pé** | Karasavvidis 2024 · J Arthroplasty · 281 pacientes do grupo 2B · [PMID 38642849](https://pubmed.ncbi.nlm.nih.gov/38642849/) — ⚠️ série temporal antes/depois com **três mudanças simultâneas** (plano em pé + cabeças ≥ 40 mm + menos dupla mobilidade): impossível isolar a causa |
+
+**CONDUTA:** planejar pela radiografia funcional (em pé × sentado), não apenas pelo ângulo estático — e avaliar a **mobilidade femoral**, não só a espinopélvica.
+
+**Discussão.** A pelve não é uma base fixa: ela roda quando o paciente senta e levanta, e a orientação **funcional** da taça muda com ela. Um em cada sete quadris aprovados pelo critério estático está, na verdade, em risco.
+
+Uma correção que a auditoria de fonte obrigou, e que vale mais que o número: a leitura corrente atribui a esse estudo a conclusão de que "o preditor é a mobilidade espinopélvica". **O texto diz o contrário.** O melhor preditor de cair fora da zona funcional é a **mobilidade femoral** (r = 0,632), acima da espinopélvica (r = 0,455). A diferença é clinicamente relevante: um quadril que se move muito exige menos da coluna e, ainda assim, sai da zona — de modo que examinar apenas a coluna deixa passar exatamente o paciente que se pretende identificar.
+
+O conceito só ganhou peso clínico quando foi validado prospectivamente numa série de 2.081 artroplastias premiada com o Otto Aufranc, com 0,8% de luxação em cinco anos — e reforçado pela observação de que **mudar o plano de planejamento muda o número**: no subgrupo de coluna rígida, migrar do plano supino para o plano em pé acompanhou uma queda de 6,8% para 1,5%. Nenhum dos dois é ensaio randomizado, e o segundo mudou três coisas ao mesmo tempo — o que impede atribuir a queda a uma delas. Mas a direção é consistente e a conduta que dela decorre é barata: uma radiografia lateral em pé e sentado.
+
+## [3.3] Quem precisa de radiografia funcional?
+
+**RESPOSTA · A coluna rígida ou desbalanceada — critérios objetivos.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Coluna rígida | variação do *sacral slope* em pé × sentado **ΔSS < 10°** | Vigdorchik 2021 · Otto Aufranc Award · BJJ · 2.081 ATQs · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
+| Desbalanço sagital (*flatback*) | **PI − LL > 10°** | Vigdorchik 2021 |
+| Artrodese/fusão lombar | sobretudo **> 3 níveis** ou estendendo ao sacro — risco proporcional ao número de níveis | Vigdorchik 2021 |
+
+**CONDUTA:** rastrear esses três critérios no pré-operatório; presentes → radiografia funcional.
+
+**Discussão.** O rastreio cabe em qualquer consulta: histórico de fusão lombar, radiografia lateral da coluna lombossacra em pé e sentado. Os três critérios definem o paciente em quem o planejamento padrão falha — e é exatamente nele que o exame adicional muda conduta.
+
+## [3.4] A radiografia funcional muda o quê na cirurgia?
+
+**RESPOSTA · Três parâmetros — e o ganho demonstrado é de FUNÇÃO, não de luxação.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Alvo da taça — índice sagital combinado (CSI) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Atingir o alvo funcional → **OHS 42 × 40 (P = 0,003)** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
+| A diferença de luxação (não o desfecho-chave) | dentro × fora do alvo: luxação 0,4% × 1,7% — **NÃO significativa (P = 0,178)** | Verhaegen 2025 |
+| Anteversão | aumentar no rígido — anteversão média dentro do alvo: **26° ± 8°** (× 22° ± 10° fora) | Verhaegen 2025 · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
+| Construto | dupla mobilidade sistemática nos grupos **2B (rígidos)** e **fusão > 3 níveis** → luxação **0,8%** (99,2% livre em 5 anos) | Vigdorchik 2021 · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
+
+**CONDUTA:** na coluna rígida/desbalanceada — alvo CSI, anteversão aumentada, dupla mobilidade conforme o grupo.
+
+**Discussão.** Identificar o paciente de risco só tem valor se muda a cirurgia — e muda em três pontos concretos, todos com número publicado. A honestidade estatística, porém, reposiciona o benefício do CSI: o estudo multicêntrico de Verhaegen não confirmou diferença **significativa** de luxação entre estar dentro e fora do alvo (0,4% × 1,7%, P = 0,178) — o que ele demonstrou com clareza foi a **função** (OHS 42 × 40). O alvo funcional não deve ser vendido como redutor comprovado de luxação; deve ser vendido pelo que a evidência sustenta: mais função no paciente de coluna rígida, com o construto certo (dupla mobilidade) cobrindo a instabilidade.
+
+---
+
+
+---
+
+
 # ATO 2 — DECISÕES DE PLANEJAMENTO COM IMPACTO DEMONSTRADO NO DESFECHO
 
-## SLIDE S9 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
+## SLIDE S10 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -444,7 +514,7 @@ Isso não significa que os estudos sejam ruins nem que a resposta seja desconhec
 
 ---
 
-## SLIDE S10 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
+## SLIDE S11 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -523,74 +593,6 @@ O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico
 **CONDUTA:** não adiar a cirurgia por HbA1c isolada; **planejar o controle glicêmico perioperatório com alvo < 137 mg/dL**, medindo na noite do dia da cirurgia (21 h) — não apenas na manhã seguinte; onde disponível, frutosamina > 293 µmol/L é o marcador pré-operatório que de fato prediz infecção.
 
 **Discussão.** A mensagem é uma só e vale ser dita com clareza: **o retrato de 3 meses (HbA1c) não decide — o dia da cirurgia decide.** O corte sagrado de 7% falhou na metanálise, falhou no estudo premiado com o Insall Award — que é de **joelho**, e por isso não basta sozinho aqui — e voltou a falhar em 2025 num estudo prospectivo multicêntrico que **incluiu 387 quadris**, com HbA1c ≥ 7,7% sem qualquer poder preditivo (OR 1,18; IC 0,24–4,97). Enquanto isso, a glicemia pós-operatória mostra relação contínua com infecção já a partir de 115 mg/dL, mesmo em não-diabéticos (hiperglicemia de estresse). Atenção à leitura dos dois números: o **risco é contínuo** (quanto mais baixo, melhor, a partir de 115), mas **protocolo exige um gatilho único** — e 137 mg/dL é o corte que melhor separa quem infecta de quem não, como o 140/90 da hipertensão: risco contínuo, conduta binária. Para o planejamento, isso muda o gesto: em vez de vetar pelo laboratório de ontem, prescrever no plano cirúrgico o **protocolo de controle do dia** — meta, horário de medida e correção. A frutosamina, onde disponível, devolve ao pré-operatório um marcador que realmente prediz — e o número que vale aqui é o do **quadril** (Shohat 2021: infecção 6,7×, OR ajustado 6,37), não o 11,2× que circula e que é da casuística de joelho. Um cuidado de rigor, para não ser pego em debate: o mesmo estudo de 2025 que enterrou a HbA1c também não encontrou valor preditivo na frutosamina — mas ali o corte era **270** (não 293) e o desfecho era **complicação em 90 dias**, não infecção periprotética; os próprios autores registram que não conseguiram correlacionar seus marcadores com infecção. Não é, portanto, uma refutação do dado de Shohat: é outra pergunta. O que 2025 de fato acrescenta é um candidato novo — a **albumina glicada ≥ 17,1%**, único marcador que previu complicação em 90 dias naquele estudo (OR 4,8; IC 1,4–15,7) —, ainda sem dado próprio para infecção periprotética.
-
-
----
-
-## SLIDE S11 · Avaliação espinopélvica: indicações da radiografia funcional e repercussões no planejamento
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- Rastreio: **ΔSS < 10°** · **PI−LL > 10°** · artrodese > 3 níveis
-- Presente ≥ 1 critério → radiografia em pé × sentado
-- Modifica: alvo da taça · anteversão · indicação de dupla mobilidade
-- Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40).
-
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [3.2] O alvo real: estático ou funcional?
-
-**RESPOSTA · Funcional — e o melhor preditor é a mobilidade FEMORAL, não o ângulo da taça.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. Quadris "dentro da Lewinnek" porém fora da zona funcional** | de 320 quadris, 296 (92,5%) estavam dentro de Lewinnek — e destes, **14,2%** estavam **fora** da zona funcional: em risco não detectado pelo alvo estático | Tezuka & Dorr 2019 · J Arthroplasty · [PMID 30454867](https://pubmed.ncbi.nlm.nih.gov/30454867/) · **clássico: primeiro estudo a quantificar a discordância entre alvo estático e funcional; o conceito foi levado adiante pela linha 3, que não o substitui** |
-| ⚠️ **2. Qual é o melhor preditor — a hierarquia real** | o próprio estudo diz que o melhor preditor de cair fora da zona funcional é a **mobilidade FEMORAL aumentada (r = 0,632)**, acima da mobilidade espinopélvica diminuída (r = 0,455) e da incidência pélvica (r = 0,400) — e **não** a posição sagital da taça | Tezuka & Dorr 2019 · [PMID 30454867](https://pubmed.ncbi.nlm.nih.gov/30454867/) · **clássico: mesma fonte da linha 1 — esta linha existe para corrigir a leitura corrente, que inverte a hierarquia dos preditores** |
-| **3. O conceito validado com desfecho clínico** | classificação quadril-coluna aplicada prospectivamente: sobrevida livre de luxação em 5 anos **99,2%** (taxa de luxação **0,8%**); concordância entre observadores 0,83 | **Vigdorchik 2021 · Bone Joint J · Prêmio Otto Aufranc · 3.777 ATQs consecutivas, 2.081 analisadas · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/)** — ⚠️ apenas 3 cirurgiões e **sem grupo-controle contemporâneo**: os 0,8% não podem ser atribuídos causalmente ao sistema |
-| **4. E mudar o plano muda o número** | no subgrupo de maior risco (coluna rígida e desbalanceada), a luxação caiu de **6,8% para 1,5%** (P = 0,03) depois que o planejamento acetabular passou do plano supino para o plano **em pé** | Karasavvidis 2024 · J Arthroplasty · 281 pacientes do grupo 2B · [PMID 38642849](https://pubmed.ncbi.nlm.nih.gov/38642849/) — ⚠️ série temporal antes/depois com **três mudanças simultâneas** (plano em pé + cabeças ≥ 40 mm + menos dupla mobilidade): impossível isolar a causa |
-
-**CONDUTA:** planejar pela radiografia funcional (em pé × sentado), não apenas pelo ângulo estático — e avaliar a **mobilidade femoral**, não só a espinopélvica.
-
-**Discussão.** A pelve não é uma base fixa: ela roda quando o paciente senta e levanta, e a orientação **funcional** da taça muda com ela. Um em cada sete quadris aprovados pelo critério estático está, na verdade, em risco.
-
-Uma correção que a auditoria de fonte obrigou, e que vale mais que o número: a leitura corrente atribui a esse estudo a conclusão de que "o preditor é a mobilidade espinopélvica". **O texto diz o contrário.** O melhor preditor de cair fora da zona funcional é a **mobilidade femoral** (r = 0,632), acima da espinopélvica (r = 0,455). A diferença é clinicamente relevante: um quadril que se move muito exige menos da coluna e, ainda assim, sai da zona — de modo que examinar apenas a coluna deixa passar exatamente o paciente que se pretende identificar.
-
-O conceito só ganhou peso clínico quando foi validado prospectivamente numa série de 2.081 artroplastias premiada com o Otto Aufranc, com 0,8% de luxação em cinco anos — e reforçado pela observação de que **mudar o plano de planejamento muda o número**: no subgrupo de coluna rígida, migrar do plano supino para o plano em pé acompanhou uma queda de 6,8% para 1,5%. Nenhum dos dois é ensaio randomizado, e o segundo mudou três coisas ao mesmo tempo — o que impede atribuir a queda a uma delas. Mas a direção é consistente e a conduta que dela decorre é barata: uma radiografia lateral em pé e sentado.
-
-## [3.3] Quem precisa de radiografia funcional?
-
-**RESPOSTA · A coluna rígida ou desbalanceada — critérios objetivos.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| Coluna rígida | variação do *sacral slope* em pé × sentado **ΔSS < 10°** | Vigdorchik 2021 · Otto Aufranc Award · BJJ · 2.081 ATQs · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
-| Desbalanço sagital (*flatback*) | **PI − LL > 10°** | Vigdorchik 2021 |
-| Artrodese/fusão lombar | sobretudo **> 3 níveis** ou estendendo ao sacro — risco proporcional ao número de níveis | Vigdorchik 2021 |
-
-**CONDUTA:** rastrear esses três critérios no pré-operatório; presentes → radiografia funcional.
-
-**Discussão.** O rastreio cabe em qualquer consulta: histórico de fusão lombar, radiografia lateral da coluna lombossacra em pé e sentado. Os três critérios definem o paciente em quem o planejamento padrão falha — e é exatamente nele que o exame adicional muda conduta.
-
-## [3.4] A radiografia funcional muda o quê na cirurgia?
-
-**RESPOSTA · Três parâmetros — e o ganho demonstrado é de FUNÇÃO, não de luxação.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| Alvo da taça — índice sagital combinado (CSI) | coluna balanceada: **205–245°**; desbalanceada: **215–235°** (janela mais estreita). Atingir o alvo funcional → **OHS 42 × 40 (P = 0,003)** | Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
-| A diferença de luxação (não o desfecho-chave) | dentro × fora do alvo: luxação 0,4% × 1,7% — **NÃO significativa (P = 0,178)** | Verhaegen 2025 |
-| Anteversão | aumentar no rígido — anteversão média dentro do alvo: **26° ± 8°** (× 22° ± 10° fora) | Verhaegen 2025 · [PMID 39865697](https://pubmed.ncbi.nlm.nih.gov/39865697/) |
-| Construto | dupla mobilidade sistemática nos grupos **2B (rígidos)** e **fusão > 3 níveis** → luxação **0,8%** (99,2% livre em 5 anos) | Vigdorchik 2021 · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
-
-**CONDUTA:** na coluna rígida/desbalanceada — alvo CSI, anteversão aumentada, dupla mobilidade conforme o grupo.
-
-**Discussão.** Identificar o paciente de risco só tem valor se muda a cirurgia — e muda em três pontos concretos, todos com número publicado. A honestidade estatística, porém, reposiciona o benefício do CSI: o estudo multicêntrico de Verhaegen não confirmou diferença **significativa** de luxação entre estar dentro e fora do alvo (0,4% × 1,7%, P = 0,178) — o que ele demonstrou com clareza foi a **função** (OHS 42 × 40). O alvo funcional não deve ser vendido como redutor comprovado de luxação; deve ser vendido pelo que a evidência sustenta: mais função no paciente de coluna rígida, com o construto certo (dupla mobilidade) cobrindo a instabilidade.
-
----
 
 
 ---
@@ -1297,8 +1299,9 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 
 - **S1 → S2:** "A avaliação de cada tecnologia segue o mesmo eixo: o que ela melhora no parâmetro técnico, e o que se demonstra no desfecho clínico."
 - **S2 → S3:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
-- **S8 → S9:** "Se o alvo de posicionamento requer individualização, o planejamento começa pela avaliação do paciente, antes de qualquer exame de imagem."
-- **S11 → S12:** "Definida a posição-alvo dos componentes, a decisão seguinte é a seleção do construto."
+- **S8 → S9:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
+- **S9 → S10:** "Se o alvo de posicionamento requer individualização, o planejamento começa pela avaliação do paciente, antes de qualquer exame de imagem."
+- **S11 → S12:** "Otimizado o paciente na consulta de indicação, seguem as decisões de construto — executadas sobre o alvo funcional definido no primeiro ato."
 - **S15 → S16:** "As últimas decisões do planejamento são as do protocolo perioperatório, definidas em prescrição."
 - **S17:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
 
@@ -1306,7 +1309,7 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 
 1. S4 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
 2. S8 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-3. S11 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+3. S9 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
 4. S14 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
 5. S17 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
