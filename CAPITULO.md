@@ -522,12 +522,11 @@ Os guias personalizados são a tecnologia de execução com menos evidência no 
 
 - **58%** das luxações com o componente acetabular **dentro** da zona (9.784 ATQs)
   *Abdel · CORR · 2016 · PMID 26150264*
-- Confirmação independente: **55,8%**
+- Confirmação independente: **55,8%** — e a anteversão **femoral** estava correta em só **38,2%** (o que mais erramos não é o que mais medimos)
   *Hernández · J Clin Orthop Trauma · 2021 · PMID 34434695*
-- O alvo não é uniforme entre pacientes
-- Conclusão: o posicionamento requer individualização
+- Conduta: o ângulo estático é o piso, não o alvo suficiente — individualizar o alvo
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — 58% das luxações ocorrem com o componente dentro da zona; o alvo requer individualização.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — a maioria das luxações ocorre com o componente dentro da zona; o alvo de posicionamento precisa ser individualizado.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
