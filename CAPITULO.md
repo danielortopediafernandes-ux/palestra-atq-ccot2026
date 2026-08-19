@@ -96,8 +96,8 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
 | Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S17 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S23 |
-| Ato 3 · Síntese | S24–S25 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S24 |
+| Ato 3 · Síntese | S25–S26 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -698,7 +698,7 @@ Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos
 - Fratura do colo ≥ 65 anos: luxação **1,3% × 4,2%** (aHR 0,27 · RCT Lancet)
   *Hailer · Lancet · 2026 · PMID 42392114*
 - Eletivo: benefício nos grupos de risco — coluna rígida/artrodese · revisão
-- Cabeça de grande diâmetro não reproduz de forma consistente o efeito da dupla mobilidade — evidência **discordante**, DM favorecida na maior metanálise (133.474 quadris)
+- Cabeça de grande diâmetro não reproduz de forma consistente o efeito da dupla mobilidade — evidência **discordante**; a maior metanálise (133.474 quadris), **ajustada pelo tamanho do componente**, favorece a DM (por que isso pesa: slide seguinte)
   *Ibrahim 2025 · JBJS Rev · PMID 41379986 · contraponto: Hoskins 2022 PMID 35438011 · Sephton 2025 PMID 39128780*
 - Conduta: indicação dirigida ao risco — não universal
 
@@ -733,7 +733,45 @@ Quanto à comparação **DM × cabeça de grande diâmetro**, a evidência é **
 
 ---
 
-## SLIDE S19 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S19 · Como ler estudos que discordam: o peso da amostra e do ajuste por confundidor
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Quatro metanálises, a mesma pergunta, resultados divergentes — a conclusão depende de **como** cada uma foi construída
+- **Tamanho da amostra:** a maior reúne **133.474** quadris; as demais, 5.004 e 12.511 — série maior, estimativa mais precisa
+  *Ibrahim 2025 · JBJS Rev · PMID 41379986 (maior) · Hoskins 2022 PMID 35438011 · Sephton 2025 PMID 39128780*
+- **Confundidor:** a dúvida legítima era se a dupla mobilidade só parecia vantajosa por vir acompanhada de componente maior
+- **Meta-regressão** ajustou pelo tamanho do componente e o benefício **permaneceu** — o efeito do tamanho ficou **não significativo** (OR 1,20; IC 0,88–1,67; P = 0,12)
+  *Ibrahim 2025 · JBJS Rev · PMID 41379986*
+- Leitura honesta: amostra maior e ajuste por confundidor dão mais peso à evidência — mas, sem ensaio randomizado, o resultado é favorável, não provado
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A metanálise maior, ajustada pelo tamanho do componente, indica que a proteção vem da dupla mobilidade em si — não do diâmetro da cabeça. Ler um artigo é pesar amostra, ajuste e desenho, não apenas o resultado.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Uma licença metodológica, porque a distinção é instrutiva. Diante de quatro metanálises que respondem à mesma pergunta com resultados divergentes, a decisão não é escolher a que agrada, e sim ler como cada uma foi construída. Dois critérios bastam aqui. O primeiro é o tamanho da amostra: a metanálise de Ibrahim reúne 133.474 quadris, contra 5.004 e 12.511 das demais — uma série uma ordem de grandeza maior estima o efeito com mais precisão e menor influência do acaso. O segundo é o ajuste por confundidor. A objeção legítima seria que a dupla mobilidade parece melhor apenas por ser implantada com componentes maiores — isto é, que o verdadeiro protetor seria o diâmetro, não o conceito. A meta-regressão testa exatamente isso: ao ajustar pelo tamanho do componente, o efeito do tamanho tornou-se não significativo (OR 1,20; P = 0,12), e o benefício da dupla mobilidade permaneceu. A leitura, portanto, é que a proteção pertence ao conceito de dupla mobilidade, e não ao diâmetro. Ainda assim, sem ensaio randomizado dedicado, o rótulo correto é evidência favorável, não comprovação.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [4.1.1] Licença didática — como pesar metanálises que discordam
+
+**RESPOSTA · Amostra maior e ajuste por confundidor aumentam o peso da estimativa; a ausência de ensaio randomizado mantém o rótulo "favorável", não "provado".**
+
+| Critério de leitura | O que observar | Neste confronto (DM × cabeça ≥ 36 mm) |
+|---|---|---|
+| **Tamanho da amostra** | n maior → estimativa mais estável, intervalo de confiança mais estreito, menor peso do acaso | Ibrahim **133.474** quadris × Hoskins 12.511 × Sephton 5.004 |
+| **Ajuste por confundidor** | variável que pode gerar associação falsa; a meta-regressão verifica se o efeito persiste após removê-la | ajuste pelo tamanho do componente: moderador **não significativo** (OR 1,20; IC 0,88–1,67; P = 0,12) → benefício não explicado pelo diâmetro |
+| **Desenho do estudo** | ensaio randomizado > coorte > retrospectivo; a metanálise vale o que valem os estudos somados | 2 ensaios randomizados em 18 estudos (Ibrahim); nenhum dedicado a esta comparação |
+| **Consistência** | resultados concordantes reforçam; discordância exige cautela | discordante: Ibrahim a favor (significativo); Hoskins (OR 0,67; P = 0,06) e Sephton (OR 0,69; P = 0,11) sem diferença no desfecho duro |
+
+**Fontes:** Ibrahim 2025 · JBJS Rev · [PMID 41379986](https://pubmed.ncbi.nlm.nih.gov/41379986/) · Hoskins 2022 · Hip Int · [PMID 35438011](https://pubmed.ncbi.nlm.nih.gov/35438011/) · Sephton 2025 · J Arthroplasty · [PMID 39128780](https://pubmed.ncbi.nlm.nih.gov/39128780/)
+
+**Discussão.** Este slide é uma licença deliberada: interrompe a sequência de decisões técnicas para ensinar a plateia a ler o confronto que acabou de ver. A mensagem não é "o maior estudo vence", e sim que o peso de uma evidência se constrói: tamanho de amostra, ajuste dos confundidores, desenho e consistência entre estudos. O caso da dupla mobilidade × cabeça grande é didático porque reúne os quatro critérios num exemplo real — e porque a meta-regressão de Ibrahim responde à objeção mais natural do público ("não seria só o tamanho da cabeça?") com o instrumento estatístico correto. O fecho honesto preserva a Regra da evidência: mesmo a melhor metanálise disponível, sem ensaio randomizado, sustenta "favorável", não "provado".
+
+
+---
+
+## SLIDE S20 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -778,7 +816,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S20 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S21 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -815,7 +853,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S21 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S22 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -854,7 +892,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S22 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S23 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -944,7 +982,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S23 · O par tribológico altera o resultado?
+## SLIDE S24 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1003,7 +1041,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S24 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S25 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1051,7 +1089,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S25 · Síntese: o que altera o resultado?
+## SLIDE S26 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1640,13 +1678,14 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S15 → S16:** "Medidos os parâmetros na radiografia funcional, o paciente é estratificado pela classificação quadril-coluna."
 - **S16 → S17:** "Definido o grupo, examina-se o que a avaliação modifica na cirurgia."
 - **S17 → S18:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S18 → S19:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S19 → S20:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S20 → S21:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S21 → S22:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S22 → S23:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S23 → S24:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S24:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S18 → S19:** "Antes de seguir às demais decisões, uma leitura metodológica: por que a maior metanálise, ajustada pelo tamanho do componente, carrega mais peso que as demais."
+- **S19 → S20:** "Fixado o critério de leitura, retorna-se à decisão de diâmetro da cabeça femoral, válida para todos os pacientes: 36 mm."
+- **S20 → S21:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S21 → S22:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S22 → S23:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S23 → S24:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S24 → S25:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S25:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1661,8 +1700,9 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 7. S15 — esquema em pé × sentado mostrando os parâmetros do rastreio: ΔSS (mobilidade) e PI − LL (alinhamento) — Vigdorchik 2021 (BJJ) **[COMPLEXO — figura essencial]**
 8. S16 — **matriz 2×2 da classificação quadril-coluna** (eixos alinhamento × mobilidade → grupos 1A/1B/2A/2B, 2B em destaque) — Vigdorchik 2021 (BJJ) **[figura essencial]**
 9. S17 — alvo do índice sagital combinado (CSI) / anteversão funcional — Verhaegen 2025
-10. S22 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-11. S24 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+10. S23 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+11. S25 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+12. S19 — **gráfico de barras proporcionais ao tamanho de amostra** das metanálises (133.474 × 12.511 × 5.004 quadris) + esquema do que é "ajustar por confundidor" (meta-regressão pelo tamanho do componente) — Ibrahim 2025 (JBJS Rev) **[figura essencial — a própria tabela/gráfico do slide-licença]**
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
