@@ -329,7 +329,7 @@ Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso p
   *Taghavi · Arthroplasty · meta · 2026 · PMID 42547897*
 - Conduta: não adotar sem validação local
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Ainda não — acurácia superior sem validação de desfecho: +0,73 ponto no HHS, abaixo do MCID.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Ainda não — a acurácia melhora, mas sem validação de desfecho e restrita a um único país.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
