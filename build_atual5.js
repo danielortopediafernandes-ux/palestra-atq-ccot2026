@@ -14,8 +14,11 @@ const p = new pptxgen(); p.layout = "LAYOUT_WIDE";
 const bgDark = (s) => { s.background = { color: BG }; };
 const shadow = () => ({ type: "outer", color: "000000", opacity: 0.30, blur: 7, offset: 3, angle: 90 });
 const topbar = (sl) => sl.addShape(p.ShapeType.rect, { x: 0, y: 0, w: 13.33, h: 0.14, fill: { color: TEAL }, line: { type: "none" } });
-const rodape = (sl) => sl.addText("Dr. Daniel Araújo Fernandes · Planejamento pré-operatório em artroplastia total do quadril",
-  { x: 0.6, y: 7.13, w: 12.1, h: 0.28, color: MUT, fontSize: 9.5, fontFace: BF, align: "left", margin: 0 });
+const rodape = (sl) => {
+  sl.addText("Dr. Daniel Araújo Fernandes · Planejamento pré-operatório em artroplastia total do quadril",
+    { x: 0.6, y: 7.13, w: 9.6, h: 0.28, color: MUT, fontSize: 9.5, fontFace: BF, align: "left", margin: 0 });
+  sl.addText("XVI CCOT · 2026", { x: 10.2, y: 7.13, w: 2.5, h: 0.28, color: MUT, fontSize: 9.5, fontFace: BF, align: "right", margin: 0 });
+};
 let animSeq = 0;
 const markAnim = (o) => { animSeq++; return Object.assign({}, o, { objectName: "anim_" + animSeq }); };
 
@@ -58,25 +61,30 @@ function sources(sl, txt) {
 // ---------- S1 · CAPA + CONCEITO ----------
 (function () {
   const sl = p.addSlide(); bgDark(sl); topbar(sl);
-  sl.addText("ARTROPLASTIA TOTAL DO QUADRIL", { x: 0.62, y: 0.70, w: 12, h: 0.4, color: TEALB, bold: true, fontSize: 15, charSpacing: 2.5, fontFace: BF, margin: 0 });
-  sl.addText("Planejamento pré-operatório em artroplastia total do quadril", { x: 0.58, y: 1.12, w: 11.9, h: 1.7, color: INK, bold: true, fontSize: 42, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.03 });
-  sl.addText("o que altera o desfecho", { x: 0.62, y: 2.82, w: 11.4, h: 0.6, color: TEALB, bold: true, italic: true, fontSize: 26, fontFace: BF, margin: 0 });
+  // logo oficial do CCOT em selo branco (topo-direita)
+  sl.addShape(p.ShapeType.roundRect, { rectRadius: 0.08, fill: { color: "FFFFFF" }, line: { type: "none" }, shadow: shadow(), x: 9.95, y: 0.52, w: 2.85, h: 1.42 });
+  sl.addImage({ path: path.join(FIGDIR, "logo-ccot.png"), x: 10.12, y: 0.62, w: 2.51, h: 1.22, sizing: { type: "contain", w: 2.51, h: 1.22 } });
 
-  const cy = 3.74, cw = 5.86, ch = 1.62;
-  sl.addText([{ text: "ALVO TÉCNICO\n", options: { bold: true, color: INK, fontSize: 21, fontFace: HF } },
-    { text: "o que o cirurgião mede", options: { color: BODY, fontSize: 16, fontFace: BF } }],
+  sl.addText("MESA REDONDA · JORNADA DO QUADRIL", { x: 0.62, y: 0.72, w: 9, h: 0.4, color: TEALB, bold: true, fontSize: 15, charSpacing: 2.5, fontFace: BF, margin: 0 });
+  sl.addText("Planejamento pré-operatório em artroplastia total do quadril", { x: 0.58, y: 1.16, w: 9.1, h: 1.9, color: INK, bold: true, fontSize: 40, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.03 });
+  sl.addText("o que realmente muda o resultado", { x: 0.62, y: 3.02, w: 11.4, h: 0.6, color: TEALB, bold: true, italic: true, fontSize: 26, fontFace: BF, margin: 0 });
+
+  const cy = 3.78, cw = 5.86, ch = 1.46;
+  sl.addText([{ text: "ALVO TÉCNICO\n", options: { bold: true, color: INK, fontSize: 20, fontFace: HF } },
+    { text: "o que o cirurgião mede", options: { color: BODY, fontSize: 15.5, fontFace: BF } }],
     { shape: p.ShapeType.roundRect, rectRadius: 0.06, fill: { color: CARD }, line: { type: "none" }, shadow: shadow(), x: 0.6, y: cy, w: cw, h: ch, valign: "middle", align: "left", margin: [8, 16, 8, 16], lineSpacingMultiple: 1.1 });
-  sl.addText([{ text: "DESFECHO CLÍNICO\n", options: { bold: true, color: INK, fontSize: 21, fontFace: HF } },
-    { text: "o que o paciente vive: revisão · luxação · infecção · função", options: { color: INK, fontSize: 16, fontFace: BF } }],
+  sl.addText([{ text: "DESFECHO CLÍNICO\n", options: { bold: true, color: INK, fontSize: 20, fontFace: HF } },
+    { text: "o que o paciente vive: revisão · luxação · infecção · função", options: { color: INK, fontSize: 15.5, fontFace: BF } }],
     { shape: p.ShapeType.roundRect, rectRadius: 0.06, fill: { color: TEAL }, line: { type: "none" }, shadow: shadow(), x: 6.87, y: cy, w: cw, h: ch, valign: "middle", align: "left", margin: [8, 16, 8, 16], lineSpacingMultiple: 1.1 });
 
-  sl.addText([{ text: "Tese — ", options: { bold: true, color: TEALB, fontSize: 17, fontFace: BF } },
-    { text: "a tecnologia melhora o alvo técnico; o planejamento melhora o desfecho clínico.", options: { italic: true, color: BODY, fontSize: 17, fontFace: BF } }],
-    { x: 0.62, y: 5.55, w: 12.1, h: 0.6, align: "left", margin: 0, lineSpacingMultiple: 1.1 });
+  sl.addText([{ text: "Tese — ", options: { bold: true, color: TEALB, fontSize: 16, fontFace: BF } },
+    { text: "a tecnologia melhora o alvo técnico; o planejamento melhora o desfecho clínico.", options: { italic: true, color: BODY, fontSize: 16, fontFace: BF } }],
+    { x: 0.62, y: 5.42, w: 12.1, h: 0.5, align: "left", margin: 0, lineSpacingMultiple: 1.08 });
 
-  sl.addShape(p.ShapeType.line, { x: 0.64, y: 6.35, w: 3.0, h: 0, line: { color: TEAL, width: 2.5 } });
-  sl.addText("Dr. Daniel Araújo Fernandes", { x: 0.62, y: 6.5, w: 9, h: 0.4, color: INK, bold: true, fontSize: 17, fontFace: BF, margin: 0 });
-  sl.addText("Congresso [nome a confirmar] de Ortopedia e Traumatologia · 2026", { x: 0.62, y: 6.86, w: 11.5, h: 0.35, color: MUT, fontSize: 13, fontFace: BF, margin: 0 });
+  sl.addShape(p.ShapeType.line, { x: 0.64, y: 6.12, w: 3.0, h: 0, line: { color: TEAL, width: 2.5 } });
+  sl.addText("Dr. Daniel Araújo Fernandes", { x: 0.62, y: 6.26, w: 9, h: 0.4, color: INK, bold: true, fontSize: 18, fontFace: BF, margin: 0 });
+  sl.addText("XVI Congresso Catarinense de Ortopedia e Traumatologia", { x: 0.62, y: 6.66, w: 9.2, h: 0.32, color: BODY, fontSize: 13.5, fontFace: BF, margin: 0 });
+  sl.addText("Oceania Park Hotel · Florianópolis-SC · 21–22 de agosto de 2026", { x: 0.62, y: 6.96, w: 9.2, h: 0.3, color: MUT, fontSize: 12.5, fontFace: BF, margin: 0 });
 })();
 
 // ---------- helper topico ----------

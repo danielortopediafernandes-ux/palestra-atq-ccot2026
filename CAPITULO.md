@@ -1,6 +1,6 @@
 > ## ⚠️ PARA A SESSÃO DE SLIDES — LEIA ANTES DE QUALQUER SLIDE
 > Este documento é a **fonte única da verdade** — conteúdo E estrutura da apresentação consolidados (ordem do Dr., 18/08).
-> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o planejamento (Opção 3, 3 atos). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
+> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o esqueleto definido pelo Dr. (4 atos, 18/08). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
 > **Regras invioláveis:** registro científico FORMAL em todo texto (Regra #9, canonizada 18/08 — sem frase de efeito, coloquialismo ou primeira pessoa) · letras grandes · 1 ideia por slide · número em destaque · fonte no rodapé · figuras reais de artigo, nunca IA — **figuras são responsabilidade integral da sessão de slides**.
 > **Não alterar, resumir nem "melhorar" conteúdo** — dúvida volta ao Dr. Usar sempre o commit mais recente deste arquivo.
 
@@ -15,7 +15,7 @@ Documento-base da palestra — versão completa, com discussão e referências v
 
 Documento único da palestra — conteúdo e estrutura consolidados (decisão do Dr., 18/08/2026). Organização:
 
-- **PARTE I — A APRESENTAÇÃO:** os 18 slides do núcleo (3 atos) e os 6 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
+- **PARTE I — A APRESENTAÇÃO:** os 19 slides do núcleo (4 atos) e os 6 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
 - **APÊNDICE:** unidade auditada não incluída na apresentação (material de consulta).
 
 As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — as referências cruzadas entre unidades permanecem válidas. O material está completo, sem cortes: a sessão de conteúdo responde pela qualidade da informação e pela estrutura lógica; o tempo e a seleção final do que fica são decisão exclusiva do Dr., tomada somente ao final.
@@ -88,15 +88,16 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 ---
 
 
-# PARTE I — A APRESENTAÇÃO (Opção 3 · 3 atos)
+# PARTE I — A APRESENTAÇÃO (esqueleto do Dr., 18/08 · 4 atos)
 
-**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S5 pode ser incorporado a S4 (uma linha); S7 pode ser incorporado a S6 (rodapé). **Ordem sugerida de corte das reservas:** R6 → R5 → R4 → R3 → R2 → R1.
+**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S5 pode ser incorporado a S4 (uma linha); S7 pode ser incorporado a S6 (rodapé). **Ordem sugerida de corte das reservas:** R6 → R5 → R4 → R3 → R2 → R1. **O Ato 3 (otimização clínica e protocolo farmacológico) é, por indicação do Dr. (18/08), o primeiro candidato a corte integral — provavelmente não entrará na palestra.**
 
 | Ato | Slides |
 |---|---|
 | Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S1–S9 |
-| Ato 2 · Decisões com impacto no desfecho | S10–S16 |
-| Ato 3 · Síntese | S17–S18 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → pares tribológicos | S10–S14 |
+| Ato 3 · Otimização clínica e protocolo farmacológico (candidato a corte) | S15–S17 |
+| Ato 4 · Síntese | S18–S19 |
 
 ---
 
@@ -410,7 +411,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional da taça. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões de planejamento com impacto na luxação — diâmetro da cabeça femoral, dupla mobilidade nos grupos de risco e reparo capsular na via posterior — completam esta cadeia e são tratadas no segundo ato.
+A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional da taça. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões com impacto na luxação vêm imediatamente a seguir — dupla mobilidade nos grupos de risco, reparo capsular na via posterior e a revisão das restrições pós-operatórias; o diâmetro da cabeça femoral é tratado adiante, junto ao par tribológico.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -468,205 +469,9 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 ---
 
 
-# ATO 2 — DECISÕES DE PLANEJAMENTO COM IMPACTO DEMONSTRADO NO DESFECHO
+# ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S10 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- Cessação **6–8 semanas** antes: complicações **52% → 18%**
-- Ferida: **31% → 5%** (ensaio randomizado, Lancet)
-- Confirmação: infecção de ferida OR 0,37 (cessação ≥ 4 semanas)
-- Conduta: prescrever cessação · agendar após o intervalo
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-Em ensaio randomizado, a cessação do tabagismo iniciada 6 a 8 semanas antes da artroplastia reduziu as complicações de 52% para 18% e as complicações de ferida de 31% para 5%. Metanálise contemporânea com 417.767 pacientes confirma a direção do efeito (infecção de ferida OR 0,37 com cessação ≥ 4 semanas). Conduta: a cirurgia eletiva do fumante não se contraindica — reprograma-se: prescrever cessação assistida e agendar após o intervalo.
-
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [0.4] Posso operar o fumante? Que risco ele corre — e quanto recupero se ele parar?
-
-**RESPOSTA · Pode — e o que a evidência sustenta com firmeza no QUADRIL é ferida, revisão e mortalidade; a infecção é disputada. O dado que decide o planejamento: 6–8 semanas de cessação derrubam as complicações de 52% para 18% (ensaio randomizado).**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. O que NÃO está em disputa** | complicação da **ferida** — em todo estudo que a mediu, o fumante perde: **1,77** na meta de 3 milhões; **1,9% × 0,7%** (P = 0,045) na coorte espanhola de registro | Yue 2022 · meta de 40 estudos · 3.037.683 casos · [PMID 36406352](https://pubmed.ncbi.nlm.nih.gov/36406352/) · Gonzalez-Parreño 2024 · Orthop Traumatol Surg Res · 4.591 pac · [PMID 38582225](https://pubmed.ncbi.nlm.nih.gov/38582225/) |
-| **2. O que também se sustenta no quadril** | no maior registro nacional contemporâneo: **revisão por qualquer causa aHR 1,3** (IC 1,1–1,4) e **mortalidade aHR 1,4** (IC 1,3–1,6) | **Bongers 2024 · Acta Orthopaedica · registro holandês LROI · 272.640 pac (ATQ n = 140.336), seguimento > 2 anos · [PMID 38353549](https://pubmed.ncbi.nlm.nih.gov/38353549/)** |
-| ⚖️ **3. A infecção está EM DISPUTA — três estudos grandes, três respostas** | **a favor:** pareamento nacional japonês, infecção **OR 1,31** (IC 1,15–1,49) · **contra:** registro holandês, revisão **por infecção no quadril aHR 1,0** (IC 0,8–1,2) — não significativo (no joelho, 1,3) · **contra:** coorte espanhola, tabagismo **não** foi preditor na multivariada, OR 1,1 (IC 0,6–1,5) | Tanaka 2026 · Int Orthop · 105.102 pac · [PMID 41667730](https://pubmed.ncbi.nlm.nih.gov/41667730/) · Bongers 2024 · [PMID 38353549](https://pubmed.ncbi.nlm.nih.gov/38353549/) · Gonzalez-Parreño 2024 · [PMID 38582225](https://pubmed.ncbi.nlm.nih.gov/38582225/) |
-| ⚠️ **4. Por que a metanálise clássica não resolve a disputa** | fumante atual **OR 2,16** (IC 1,57–2,97) para infecção periprotética — mas ela **agrupa quadril e joelho sem separá-los**, e a divergência de 2024 é exatamente **entre** as duas articulações. A busca fechou em **janeiro de 2018** | Bedard 2018 · meta de 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · **sem sucessor: é a única metanálise de tabagismo × infecção periprotética indexada; a busca 2021–2026 não encontrou outra** |
-| **5. Parar reduz — isto é consistente** | infecção periprotética, comparado a quem **nunca** fumou: fumante atual **OR 2,16** · ex-fumante **OR 1,52** (IC 1,16–1,99); e o atual comparado ao **ex**-fumante: **OR 1,52** (IC 1,07–2,14) | Bedard 2018 · **sem sucessor: é a única metanálise de tabagismo × infecção periprotética indexada, e a busca 2021–2026 não encontrou outra** ⚠️ o intervalo do 1,52 quase toca 1 |
-| **6. Quanto se recupera parando** (nível 1) | cessação **6–8 semanas antes** (aconselhamento + reposição de nicotina): complicações **52% → 18%** (P = 0,0003) · **ferida 31% → 5%** (P = 0,001) · reoperação 15% → 4% | Møller 2002 · ensaio randomizado · Lancet · [PMID 11809253](https://pubmed.ncbi.nlm.nih.gov/11809253/) · **clássico: único nível 1 ligando cessação pré-operatória a complicação em artroplastia; a busca 2021–2026 não encontrou ensaio nem metanálise que o substitua** ⚠️ n analisado **108, não 120**; a intervenção aceitava cessação **ou** redução de 50%; taxa basal de 52% é de outra era cirúrgica |
-| **7. Confirmação moderna do efeito de parar** (fora da artroplastia) | cessação **≥ 4 semanas** antes × fumante contínuo: **infecção de ferida OR 0,37** (IC 0,16–0,89) | Xu 2021 · EClinicalMedicine · 122 estudos / 417.767 pac na revisão · [PMID 34765953](https://pubmed.ncbi.nlm.nih.gov/34765953/) — ⚠️ população de **fraturas**, não artroplastia eletiva |
-
-**CONDUTA:** a eletiva do fumante **não se veta — se agenda**: prescrever cessação (aconselhamento + reposição de nicotina) **6–8 semanas antes** e marcar a cirurgia depois desse intervalo; documentar. Ao informar o risco, ser preciso: o que a literatura sustenta de forma consistente no quadril é **complicação da ferida, revisão e mortalidade** — a infecção é disputada entre registros. O fumante que não para segue operável. *Nota prática (Florianópolis): o Hospital Universitário (HU-UFSC) mantém programa de cessação do tabagismo — encaminhar o paciente na consulta de indicação, alinhando o programa às 6–8 semanas do agendamento.*
-
-**Discussão.** Esta unidade serve como exemplo de **como a literatura funciona** — e por que "há um artigo que diz X" nunca encerra uma pergunta.
-
-*Posso operar?* Pode. Tabagismo não é contraindicação; é risco quantificado.
-
-*Qual risco, exatamente?* Aqui a resposta exige cuidado, porque **três estudos grandes e contemporâneos discordam sobre a infecção**. Um pareamento nacional japonês de 105 mil pacientes encontra OR 1,31. O registro holandês, com 272 mil pacientes e mais de dois anos de seguimento, encontra revisão por infecção **no quadril** com aHR 1,0 — literalmente nenhum efeito — enquanto no joelho encontra 1,3. Uma coorte espanhola de registro não acha o tabagismo como preditor na multivariada. E a metanálise que todos citam, de 2018, **não separa quadril de joelho** — que é justamente onde a divergência mora — e fechou a busca em janeiro de 2018.
-
-Isso não significa que os estudos sejam ruins nem que a resposta seja desconhecida. Significa que a literatura está fazendo o que ela faz: **quando o efeito é pequeno, ele aparece ou desaparece conforme a população, o ajuste e o desfecho medido**. Note que os três estudos nem medem a mesma coisa — o japonês mede *infecção*, o holandês mede *revisão por infecção* (um desfecho mais duro, que exige reoperação), e o espanhol mede *infecção periprotética diagnosticada*. Desfechos diferentes produzem números diferentes sem que ninguém esteja errado. A leitura madura é: se um efeito só aparece em parte dos estudos grandes, ele é **real porém pequeno** — não é o argumento em que se apoia uma conduta.
-
-*Então em que se apoiar?* No que **nenhum** estudo contesta. A complicação de ferida aparece em todos que a mediram. Revisão global e mortalidade aparecem no maior registro disponível. E, sobretudo, existe o dado de nível 1: o ensaio do Lancet randomizou fumantes 6–8 semanas antes da artroplastia e as complicações caíram de metade dos pacientes para um em cinco, com a ferida despencando de 31% para 5%. É de 2002 e tem limitações que precisam ser ditas — 108 pacientes analisados (não 120), intervenção que aceitava redução de 50% em vez de cessação completa, e uma taxa basal de complicação de 52% que pertence a outra era cirúrgica, de modo que o benefício **absoluto** hoje é certamente menor. Mas é o único ensaio randomizado que existe, e a metanálise de 417 mil pacientes de 2021 aponta na mesma direção fora da artroplastia (infecção de ferida OR 0,37 com ≥ 4 semanas de cessação). Poucas prescrições em ortopedia compram tanto desfecho quanto essas seis semanas de espera ativa — e, ao contrário da discussão sobre o tamanho do risco, essa parte não está em disputa.
-
-
----
-
-## SLIDE S11 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- Banho de clorexidina: infecção **OR 0,43** · nasal isolada: não significativa
-- HbA1c com corte de 7%: não prediz complicações
-- Glicemia perioperatória: limiar **137 mg/dL** · pico às 21 h
-- Conduta: clorexidina universal · protocolo glicêmico do dia da cirurgia
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico (OR 0,43; IC 0,29–0,64); a descolonização nasal isolada não alcança significância (OR 0,65). Quanto ao controle glicêmico, a HbA1c com corte de 7% não prediz complicações; o que se associa a infecção é a glicemia perioperatória, com limiar de melhor discriminação em 137 mg/dL e pico às 21 horas do dia operatório. Conduta: clorexidina universal; protocolo de controle glicêmico do dia da cirurgia, em vez de veto pela HbA1c.
-
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [0.1] Descolonização — pele (sabonete) e nasal
-
-> **⚠️ NOTA PARA A SESSÃO DE SLIDES:** decisão do Dr. Daniel em 2026-08-15 — **a descolonização de PELE (sabonete de clorexidina) VAI ao slide da palestra; a descolonização NASAL NÃO vai ao slide** (fica registrada aqui no documento como referência, sem evidência forte de alterar desfecho clínico do paciente).
-
----
-
-### PELE (sabonete de clorexidina) — VAI À PALESTRA
-
-**RESPOSTA · Sim — sabonete de clorexidina no pré-operatório reduz infecção de sítio cirúrgico.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| ICM 2025 · G4 · resposta oficial | *"**Yes.** The use of preoperative skin decolonization reduces the incidence of postoperative surgical site infections in patients undergoing major orthopaedic surgery"* · **Força: Moderada** · Votação: 79% concordam · 11% discordam · 10% abstenção | ICM 2025 · G4 (Ng, Bos, Hofstaetter, Palacio, Alzate, Yayac, Mont) · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_10273376285a4e658c0b8a7e258f00c9.pdf) |
-| Coorte prospectiva com clorexidina 2% (5 dias) + mupirocina no portador | SSI **0,19% × 0,45%** (P = 0,0093) — 7.338 pacientes | citado em G4 |
-| Coorte com toalhetes de clorexidina | SSI **1,1% × 3,8%** (P = 0,02) — 709 pacientes | citado em G4 |
-| Coorte 2 anos, ATQ eletiva (clorexidina + mupirocina intranasal) | **zero** SSI estafilocócica × 19 em 321 controles | citado em G4 (Rao) |
-| **Metanálise 2026 — e ela separa pele de nariz** | em pacientes ortopédicos: descolonização **de PELE OR 0,43 (IC 0,29–0,64)** · combinada OR 0,48 (0,33–0,69) · **NASAL isolada OR 0,65 (IC 0,34–1,22) — NÃO significativa**. Ou seja: o que a evidência de 2026 sustenta é exatamente a **pele** | **Henkelmann 2026 · Antimicrob Resist Infect Control · revisão sistemática + metanálise · 19 estudos, n = 64.796 (5 ensaios randomizados, 14 observacionais; 17 em artroplastia eletiva) · PROSPERO CRD420250642382 · [PMID 41652612](https://pubmed.ncbi.nlm.nih.gov/41652612/)** |
-| Meta anterior, 32 estudos | sem descolonização corporal universal: infecção **RR 1,70** (qualquer) e **RR 2,18** (por *S. aureus*) — universal sem rastreio é o mais custo-efetivo | Ribau 2020 · [PMID 32950342](https://pubmed.ncbi.nlm.nih.gov/32950342/) · **superado: a metanálise de 2026 responde à mesma pergunta com o dobro de estudos, avaliação formal de risco de viés e registro em PROSPERO** ⚠️ o Ribau reporta a dispersão como **± 0,16**, não como intervalo de confiança — reporte atípico que impede julgar precisão |
-| Superioridade da clorexidina × PVP-I (para PELE) | *"várias metanálises demonstraram a superioridade da clorexidina em reduzir a flora bacteriana em relação à povidona-iodada"* | citado em G4 |
-
-**CONDUTA:** **banho com sabonete de clorexidina 2%** no pré-operatório (a noite anterior e a manhã da cirurgia) para **todos** os pacientes de artroplastia eletiva. Universal (sem rastreio prévio) é o mais eficaz e o mais custo-efetivo.
-
-**Discussão (para o slide).** Intervenção simples, barata, endossada pelo consenso (ICM 2025 · Força Moderada · 79% dos delegados), com sinal consistente em coortes grandes (SSI cai à metade ou menos) e superioridade sobre a povidona-iodada demonstrada em metanálises para a **pele**. É a peça de "otimização clínica" da palestra que passa nos critérios de evidência.
-
----
-
-### NASAL (mupirocina / povidona-iodada) — NÃO ENTRA NA PALESTRA
-
-**Justificativa da exclusão:** decisão do Dr. Daniel de 2026-08-15, após auditoria dos documentos oficiais do ICM 2025 (G5 e G6) e dos ensaios primários. A evidência para descolonização **nasal** é **modesta e inconsistente** para desfecho clínico do paciente; o próprio consenso admite *"no concrete evidence"* e *"limited comparative data make it difficult to establish the superior nasal decolonization agent"*. Fica documentada aqui, sem entrar no slide.
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **Metanálise do próprio ICM (G5)** — 10 estudos, 55.816 pacientes | rastreio+descolonização de MRSA × controle: SSI 0,76% × 1,05%, **OR 0,62 (IC 0,32–1,22; P=0,17) — NÃO significativo**; heterogeneidade **I² = 93,2%**; 4/10 sem diferença, 5/10 a favor, 1/10 com risco aumentado (OR 4,26) | ICM 2025 · G5 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_83ca74b604ce4460a701ec9ca402ebb8.pdf) |
-| Recomendação G5 literal | *"There is **no concrete evidence** to support universal screening for MRSA (…) universal nasal decolonization (…) **preferably non-antibiotic antiseptic**"* · **Moderada** | ICM 2025 · G5 |
-| Recomendação G6 literal (agente) | *"While **mupirocin remains the guideline-recommended standard**, concerns over cost, resistance, and efficacy persist. **Povidone-iodine appears to be a cost-effective alternative with comparable outcomes**"* · **Moderada** · *"Limited comparative data make it difficult to establish the superior nasal decolonization agent"* | ICM 2025 · G6 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_0c5589058aa3410f9f49b0358a6939ee.pdf) |
-| Ensaio randomizado fundador (Kalmeijer) | duplo-cego contra placebo, 614 pacientes avaliáveis: **erradicação da colonização nasal 83,5% × 27,8%**; infecção endógena por *S. aureus* **0,3% × 1,7% (RR 0,19; IC 0,02–1,62) — NÃO significativa**. Conclusão literal: a mupirocina *"não reduziu a taxa de infecção de sítio cirúrgico nem o tempo de internação"* | Kalmeijer 2002 · Clin Infect Dis · [PMID 12145715](https://pubmed.ncbi.nlm.nih.gov/12145715/) · **clássico: ensaio randomizado fundador da mupirocina em ortopedia; o efeito atual está na linha seguinte** ⚠️ **correção 17/08/2026:** o capítulo trazia "16,5% × 78,2%" e "MSSA 1,6% × 2,7%" — o primeiro estava errado (o complemento de 27,8% é 72,2%) e o segundo **não consta do resumo** |
-| **O efeito atual da mupirocina (2026)** | contra placebo/nenhum tratamento: infecção de sítio cirúrgico por *S. aureus* **RR 0,67 (IC 0,49–0,91)** · colonização nasal **RR 0,22 (0,18–0,26)** · **sem** redução da infecção global, **exceto em cirurgia ortopédica: RR 0,80 (0,65–0,99)**. Efeitos maiores no uso dirigido a portadores confirmados e combinado com clorexidina | **Zhou 2026 · Int J Infect Dis · metanálise de 17 ensaios randomizados · 15.533 participantes · [PMID 41862082](https://pubmed.ncbi.nlm.nih.gov/41862082/)** |
-| Único ensaio randomizado agente × agente | infecção profunda por *S. aureus*: **5/855 (0,58%) × 1/842 (0,12%), P = 0,2** — não significativo; per-protocol 5/763 × 0/776 (P = 0,03) | Phillips 2014 · Infect Control Hosp Epidemiol · 1.697 cirurgias · [PMID 24915210](https://pubmed.ncbi.nlm.nih.gov/24915210/) · **sem sucessor: a metanálise de 17 ensaios de 2026 confirma que os dados comparativos entre agentes seguem escassos — ninguém repetiu este ensaio** ⚠️ é **intenção-de-tratar MODIFICADA**, aberto, os **dois** braços receberam clorexidina (compara agente nasal, não descolonização contra nada) e o único P significativo é per-protocol, com **1 evento** no braço da povidona |
-| Universal × seletiva (ambos com mupirocina) | SSI global 0,2% × 0,8% (P=0,013); *S. aureus* 0,09% × 0,5% (P=0,01) | Stambough 2017 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2016.09.041) |
-| PVP-I universal × mupirocina seletiva | **mesma taxa de infecção (0,8%)**, mupirocina mais cara | Torres 2016 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2015.09.030) |
-| Povidona-iodada — atividade curta | cultura positiva **às 4 h: 52% (povidona de prateleira) × 21% (antisséptico nasal 5%) × 59% (salina)**, P = 0,003; **às 24 h: 72% × 59% × 69% — sem diferença**. Aplicar 1–2 h antes da incisão | Rezapoor 2017 · J Arthroplasty · [PMID 28578841](https://pubmed.ncbi.nlm.nih.gov/28578841/) · **sem sucessor: nenhum ensaio 2021–2026 mediu atividade nasal da povidona às 4 h e 24 h em pacientes de artroplastia** ⚠️ randomizou 429, mas a análise de eficácia foi feita nos **95 (22,1%) com cultura positiva** para *S. aureus* — o n efetivo é **95, ~30 por braço**; o desfecho é **cultura, não infecção**; e a povidona "de prateleira" **não** superou a salina às 4 h (52% × 59%) |
-| Meta observacional | reduz PJI global e por *S. aureus*/MRSA (p<0,0001) — mas base observacional (**viés**) | Bianco Prevot 2024 · 56.930 pac · [PMID 39064238](https://pubmed.ncbi.nlm.nih.gov/39064238/) · [DOI](https://doi.org/10.3390/jcm13144197) |
-| Limitação da mupirocina | resistência ~10% (*S. aureus*) e ~15% (MRSA); recolonização >50% em 2–6 meses | Zampoli 2026 · [PMID 42205349](https://pubmed.ncbi.nlm.nih.gov/42205349/) · [DOI](https://doi.org/10.5194/jbji-11-299-2026) |
-| Discordância entre sociedades | CDC/OMS endossam mupirocina · ESCMID 2024 recomendação forte para mupirocina · **AAOS se abstém** de recomendar descolonização nasal (falta nível 1) | ICM G6 (referências); Righi 2024 · [DOI](https://doi.org/10.1016/j.cmi.2024.07.012) |
-| ⚠️ Antisséptico à base de álcool — não considerar | meta com autores contratados e financiamento do fabricante (Nozin/Global Life Technologies); produto não disponível no Brasil | Hoffmann 2024 · [PMID 38986954](https://pubmed.ncbi.nlm.nih.gov/38986954/) · réplica: [PMID 39547746](https://pubmed.ncbi.nlm.nih.gov/39547746/) |
-
-**Síntese (só para o documento):** a descolonização nasal é **endossada** pelo ICM 2025 (força moderada), **sem evidência forte** de alterar desfecho clínico em RCT (a própria meta do consenso deu P=0,17), com dois agentes principais (mupirocina e povidona-iodada) sem superioridade estabelecida entre si. **Por decisão do Dr. Daniel, não entra na palestra** — fica aqui documentada para consulta.
-
-## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
-
-**RESPOSTA · A glicemia perioperatória — alvo < 137 mg/dL. A hemoglobina glicada (HbA1c) com corte em 7% não prevê complicação.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. A HbA1c falha como veto** | os cortes de **7% e 7,5% NÃO se associaram a complicações** (1.119 pac.); na meta de 17 estudos, o subgrupo com corte em 7% também não (P = 0,50). **Confirmado em 2025, agora incluindo quadril:** HbA1c ≥ 7,7% não previu complicação em 90 dias — **OR 1,18 (IC 0,24–4,97; P = 0,83)** | **Tarabichi 2025 · J Arthroplasty · prospectivo multicêntrico · 1.020 pac (387 ATQ) · [PMID 40339933](https://pubmed.ncbi.nlm.nih.gov/40339933/) · [DOI](https://doi.org/10.1016/j.arth.2025.04.061)** · origem: Shohat 2019 (Insall Award — **casuística de joelho**) · [PMID 31256656](https://pubmed.ncbi.nlm.nih.gov/31256656/) · Shohat 2018 · [PMID 29605149](https://pubmed.ncbi.nlm.nih.gov/29605149/) |
-| **2. O que prevê: a glicemia pós-operatória** | o risco sobe de forma **contínua (linear)** a partir de 115 mg/dL — não há degrau seguro; **137 mg/dL** é o ponto de corte de **melhor discriminação** entre quem infecta e quem não (o gatilho do protocolo, não uma "glicemia ideal") · multivariada P = 0,028 | Kheir 2018 · JBJS · [PMID 30106824](https://pubmed.ncbi.nlm.nih.gov/30106824/) · [DOI](https://doi.org/10.2106/JBJS.17.01316) · **sem sucessor: busca 2021–2026 não encontrou estudo que refizesse o limiar glicêmico em artroplastia primária** |
-| ⚠️ **Limite do dado acima** | a associação vem de **13.196** artroplastias com seguimento ≥ 1 ano (não das 24.857 rastreadas); e **dentro do subgrupo diabético ela NÃO foi significativa (P = 0,276)** — o sinal é sobretudo do **não-diabético hiperglicêmico** (hiperglicemia de estresse) | Kheir 2018 · **sem sucessor: nenhum estudo posterior reanalisou este subgrupo em artroplastia primária** |
-| **3. Quando medir** | o pico glicêmico é **às 21 h do dia da cirurgia** — **65%** acima de 126 mg/dL (com o corte de 137 mg/dL são 56,4%); a coleta da manhã seguinte **subestima** | Varady 2019 · J Arthroplasty · 314 pac · [PMID 30704771](https://pubmed.ncbi.nlm.nih.gov/30704771/) · [DOI](https://doi.org/10.1016/j.arth.2019.01.004) · **sem sucessor: nenhum estudo de monitorização contínua de glicose em artroplastia desde 2021** |
-| **4. Marcador pré-operatório que prediz infecção** | **frutosamina > 293 µmol/L** → infecção periprotética **6,7×**; ajustado por idade, comorbidades e internação: **OR 6,37 (IC 1,98–20,49; P = 0,002)** · readmissão 16,7% × 4,4% (reflete as últimas 2–3 semanas e responde rápido ao tratamento) | **Shohat 2021 · Sci Rep · prospectivo multicêntrico (4 instituições) · 1.212 ATQ primárias · [PMID 33500515](https://pubmed.ncbi.nlm.nih.gov/33500515/) · [DOI](https://doi.org/10.1038/s41598-021-81803-6)** |
-| **5. Risco basal do diabético** | infecção periprotética **2,39% × 1,46%** do não-diabético — o rótulo "diabetes" segue pesando | Kheir 2018 · **sem sucessor: mesma coorte da linha 2, sem estudo posterior que refizesse a comparação diabético × não-diabético** |
-
-**CONDUTA:** não adiar a cirurgia por HbA1c isolada; **planejar o controle glicêmico perioperatório com alvo < 137 mg/dL**, medindo na noite do dia da cirurgia (21 h) — não apenas na manhã seguinte; onde disponível, frutosamina > 293 µmol/L é o marcador pré-operatório que de fato prediz infecção.
-
-**Discussão.** A mensagem é uma só e vale ser dita com clareza: **o retrato de 3 meses (HbA1c) não decide — o dia da cirurgia decide.** O corte sagrado de 7% falhou na metanálise, falhou no estudo premiado com o Insall Award — que é de **joelho**, e por isso não basta sozinho aqui — e voltou a falhar em 2025 num estudo prospectivo multicêntrico que **incluiu 387 quadris**, com HbA1c ≥ 7,7% sem qualquer poder preditivo (OR 1,18; IC 0,24–4,97). Enquanto isso, a glicemia pós-operatória mostra relação contínua com infecção já a partir de 115 mg/dL, mesmo em não-diabéticos (hiperglicemia de estresse). Atenção à leitura dos dois números: o **risco é contínuo** (quanto mais baixo, melhor, a partir de 115), mas **protocolo exige um gatilho único** — e 137 mg/dL é o corte que melhor separa quem infecta de quem não, como o 140/90 da hipertensão: risco contínuo, conduta binária. Para o planejamento, isso muda o gesto: em vez de vetar pelo laboratório de ontem, prescrever no plano cirúrgico o **protocolo de controle do dia** — meta, horário de medida e correção. A frutosamina, onde disponível, devolve ao pré-operatório um marcador que realmente prediz — e o número que vale aqui é o do **quadril** (Shohat 2021: infecção 6,7×, OR ajustado 6,37), não o 11,2× que circula e que é da casuística de joelho. Um cuidado de rigor, para não ser pego em debate: o mesmo estudo de 2025 que enterrou a HbA1c também não encontrou valor preditivo na frutosamina — mas ali o corte era **270** (não 293) e o desfecho era **complicação em 90 dias**, não infecção periprotética; os próprios autores registram que não conseguiram correlacionar seus marcadores com infecção. Não é, portanto, uma refutação do dado de Shohat: é outra pergunta. O que 2025 de fato acrescenta é um candidato novo — a **albumina glicada ≥ 17,1%**, único marcador que previu complicação em 90 dias naquele estudo (OR 4,8; IC 1,4–15,7) —, ainda sem dado próprio para infecção periprotética.
-
-
----
-
-## SLIDE S12 · Diâmetro e material da cabeça femoral: 36 mm em cerâmica, quando o diâmetro acetabular permite
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- Luxação: 36 mm **0,46%** × 32 mm **0,68%** (4 registros nacionais)
-- ≥ 40 mm: sem ganho · mais revisão e infecção
-- Cerâmica no jovem (HR 0,73 < 55 anos) · corrosão concentrada no cobalto-cromo
-- Conduta: **36 mm em cerâmica** · polietileno reticulado sempre
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-Quatro registros nacionais demonstram menor revisão por luxação com cabeça de 36 mm em comparação com 32 mm (0,46% versus 0,68%); a partir de 40 mm, o benefício cessa e a revisão e a infecção aumentam (0,82% versus 0,43%). A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, há equivalência com o metal. O risco de corrosão das cabeças ≥ 36 mm concentra-se no cobalto-cromo — as duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
-
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [4.3] Que tamanho de cabeça femoral planejar?
-
-**RESPOSTA · 36 mm quando a taça comporta — e o benefício tem TETO em 36: com 40 mm ou mais a luxação não cai e a revisão e a infecção sobem.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. Sair de 28 para 32 mm compra estabilidade** | 28 mm tem **mais revisão por luxação: HR 1,67** (IC 1,38–1,98) | Tsikandylakis 2018 · registro nórdico NARA · 186.231 ATQs · [PMID 30260863](https://pubmed.ncbi.nlm.nih.gov/30260863/) · **clássico: casuística que estabeleceu o piso de 32 mm; nenhum registro posterior contestou esta parte** |
-| ⚠️ **2. A parte deste estudo que NÃO se sustenta mais** | ele concluía que 36 × 32 mm não reduzia luxação (HR 0,85; não significativo) e custava mais revisão global (HR 1,14). **Quatro registros nacionais posteriores reverteram esta conclusão** (linhas 3–6) | Tsikandylakis 2018 · **superado: fica no texto de propósito, para mostrar qual conclusão mudou e por quê — é o eixo didático desta unidade** |
-| **3. Subir de 32 para 36 mm reduz luxação** | revisão por luxação **32 mm 0,68% × 36 mm 0,46%** (P < 0,001) | **Bender 2025 · J Arthroplasty · registro americano AJRR · 319.531 ATQs · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/)** |
-| **4. Confirmação — registro holandês** | revisão por luxação **1,4% (22–28 mm) → 0,9% (32 mm) → 0,6% (36 mm)** | van Steenbergen 2023 · registro LROI · 269.280 ATQs · [PMID 36935558](https://pubmed.ncbi.nlm.nih.gov/36935558/) |
-| **5. Confirmação — registro australiano** | 36 mm com menos luxação que 28 mm (**HR 0,33**; IC 0,16–0,68) e que 32 mm (**HR 0,44**; IC 0,22–0,88) | Hoskins 2022 · JBJS · registro AOANJRR · 188.591 ATQs · [PMID 35703140](https://pubmed.ncbi.nlm.nih.gov/35703140/) — ⚠️ valores da **errata** publicada; o subgrupo é o de taças < 51 mm |
-| **6. E não custa revisão** | subir de 32 para 36 mm **não** aumentou revisão, exceto no par metal-metal | English 2023 · registro neozelandês NZJR · 60.051 ATQs · [PMID 37932243](https://pubmed.ncbi.nlm.nih.gov/37932243/) |
-| ⛔ **7. O TETO: com ≥ 40 mm o benefício acaba e o dano começa** | luxação **não cai mais** (≥ 40 mm 0,51% × 36 mm 0,46%) · revisão por **qualquer causa** 2,78% (× 2,37% do 36 mm) · **infecção 0,82% × 0,53% (36 mm) × 0,43% (32 mm)** — P < 0,001 | Bender 2025 · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/) |
-| **8. Com polietileno reticulado, o tamanho não compromete a sobrevida — até 36 mm** | < 32 × 32 × > 32 mm: sem diferença de sobrevida | Allepuz 2014 · consórcio ICOR · 6 registros · 14.372 ATQs · [PMID 25520414](https://pubmed.ncbi.nlm.nih.gov/25520414/) — ⚠️ **restrito a 45–64 anos e a 5 anos de seguimento**, curto para desgaste; a categoria "> 32 mm" é agregada (IC 0,70–1,55) · **superado: a linha 7 mostra que, a partir de 40 mm, existe sinal de dano que esta categoria agregada não conseguia enxergar** |
-| **9. No paciente com fusão lombar** | cabeça ≥ 32 mm associada a menos luxação: 32 mm HR 0,71 · 36 mm HR 0,70 | Mononen 2020 · registro finlandês · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) — ⚠️ **não é possível provar pelo resumo que estes HR são do subgrupo com fusão** e não da coorte inteira; no mesmo estudo, **38 mm não foi significativo** (HR 0,81; P = 0,140) e **38 e 40 mm tiveram MAIS revisão** que 28 mm · **sem sucessor: nenhum registro posterior reanalisou tamanho de cabeça especificamente no subgrupo com fusão lombar** |
-| **10. Cabeça grande × dupla mobilidade** | revisão por luxação **sem diferença** entre dupla mobilidade e cabeça ≥ 36 mm; a dupla mobilidade vence só na taça < 58 mm (HR 0,55) | Hoskins 2021 · AOANJRR · 106.163 ATQs · [PMID 34088570](https://pubmed.ncbi.nlm.nih.gov/34088570/) |
-
-**CONDUTA:** planejar **36 mm sempre que o diâmetro da taça comportar** com polietileno reticulado de espessura adequada — e **não passar disso**: de 40 mm em diante não há ganho de estabilidade e há custo em revisão e infecção. Piso absoluto de 32 mm; nunca abaixo disso no paciente de risco de instabilidade. Lembrar a unidade 4.2: cabeça maior com liner neutro protege mais que cabeça menor com rebordo.
-
-**Discussão.** Esta unidade foi invertida pela auditoria de recência, e o motivo é instrutivo. Até 2018, o registro nórdico sustentava que 32 mm era o ponto ótimo: sair de 28 para 32 comprava estabilidade, mas ir a 36 não acrescentava nada e ainda custava revisão. Essa conclusão orientou uma geração de planejamentos — e **quatro registros nacionais publicados desde então a derrubaram**, todos na mesma direção: o americano com 319 mil casos, o holandês com 269 mil, o australiano com 188 mil e o neozelandês com 60 mil. O holandês é o mais didático porque mostra a escada inteira: 1,4% com 28 mm, 0,9% com 32, **0,6% com 36**. E o neozelandês responde à objeção que sustentava o 32: fora do par metal-metal, subir para 36 **não** custa revisão. O que o registro americano acrescenta, e que não existia no debate antigo, é o **teto** — e ele é a parte mais útil desta unidade para o planejamento. Passar de 36 para 40 mm não compra estabilidade adicional (0,51% × 0,46%), mas compra dois problemas: revisão por qualquer causa e, sobretudo, **infecção quase dobrada** (0,82% × 0,43% do 32 mm). A leitura honesta é que todos esses dados são de **registro observacional** — o tamanho da cabeça é escolha do cirurgião e correlaciona com tamanho de taça, sexo e via de acesso, e o estudo americano é restrito ao Medicare acima de 65 anos. Mas quando quatro registros independentes, em quatro países, com mais de 800 mil artroplastias somadas, apontam para o mesmo lado, a conclusão de 2018 não é mais defensável. A decisão de planejamento fica com um formato simples: **medir a taça no template e mirar 36 mm, com o teto em 36.**
-
-## [4.4] Que par tribológico? Polietileno reticulado sempre; cabeça cerâmica de preferência
-
-**RESPOSTA · Polietileno reticulado em todos — essa pergunta está encerrada. Cabeça de cerâmica no paciente JOVEM; acima de 55 anos, metal sobre reticulado é equivalente.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. Reticulado × convencional — pergunta encerrada** | revisão acumulada em **16 anos: 6,2% (IC 5,7–6,7) do reticulado × 11,7% (11,1–12,3) do convencional**; razão de risco **3,02 aos 9 anos** (P = 0,001) · 199.131 × 41.171 procedimentos | de Steiger 2018 · AOANJRR · JBJS · [PMID 30063590](https://pubmed.ncbi.nlm.nih.gov/30063590/) · **sem sucessor: o polietileno convencional saiu de uso, de modo que nenhum registro moderno tem braço de comparação — a pergunta está encerrada, não órfã** ⚠️ nível III observacional; quem recebeu reticulado era **mais jovem** (68,6/70,7 × 70,0/72,5 anos) e de época mais recente: confundimento por coorte temporal |
-| **2. Desgaste do reticulado no longo prazo** | 20 anos: **nenhuma revisão por desgaste**; taxa **0,02 mm/ano** | Wright 2024 · Mayo · 690 ATQs · [PMID 38964487](https://pubmed.ncbi.nlm.nih.gov/38964487/) |
-| **3. Quanto dura o par moderno — o número global** | **93,6% (IC 92,3–94,7) livres de revisão aos 20 ANOS**, em oito registros nacionais · ⚠️ os valores de 25 e 30 anos que circulam são **projeção por modelo, não seguimento** → **detalhado na unidade [4.4.1], que tem slide próprio** | **Pentland 2026 · Lancet · 1.904.237 ATQs · [PMID 41763743](https://pubmed.ncbi.nlm.nih.gov/41763743/)** |
-| **4. Cerâmica × metal — o maior dado disponível** | contra cabeça de cobalto-cromo sobre polietileno reticulado (implantes **modulares**): **cerâmica delta HR 0,79 (IC 0,73–0,85)** e **zircônio oxidado HR 0,65 (0,55–0,77)** para revisão por qualquer causa, em **todo** o período pós-operatório | **Whitehouse 2024 · PLoS Medicine · National Joint Registry · 1.026.481 ATQs, 20.869 revisões · [PMID 39509352](https://pubmed.ncbi.nlm.nih.gov/39509352/)** — ⚠️ observacional, com confundimento residual **declarado pelos autores**; e o resumo é **internamente inconsistente no braço monobloco** (afirma risco "menor" apresentando HR 1,18): usar **apenas** os números modulares |
-| ⚖️ **5. Mas o efeito depende da IDADE — e é isso que decide a conduta** | **abaixo de 55 anos** (registro americano, 101.313 ATQs): cerâmica-polietileno **HR 0,73 (0,64–0,84)** e metal cerametizado **HR 0,72 (0,59–0,87)** contra metal-polietileno — o título do artigo é literal: *"cabeças de cobalto-cromo têm desempenho inferior às de cerâmica e metal cerametizado na população mais jovem"*. **Acima de 55 anos** (registros nórdicos, 158.044): cerâmica-reticulado × metal-reticulado **HR 1,0 (0,9–1,0) — sem diferença** | Reddy 2025 · J Arthroplasty · AJRR · [PMID 40939940](https://pubmed.ncbi.nlm.nih.gov/40939940/) · Pakarinen 2024 · J Arthroplasty · NARA · [PMID 39173975](https://pubmed.ncbi.nlm.nih.gov/39173975/) — ⚠️ o registro americano tem cobertura nacional incompleta e seguimento mínimo de 1 ano |
-| **6. E a cerâmica-cerâmica?** | sobrevida em 10 anos **95,4% (95,0–95,9)** × 94,2% (94,0–94,5) do metal-reticulado — **HR 0,6 (0,5–0,6)**. Em termos absolutos: **1,2 ponto percentual em 10 anos** | Pakarinen 2024 · NARA · 158.044 ATQs · [PMID 39173975](https://pubmed.ncbi.nlm.nih.gov/39173975/) |
-| **7. O que a cerâmica evita — e o tamanho real desse problema** | revisão por reação a partículas metálicas (ARMD / corrosão do cone do colo): metal-reticulado **HR 3,4 (IC 1,9–6,0; P < 0,001)** contra cerâmica. ⚠️ desfecho **raro: 0,1% em 17 anos** — é motivo de preferência, não de alarme | de Steiger 2020 · AOANJRR · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: única análise de registro dedicada ao ARMD em pares modernos, com captura de quase 100%; a busca 2021–2026 não encontrou sucessor** |
-| 🎯 **8. A síntese que amarra [4.3] e [4.4]** | no **mesmo** estudo, cabeças **≥ 36 mm** tiveram **HR 3,2 (1,9–5,3)** de revisão por ARMD contra ≤ 32 mm — **mas** o risco esteve associado às cabeças de **cobalto-cromo** e a **duas hastes nominalmente identificadas**: **Accolade I (Stryker) — HR 8,3 (IC 4,7–14,7)** e **M/L Taper (Zimmer) — HR 14,4 (IC 6,0–34,6)**, ambas P < 0,001. Portanto isto **não** é argumento contra o 36 mm: é argumento a favor do **36 mm DE CERÂMICA** | de Steiger 2020 · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: mesma fonte da linha 7 — é a única análise de registro que estratifica o ARMD por tamanho de cabeça E por material** · fabricantes confirmados em: van den Hout 2018 (*"Accolade TMZF stem, Stryker Orthopedics, Mahwah, New Jersey"*) · [PMID 30352541](https://pubmed.ncbi.nlm.nih.gov/30352541/) · Hussey 2017 (*"M/L Taper… Zimmer, Inc, Warsaw, IN"*) · [PMID 28392135](https://pubmed.ncbi.nlm.nih.gov/28392135/) |
-| ⚠️ **8b. E o modo de falha dessa haste é catastrófico, não sutil** | análise de 10 hastes **Accolade I (Stryker)** recuperadas: todas com padrão destrutivo de desgaste do cone (*"bico de pássaro"*), levando a **6 dissociações e 4 fraturas do cone**, em média **8,9 anos** após a cirurgia. Todas em combinação com cabeça de **cobalto-cromo LFIT V40 ou MITCH de 36 mm ou mais**. Os autores propõem **revisão clínica e radiológica ativa** desses pacientes | Wylde 2020 · Hip Int · série de recuperação de implantes · [PMID 32323587](https://pubmed.ncbi.nlm.nih.gov/32323587/) · **sem sucessor: nenhuma análise de recuperação desta combinação específica foi publicada entre 2021 e 2026** — ⚠️ série de casos (n = 10), sem denominador: mostra o **mecanismo** e a gravidade, não a incidência |
-| **9. E o 36 mm de cerâmica desgasta mais?** | desgaste em 14 anos com reticulado + vitamina E: **0,01–0,10 mm totais** — remove a objeção clássica de que cabeça maior consome mais polietileno | Thoen 2025 · ensaio randomizado com radioestereometria · Bone Joint J · [PMID 41173047](https://pubmed.ncbi.nlm.nih.gov/41173047/) |
-| ⚖️ **10. Polietileno antioxidante (vitamina E) — sinal favorável, ainda não replicado** | registro australiano (198.073 ATQs, 35.309 com antioxidante): **sem diferença precoce**, mas **após 3 anos HR 0,64 (IC 0,48–0,84)**, ajustado 0,63; menos revisão por soltura, desgaste e fratura, **sem** diferença em luxação ou infecção. ⚖️ registro finlandês (5.430 ATQs): sobrevida em 7 anos **94% × 93%**, revisão por qualquer causa **HR 0,7 (IC 0,4–1,1) — sem diferença** | Lewis 2026 · Acta Orthop · AOANJRR · [PMID 41575536](https://pubmed.ncbi.nlm.nih.gov/41575536/) · Hemmilä 2021 · Acta Orthop · registro finlandês · [PMID 33517823](https://pubmed.ncbi.nlm.nih.gov/33517823/) — ⚠️ os próprios autores australianos declaram que a diferença **pode em parte decorrer dos componentes femorais ou acetabulares associados** (confundimento por geração de implante) |
-
-**CONDUTA:** polietileno **reticulado em toda ATQ** — o convencional não tem mais lugar. **Cabeça de cerâmica preferencialmente no paciente jovem/ativo**, onde o ganho é de 20 a 35% de redução relativa de revisão; **acima de 55 anos, metal sobre reticulado é equivalente** e a escolha pode ser por disponibilidade e custo. Quando o planejamento indicar cabeça de **36 mm** (unidade 4.3), preferir **cerâmica** — é exatamente ali que o risco de corrosão do cobalto-cromo se concentra. Polietileno antioxidante: sinal favorável num registro grande, sem replicação — ainda não é razão para trocar de implante.
-
-**Discussão.** Esta é a unidade em que a tecnologia **muda** desfecho — e é a exceção que confirma a régua da palestra, porque aqui a tecnologia é barata, invisível e definida por uma linha no planejamento, não por um equipamento na sala.
-
-A primeira metade está encerrada: o polietileno reticulado praticamente divide pela metade a revisão em dezesseis anos de registro australiano (6,2% × 11,7%), e a série de vinte anos da Mayo não registrou uma única revisão por desgaste. Vale notar **por que** essa pergunta não tem sucessor recente: o polietileno convencional saiu de uso, então nenhum registro moderno tem braço de comparação. É pergunta **encerrada**, não pergunta órfã — e essa distinção é a própria regra de recência aplicada.
-
-A segunda metade é mais fina do que o slogan "cerâmica sempre". O maior dado que existe — o registro inglês, com mais de um milhão de artroplastias — mostra a cabeça de cerâmica delta reduzindo a revisão por qualquer causa em **21%** (HR 0,79) e o zircônio oxidado em **35%** (HR 0,65). Mas quando se olha por faixa etária, aparece um padrão coerente: no registro americano restrito a **menores de 55 anos**, a vantagem da cerâmica é nítida (HR 0,73); nos registros nórdicos restritos a **maiores de 55 anos**, ela **desaparece** (HR 1,0). Isso não é contradição — é mecanismo. Desgaste e corrosão precisam de tempo e de carga para se expressar, e o paciente idoso frequentemente não vive nem solicita o implante o suficiente para que a diferença apareça. A conduta que decorre daí é mais precisa do que a preferência genérica: **cerâmica no jovem; no idoso, a escolha pode ser econômica.**
-
-Há ainda um encaixe elegante entre esta unidade e a do tamanho da cabeça. O mesmo estudo australiano que mostra a cerâmica protegendo contra a reação a partículas metálicas mostra também que cabeças de **36 mm ou mais** revisam mais por esse motivo — o que, lido apressadamente, pareceria contradizer a recomendação de 36 mm da unidade 4.3. Não contradiz: o risco estava associado a cabeças de **cobalto-cromo** e a duas hastes específicas. Lidas juntas, as duas unidades convergem numa única frase de planejamento — **36 mm, de cerâmica**.
-
-Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circular vem de uma metanálise do Lancet com quase dois milhões de artroplastias, e é um número excelente — mas os valores de 25 e 30 anos são **extrapolados por modelo estatístico, não observados**; o dado real é 93,6% em vinte anos. E o polietileno antioxidante, que o registro australiano associa a 37% menos revisão após três anos, não se confirmou no registro finlandês (HR 0,7; intervalo cruzando 1) — e os próprios autores australianos advertem que parte da diferença pode vir dos implantes de nova geração que acompanham o material. Sinal favorável não é o mesmo que resposta.
-
-
----
-
-## SLIDE S13 · Articulação de dupla mobilidade: indicação restrita aos grupos de risco
+## SLIDE S10 · Articulação de dupla mobilidade: indicação restrita aos grupos de risco
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -700,7 +505,73 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S14 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento
+## SLIDE S11 · Reparo capsular na via posterior: o maior efeito isolado sobre a luxação
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Luxação sem reparo capsular: **RR ≈ 8** (IC 4–17)
+- Com reparo: via posterior equivale às demais vias (1,01% × 0,70% × 0,43%)
+- Mecanismo medido: torque para luxar **9,12 × 2,73 N·m**
+- Conduta: reparo capsular sistemático em toda via posterior
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Sem reparo capsular, a via posterior apresenta risco de luxação aproximadamente 8 vezes maior (IC 4–17); com o reparo, iguala-se às demais vias (1,01% versus 0,70% e 0,43%). O estudo biomecânico quantifica o mecanismo: o torque necessário para luxar mais que triplica com o reparo. É a continuação direta da cadeia da instabilidade: depois do alvo funcional e da seleção do construto, o gesto técnico dentro da cirurgia. Conduta: reparo capsular sistemático em toda via posterior.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [4.6] Via posterior: reparo capsular?
+
+**RESPOSTA · Sim, sistematicamente.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. Luxação sem reparo capsular** | **RR ~8 (IC 4,05–16,67)** × com reparo — em termos absolutos, luxação **0,49% com reparo × 4,46% sem**. Na segunda revisão do mesmo trabalho, a via posterior **com** reparo (1,01%) equipara-se à anterolateral (0,70%) e à lateral direta (0,43%) | Kwon 2006 · CORR · metanálise de 5 estudos comparativos · [PMID 16741471](https://pubmed.ncbi.nlm.nih.gov/16741471/) · **clássico: é a única fonte com efeito agrupado para esta pergunta e, 20 anos depois, ainda não há ensaio randomizado; a busca 2021–2026 não encontrou sucessor quantitativo** ⚠️ **intervalo muito largo — apresentar como "cerca de 8×, IC 4 a 17", nunca o 8,21 nu**; nenhum dos 5 estudos é randomizado e os controles são majoritariamente **históricos**, o que infla o efeito |
+| **2. Confirmação contemporânea — qualitativa, não numérica** | revisão de escopo de 13 estudos: preservar/reparar os rotadores externos reduz luxação, e o reparo **tendão-osso** é a técnica mais eficaz. ⚠️ **não produz risco relativo, razão de chance nem razão de risco agrupados** — confirma a direção, não fornece número | Díaz-Ponte 2025 · J Orthop Surg Res · [PMID 40660262](https://pubmed.ncbi.nlm.nih.gov/40660262/) |
+| **3. O mecanismo, medido** | torque necessário para luxar: **9,12 N·m com reparo × 2,73 N·m sem** (P = 0,004); reparo transósseo aumenta **4,41×** (P = 0,04) e a sutura direta 2,47× (P = 0,03), com diferença entre as técnicas (P = 0,016) | Cherry 2025 · Int Orthop · estudo **cadavérico**, 10 quadris · [PMID 40715845](https://pubmed.ncbi.nlm.nih.gov/40715845/) — ⚠️ é biomecânica em cadáver, não desfecho clínico |
+
+**CONDUTA:** reparo capsular em toda via posterior.
+
+**Discussão.** Um dos maiores efeitos de toda a palestra — oito vezes mais luxação sem o reparo — obtido com fio e agulha, custo zero e minutos de cirurgia. É o exemplo puro da tese: o desfecho responde ao gesto simples planejado, não ao equipamento.
+
+
+---
+
+## SLIDE S12 · Restrições pós-operatórias na via posterior: sem benefício quando há reparo capsular
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Ensaio randomizado, 1.133 pacientes: luxação **0,88%** — sem diferença restrito × livre
+- Função (HOOS JR): **melhor no grupo livre** (6 semanas e 3–6 meses)
+- GRADE, 8.835 pacientes: evidência não sustenta restrições de rotina
+- Conduta: com reparo capsular, sem restrições rígidas de rotina
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Realizado o reparo capsular, as restrições pós-operatórias não reduzem a luxação: no ensaio randomizado com 1.133 pacientes, a luxação global foi de 0,88%, sem diferença entre o grupo restrito e o grupo livre (OR 0,60; P = 0,55) — e a função foi melhor no grupo livre nas primeiras semanas. A metanálise de ensaios randomizados e a avaliação GRADE com 8.835 pacientes confirmam a ausência de benefício. Conduta: na via posterior com reparo capsular, não prescrever restrições rígidas de rotina; reservar precauções ao paciente de risco individualizado.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [9.2] Restrições pós-operatórias na via posterior: ainda se justificam?
+
+**RESPOSTA · Com reparo capsular, não — as restrições não reduzem luxação e atrasam a recuperação.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| Ensaio randomizado (com reparo capsular) | 1.133 pacientes: luxação **0,88%** no total — restrito 6 × livre 4 (OR 0,60; P = 0,55); função (HOOS JR) **melhor no grupo livre** em 6 semanas e 3–6 meses | Yadav 2026 · RCT · J Arthroplasty · [PMID 42055222](https://pubmed.ncbi.nlm.nih.gov/42055222/) · [DOI](https://doi.org/10.1016/j.arth.2026.04.080) |
+| Meta de ensaios randomizados | sem diferença de luxação; **sem restrição**: função melhor e abandono mais precoce dos auxiliares de marcha | Guo 2024 · meta 3 RCTs · 1.215 pac · [PMID 39686472](https://pubmed.ncbi.nlm.nih.gov/39686472/) · [DOI](https://doi.org/10.1097/MD.0000000000040348) |
+| Avaliação GRADE | 8.835 pacientes: sem diferença de luxação precoce (RCTs RR 1,8, IC amplo; NRS RR 0,9) — evidência **não sustenta prescrever restrições de rotina** | Korfitsen 2023 · Acta Orthop · [PMID 37039064](https://pubmed.ncbi.nlm.nih.gov/37039064/) · [DOI](https://doi.org/10.2340/17453674.2023.11958) |
+
+**CONDUTA:** na via posterior **com reparo capsular** (unidade 4.6), não prescrever restrições rígidas de rotina — liberar o movimento conforme conforto; reservar precauções para o paciente de risco individualizado.
+
+**Discussão.** O fecho da palestra em uma unidade: o dogma (restringir todo mundo por 6 semanas) não previne o desfecho — quem o previne é a decisão tomada **dentro** da cirurgia (o reparo capsular, RR 8,21) e **antes** dela (alvo funcional, construto certo). As restrições universais só entregam o custo: função pior, mais ansiedade, recuperação mais lenta. É a tese inteira em miniatura — o resultado não vem da cautela genérica; vem do planejamento específico.
+
+---
+
+
+---
+
+## SLIDE S13 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -784,55 +655,206 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S15 · Reparo capsular na via posterior e a ausência de benefício das restrições pós-operatórias
+## SLIDE S14 · Diâmetro e material da cabeça femoral: 36 mm em cerâmica, quando o diâmetro acetabular permite
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Luxação sem reparo capsular: **RR ≈ 8** (IC 4–17)
-- Com reparo: via posterior equivale às demais vias
-- Restrições pós-operatórias: sem redução de luxação · pior função (RCT)
-- Conduta: reparo sistemático · sem restrições de rotina
+- Luxação: 36 mm **0,46%** × 32 mm **0,68%** (4 registros nacionais)
+- ≥ 40 mm: sem ganho · mais revisão e infecção
+- Cerâmica no jovem (HR 0,73 < 55 anos) · corrosão concentrada no cobalto-cromo
+- Conduta: **36 mm em cerâmica** · polietileno reticulado sempre
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Sem reparo capsular, a via posterior apresenta risco de luxação aproximadamente 8 vezes maior (IC 4–17); com o reparo, iguala-se às demais vias (1,01% versus 0,70% e 0,43%). Ensaio randomizado com 1.133 pacientes demonstrou que, realizado o reparo, as restrições pós-operatórias não reduzem a luxação (0,88% global) e resultam em pior função. Conduta: reparo capsular sistemático; sem restrições de rotina.
+Quatro registros nacionais demonstram menor revisão por luxação com cabeça de 36 mm em comparação com 32 mm (0,46% versus 0,68%); a partir de 40 mm, o benefício cessa e a revisão e a infecção aumentam (0,82% versus 0,43%). A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, há equivalência com o metal. O risco de corrosão das cabeças ≥ 36 mm concentra-se no cobalto-cromo — as duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
-## [4.6] Via posterior: reparo capsular?
+## [4.3] Que tamanho de cabeça femoral planejar?
 
-**RESPOSTA · Sim, sistematicamente.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. Luxação sem reparo capsular** | **RR ~8 (IC 4,05–16,67)** × com reparo — em termos absolutos, luxação **0,49% com reparo × 4,46% sem**. Na segunda revisão do mesmo trabalho, a via posterior **com** reparo (1,01%) equipara-se à anterolateral (0,70%) e à lateral direta (0,43%) | Kwon 2006 · CORR · metanálise de 5 estudos comparativos · [PMID 16741471](https://pubmed.ncbi.nlm.nih.gov/16741471/) · **clássico: é a única fonte com efeito agrupado para esta pergunta e, 20 anos depois, ainda não há ensaio randomizado; a busca 2021–2026 não encontrou sucessor quantitativo** ⚠️ **intervalo muito largo — apresentar como "cerca de 8×, IC 4 a 17", nunca o 8,21 nu**; nenhum dos 5 estudos é randomizado e os controles são majoritariamente **históricos**, o que infla o efeito |
-| **2. Confirmação contemporânea — qualitativa, não numérica** | revisão de escopo de 13 estudos: preservar/reparar os rotadores externos reduz luxação, e o reparo **tendão-osso** é a técnica mais eficaz. ⚠️ **não produz risco relativo, razão de chance nem razão de risco agrupados** — confirma a direção, não fornece número | Díaz-Ponte 2025 · J Orthop Surg Res · [PMID 40660262](https://pubmed.ncbi.nlm.nih.gov/40660262/) |
-| **3. O mecanismo, medido** | torque necessário para luxar: **9,12 N·m com reparo × 2,73 N·m sem** (P = 0,004); reparo transósseo aumenta **4,41×** (P = 0,04) e a sutura direta 2,47× (P = 0,03), com diferença entre as técnicas (P = 0,016) | Cherry 2025 · Int Orthop · estudo **cadavérico**, 10 quadris · [PMID 40715845](https://pubmed.ncbi.nlm.nih.gov/40715845/) — ⚠️ é biomecânica em cadáver, não desfecho clínico |
-
-**CONDUTA:** reparo capsular em toda via posterior.
-
-**Discussão.** Um dos maiores efeitos de toda a palestra — oito vezes mais luxação sem o reparo — obtido com fio e agulha, custo zero e minutos de cirurgia. É o exemplo puro da tese: o desfecho responde ao gesto simples planejado, não ao equipamento.
-
-## [9.2] Restrições pós-operatórias na via posterior: ainda se justificam?
-
-**RESPOSTA · Com reparo capsular, não — as restrições não reduzem luxação e atrasam a recuperação.**
+**RESPOSTA · 36 mm quando a taça comporta — e o benefício tem TETO em 36: com 40 mm ou mais a luxação não cai e a revisão e a infecção sobem.**
 
 | Evidência | Número | Fonte |
 |---|---|---|
-| Ensaio randomizado (com reparo capsular) | 1.133 pacientes: luxação **0,88%** no total — restrito 6 × livre 4 (OR 0,60; P = 0,55); função (HOOS JR) **melhor no grupo livre** em 6 semanas e 3–6 meses | Yadav 2026 · RCT · J Arthroplasty · [PMID 42055222](https://pubmed.ncbi.nlm.nih.gov/42055222/) · [DOI](https://doi.org/10.1016/j.arth.2026.04.080) |
-| Meta de ensaios randomizados | sem diferença de luxação; **sem restrição**: função melhor e abandono mais precoce dos auxiliares de marcha | Guo 2024 · meta 3 RCTs · 1.215 pac · [PMID 39686472](https://pubmed.ncbi.nlm.nih.gov/39686472/) · [DOI](https://doi.org/10.1097/MD.0000000000040348) |
-| Avaliação GRADE | 8.835 pacientes: sem diferença de luxação precoce (RCTs RR 1,8, IC amplo; NRS RR 0,9) — evidência **não sustenta prescrever restrições de rotina** | Korfitsen 2023 · Acta Orthop · [PMID 37039064](https://pubmed.ncbi.nlm.nih.gov/37039064/) · [DOI](https://doi.org/10.2340/17453674.2023.11958) |
+| **1. Sair de 28 para 32 mm compra estabilidade** | 28 mm tem **mais revisão por luxação: HR 1,67** (IC 1,38–1,98) | Tsikandylakis 2018 · registro nórdico NARA · 186.231 ATQs · [PMID 30260863](https://pubmed.ncbi.nlm.nih.gov/30260863/) · **clássico: casuística que estabeleceu o piso de 32 mm; nenhum registro posterior contestou esta parte** |
+| ⚠️ **2. A parte deste estudo que NÃO se sustenta mais** | ele concluía que 36 × 32 mm não reduzia luxação (HR 0,85; não significativo) e custava mais revisão global (HR 1,14). **Quatro registros nacionais posteriores reverteram esta conclusão** (linhas 3–6) | Tsikandylakis 2018 · **superado: fica no texto de propósito, para mostrar qual conclusão mudou e por quê — é o eixo didático desta unidade** |
+| **3. Subir de 32 para 36 mm reduz luxação** | revisão por luxação **32 mm 0,68% × 36 mm 0,46%** (P < 0,001) | **Bender 2025 · J Arthroplasty · registro americano AJRR · 319.531 ATQs · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/)** |
+| **4. Confirmação — registro holandês** | revisão por luxação **1,4% (22–28 mm) → 0,9% (32 mm) → 0,6% (36 mm)** | van Steenbergen 2023 · registro LROI · 269.280 ATQs · [PMID 36935558](https://pubmed.ncbi.nlm.nih.gov/36935558/) |
+| **5. Confirmação — registro australiano** | 36 mm com menos luxação que 28 mm (**HR 0,33**; IC 0,16–0,68) e que 32 mm (**HR 0,44**; IC 0,22–0,88) | Hoskins 2022 · JBJS · registro AOANJRR · 188.591 ATQs · [PMID 35703140](https://pubmed.ncbi.nlm.nih.gov/35703140/) — ⚠️ valores da **errata** publicada; o subgrupo é o de taças < 51 mm |
+| **6. E não custa revisão** | subir de 32 para 36 mm **não** aumentou revisão, exceto no par metal-metal | English 2023 · registro neozelandês NZJR · 60.051 ATQs · [PMID 37932243](https://pubmed.ncbi.nlm.nih.gov/37932243/) |
+| ⛔ **7. O TETO: com ≥ 40 mm o benefício acaba e o dano começa** | luxação **não cai mais** (≥ 40 mm 0,51% × 36 mm 0,46%) · revisão por **qualquer causa** 2,78% (× 2,37% do 36 mm) · **infecção 0,82% × 0,53% (36 mm) × 0,43% (32 mm)** — P < 0,001 | Bender 2025 · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/) |
+| **8. Com polietileno reticulado, o tamanho não compromete a sobrevida — até 36 mm** | < 32 × 32 × > 32 mm: sem diferença de sobrevida | Allepuz 2014 · consórcio ICOR · 6 registros · 14.372 ATQs · [PMID 25520414](https://pubmed.ncbi.nlm.nih.gov/25520414/) — ⚠️ **restrito a 45–64 anos e a 5 anos de seguimento**, curto para desgaste; a categoria "> 32 mm" é agregada (IC 0,70–1,55) · **superado: a linha 7 mostra que, a partir de 40 mm, existe sinal de dano que esta categoria agregada não conseguia enxergar** |
+| **9. No paciente com fusão lombar** | cabeça ≥ 32 mm associada a menos luxação: 32 mm HR 0,71 · 36 mm HR 0,70 | Mononen 2020 · registro finlandês · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) — ⚠️ **não é possível provar pelo resumo que estes HR são do subgrupo com fusão** e não da coorte inteira; no mesmo estudo, **38 mm não foi significativo** (HR 0,81; P = 0,140) e **38 e 40 mm tiveram MAIS revisão** que 28 mm · **sem sucessor: nenhum registro posterior reanalisou tamanho de cabeça especificamente no subgrupo com fusão lombar** |
+| **10. Cabeça grande × dupla mobilidade** | revisão por luxação **sem diferença** entre dupla mobilidade e cabeça ≥ 36 mm; a dupla mobilidade vence só na taça < 58 mm (HR 0,55) | Hoskins 2021 · AOANJRR · 106.163 ATQs · [PMID 34088570](https://pubmed.ncbi.nlm.nih.gov/34088570/) |
 
-**CONDUTA:** na via posterior **com reparo capsular** (unidade 4.6), não prescrever restrições rígidas de rotina — liberar o movimento conforme conforto; reservar precauções para o paciente de risco individualizado.
+**CONDUTA:** planejar **36 mm sempre que o diâmetro da taça comportar** com polietileno reticulado de espessura adequada — e **não passar disso**: de 40 mm em diante não há ganho de estabilidade e há custo em revisão e infecção. Piso absoluto de 32 mm; nunca abaixo disso no paciente de risco de instabilidade. Lembrar a unidade 4.2: cabeça maior com liner neutro protege mais que cabeça menor com rebordo.
 
-**Discussão.** O fecho da palestra em uma unidade: o dogma (restringir todo mundo por 6 semanas) não previne o desfecho — quem o previne é a decisão tomada **dentro** da cirurgia (o reparo capsular, RR 8,21) e **antes** dela (alvo funcional, construto certo). As restrições universais só entregam o custo: função pior, mais ansiedade, recuperação mais lenta. É a tese inteira em miniatura — o resultado não vem da cautela genérica; vem do planejamento específico.
+**Discussão.** Esta unidade foi invertida pela auditoria de recência, e o motivo é instrutivo. Até 2018, o registro nórdico sustentava que 32 mm era o ponto ótimo: sair de 28 para 32 comprava estabilidade, mas ir a 36 não acrescentava nada e ainda custava revisão. Essa conclusão orientou uma geração de planejamentos — e **quatro registros nacionais publicados desde então a derrubaram**, todos na mesma direção: o americano com 319 mil casos, o holandês com 269 mil, o australiano com 188 mil e o neozelandês com 60 mil. O holandês é o mais didático porque mostra a escada inteira: 1,4% com 28 mm, 0,9% com 32, **0,6% com 36**. E o neozelandês responde à objeção que sustentava o 32: fora do par metal-metal, subir para 36 **não** custa revisão. O que o registro americano acrescenta, e que não existia no debate antigo, é o **teto** — e ele é a parte mais útil desta unidade para o planejamento. Passar de 36 para 40 mm não compra estabilidade adicional (0,51% × 0,46%), mas compra dois problemas: revisão por qualquer causa e, sobretudo, **infecção quase dobrada** (0,82% × 0,43% do 32 mm). A leitura honesta é que todos esses dados são de **registro observacional** — o tamanho da cabeça é escolha do cirurgião e correlaciona com tamanho de taça, sexo e via de acesso, e o estudo americano é restrito ao Medicare acima de 65 anos. Mas quando quatro registros independentes, em quatro países, com mais de 800 mil artroplastias somadas, apontam para o mesmo lado, a conclusão de 2018 não é mais defensável. A decisão de planejamento fica com um formato simples: **medir a taça no template e mirar 36 mm, com o teto em 36.**
+
+## [4.4] Que par tribológico? Polietileno reticulado sempre; cabeça cerâmica de preferência
+
+**RESPOSTA · Polietileno reticulado em todos — essa pergunta está encerrada. Cabeça de cerâmica no paciente JOVEM; acima de 55 anos, metal sobre reticulado é equivalente.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. Reticulado × convencional — pergunta encerrada** | revisão acumulada em **16 anos: 6,2% (IC 5,7–6,7) do reticulado × 11,7% (11,1–12,3) do convencional**; razão de risco **3,02 aos 9 anos** (P = 0,001) · 199.131 × 41.171 procedimentos | de Steiger 2018 · AOANJRR · JBJS · [PMID 30063590](https://pubmed.ncbi.nlm.nih.gov/30063590/) · **sem sucessor: o polietileno convencional saiu de uso, de modo que nenhum registro moderno tem braço de comparação — a pergunta está encerrada, não órfã** ⚠️ nível III observacional; quem recebeu reticulado era **mais jovem** (68,6/70,7 × 70,0/72,5 anos) e de época mais recente: confundimento por coorte temporal |
+| **2. Desgaste do reticulado no longo prazo** | 20 anos: **nenhuma revisão por desgaste**; taxa **0,02 mm/ano** | Wright 2024 · Mayo · 690 ATQs · [PMID 38964487](https://pubmed.ncbi.nlm.nih.gov/38964487/) |
+| **3. Quanto dura o par moderno — o número global** | **93,6% (IC 92,3–94,7) livres de revisão aos 20 ANOS**, em oito registros nacionais · ⚠️ os valores de 25 e 30 anos que circulam são **projeção por modelo, não seguimento** → **detalhado na unidade [4.4.1], que tem slide próprio** | **Pentland 2026 · Lancet · 1.904.237 ATQs · [PMID 41763743](https://pubmed.ncbi.nlm.nih.gov/41763743/)** |
+| **4. Cerâmica × metal — o maior dado disponível** | contra cabeça de cobalto-cromo sobre polietileno reticulado (implantes **modulares**): **cerâmica delta HR 0,79 (IC 0,73–0,85)** e **zircônio oxidado HR 0,65 (0,55–0,77)** para revisão por qualquer causa, em **todo** o período pós-operatório | **Whitehouse 2024 · PLoS Medicine · National Joint Registry · 1.026.481 ATQs, 20.869 revisões · [PMID 39509352](https://pubmed.ncbi.nlm.nih.gov/39509352/)** — ⚠️ observacional, com confundimento residual **declarado pelos autores**; e o resumo é **internamente inconsistente no braço monobloco** (afirma risco "menor" apresentando HR 1,18): usar **apenas** os números modulares |
+| ⚖️ **5. Mas o efeito depende da IDADE — e é isso que decide a conduta** | **abaixo de 55 anos** (registro americano, 101.313 ATQs): cerâmica-polietileno **HR 0,73 (0,64–0,84)** e metal cerametizado **HR 0,72 (0,59–0,87)** contra metal-polietileno — o título do artigo é literal: *"cabeças de cobalto-cromo têm desempenho inferior às de cerâmica e metal cerametizado na população mais jovem"*. **Acima de 55 anos** (registros nórdicos, 158.044): cerâmica-reticulado × metal-reticulado **HR 1,0 (0,9–1,0) — sem diferença** | Reddy 2025 · J Arthroplasty · AJRR · [PMID 40939940](https://pubmed.ncbi.nlm.nih.gov/40939940/) · Pakarinen 2024 · J Arthroplasty · NARA · [PMID 39173975](https://pubmed.ncbi.nlm.nih.gov/39173975/) — ⚠️ o registro americano tem cobertura nacional incompleta e seguimento mínimo de 1 ano |
+| **6. E a cerâmica-cerâmica?** | sobrevida em 10 anos **95,4% (95,0–95,9)** × 94,2% (94,0–94,5) do metal-reticulado — **HR 0,6 (0,5–0,6)**. Em termos absolutos: **1,2 ponto percentual em 10 anos** | Pakarinen 2024 · NARA · 158.044 ATQs · [PMID 39173975](https://pubmed.ncbi.nlm.nih.gov/39173975/) |
+| **7. O que a cerâmica evita — e o tamanho real desse problema** | revisão por reação a partículas metálicas (ARMD / corrosão do cone do colo): metal-reticulado **HR 3,4 (IC 1,9–6,0; P < 0,001)** contra cerâmica. ⚠️ desfecho **raro: 0,1% em 17 anos** — é motivo de preferência, não de alarme | de Steiger 2020 · AOANJRR · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: única análise de registro dedicada ao ARMD em pares modernos, com captura de quase 100%; a busca 2021–2026 não encontrou sucessor** |
+| 🎯 **8. A síntese que amarra [4.3] e [4.4]** | no **mesmo** estudo, cabeças **≥ 36 mm** tiveram **HR 3,2 (1,9–5,3)** de revisão por ARMD contra ≤ 32 mm — **mas** o risco esteve associado às cabeças de **cobalto-cromo** e a **duas hastes nominalmente identificadas**: **Accolade I (Stryker) — HR 8,3 (IC 4,7–14,7)** e **M/L Taper (Zimmer) — HR 14,4 (IC 6,0–34,6)**, ambas P < 0,001. Portanto isto **não** é argumento contra o 36 mm: é argumento a favor do **36 mm DE CERÂMICA** | de Steiger 2020 · [PMID 32345846](https://pubmed.ncbi.nlm.nih.gov/32345846/) · **clássico: mesma fonte da linha 7 — é a única análise de registro que estratifica o ARMD por tamanho de cabeça E por material** · fabricantes confirmados em: van den Hout 2018 (*"Accolade TMZF stem, Stryker Orthopedics, Mahwah, New Jersey"*) · [PMID 30352541](https://pubmed.ncbi.nlm.nih.gov/30352541/) · Hussey 2017 (*"M/L Taper… Zimmer, Inc, Warsaw, IN"*) · [PMID 28392135](https://pubmed.ncbi.nlm.nih.gov/28392135/) |
+| ⚠️ **8b. E o modo de falha dessa haste é catastrófico, não sutil** | análise de 10 hastes **Accolade I (Stryker)** recuperadas: todas com padrão destrutivo de desgaste do cone (*"bico de pássaro"*), levando a **6 dissociações e 4 fraturas do cone**, em média **8,9 anos** após a cirurgia. Todas em combinação com cabeça de **cobalto-cromo LFIT V40 ou MITCH de 36 mm ou mais**. Os autores propõem **revisão clínica e radiológica ativa** desses pacientes | Wylde 2020 · Hip Int · série de recuperação de implantes · [PMID 32323587](https://pubmed.ncbi.nlm.nih.gov/32323587/) · **sem sucessor: nenhuma análise de recuperação desta combinação específica foi publicada entre 2021 e 2026** — ⚠️ série de casos (n = 10), sem denominador: mostra o **mecanismo** e a gravidade, não a incidência |
+| **9. E o 36 mm de cerâmica desgasta mais?** | desgaste em 14 anos com reticulado + vitamina E: **0,01–0,10 mm totais** — remove a objeção clássica de que cabeça maior consome mais polietileno | Thoen 2025 · ensaio randomizado com radioestereometria · Bone Joint J · [PMID 41173047](https://pubmed.ncbi.nlm.nih.gov/41173047/) |
+| ⚖️ **10. Polietileno antioxidante (vitamina E) — sinal favorável, ainda não replicado** | registro australiano (198.073 ATQs, 35.309 com antioxidante): **sem diferença precoce**, mas **após 3 anos HR 0,64 (IC 0,48–0,84)**, ajustado 0,63; menos revisão por soltura, desgaste e fratura, **sem** diferença em luxação ou infecção. ⚖️ registro finlandês (5.430 ATQs): sobrevida em 7 anos **94% × 93%**, revisão por qualquer causa **HR 0,7 (IC 0,4–1,1) — sem diferença** | Lewis 2026 · Acta Orthop · AOANJRR · [PMID 41575536](https://pubmed.ncbi.nlm.nih.gov/41575536/) · Hemmilä 2021 · Acta Orthop · registro finlandês · [PMID 33517823](https://pubmed.ncbi.nlm.nih.gov/33517823/) — ⚠️ os próprios autores australianos declaram que a diferença **pode em parte decorrer dos componentes femorais ou acetabulares associados** (confundimento por geração de implante) |
+
+**CONDUTA:** polietileno **reticulado em toda ATQ** — o convencional não tem mais lugar. **Cabeça de cerâmica preferencialmente no paciente jovem/ativo**, onde o ganho é de 20 a 35% de redução relativa de revisão; **acima de 55 anos, metal sobre reticulado é equivalente** e a escolha pode ser por disponibilidade e custo. Quando o planejamento indicar cabeça de **36 mm** (unidade 4.3), preferir **cerâmica** — é exatamente ali que o risco de corrosão do cobalto-cromo se concentra. Polietileno antioxidante: sinal favorável num registro grande, sem replicação — ainda não é razão para trocar de implante.
+
+**Discussão.** Esta é a unidade em que a tecnologia **muda** desfecho — e é a exceção que confirma a régua da palestra, porque aqui a tecnologia é barata, invisível e definida por uma linha no planejamento, não por um equipamento na sala.
+
+A primeira metade está encerrada: o polietileno reticulado praticamente divide pela metade a revisão em dezesseis anos de registro australiano (6,2% × 11,7%), e a série de vinte anos da Mayo não registrou uma única revisão por desgaste. Vale notar **por que** essa pergunta não tem sucessor recente: o polietileno convencional saiu de uso, então nenhum registro moderno tem braço de comparação. É pergunta **encerrada**, não pergunta órfã — e essa distinção é a própria regra de recência aplicada.
+
+A segunda metade é mais fina do que o slogan "cerâmica sempre". O maior dado que existe — o registro inglês, com mais de um milhão de artroplastias — mostra a cabeça de cerâmica delta reduzindo a revisão por qualquer causa em **21%** (HR 0,79) e o zircônio oxidado em **35%** (HR 0,65). Mas quando se olha por faixa etária, aparece um padrão coerente: no registro americano restrito a **menores de 55 anos**, a vantagem da cerâmica é nítida (HR 0,73); nos registros nórdicos restritos a **maiores de 55 anos**, ela **desaparece** (HR 1,0). Isso não é contradição — é mecanismo. Desgaste e corrosão precisam de tempo e de carga para se expressar, e o paciente idoso frequentemente não vive nem solicita o implante o suficiente para que a diferença apareça. A conduta que decorre daí é mais precisa do que a preferência genérica: **cerâmica no jovem; no idoso, a escolha pode ser econômica.**
+
+Há ainda um encaixe elegante entre esta unidade e a do tamanho da cabeça. O mesmo estudo australiano que mostra a cerâmica protegendo contra a reação a partículas metálicas mostra também que cabeças de **36 mm ou mais** revisam mais por esse motivo — o que, lido apressadamente, pareceria contradizer a recomendação de 36 mm da unidade 4.3. Não contradiz: o risco estava associado a cabeças de **cobalto-cromo** e a duas hastes específicas. Lidas juntas, as duas unidades convergem numa única frase de planejamento — **36 mm, de cerâmica**.
+
+Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circular vem de uma metanálise do Lancet com quase dois milhões de artroplastias, e é um número excelente — mas os valores de 25 e 30 anos são **extrapolados por modelo estatístico, não observados**; o dado real é 93,6% em vinte anos. E o polietileno antioxidante, que o registro australiano associa a 37% menos revisão após três anos, não se confirmou no registro finlandês (HR 0,7; intervalo cruzando 1) — e os próprios autores australianos advertem que parte da diferença pode vir dos implantes de nova geração que acompanham o material. Sinal favorável não é o mesmo que resposta.
+
 
 ---
 
 
+# ATO 3 — OTIMIZAÇÃO CLÍNICA E PROTOCOLO FARMACOLÓGICO (posicionado ao final por decisão do Dr. — candidato a corte)
+
+## SLIDE S15 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Cessação **6–8 semanas** antes: complicações **52% → 18%**
+- Ferida: **31% → 5%** (ensaio randomizado, Lancet)
+- Confirmação: infecção de ferida OR 0,37 (cessação ≥ 4 semanas)
+- Conduta: prescrever cessação · agendar após o intervalo
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Em ensaio randomizado, a cessação do tabagismo iniciada 6 a 8 semanas antes da artroplastia reduziu as complicações de 52% para 18% e as complicações de ferida de 31% para 5%. Metanálise contemporânea com 417.767 pacientes confirma a direção do efeito (infecção de ferida OR 0,37 com cessação ≥ 4 semanas). Conduta: a cirurgia eletiva do fumante não se contraindica — reprograma-se: prescrever cessação assistida e agendar após o intervalo.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [0.4] Posso operar o fumante? Que risco ele corre — e quanto recupero se ele parar?
+
+**RESPOSTA · Pode — e o que a evidência sustenta com firmeza no QUADRIL é ferida, revisão e mortalidade; a infecção é disputada. O dado que decide o planejamento: 6–8 semanas de cessação derrubam as complicações de 52% para 18% (ensaio randomizado).**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. O que NÃO está em disputa** | complicação da **ferida** — em todo estudo que a mediu, o fumante perde: **1,77** na meta de 3 milhões; **1,9% × 0,7%** (P = 0,045) na coorte espanhola de registro | Yue 2022 · meta de 40 estudos · 3.037.683 casos · [PMID 36406352](https://pubmed.ncbi.nlm.nih.gov/36406352/) · Gonzalez-Parreño 2024 · Orthop Traumatol Surg Res · 4.591 pac · [PMID 38582225](https://pubmed.ncbi.nlm.nih.gov/38582225/) |
+| **2. O que também se sustenta no quadril** | no maior registro nacional contemporâneo: **revisão por qualquer causa aHR 1,3** (IC 1,1–1,4) e **mortalidade aHR 1,4** (IC 1,3–1,6) | **Bongers 2024 · Acta Orthopaedica · registro holandês LROI · 272.640 pac (ATQ n = 140.336), seguimento > 2 anos · [PMID 38353549](https://pubmed.ncbi.nlm.nih.gov/38353549/)** |
+| ⚖️ **3. A infecção está EM DISPUTA — três estudos grandes, três respostas** | **a favor:** pareamento nacional japonês, infecção **OR 1,31** (IC 1,15–1,49) · **contra:** registro holandês, revisão **por infecção no quadril aHR 1,0** (IC 0,8–1,2) — não significativo (no joelho, 1,3) · **contra:** coorte espanhola, tabagismo **não** foi preditor na multivariada, OR 1,1 (IC 0,6–1,5) | Tanaka 2026 · Int Orthop · 105.102 pac · [PMID 41667730](https://pubmed.ncbi.nlm.nih.gov/41667730/) · Bongers 2024 · [PMID 38353549](https://pubmed.ncbi.nlm.nih.gov/38353549/) · Gonzalez-Parreño 2024 · [PMID 38582225](https://pubmed.ncbi.nlm.nih.gov/38582225/) |
+| ⚠️ **4. Por que a metanálise clássica não resolve a disputa** | fumante atual **OR 2,16** (IC 1,57–2,97) para infecção periprotética — mas ela **agrupa quadril e joelho sem separá-los**, e a divergência de 2024 é exatamente **entre** as duas articulações. A busca fechou em **janeiro de 2018** | Bedard 2018 · meta de 14 estudos · [PMID 30385090](https://pubmed.ncbi.nlm.nih.gov/30385090/) · **sem sucessor: é a única metanálise de tabagismo × infecção periprotética indexada; a busca 2021–2026 não encontrou outra** |
+| **5. Parar reduz — isto é consistente** | infecção periprotética, comparado a quem **nunca** fumou: fumante atual **OR 2,16** · ex-fumante **OR 1,52** (IC 1,16–1,99); e o atual comparado ao **ex**-fumante: **OR 1,52** (IC 1,07–2,14) | Bedard 2018 · **sem sucessor: é a única metanálise de tabagismo × infecção periprotética indexada, e a busca 2021–2026 não encontrou outra** ⚠️ o intervalo do 1,52 quase toca 1 |
+| **6. Quanto se recupera parando** (nível 1) | cessação **6–8 semanas antes** (aconselhamento + reposição de nicotina): complicações **52% → 18%** (P = 0,0003) · **ferida 31% → 5%** (P = 0,001) · reoperação 15% → 4% | Møller 2002 · ensaio randomizado · Lancet · [PMID 11809253](https://pubmed.ncbi.nlm.nih.gov/11809253/) · **clássico: único nível 1 ligando cessação pré-operatória a complicação em artroplastia; a busca 2021–2026 não encontrou ensaio nem metanálise que o substitua** ⚠️ n analisado **108, não 120**; a intervenção aceitava cessação **ou** redução de 50%; taxa basal de 52% é de outra era cirúrgica |
+| **7. Confirmação moderna do efeito de parar** (fora da artroplastia) | cessação **≥ 4 semanas** antes × fumante contínuo: **infecção de ferida OR 0,37** (IC 0,16–0,89) | Xu 2021 · EClinicalMedicine · 122 estudos / 417.767 pac na revisão · [PMID 34765953](https://pubmed.ncbi.nlm.nih.gov/34765953/) — ⚠️ população de **fraturas**, não artroplastia eletiva |
+
+**CONDUTA:** a eletiva do fumante **não se veta — se agenda**: prescrever cessação (aconselhamento + reposição de nicotina) **6–8 semanas antes** e marcar a cirurgia depois desse intervalo; documentar. Ao informar o risco, ser preciso: o que a literatura sustenta de forma consistente no quadril é **complicação da ferida, revisão e mortalidade** — a infecção é disputada entre registros. O fumante que não para segue operável. *Nota prática (Florianópolis): o Hospital Universitário (HU-UFSC) mantém programa de cessação do tabagismo — encaminhar o paciente na consulta de indicação, alinhando o programa às 6–8 semanas do agendamento.*
+
+**Discussão.** Esta unidade serve como exemplo de **como a literatura funciona** — e por que "há um artigo que diz X" nunca encerra uma pergunta.
+
+*Posso operar?* Pode. Tabagismo não é contraindicação; é risco quantificado.
+
+*Qual risco, exatamente?* Aqui a resposta exige cuidado, porque **três estudos grandes e contemporâneos discordam sobre a infecção**. Um pareamento nacional japonês de 105 mil pacientes encontra OR 1,31. O registro holandês, com 272 mil pacientes e mais de dois anos de seguimento, encontra revisão por infecção **no quadril** com aHR 1,0 — literalmente nenhum efeito — enquanto no joelho encontra 1,3. Uma coorte espanhola de registro não acha o tabagismo como preditor na multivariada. E a metanálise que todos citam, de 2018, **não separa quadril de joelho** — que é justamente onde a divergência mora — e fechou a busca em janeiro de 2018.
+
+Isso não significa que os estudos sejam ruins nem que a resposta seja desconhecida. Significa que a literatura está fazendo o que ela faz: **quando o efeito é pequeno, ele aparece ou desaparece conforme a população, o ajuste e o desfecho medido**. Note que os três estudos nem medem a mesma coisa — o japonês mede *infecção*, o holandês mede *revisão por infecção* (um desfecho mais duro, que exige reoperação), e o espanhol mede *infecção periprotética diagnosticada*. Desfechos diferentes produzem números diferentes sem que ninguém esteja errado. A leitura madura é: se um efeito só aparece em parte dos estudos grandes, ele é **real porém pequeno** — não é o argumento em que se apoia uma conduta.
+
+*Então em que se apoiar?* No que **nenhum** estudo contesta. A complicação de ferida aparece em todos que a mediram. Revisão global e mortalidade aparecem no maior registro disponível. E, sobretudo, existe o dado de nível 1: o ensaio do Lancet randomizou fumantes 6–8 semanas antes da artroplastia e as complicações caíram de metade dos pacientes para um em cinco, com a ferida despencando de 31% para 5%. É de 2002 e tem limitações que precisam ser ditas — 108 pacientes analisados (não 120), intervenção que aceitava redução de 50% em vez de cessação completa, e uma taxa basal de complicação de 52% que pertence a outra era cirúrgica, de modo que o benefício **absoluto** hoje é certamente menor. Mas é o único ensaio randomizado que existe, e a metanálise de 417 mil pacientes de 2021 aponta na mesma direção fora da artroplastia (infecção de ferida OR 0,37 com ≥ 4 semanas de cessação). Poucas prescrições em ortopedia compram tanto desfecho quanto essas seis semanas de espera ativa — e, ao contrário da discussão sobre o tamanho do risco, essa parte não está em disputa.
+
+
 ---
 
-## SLIDE S16 · Protocolo farmacológico perioperatório
+## SLIDE S16 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Banho de clorexidina: infecção **OR 0,43** · nasal isolada: não significativa
+- HbA1c com corte de 7%: não prediz complicações
+- Glicemia perioperatória: limiar **137 mg/dL** · pico às 21 h
+- Conduta: clorexidina universal · protocolo glicêmico do dia da cirurgia
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico (OR 0,43; IC 0,29–0,64); a descolonização nasal isolada não alcança significância (OR 0,65). Quanto ao controle glicêmico, a HbA1c com corte de 7% não prediz complicações; o que se associa a infecção é a glicemia perioperatória, com limiar de melhor discriminação em 137 mg/dL e pico às 21 horas do dia operatório. Conduta: clorexidina universal; protocolo de controle glicêmico do dia da cirurgia, em vez de veto pela HbA1c.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [0.1] Descolonização — pele (sabonete) e nasal
+
+> **⚠️ NOTA PARA A SESSÃO DE SLIDES:** decisão do Dr. Daniel em 2026-08-15 — **a descolonização de PELE (sabonete de clorexidina) VAI ao slide da palestra; a descolonização NASAL NÃO vai ao slide** (fica registrada aqui no documento como referência, sem evidência forte de alterar desfecho clínico do paciente).
+
+---
+
+### PELE (sabonete de clorexidina) — VAI À PALESTRA
+
+**RESPOSTA · Sim — sabonete de clorexidina no pré-operatório reduz infecção de sítio cirúrgico.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| ICM 2025 · G4 · resposta oficial | *"**Yes.** The use of preoperative skin decolonization reduces the incidence of postoperative surgical site infections in patients undergoing major orthopaedic surgery"* · **Força: Moderada** · Votação: 79% concordam · 11% discordam · 10% abstenção | ICM 2025 · G4 (Ng, Bos, Hofstaetter, Palacio, Alzate, Yayac, Mont) · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_10273376285a4e658c0b8a7e258f00c9.pdf) |
+| Coorte prospectiva com clorexidina 2% (5 dias) + mupirocina no portador | SSI **0,19% × 0,45%** (P = 0,0093) — 7.338 pacientes | citado em G4 |
+| Coorte com toalhetes de clorexidina | SSI **1,1% × 3,8%** (P = 0,02) — 709 pacientes | citado em G4 |
+| Coorte 2 anos, ATQ eletiva (clorexidina + mupirocina intranasal) | **zero** SSI estafilocócica × 19 em 321 controles | citado em G4 (Rao) |
+| **Metanálise 2026 — e ela separa pele de nariz** | em pacientes ortopédicos: descolonização **de PELE OR 0,43 (IC 0,29–0,64)** · combinada OR 0,48 (0,33–0,69) · **NASAL isolada OR 0,65 (IC 0,34–1,22) — NÃO significativa**. Ou seja: o que a evidência de 2026 sustenta é exatamente a **pele** | **Henkelmann 2026 · Antimicrob Resist Infect Control · revisão sistemática + metanálise · 19 estudos, n = 64.796 (5 ensaios randomizados, 14 observacionais; 17 em artroplastia eletiva) · PROSPERO CRD420250642382 · [PMID 41652612](https://pubmed.ncbi.nlm.nih.gov/41652612/)** |
+| Meta anterior, 32 estudos | sem descolonização corporal universal: infecção **RR 1,70** (qualquer) e **RR 2,18** (por *S. aureus*) — universal sem rastreio é o mais custo-efetivo | Ribau 2020 · [PMID 32950342](https://pubmed.ncbi.nlm.nih.gov/32950342/) · **superado: a metanálise de 2026 responde à mesma pergunta com o dobro de estudos, avaliação formal de risco de viés e registro em PROSPERO** ⚠️ o Ribau reporta a dispersão como **± 0,16**, não como intervalo de confiança — reporte atípico que impede julgar precisão |
+| Superioridade da clorexidina × PVP-I (para PELE) | *"várias metanálises demonstraram a superioridade da clorexidina em reduzir a flora bacteriana em relação à povidona-iodada"* | citado em G4 |
+
+**CONDUTA:** **banho com sabonete de clorexidina 2%** no pré-operatório (a noite anterior e a manhã da cirurgia) para **todos** os pacientes de artroplastia eletiva. Universal (sem rastreio prévio) é o mais eficaz e o mais custo-efetivo.
+
+**Discussão (para o slide).** Intervenção simples, barata, endossada pelo consenso (ICM 2025 · Força Moderada · 79% dos delegados), com sinal consistente em coortes grandes (SSI cai à metade ou menos) e superioridade sobre a povidona-iodada demonstrada em metanálises para a **pele**. É a peça de "otimização clínica" da palestra que passa nos critérios de evidência.
+
+---
+
+### NASAL (mupirocina / povidona-iodada) — NÃO ENTRA NA PALESTRA
+
+**Justificativa da exclusão:** decisão do Dr. Daniel de 2026-08-15, após auditoria dos documentos oficiais do ICM 2025 (G5 e G6) e dos ensaios primários. A evidência para descolonização **nasal** é **modesta e inconsistente** para desfecho clínico do paciente; o próprio consenso admite *"no concrete evidence"* e *"limited comparative data make it difficult to establish the superior nasal decolonization agent"*. Fica documentada aqui, sem entrar no slide.
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **Metanálise do próprio ICM (G5)** — 10 estudos, 55.816 pacientes | rastreio+descolonização de MRSA × controle: SSI 0,76% × 1,05%, **OR 0,62 (IC 0,32–1,22; P=0,17) — NÃO significativo**; heterogeneidade **I² = 93,2%**; 4/10 sem diferença, 5/10 a favor, 1/10 com risco aumentado (OR 4,26) | ICM 2025 · G5 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_83ca74b604ce4460a701ec9ca402ebb8.pdf) |
+| Recomendação G5 literal | *"There is **no concrete evidence** to support universal screening for MRSA (…) universal nasal decolonization (…) **preferably non-antibiotic antiseptic**"* · **Moderada** | ICM 2025 · G5 |
+| Recomendação G6 literal (agente) | *"While **mupirocin remains the guideline-recommended standard**, concerns over cost, resistance, and efficacy persist. **Povidone-iodine appears to be a cost-effective alternative with comparable outcomes**"* · **Moderada** · *"Limited comparative data make it difficult to establish the superior nasal decolonization agent"* | ICM 2025 · G6 · [PDF oficial](https://www.icmortho.org/_files/ugd/34d74b_0c5589058aa3410f9f49b0358a6939ee.pdf) |
+| Ensaio randomizado fundador (Kalmeijer) | duplo-cego contra placebo, 614 pacientes avaliáveis: **erradicação da colonização nasal 83,5% × 27,8%**; infecção endógena por *S. aureus* **0,3% × 1,7% (RR 0,19; IC 0,02–1,62) — NÃO significativa**. Conclusão literal: a mupirocina *"não reduziu a taxa de infecção de sítio cirúrgico nem o tempo de internação"* | Kalmeijer 2002 · Clin Infect Dis · [PMID 12145715](https://pubmed.ncbi.nlm.nih.gov/12145715/) · **clássico: ensaio randomizado fundador da mupirocina em ortopedia; o efeito atual está na linha seguinte** ⚠️ **correção 17/08/2026:** o capítulo trazia "16,5% × 78,2%" e "MSSA 1,6% × 2,7%" — o primeiro estava errado (o complemento de 27,8% é 72,2%) e o segundo **não consta do resumo** |
+| **O efeito atual da mupirocina (2026)** | contra placebo/nenhum tratamento: infecção de sítio cirúrgico por *S. aureus* **RR 0,67 (IC 0,49–0,91)** · colonização nasal **RR 0,22 (0,18–0,26)** · **sem** redução da infecção global, **exceto em cirurgia ortopédica: RR 0,80 (0,65–0,99)**. Efeitos maiores no uso dirigido a portadores confirmados e combinado com clorexidina | **Zhou 2026 · Int J Infect Dis · metanálise de 17 ensaios randomizados · 15.533 participantes · [PMID 41862082](https://pubmed.ncbi.nlm.nih.gov/41862082/)** |
+| Único ensaio randomizado agente × agente | infecção profunda por *S. aureus*: **5/855 (0,58%) × 1/842 (0,12%), P = 0,2** — não significativo; per-protocol 5/763 × 0/776 (P = 0,03) | Phillips 2014 · Infect Control Hosp Epidemiol · 1.697 cirurgias · [PMID 24915210](https://pubmed.ncbi.nlm.nih.gov/24915210/) · **sem sucessor: a metanálise de 17 ensaios de 2026 confirma que os dados comparativos entre agentes seguem escassos — ninguém repetiu este ensaio** ⚠️ é **intenção-de-tratar MODIFICADA**, aberto, os **dois** braços receberam clorexidina (compara agente nasal, não descolonização contra nada) e o único P significativo é per-protocol, com **1 evento** no braço da povidona |
+| Universal × seletiva (ambos com mupirocina) | SSI global 0,2% × 0,8% (P=0,013); *S. aureus* 0,09% × 0,5% (P=0,01) | Stambough 2017 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2016.09.041) |
+| PVP-I universal × mupirocina seletiva | **mesma taxa de infecção (0,8%)**, mupirocina mais cara | Torres 2016 · citado em G6 · [DOI](https://doi.org/10.1016/j.arth.2015.09.030) |
+| Povidona-iodada — atividade curta | cultura positiva **às 4 h: 52% (povidona de prateleira) × 21% (antisséptico nasal 5%) × 59% (salina)**, P = 0,003; **às 24 h: 72% × 59% × 69% — sem diferença**. Aplicar 1–2 h antes da incisão | Rezapoor 2017 · J Arthroplasty · [PMID 28578841](https://pubmed.ncbi.nlm.nih.gov/28578841/) · **sem sucessor: nenhum ensaio 2021–2026 mediu atividade nasal da povidona às 4 h e 24 h em pacientes de artroplastia** ⚠️ randomizou 429, mas a análise de eficácia foi feita nos **95 (22,1%) com cultura positiva** para *S. aureus* — o n efetivo é **95, ~30 por braço**; o desfecho é **cultura, não infecção**; e a povidona "de prateleira" **não** superou a salina às 4 h (52% × 59%) |
+| Meta observacional | reduz PJI global e por *S. aureus*/MRSA (p<0,0001) — mas base observacional (**viés**) | Bianco Prevot 2024 · 56.930 pac · [PMID 39064238](https://pubmed.ncbi.nlm.nih.gov/39064238/) · [DOI](https://doi.org/10.3390/jcm13144197) |
+| Limitação da mupirocina | resistência ~10% (*S. aureus*) e ~15% (MRSA); recolonização >50% em 2–6 meses | Zampoli 2026 · [PMID 42205349](https://pubmed.ncbi.nlm.nih.gov/42205349/) · [DOI](https://doi.org/10.5194/jbji-11-299-2026) |
+| Discordância entre sociedades | CDC/OMS endossam mupirocina · ESCMID 2024 recomendação forte para mupirocina · **AAOS se abstém** de recomendar descolonização nasal (falta nível 1) | ICM G6 (referências); Righi 2024 · [DOI](https://doi.org/10.1016/j.cmi.2024.07.012) |
+| ⚠️ Antisséptico à base de álcool — não considerar | meta com autores contratados e financiamento do fabricante (Nozin/Global Life Technologies); produto não disponível no Brasil | Hoffmann 2024 · [PMID 38986954](https://pubmed.ncbi.nlm.nih.gov/38986954/) · réplica: [PMID 39547746](https://pubmed.ncbi.nlm.nih.gov/39547746/) |
+
+**Síntese (só para o documento):** a descolonização nasal é **endossada** pelo ICM 2025 (força moderada), **sem evidência forte** de alterar desfecho clínico em RCT (a própria meta do consenso deu P=0,17), com dois agentes principais (mupirocina e povidona-iodada) sem superioridade estabelecida entre si. **Por decisão do Dr. Daniel, não entra na palestra** — fica aqui documentada para consulta.
+
+## [0.2] Diabético — o que controlar: a HbA1c ou a glicemia da cirurgia?
+
+**RESPOSTA · A glicemia perioperatória — alvo < 137 mg/dL. A hemoglobina glicada (HbA1c) com corte em 7% não prevê complicação.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. A HbA1c falha como veto** | os cortes de **7% e 7,5% NÃO se associaram a complicações** (1.119 pac.); na meta de 17 estudos, o subgrupo com corte em 7% também não (P = 0,50). **Confirmado em 2025, agora incluindo quadril:** HbA1c ≥ 7,7% não previu complicação em 90 dias — **OR 1,18 (IC 0,24–4,97; P = 0,83)** | **Tarabichi 2025 · J Arthroplasty · prospectivo multicêntrico · 1.020 pac (387 ATQ) · [PMID 40339933](https://pubmed.ncbi.nlm.nih.gov/40339933/) · [DOI](https://doi.org/10.1016/j.arth.2025.04.061)** · origem: Shohat 2019 (Insall Award — **casuística de joelho**) · [PMID 31256656](https://pubmed.ncbi.nlm.nih.gov/31256656/) · Shohat 2018 · [PMID 29605149](https://pubmed.ncbi.nlm.nih.gov/29605149/) |
+| **2. O que prevê: a glicemia pós-operatória** | o risco sobe de forma **contínua (linear)** a partir de 115 mg/dL — não há degrau seguro; **137 mg/dL** é o ponto de corte de **melhor discriminação** entre quem infecta e quem não (o gatilho do protocolo, não uma "glicemia ideal") · multivariada P = 0,028 | Kheir 2018 · JBJS · [PMID 30106824](https://pubmed.ncbi.nlm.nih.gov/30106824/) · [DOI](https://doi.org/10.2106/JBJS.17.01316) · **sem sucessor: busca 2021–2026 não encontrou estudo que refizesse o limiar glicêmico em artroplastia primária** |
+| ⚠️ **Limite do dado acima** | a associação vem de **13.196** artroplastias com seguimento ≥ 1 ano (não das 24.857 rastreadas); e **dentro do subgrupo diabético ela NÃO foi significativa (P = 0,276)** — o sinal é sobretudo do **não-diabético hiperglicêmico** (hiperglicemia de estresse) | Kheir 2018 · **sem sucessor: nenhum estudo posterior reanalisou este subgrupo em artroplastia primária** |
+| **3. Quando medir** | o pico glicêmico é **às 21 h do dia da cirurgia** — **65%** acima de 126 mg/dL (com o corte de 137 mg/dL são 56,4%); a coleta da manhã seguinte **subestima** | Varady 2019 · J Arthroplasty · 314 pac · [PMID 30704771](https://pubmed.ncbi.nlm.nih.gov/30704771/) · [DOI](https://doi.org/10.1016/j.arth.2019.01.004) · **sem sucessor: nenhum estudo de monitorização contínua de glicose em artroplastia desde 2021** |
+| **4. Marcador pré-operatório que prediz infecção** | **frutosamina > 293 µmol/L** → infecção periprotética **6,7×**; ajustado por idade, comorbidades e internação: **OR 6,37 (IC 1,98–20,49; P = 0,002)** · readmissão 16,7% × 4,4% (reflete as últimas 2–3 semanas e responde rápido ao tratamento) | **Shohat 2021 · Sci Rep · prospectivo multicêntrico (4 instituições) · 1.212 ATQ primárias · [PMID 33500515](https://pubmed.ncbi.nlm.nih.gov/33500515/) · [DOI](https://doi.org/10.1038/s41598-021-81803-6)** |
+| **5. Risco basal do diabético** | infecção periprotética **2,39% × 1,46%** do não-diabético — o rótulo "diabetes" segue pesando | Kheir 2018 · **sem sucessor: mesma coorte da linha 2, sem estudo posterior que refizesse a comparação diabético × não-diabético** |
+
+**CONDUTA:** não adiar a cirurgia por HbA1c isolada; **planejar o controle glicêmico perioperatório com alvo < 137 mg/dL**, medindo na noite do dia da cirurgia (21 h) — não apenas na manhã seguinte; onde disponível, frutosamina > 293 µmol/L é o marcador pré-operatório que de fato prediz infecção.
+
+**Discussão.** A mensagem é uma só e vale ser dita com clareza: **o retrato de 3 meses (HbA1c) não decide — o dia da cirurgia decide.** O corte sagrado de 7% falhou na metanálise, falhou no estudo premiado com o Insall Award — que é de **joelho**, e por isso não basta sozinho aqui — e voltou a falhar em 2025 num estudo prospectivo multicêntrico que **incluiu 387 quadris**, com HbA1c ≥ 7,7% sem qualquer poder preditivo (OR 1,18; IC 0,24–4,97). Enquanto isso, a glicemia pós-operatória mostra relação contínua com infecção já a partir de 115 mg/dL, mesmo em não-diabéticos (hiperglicemia de estresse). Atenção à leitura dos dois números: o **risco é contínuo** (quanto mais baixo, melhor, a partir de 115), mas **protocolo exige um gatilho único** — e 137 mg/dL é o corte que melhor separa quem infecta de quem não, como o 140/90 da hipertensão: risco contínuo, conduta binária. Para o planejamento, isso muda o gesto: em vez de vetar pelo laboratório de ontem, prescrever no plano cirúrgico o **protocolo de controle do dia** — meta, horário de medida e correção. A frutosamina, onde disponível, devolve ao pré-operatório um marcador que realmente prediz — e o número que vale aqui é o do **quadril** (Shohat 2021: infecção 6,7×, OR ajustado 6,37), não o 11,2× que circula e que é da casuística de joelho. Um cuidado de rigor, para não ser pego em debate: o mesmo estudo de 2025 que enterrou a HbA1c também não encontrou valor preditivo na frutosamina — mas ali o corte era **270** (não 293) e o desfecho era **complicação em 90 dias**, não infecção periprotética; os próprios autores registram que não conseguiram correlacionar seus marcadores com infecção. Não é, portanto, uma refutação do dado de Shohat: é outra pergunta. O que 2025 de fato acrescenta é um candidato novo — a **albumina glicada ≥ 17,1%**, único marcador que previu complicação em 90 dias naquele estudo (OR 4,8; IC 1,4–15,7) —, ainda sem dado próprio para infecção periprotética.
+
+
+---
+
+## SLIDE S17 · Protocolo farmacológico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -959,9 +981,9 @@ Três honestidades que devem ser ditas no palco. **Primeira:** a base randomizad
 ---
 
 
-# ATO 3 — SÍNTESE
+# ATO 4 — SÍNTESE
 
-## SLIDE S17 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção
+## SLIDE S18 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1005,7 +1027,7 @@ Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos imp
 
 ---
 
-## SLIDE S18 · Síntese: condutas de planejamento com impacto demonstrado no desfecho
+## SLIDE S19 · Síntese: condutas de planejamento com impacto demonstrado no desfecho
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1300,18 +1322,19 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S1 → S2:** "A avaliação de cada tecnologia segue o mesmo eixo: o que ela melhora no parâmetro técnico, e o que se demonstra no desfecho clínico."
 - **S2 → S3:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
 - **S8 → S9:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S9 → S10:** "Se o alvo de posicionamento requer individualização, o planejamento começa pela avaliação do paciente, antes de qualquer exame de imagem."
-- **S11 → S12:** "Otimizado o paciente na consulta de indicação, seguem as decisões de construto — executadas sobre o alvo funcional definido no primeiro ato."
-- **S15 → S16:** "As últimas decisões do planejamento são as do protocolo perioperatório, definidas em prescrição."
-- **S17:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
+- **S9 → S10:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S10 → S11:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S12 → S13:** "Encerrado o bloco da instabilidade, seguem a fixação femoral e o par tribológico."
+- **S14 → S15:** "As decisões restantes são clínicas e farmacológicas — apresentadas ao final da exposição."
+- **S18:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
 1. S4 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
 2. S8 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
 3. S9 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-4. S14 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-5. S17 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+4. S13 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+5. S18 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
