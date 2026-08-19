@@ -362,10 +362,8 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 
 - Erro de anteversão: **2,6° × 8,9°** (TC pré/pós, ensaio randomizado)
   *Fontalis · RCT · 2024 · PMID 38555946*
-- Função: **SMD 0,01** — sem diferença clínica (metanálise, 8 ensaios)
-  *Ruangsomboon · meta · 2024 · PMID 38888718*
-- Internação: **−0,49 dia** — significância marginal
-  *Poyser · 2026 · PMID 41519489*
+- Função: **SMD 0,01** — sem diferença clínica (metanálise de 8 ensaios randomizados)
+  *Ruangsomboon · meta 8 RCT · 2024 · PMID 38888718*
 - Conduta: não indicar a robótica para melhorar a função na rotina
 
 **CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — a precisão triplica, mas a função permanece equivalente à do método convencional.
@@ -410,17 +408,19 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Revisão em registro nacional: HR **0,947** — sem diferença
+- Internação: **−0,49 dia** (meia diária) — coorte pareada, significância marginal (P = 0,044)
+  *Poyser · coorte pareada · 2026 · PMID 41519489*
+- Revisão: HR **0,947** — sem diferença (registro nacional)
   *Farhan-Alanie · NJR · 2025 · PMID 41442047*
-- Sinais observacionais 2026 (certeza baixa): luxação **OR 0,57** · infecção **OR 0,83**
+- Luxação **OR 0,57** · infecção **OR 0,83** — sinais observacionais de registro
   *Giannakis · Premier Database · 2026 · PMID 42093134 · Zhang · meta 1,83 mi · 2026 · PMID 42009981*
-- Conduta: sem ensaio randomizado, não indicar por função — acompanhar o sinal
+- Conduta: estes desfechos NÃO têm ensaio randomizado com poder — não indicar por eles, acompanhar o sinal
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Revisão sem diferença; sinais observacionais favoráveis em luxação e infecção, ainda sem confirmação randomizada.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Só a função tem ensaio randomizado; estes desfechos, não — revisão sem diferença, meia diária de internação, sinais observacionais em luxação e infecção.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Em registro nacional, a taxa de revisão não difere entre artroplastias robóticas e convencionais (HR 0,947). Bases observacionais de 2026 sugerem menos luxação (OR 0,57) e infecção (OR 0,83) com a robótica — achados ainda não confirmados por ensaio randomizado. Conduta: a robótica não deve ser indicada com expectativa de ganho funcional; os sinais em luxação e infecção justificam acompanhamento da literatura.
+Diferentemente da função — medida em ensaios randomizados —, os demais desfechos da robótica ainda não têm ensaio randomizado com poder, porque são eventos raros. A internação cai meia diária (0,49 dia, P = 0,044) numa coorte pareada subdimensionada. Em registro nacional, a taxa de revisão não difere (HR 0,947). Bases observacionais de 2026 sugerem menos luxação (OR 0,57) e infecção (OR 0,83) com a robótica — sinais promissores, sem confirmação randomizada. Conduta: não indicar a robótica por esses desfechos; acompanhar o sinal na literatura.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
