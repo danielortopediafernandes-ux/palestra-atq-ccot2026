@@ -1336,20 +1336,20 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 
 # NOTAS DE APRESENTAÇÃO
 
-## Transições faladas (notas de treino — registro sóbrio)
+## Transições faladas (texto de FALA entre slides — NÃO vai a slide algum · registro formal, Regra #9)
 
 - **S1 → S2:** "A avaliação de cada ferramenta seguirá o mesmo eixo — o que ela melhora no parâmetro técnico e o que se demonstra no desfecho clínico. A análise começa pelo instrumento fundamental do planejamento: o template."
 - **S2 → S3:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
 - **S3 → S4:** "Estabelecido o padrão bidimensional — template calibrado com dupla escala —, a pergunta seguinte é se a imagem tridimensional acrescenta desfecho."
-- **S5 → S6:** "Até aqui, tecnologias de PLANEJAMENTO; as duas seguintes são tecnologias de EXECUÇÃO — e a régua permanece a mesma."
-- **S7 → S8:** "A execução alcançou precisão de graus. Resta examinar o próprio alvo — e é nele que está o problema."
+- **S5 → S6:** "As tecnologias apresentadas até este ponto atuam no planejamento; as duas seguintes atuam na execução. O critério de avaliação permanece o mesmo: parâmetro técnico versus desfecho clínico."
+- **S7 → S8:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
 - **S8 → S9:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
 - **S9 → S10:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
 - **S10 → S11:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
 - **S11 → S12:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
 - **S13 → S14:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
 - **S14 → S15:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S15 → S16:** "Definido o par tribológico, a pergunta final é a sobrevida do implante — a resposta que o paciente pede."
+- **S15 → S16:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
 - **S16:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
