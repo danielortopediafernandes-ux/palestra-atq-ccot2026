@@ -1,12 +1,14 @@
 // 5 PRIMEIROS SLIDES — VERSÃO ATUAL (CAPITULO.md @ffb0893, formato "resumo em tópicos").
+// ⛔ CANÔNICO (Dr. 18/08): CADA afirmação leva a SUA referência JUNTO dela (autor·ano·PMID
+// logo abaixo do tópico) — NUNCA referências agrupadas no rodapé.
 // S1 capa+conceito · S2 template · S3 calibração (dupla escala, c/ ilustração real Ries 2022 CC BY)
-// · S4 3D+impressão · S5 IA. Identidade escura CCOT · letras grandes · animação de clique.
+// · S4 3D+impressão · S5 IA. Identidade escura CCOT (paleta OFICIAL 33414b/107368/fff) · animação.
 const path = require("path");
 const pptxgen = require("pptxgenjs");
 
 const BG = "33414B", CARD = "3E4E5A", COND = "2B3841", PANEL = "F4F6F7";
 const TEAL = "107368", TEALB = "35B3A3";
-const INK = "FFFFFF", BODY = "D6DEE4", MUT = "9FABB6";
+const INK = "FFFFFF", BODY = "D6DEE4", MUT = "9FABB6", REF = "8CA0AC";
 const HF = "Cambria", BF = "Calibri";
 const FIGDIR = path.join(__dirname, "_figuras");
 
@@ -16,29 +18,31 @@ const shadow = () => ({ type: "outer", color: "000000", opacity: 0.30, blur: 7, 
 const topbar = (sl) => sl.addShape(p.ShapeType.rect, { x: 0, y: 0, w: 13.33, h: 0.14, fill: { color: TEAL }, line: { type: "none" } });
 const rodape = (sl) => {
   sl.addText("Dr. Daniel Araújo Fernandes · Planejamento pré-operatório em artroplastia total do quadril",
-    { x: 0.6, y: 7.13, w: 9.6, h: 0.28, color: MUT, fontSize: 9.5, fontFace: BF, align: "left", margin: 0 });
-  sl.addText("XVI CCOT · 2026", { x: 10.2, y: 7.13, w: 2.5, h: 0.28, color: MUT, fontSize: 9.5, fontFace: BF, align: "right", margin: 0 });
+    { x: 0.6, y: 7.16, w: 9.6, h: 0.26, color: MUT, fontSize: 9.5, fontFace: BF, align: "left", margin: 0 });
+  sl.addText("XVI CCOT · 2026", { x: 10.2, y: 7.16, w: 2.5, h: 0.26, color: MUT, fontSize: 9.5, fontFace: BF, align: "right", margin: 0 });
 };
 let animSeq = 0;
 const markAnim = (o) => { animSeq++; return Object.assign({}, o, { objectName: "anim_" + animSeq }); };
 
 // runs: **negrito branco**  ~destaque teal~
-function parseRuns(str, base) {
+function parseRuns(str, base, size) {
   const runs = []; const re = /(\*\*[^*]+\*\*|~[^~]+~)/g; let last = 0, m;
   while ((m = re.exec(str))) {
-    if (m.index > last) runs.push({ text: str.slice(last, m.index), options: { color: base, fontSize: 21, fontFace: BF } });
+    if (m.index > last) runs.push({ text: str.slice(last, m.index), options: { color: base, fontSize: size, fontFace: BF } });
     const t = m[0];
-    if (t.startsWith("**")) runs.push({ text: t.slice(2, -2), options: { bold: true, color: INK, fontSize: 21, fontFace: BF } });
-    else runs.push({ text: t.slice(1, -1), options: { bold: true, color: TEALB, fontSize: 21, fontFace: BF } });
+    if (t.startsWith("**")) runs.push({ text: t.slice(2, -2), options: { bold: true, color: INK, fontSize: size, fontFace: BF } });
+    else runs.push({ text: t.slice(1, -1), options: { bold: true, color: TEALB, fontSize: size, fontFace: BF } });
     last = re.lastIndex;
   }
-  if (last < str.length) runs.push({ text: str.slice(last), options: { color: base, fontSize: 21, fontFace: BF } });
+  if (last < str.length) runs.push({ text: str.slice(last), options: { color: base, fontSize: size, fontFace: BF } });
   return runs;
 }
 
-function bullet(sl, str, x, y, w) {
-  sl.addText([{ text: "▸  ", options: { color: TEAL, bold: true, fontSize: 21, fontFace: BF } }, ...parseRuns(str, BODY)],
-    markAnim({ x, y, w, h: 0.82, align: "left", valign: "top", margin: 0, lineSpacingMultiple: 1.05 }));
+// b = { t: "afirmação (com **/~ )", f: "Autor ANO · Revista · PMID XXXX" }
+function bullet(sl, b, x, y, w) {
+  const runs = [{ text: "▸  ", options: { color: TEAL, bold: true, fontSize: 20, fontFace: BF } }, ...parseRuns(b.t, BODY, 20)];
+  if (b.f) runs.push({ text: "\n      " + b.f, options: { color: REF, italic: true, fontSize: 11.5, fontFace: BF } });
+  sl.addText(runs, markAnim({ x, y, w, h: 0.94, align: "left", valign: "top", margin: 0, lineSpacingMultiple: 1.04 }));
 }
 
 function figCard(sl, img, cx, cy, cw, ch, credito) {
@@ -49,19 +53,14 @@ function figCard(sl, img, cx, cy, cw, ch, credito) {
 }
 
 function condutaBand(sl, txt, y, w) {
-  sl.addText([{ text: "Conduta:  ", options: { bold: true, color: TEALB, fontSize: 20, fontFace: BF } }, ...parseRuns(txt, INK).map(r => (r.options.fontSize = 20, r))],
+  sl.addText([{ text: "Conduta:  ", options: { bold: true, color: TEALB, fontSize: 19, fontFace: BF } }, ...parseRuns(txt, INK, 19)],
     markAnim({ shape: p.ShapeType.roundRect, rectRadius: 0.05, fill: { color: COND }, line: { color: TEAL, width: 1.25 }, shadow: shadow(),
-      x: 0.6, y, w, h: 0.76, align: "left", valign: "middle", margin: [5, 16, 5, 16], lineSpacingMultiple: 1.02 }));
-}
-
-function sources(sl, txt) {
-  sl.addText(txt, { x: 0.6, y: 6.86, w: 12.1, h: 0.26, color: MUT, italic: true, fontSize: 10.5, fontFace: BF, align: "left", margin: 0 });
+      x: 0.6, y, w, h: 0.72, align: "left", valign: "middle", margin: [5, 16, 5, 16], lineSpacingMultiple: 1.02 }));
 }
 
 // ---------- S1 · CAPA + CONCEITO ----------
 (function () {
   const sl = p.addSlide(); bgDark(sl); topbar(sl);
-  // logo oficial do CCOT em selo branco (topo-direita)
   sl.addShape(p.ShapeType.roundRect, { rectRadius: 0.08, fill: { color: "FFFFFF" }, line: { type: "none" }, shadow: shadow(), x: 9.95, y: 0.52, w: 2.85, h: 1.42 });
   sl.addImage({ path: path.join(FIGDIR, "logo-ccot.png"), x: 10.12, y: 0.62, w: 2.51, h: 1.22, sizing: { type: "contain", w: 2.51, h: 1.22 } });
 
@@ -93,12 +92,11 @@ function topico(cfg) {
   sl.addText(cfg.eyebrow, { x: 0.62, y: 0.40, w: 12.1, h: 0.34, color: TEALB, bold: true, fontSize: 14, charSpacing: 1.5, fontFace: BF, margin: 0 });
   sl.addText(cfg.titulo, { x: 0.58, y: 0.76, w: 12.1, h: 1.02, color: INK, bold: true, fontSize: cfg.tituloSize || 34, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.02 });
 
-  const bx = 0.7, bw = cfg.fig ? 7.3 : 12.0;
-  let y = 2.0;
-  for (const b of cfg.bullets) { bullet(sl, b, bx, y, bw); y += 0.86; }
-  if (cfg.fig) figCard(sl, cfg.fig.img, 8.35, 1.98, 4.35, cfg.fig.h || 4.35, cfg.fig.credito);
-  condutaBand(sl, cfg.conduta, 5.98, cfg.fig ? 7.5 : 12.1);
-  if (cfg.sources) sources(sl, cfg.sources);
+  const bx = 0.7, bw = cfg.fig ? 7.35 : 12.0;
+  let y = 1.9;
+  for (const b of cfg.bullets) { bullet(sl, b, bx, y, bw); y += 0.99; }
+  if (cfg.fig) figCard(sl, cfg.fig.img, 8.4, 1.9, 4.3, cfg.fig.h || 4.2, cfg.fig.credito);
+  condutaBand(sl, cfg.conduta, 6.14, cfg.fig ? 7.55 : 12.1);
 }
 
 // ---------- S2 · TEMPLATE ----------
@@ -107,29 +105,27 @@ topico({
   titulo: "Template manual ou digital? A ferramenta não é o determinante",
   tituloSize: 32,
   bullets: [
-    "Acerto da haste — template manual ~75% × 60%~ software (p < 0,001)",
-    "Comparação inversa — digital ~93,8% × 84,1%~: o método importa menos que a execução",
-    "Padrão alcançável — **± 1 tamanho em ~90%**; tamanho exato em ~32–40%",
-    "O desenho da haste desloca a previsão — subdimensionamento ~3,7×~",
+    { t: "Acerto da haste — template manual ~75% × 60%~ software (p < 0,001)", f: "Petretta 2015 · CORR · 5 observadores, 52 ATQs · PMID 25910779" },
+    { t: "Comparação inversa — digital ~93,8% × 84,1%~: o método importa menos que a execução", f: "Pongkunakorn 2021 · J Arthroplasty · PMID 33583670" },
+    { t: "Padrão alcançável — **± 1 tamanho em ~90%**; tamanho exato em ~32–40%", f: "Surroca 2024 · Hip Pelvis · PMID 38825822" },
+    { t: "O desenho da haste desloca a previsão — subdimensionamento ~3,7×~", f: "Diaz-Ledezma 2025 · Arthroplast Today · PMID 40130235" },
   ],
   conduta: "template em **TODA** artroplastia — manual ou digital.",
-  sources: "Petretta 2015 · PMID 25910779 · Pongkunakorn 2021 · PMID 33583670 · Surroca 2024 · PMID 38825822 · Diaz-Ledezma 2025 · PMID 40130235",
 });
 
 // ---------- S3 · CALIBRAÇÃO (com ilustração real) ----------
 topico({
   eyebrow: "ATO 1 · PLANEJAMENTO DE IMAGEM · CALIBRAÇÃO",
   titulo: "Calibração: o marcador único é insuficiente para o fêmur",
-  tituloSize: 31,
+  tituloSize: 30,
   bullets: [
-    "Erro de magnificação — marcador único ~12,5%~ (até 23,3%) × dupla escala ~2,1%~",
-    "Acerto exato da haste — dupla escala ~54% × 32%~ (p = 0,04); taça: sem diferença",
-    "Erro de calibração **> 1,5%** já altera o tamanho planejado",
-    "Fator fixo — magnificação real varia ~116–140%~ (muda com IMC e sexo)",
+    { t: "Erro de magnificação — marcador único ~12,5%~ (até 23,3%) × dupla escala ~2,1%~", f: "Ries 2022 · Arch Orthop Trauma Surg · 100 pac · PMID 35099608" },
+    { t: "Acerto exato da haste — dupla escala ~54% × 32%~ (p = 0,04); taça: sem diferença", f: "Maatough 2025 · Cureus · PMID 40470419" },
+    { t: "Erro de calibração **> 1,5%** já altera o tamanho planejado", f: "Boese 2023 · Int Orthop · modelo físico · PMID 36881153" },
+    { t: "Fator fixo — magnificação real varia ~116–140%~ (muda com IMC e sexo)", f: "Holliday 2021 · PMID 33590673 · Ashkenazi 2023 · PMID 37195151" },
   ],
-  conduta: "calibração de **dupla escala** em toda radiografia de planejamento; não usar fator fixo.",
-  fig: { img: "1.1_calibracao_esquema_marcador.jpg", h: 4.0, credito: "Marcador anterior (dupla escala) × entre as pernas · Ries 2022 · CC BY 4.0" },
-  sources: "Ries 2022 · PMID 35099608 · Maatough 2025 · PMID 40470419 · Boese 2023 · PMID 36881153 · Ashkenazi 2023 · PMID 37195151",
+  conduta: "calibração de **dupla escala** em toda radiografia; não usar fator fixo.",
+  fig: { img: "1.1_calibracao_esquema_marcador.jpg", h: 3.9, credito: "Marcador anterior (dupla escala) × entre as pernas · Ries 2022 · CC BY 4.0" },
 });
 
 // ---------- S4 · 3D + IMPRESSÃO ----------
@@ -138,12 +134,11 @@ topico({
   titulo: "Planejamento 3D por tomografia e impressão 3D",
   tituloSize: 33,
   bullets: [
-    "Acerto da taça — 3D ~96,9% × 87,1%~ (2D)",
-    "Desfecho relatado pelo paciente — **sem diferença** (ensaio randomizado)",
-    "Modelo impresso — ensaio corresponde à cirurgia (~ICC 0,93~): anatomia complexa",
+    { t: "Acerto da taça — 3D ~96,9% × 87,1%~ (2D)", f: "Parisi 2024 · PMID 39518705 · Bishi 2022 (meta) · PMID 35076413" },
+    { t: "Desfecho relatado pelo paciente — **sem diferença** (ensaio randomizado)", f: "Thomas 2022 · RCT · PMID 36183111" },
+    { t: "Modelo impresso — ensaio corresponde à cirurgia (~ICC 0,93~): anatomia complexa", f: "Zhang 2021 · Orthop Surg · piloto 17 pac · PMID 34898037" },
   ],
   conduta: "2D na rotina; **impressão 3D** na displasia e revisão.",
-  sources: "Parisi 2024 · PMID 39518705 · Thomas 2022 (RCT) · PMID 36183111 · Zhang 2021 · PMID 34898037",
 });
 
 // ---------- S5 · IA ----------
@@ -152,12 +147,11 @@ topico({
   titulo: "Planejamento assistido por inteligência artificial",
   tituloSize: 32,
   bullets: [
-    "Acerto do tamanho — taça ~OR 3,85~ (melhor que o 2D)",
-    "Validação — 1.371 pacientes, **um único país**, nível III",
-    "Função — ~+0,73~ ponto no HHS: abaixo do MCID (imperceptível ao paciente)",
+    { t: "Acerto do tamanho — taça ~OR 3,85~ (melhor que o 2D)", f: "Altahtamouni 2026 · meta · PMID 41727957" },
+    { t: "Validação — 1.371 pacientes, **um único país**, nível III", f: "Altahtamouni 2026 · meta · PMID 41727957" },
+    { t: "Função — ~+0,73~ ponto no HHS: abaixo do MCID (imperceptível ao paciente)", f: "Taghavi 2026 · Arthroplasty · meta · PMID 42547897" },
   ],
   conduta: "**não adotar** sem validação na população local; acompanhar a literatura.",
-  sources: "Altahtamouni 2026 · PMID 41727957 · Taghavi 2026 · PMID 42547897",
 });
 
 const OUT = path.join(__dirname, "deck_atual5.pptx");

@@ -1,6 +1,6 @@
 > ## ⚠️ PARA A SESSÃO DE SLIDES — LEIA ANTES DE QUALQUER SLIDE
 > Este documento é a **fonte única da verdade** — conteúdo E estrutura da apresentação consolidados (ordem do Dr., 18/08).
-> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o esqueleto definido pelo Dr. (4 atos, 18/08). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
+> **Estrutura:** PARTE I = a apresentação, slide a slide, conforme o esqueleto definido pelo Dr. (3 atos + apêndice clínico, 18/08). Cada slide traz: **TEXTO DO SLIDE** (resumo em tópicos — é o que vai ao slide) · **ROTEIRO DE FALA** (não vai ao slide) · **BASE DE EVIDÊNCIA** (unidades completas com números, fontes e discussão — a Discussão NUNCA vai ao slide).
 > **Regras invioláveis:** registro científico FORMAL em todo texto (Regra #9, canonizada 18/08 — sem frase de efeito, coloquialismo ou primeira pessoa) · letras grandes · 1 ideia por slide · número em destaque · fonte no rodapé · figuras reais de artigo, nunca IA — **figuras são responsabilidade integral da sessão de slides**.
 > **Não alterar, resumir nem "melhorar" conteúdo** — dúvida volta ao Dr. Usar sempre o commit mais recente deste arquivo.
 
@@ -15,7 +15,7 @@ Documento-base da palestra — versão completa, com discussão e referências v
 
 Documento único da palestra — conteúdo e estrutura consolidados (decisão do Dr., 18/08/2026). Organização:
 
-- **PARTE I — A APRESENTAÇÃO:** os 19 slides do núcleo (4 atos) e os 6 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
+- **PARTE I — A APRESENTAÇÃO:** os 17 slides do núcleo (3 atos), o apêndice clínico-farmacológico (A1–A5, fora da palestra) e os 4 slides-reserva, na ordem de apresentação. Cada slide em três camadas: **texto do slide** (resumo em tópicos), **roteiro de fala** (explicação completa) e **base de evidência** (as unidades numeradas, com tabelas de evidência — afirmação + número + fonte com PMID —, conduta e discussão).
 - **APÊNDICE:** unidade auditada não incluída na apresentação (material de consulta).
 
 As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — as referências cruzadas entre unidades permanecem válidas. O material está completo, sem cortes: a sessão de conteúdo responde pela qualidade da informação e pela estrutura lógica; o tempo e a seleção final do que fica são decisão exclusiva do Dr., tomada somente ao final.
@@ -88,16 +88,16 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 ---
 
 
-# PARTE I — A APRESENTAÇÃO (esqueleto do Dr., 18/08 · 4 atos)
+# PARTE I — A APRESENTAÇÃO (esqueleto do Dr., 18/08 · 3 atos + apêndice clínico)
 
-**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S5 pode ser incorporado a S4 (uma linha); S7 pode ser incorporado a S6 (rodapé). **Ordem sugerida de corte das reservas:** R6 → R5 → R4 → R3 → R2 → R1. **O Ato 3 (otimização clínica e protocolo farmacológico) é, por indicação do Dr. (18/08), o primeiro candidato a corte integral — provavelmente não entrará na palestra.**
+**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S5 pode ser incorporado a S4 (uma linha); S7 pode ser incorporado a S6 (rodapé). **Ordem sugerida de corte das reservas:** R4 → R3 → R2 → R1. **O conteúdo clínico-farmacológico está no APÊNDICE (A1–A5), fora da palestra — por decisão do Dr. (18/08), em princípio não haverá tempo para ele.**
 
 | Ato | Slides |
 |---|---|
 | Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S1–S9 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → pares tribológicos | S10–S14 |
-| Ato 3 · Otimização clínica e protocolo farmacológico (candidato a corte) | S15–S17 |
-| Ato 4 · Síntese | S18–S19 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S10–S15 |
+| Ato 3 · Síntese | S16–S17 |
+| Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
 
@@ -411,7 +411,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional da taça. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões com impacto na luxação vêm imediatamente a seguir — dupla mobilidade nos grupos de risco, reparo capsular na via posterior e a revisão das restrições pós-operatórias; o diâmetro da cabeça femoral é tratado adiante, junto ao par tribológico.
+A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional da taça. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo da taça, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões com impacto na luxação vêm imediatamente a seguir — dupla mobilidade nos grupos de risco, diâmetro da cabeça femoral, reparo capsular na via posterior e a revisão das restrições pós-operatórias; o aspecto tribológico da cabeça de 36 mm é retomado adiante, junto ao par.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -505,7 +505,47 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S11 · Reparo capsular na via posterior: o maior efeito isolado sobre a luxação
+## SLIDE S11 · Diâmetro da cabeça femoral e instabilidade: 36 mm quando o diâmetro acetabular permite
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Revisão por luxação: **1,4%** (22–28 mm) → **0,9%** (32 mm) → **0,6%** (36 mm)
+- Confirmação: 36 mm **0,46%** × 32 mm **0,68%** (319.531 ATQs)
+- Teto em 36: com ≥ 40 mm a luxação **não cai mais** · revisão e infecção sobem
+- Cabeça grande **não substitui** a dupla mobilidade
+- Conduta: **36 mm quando a taça comporta** · piso 32 mm
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstram a escada da estabilidade: revisão por luxação de 1,4% com cabeças de 22–28 mm, 0,9% com 32 mm e 0,6% com 36 mm — no registro americano, 0,46% versus 0,68%. O benefício tem teto: a partir de 40 mm a luxação não cai mais (0,51%) e a revisão e a infecção aumentam. A cabeça de grande diâmetro, por sua vez, não substitui a dupla mobilidade no grupo de risco. Conduta: planejar 36 mm sempre que o diâmetro acetabular comportar, com piso absoluto de 32 mm. O material dessa cabeça é decisão tribológica — retomada adiante, no par tribológico.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [4.3] Que tamanho de cabeça femoral planejar?
+
+**RESPOSTA · 36 mm quando a taça comporta — e o benefício tem TETO em 36: com 40 mm ou mais a luxação não cai e a revisão e a infecção sobem.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. Sair de 28 para 32 mm compra estabilidade** | 28 mm tem **mais revisão por luxação: HR 1,67** (IC 1,38–1,98) | Tsikandylakis 2018 · registro nórdico NARA · 186.231 ATQs · [PMID 30260863](https://pubmed.ncbi.nlm.nih.gov/30260863/) · **clássico: casuística que estabeleceu o piso de 32 mm; nenhum registro posterior contestou esta parte** |
+| ⚠️ **2. A parte deste estudo que NÃO se sustenta mais** | ele concluía que 36 × 32 mm não reduzia luxação (HR 0,85; não significativo) e custava mais revisão global (HR 1,14). **Quatro registros nacionais posteriores reverteram esta conclusão** (linhas 3–6) | Tsikandylakis 2018 · **superado: fica no texto de propósito, para mostrar qual conclusão mudou e por quê — é o eixo didático desta unidade** |
+| **3. Subir de 32 para 36 mm reduz luxação** | revisão por luxação **32 mm 0,68% × 36 mm 0,46%** (P < 0,001) | **Bender 2025 · J Arthroplasty · registro americano AJRR · 319.531 ATQs · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/)** |
+| **4. Confirmação — registro holandês** | revisão por luxação **1,4% (22–28 mm) → 0,9% (32 mm) → 0,6% (36 mm)** | van Steenbergen 2023 · registro LROI · 269.280 ATQs · [PMID 36935558](https://pubmed.ncbi.nlm.nih.gov/36935558/) |
+| **5. Confirmação — registro australiano** | 36 mm com menos luxação que 28 mm (**HR 0,33**; IC 0,16–0,68) e que 32 mm (**HR 0,44**; IC 0,22–0,88) | Hoskins 2022 · JBJS · registro AOANJRR · 188.591 ATQs · [PMID 35703140](https://pubmed.ncbi.nlm.nih.gov/35703140/) — ⚠️ valores da **errata** publicada; o subgrupo é o de taças < 51 mm |
+| **6. E não custa revisão** | subir de 32 para 36 mm **não** aumentou revisão, exceto no par metal-metal | English 2023 · registro neozelandês NZJR · 60.051 ATQs · [PMID 37932243](https://pubmed.ncbi.nlm.nih.gov/37932243/) |
+| ⛔ **7. O TETO: com ≥ 40 mm o benefício acaba e o dano começa** | luxação **não cai mais** (≥ 40 mm 0,51% × 36 mm 0,46%) · revisão por **qualquer causa** 2,78% (× 2,37% do 36 mm) · **infecção 0,82% × 0,53% (36 mm) × 0,43% (32 mm)** — P < 0,001 | Bender 2025 · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/) |
+| **8. Com polietileno reticulado, o tamanho não compromete a sobrevida — até 36 mm** | < 32 × 32 × > 32 mm: sem diferença de sobrevida | Allepuz 2014 · consórcio ICOR · 6 registros · 14.372 ATQs · [PMID 25520414](https://pubmed.ncbi.nlm.nih.gov/25520414/) — ⚠️ **restrito a 45–64 anos e a 5 anos de seguimento**, curto para desgaste; a categoria "> 32 mm" é agregada (IC 0,70–1,55) · **superado: a linha 7 mostra que, a partir de 40 mm, existe sinal de dano que esta categoria agregada não conseguia enxergar** |
+| **9. No paciente com fusão lombar** | cabeça ≥ 32 mm associada a menos luxação: 32 mm HR 0,71 · 36 mm HR 0,70 | Mononen 2020 · registro finlandês · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) — ⚠️ **não é possível provar pelo resumo que estes HR são do subgrupo com fusão** e não da coorte inteira; no mesmo estudo, **38 mm não foi significativo** (HR 0,81; P = 0,140) e **38 e 40 mm tiveram MAIS revisão** que 28 mm · **sem sucessor: nenhum registro posterior reanalisou tamanho de cabeça especificamente no subgrupo com fusão lombar** |
+| **10. Cabeça grande × dupla mobilidade** | revisão por luxação **sem diferença** entre dupla mobilidade e cabeça ≥ 36 mm; a dupla mobilidade vence só na taça < 58 mm (HR 0,55) | Hoskins 2021 · AOANJRR · 106.163 ATQs · [PMID 34088570](https://pubmed.ncbi.nlm.nih.gov/34088570/) |
+
+**CONDUTA:** planejar **36 mm sempre que o diâmetro da taça comportar** com polietileno reticulado de espessura adequada — e **não passar disso**: de 40 mm em diante não há ganho de estabilidade e há custo em revisão e infecção. Piso absoluto de 32 mm; nunca abaixo disso no paciente de risco de instabilidade. Lembrar a unidade 4.2: cabeça maior com liner neutro protege mais que cabeça menor com rebordo.
+
+**Discussão.** Esta unidade foi invertida pela auditoria de recência, e o motivo é instrutivo. Até 2018, o registro nórdico sustentava que 32 mm era o ponto ótimo: sair de 28 para 32 comprava estabilidade, mas ir a 36 não acrescentava nada e ainda custava revisão. Essa conclusão orientou uma geração de planejamentos — e **quatro registros nacionais publicados desde então a derrubaram**, todos na mesma direção: o americano com 319 mil casos, o holandês com 269 mil, o australiano com 188 mil e o neozelandês com 60 mil. O holandês é o mais didático porque mostra a escada inteira: 1,4% com 28 mm, 0,9% com 32, **0,6% com 36**. E o neozelandês responde à objeção que sustentava o 32: fora do par metal-metal, subir para 36 **não** custa revisão. O que o registro americano acrescenta, e que não existia no debate antigo, é o **teto** — e ele é a parte mais útil desta unidade para o planejamento. Passar de 36 para 40 mm não compra estabilidade adicional (0,51% × 0,46%), mas compra dois problemas: revisão por qualquer causa e, sobretudo, **infecção quase dobrada** (0,82% × 0,43% do 32 mm). A leitura honesta é que todos esses dados são de **registro observacional** — o tamanho da cabeça é escolha do cirurgião e correlaciona com tamanho de taça, sexo e via de acesso, e o estudo americano é restrito ao Medicare acima de 65 anos. Mas quando quatro registros independentes, em quatro países, com mais de 800 mil artroplastias somadas, apontam para o mesmo lado, a conclusão de 2018 não é mais defensável. A decisão de planejamento fica com um formato simples: **medir a taça no template e mirar 36 mm, com o teto em 36.**
+
+
+---
+
+## SLIDE S12 · Reparo capsular na via posterior: o maior efeito isolado sobre a luxação
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -537,7 +577,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S12 · Restrições pós-operatórias na via posterior: sem benefício quando há reparo capsular
+## SLIDE S13 · Restrições pós-operatórias na via posterior: sem benefício quando há reparo capsular
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -571,7 +611,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S13 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento
+## SLIDE S14 · Fixação femoral: indicações de cimentação e perfil temporal do risco do cimento
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -655,41 +695,21 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S14 · Diâmetro e material da cabeça femoral: 36 mm em cerâmica, quando o diâmetro acetabular permite
+## SLIDE S15 · Par tribológico: polietileno reticulado sempre — e a cabeça de 36 mm, de cerâmica
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Luxação: 36 mm **0,46%** × 32 mm **0,68%** (4 registros nacionais)
-- ≥ 40 mm: sem ganho · mais revisão e infecção
-- Cerâmica no jovem (HR 0,73 < 55 anos) · corrosão concentrada no cobalto-cromo
-- Conduta: **36 mm em cerâmica** · polietileno reticulado sempre
+- Polietileno reticulado: revisão em 16 anos **6,2% × 11,7%** — pergunta encerrada
+- Cerâmica no jovem: **HR 0,73** (< 55 anos) · acima de 55, equivalente ao metal
+- Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
+- Desgaste do 36 mm sobre reticulado: **0,01–0,10 mm em 14 anos** (ensaio randomizado)
+- Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Quatro registros nacionais demonstram menor revisão por luxação com cabeça de 36 mm em comparação com 32 mm (0,46% versus 0,68%); a partir de 40 mm, o benefício cessa e a revisão e a infecção aumentam (0,82% versus 0,43%). A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, há equivalência com o metal. O risco de corrosão das cabeças ≥ 36 mm concentra-se no cobalto-cromo — as duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
+O polietileno reticulado divide aproximadamente pela metade a revisão em dezesseis anos de registro (6,2% versus 11,7%) — pergunta encerrada. A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, é equivalente ao metal. Retomando a cabeça de 36 mm recomendada no bloco da instabilidade, agora sob o aspecto tribológico: o risco de corrosão do cone nas cabeças de 36 mm ou mais concentra-se no cobalto-cromo e em duas hastes especificamente identificadas — não é argumento contra o diâmetro, é argumento pela cerâmica. O ensaio randomizado com radioestereometria remove a última objeção: o desgaste do 36 mm sobre polietileno reticulado é de centésimos de milímetro em catorze anos. As duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [4.3] Que tamanho de cabeça femoral planejar?
-
-**RESPOSTA · 36 mm quando a taça comporta — e o benefício tem TETO em 36: com 40 mm ou mais a luxação não cai e a revisão e a infecção sobem.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. Sair de 28 para 32 mm compra estabilidade** | 28 mm tem **mais revisão por luxação: HR 1,67** (IC 1,38–1,98) | Tsikandylakis 2018 · registro nórdico NARA · 186.231 ATQs · [PMID 30260863](https://pubmed.ncbi.nlm.nih.gov/30260863/) · **clássico: casuística que estabeleceu o piso de 32 mm; nenhum registro posterior contestou esta parte** |
-| ⚠️ **2. A parte deste estudo que NÃO se sustenta mais** | ele concluía que 36 × 32 mm não reduzia luxação (HR 0,85; não significativo) e custava mais revisão global (HR 1,14). **Quatro registros nacionais posteriores reverteram esta conclusão** (linhas 3–6) | Tsikandylakis 2018 · **superado: fica no texto de propósito, para mostrar qual conclusão mudou e por quê — é o eixo didático desta unidade** |
-| **3. Subir de 32 para 36 mm reduz luxação** | revisão por luxação **32 mm 0,68% × 36 mm 0,46%** (P < 0,001) | **Bender 2025 · J Arthroplasty · registro americano AJRR · 319.531 ATQs · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/)** |
-| **4. Confirmação — registro holandês** | revisão por luxação **1,4% (22–28 mm) → 0,9% (32 mm) → 0,6% (36 mm)** | van Steenbergen 2023 · registro LROI · 269.280 ATQs · [PMID 36935558](https://pubmed.ncbi.nlm.nih.gov/36935558/) |
-| **5. Confirmação — registro australiano** | 36 mm com menos luxação que 28 mm (**HR 0,33**; IC 0,16–0,68) e que 32 mm (**HR 0,44**; IC 0,22–0,88) | Hoskins 2022 · JBJS · registro AOANJRR · 188.591 ATQs · [PMID 35703140](https://pubmed.ncbi.nlm.nih.gov/35703140/) — ⚠️ valores da **errata** publicada; o subgrupo é o de taças < 51 mm |
-| **6. E não custa revisão** | subir de 32 para 36 mm **não** aumentou revisão, exceto no par metal-metal | English 2023 · registro neozelandês NZJR · 60.051 ATQs · [PMID 37932243](https://pubmed.ncbi.nlm.nih.gov/37932243/) |
-| ⛔ **7. O TETO: com ≥ 40 mm o benefício acaba e o dano começa** | luxação **não cai mais** (≥ 40 mm 0,51% × 36 mm 0,46%) · revisão por **qualquer causa** 2,78% (× 2,37% do 36 mm) · **infecção 0,82% × 0,53% (36 mm) × 0,43% (32 mm)** — P < 0,001 | Bender 2025 · [PMID 40015384](https://pubmed.ncbi.nlm.nih.gov/40015384/) |
-| **8. Com polietileno reticulado, o tamanho não compromete a sobrevida — até 36 mm** | < 32 × 32 × > 32 mm: sem diferença de sobrevida | Allepuz 2014 · consórcio ICOR · 6 registros · 14.372 ATQs · [PMID 25520414](https://pubmed.ncbi.nlm.nih.gov/25520414/) — ⚠️ **restrito a 45–64 anos e a 5 anos de seguimento**, curto para desgaste; a categoria "> 32 mm" é agregada (IC 0,70–1,55) · **superado: a linha 7 mostra que, a partir de 40 mm, existe sinal de dano que esta categoria agregada não conseguia enxergar** |
-| **9. No paciente com fusão lombar** | cabeça ≥ 32 mm associada a menos luxação: 32 mm HR 0,71 · 36 mm HR 0,70 | Mononen 2020 · registro finlandês · [PMID 32731818](https://pubmed.ncbi.nlm.nih.gov/32731818/) — ⚠️ **não é possível provar pelo resumo que estes HR são do subgrupo com fusão** e não da coorte inteira; no mesmo estudo, **38 mm não foi significativo** (HR 0,81; P = 0,140) e **38 e 40 mm tiveram MAIS revisão** que 28 mm · **sem sucessor: nenhum registro posterior reanalisou tamanho de cabeça especificamente no subgrupo com fusão lombar** |
-| **10. Cabeça grande × dupla mobilidade** | revisão por luxação **sem diferença** entre dupla mobilidade e cabeça ≥ 36 mm; a dupla mobilidade vence só na taça < 58 mm (HR 0,55) | Hoskins 2021 · AOANJRR · 106.163 ATQs · [PMID 34088570](https://pubmed.ncbi.nlm.nih.gov/34088570/) |
-
-**CONDUTA:** planejar **36 mm sempre que o diâmetro da taça comportar** com polietileno reticulado de espessura adequada — e **não passar disso**: de 40 mm em diante não há ganho de estabilidade e há custo em revisão e infecção. Piso absoluto de 32 mm; nunca abaixo disso no paciente de risco de instabilidade. Lembrar a unidade 4.2: cabeça maior com liner neutro protege mais que cabeça menor com rebordo.
-
-**Discussão.** Esta unidade foi invertida pela auditoria de recência, e o motivo é instrutivo. Até 2018, o registro nórdico sustentava que 32 mm era o ponto ótimo: sair de 28 para 32 comprava estabilidade, mas ir a 36 não acrescentava nada e ainda custava revisão. Essa conclusão orientou uma geração de planejamentos — e **quatro registros nacionais publicados desde então a derrubaram**, todos na mesma direção: o americano com 319 mil casos, o holandês com 269 mil, o australiano com 188 mil e o neozelandês com 60 mil. O holandês é o mais didático porque mostra a escada inteira: 1,4% com 28 mm, 0,9% com 32, **0,6% com 36**. E o neozelandês responde à objeção que sustentava o 32: fora do par metal-metal, subir para 36 **não** custa revisão. O que o registro americano acrescenta, e que não existia no debate antigo, é o **teto** — e ele é a parte mais útil desta unidade para o planejamento. Passar de 36 para 40 mm não compra estabilidade adicional (0,51% × 0,46%), mas compra dois problemas: revisão por qualquer causa e, sobretudo, **infecção quase dobrada** (0,82% × 0,43% do 32 mm). A leitura honesta é que todos esses dados são de **registro observacional** — o tamanho da cabeça é escolha do cirurgião e correlaciona com tamanho de taça, sexo e via de acesso, e o estudo americano é restrito ao Medicare acima de 65 anos. Mas quando quatro registros independentes, em quatro países, com mais de 800 mil artroplastias somadas, apontam para o mesmo lado, a conclusão de 2018 não é mais defensável. A decisão de planejamento fica com um formato simples: **medir a taça no template e mirar 36 mm, com o teto em 36.**
 
 ## [4.4] Que par tribológico? Polietileno reticulado sempre; cabeça cerâmica de preferência
 
@@ -725,9 +745,91 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 ---
 
 
-# ATO 3 — OTIMIZAÇÃO CLÍNICA E PROTOCOLO FARMACOLÓGICO (posicionado ao final por decisão do Dr. — candidato a corte)
+# ATO 3 — SÍNTESE
 
-## SLIDE S15 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
+## SLIDE S16 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- **93,6%** sem revisão aos **20 anos** (8 registros · 1.904.237 ATQs)
+- 25 anos: 92,8% · 30 anos: 92,1% — **projeção por modelo**
+- Dado medido ≠ projeção: citar sempre com a distinção
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos implantes com pares tribológicos modernos permanecem sem revisão aos 20 anos — dado medido em registro. Os valores de 25 anos (92,8%) e 30 anos (92,1%) são extrapolação por modelo estatístico, não seguimento observado, e devem ser citados como projeção.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [4.4.1] Quanto dura uma artroplastia moderna — o que responder ao paciente?
+
+**RESPOSTA · 93,6% sem revisão em 20 ANOS. Os "30 anos" que circulam são projeção estatística, não seguimento de paciente.**
+
+| Evidência | Número | Fonte |
+|---|---|---|
+| **1. O que é o estudo** | revisão sistemática e metanálise restrita a **pares modernos** (polietileno reticulado com cabeça de metal ou de cerâmica de 3ª/4ª geração, e cerâmica-cerâmica): **1.904.237 artroplastias** — 1.899.034 de **8 registros nacionais** e 5.203 de 29 estudos clínicos. Busca em MEDLINE e Embase até 13/06/2024, incluindo apenas trabalhos com **mínimo de 10 anos** de sobrevida. Protocolo registrado (PROSPERO CRD42024572518) | **Pentland 2026 · The Lancet · [PMID 41763743](https://pubmed.ncbi.nlm.nih.gov/41763743/) · [DOI](https://doi.org/10.1016/S0140-6736(25)02305-0)** |
+| ✅ **2. O número MEDIDO — este é o que se cita** | sobrevida livre de revisão por qualquer causa, a partir dos dados de registro: **93,6% (IC 95% 92,3–94,7) AOS 20 ANOS** | Pentland 2026 |
+| ⚠️ **3. Os números PROJETADOS — só com a palavra "projeção"** | **25 anos: 92,8% (91,2–94,2)** · **30 anos: 92,1% (90,1–93,7)**. Obtidos, nas palavras dos autores, *"extrapolando os dados extraídos para estimar a sobrevida até 30 anos, usando o modelo multivariável de efeitos aleatórios a partir dos dados de registro"* | Pentland 2026 |
+| **4. Por que não existe seguimento real de 30 anos** | o polietileno reticulado entrou em uso clínico no fim dos anos 1990 — o registro australiano contabiliza seu uso **a partir de 1999**. Não há, em 2026, coorte alguma no mundo com 30 anos de seguimento desses materiais: a projeção não é preguiça dos autores, é **impossibilidade temporal** | de Steiger 2018 · AOANJRR (período do registro: 1999–2016) · [PMID 30063590](https://pubmed.ncbi.nlm.nih.gov/30063590/) · **clássico: é o registro que documenta o início do uso clínico do reticulado, referência temporal que nenhum trabalho posterior substitui** |
+| ⚠️ **5. Duas fontes no mesmo artigo, dois números diferentes** | os 29 **estudos clínicos** agrupados dão sobrevida de **0,97 (IC 0,96–0,98)**; os **registros** dão **93,6%**. Séries de centros selecionados relatam desempenho melhor que registros nacionais, que capturam todos os cirurgiões e todos os serviços | Pentland 2026 — ⚠️ o resumo **não informa a que horizonte temporal** corresponde o 0,97, o que impede comparação direta com os 93,6% de 20 anos |
+| ⚠️ **6. O que o resumo NÃO publica** | não há valores de **10 nem de 15 anos**; e, embora o objetivo declarado inclua comparar as combinações de par tribológico, **a quebra por par não consta do resumo** — para escolher material, o dado direto está na unidade 4.4 | Pentland 2026 |
+
+**CONDUTA:** ao responder à pergunta do paciente *"quanto dura?"*, usar **93,6% em 20 anos** — é o horizonte com dado medido em registro. Ao citar 25 ou 30 anos, acompanhar obrigatoriamente da palavra **"projeção"**. Para decidir **material**, não usar este estudo: usar o dado direto por par tribológico da unidade 4.4.
+
+**Discussão.** Este artigo merece uma unidade própria por dois motivos: é o melhor número disponível para a pergunta que todo paciente faz, e é o número mais fácil de citar errado.
+
+**O que ele mede.** Quase dois milhões de artroplastias, oito registros nacionais, restrito de propósito aos pares que se usam hoje — o que o diferencia das séries históricas que misturam polietileno convencional e metal-metal e, por isso, subestimam a durabilidade atual. O resultado é robusto e é bom: **em vinte anos, mais de nove em cada dez artroplastias não foram revisadas.**
+
+**O que ele projeta.** Os valores de vinte e cinco e trinta anos não vêm de paciente nenhum: vêm de uma equação. Os autores ajustaram um modelo estatístico à curva observada e prolongaram essa curva além do último ponto medido. O procedimento é legítimo e explicitamente declarado — o problema seria repeti-lo sem a ressalva.
+
+**Por que a ressalva importa clinicamente.** A extrapolação assume que a curva continua depois dos vinte anos com o mesmo comportamento que teve antes. Curvas de revisão de artroplastia, porém, tendem a apresentar inflexão tardia: falhas por desgaste do polietileno e por soltura asséptica dependem de tempo e de ciclos de carga acumulados, e se concentram no fim da vida do implante, não no começo. Se essa inflexão existir depois dos vinte anos, os 92% projetados são otimistas. Ninguém sabe ainda — e é exatamente por isso que a palavra "projeção" não é preciosismo estatístico: é a diferença entre informar e prometer.
+
+**Por que não há como saber.** O polietileno reticulado entrou em uso no fim dos anos 1990. Trinta anos de seguimento com esse material simplesmente **não existem em 2026**, em nenhum registro do mundo. A projeção preenche uma lacuna que o tempo ainda não permitiu fechar.
+
+**Uma observação sobre as duas fontes.** O mesmo artigo traz sobrevida de 97% quando agrupa estudos clínicos e de 93,6% quando usa registros. A diferença não é erro: estudos clínicos são publicados por centros que decidiram publicar, com casuísticas selecionadas; registros nacionais capturam todo mundo — o cirurgião de alto volume e o de baixo, o caso simples e o difícil. **Quando as duas fontes divergem, o registro é o número honesto para informar o paciente**, porque ele descreve a prática real, não a melhor prática.
+
+
+---
+
+## SLIDE S17 · Síntese: condutas de planejamento com impacto demonstrado no desfecho
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Tecnologias: melhoram o alvo técnico
+- Desfecho clínico: modificado por decisões de planejamento de baixo custo
+- Quadro-síntese na ordem cronológica das decisões
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos sem modificar o desfecho clínico. As condutas com impacto demonstrado no desfecho são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
+
+**BASE DE EVIDÊNCIA (o quadro-síntese do slide):**
+
+# SÍNTESE — a tese fechada
+
+| Decisão | Conduta | Número-chave |
+|---|---|---|
+| Otimização clínica | descolonizar a pele · glicemia do dia · **detectar** anemia na indicação · cessação de tabagismo | pele OR 0,43 · cessação 52→18% |
+| Imagem | RX com calibração de dupla escala + template (manual ou digital); 3D só anatomia atípica | manual ≥ digital (p<0,001) · erro 12,5% → 2,1% |
+| Execução | tecnologia não muda função; sinal observacional em luxação/infecção | SMD 0,01 · HR 0,947 |
+| Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | OHS 42 × 40 (P=0,003) |
+| Construto/via | DM no risco (inclui fratura do colo); **cabeça 36 mm, teto em 36**; XLPE + cerâmica; reparo capsular; PENG | 36 mm 0,46% × 32 mm 0,68% · RR ~8 (IC 4–17) |
+| Ordem quadril-coluna | a fusão é o risco; a ordem não muda desfecho | luxação 7× (fusão) |
+| Bilateral | simultânea no selecionado, com estratégia de sangue | OR 0,44 × OR 0,85 (diverge) · OR 4,42 transfusão |
+| Fixação | cimentar: mulher ≥70,5 · fx colo · osso ruim — risco do cimento é **agudo** (dia 0–1), não tardio | fratura OR 0,22 · morte dia 0–1: 0,4% absoluto |
+| Reconstrução | offset + centro de rotação; comprimento não prediz função | força abdutora 5 mm · PROM 20 mm |
+| Protocolo | TXA intravenoso · cefazolina 21–30 min · aspirina de rotina · dexametasona | TXA RR ~0,48 · atraso OR 2,0 · náusea OR 0,21 |
+| Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
+
+**A tecnologia melhora o alvo técnico. O desfecho, quem melhora é o planejamento.**
+
+
+---
+
+
+# APÊNDICE CLÍNICO-FARMACOLÓGICO — FORA DA PALESTRA (decisão do Dr., 18/08: em princípio não haverá tempo para conteúdo clínico; material completo mantido para consulta)
+
+## SLIDE A1 · Tabagismo: a cessação pré-operatória reduz complicações — evidência de nível 1
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -771,7 +873,7 @@ Isso não significa que os estudos sejam ruins nem que a resposta seja desconhec
 
 ---
 
-## SLIDE S16 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
+## SLIDE A2 · Prevenção de infecção na consulta de indicação: descolonização cutânea e controle glicêmico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -854,7 +956,7 @@ O banho pré-operatório com clorexidina reduz a infecção de sítio cirúrgico
 
 ---
 
-## SLIDE S17 · Protocolo farmacológico perioperatório
+## SLIDE A3 · Protocolo farmacológico perioperatório
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -980,92 +1082,7 @@ Três honestidades que devem ser ditas no palco. **Primeira:** a base randomizad
 
 ---
 
-
-# ATO 4 — SÍNTESE
-
-## SLIDE S18 · Sobrevida do implante com pares tribológicos modernos: dado medido versus projeção
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- **93,6%** sem revisão aos **20 anos** (8 registros · 1.904.237 ATQs)
-- 25 anos: 92,8% · 30 anos: 92,1% — **projeção por modelo**
-- Dado medido ≠ projeção: citar sempre com a distinção
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos implantes com pares tribológicos modernos permanecem sem revisão aos 20 anos — dado medido em registro. Os valores de 25 anos (92,8%) e 30 anos (92,1%) são extrapolação por modelo estatístico, não seguimento observado, e devem ser citados como projeção.
-
-**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
-
-## [4.4.1] Quanto dura uma artroplastia moderna — o que responder ao paciente?
-
-**RESPOSTA · 93,6% sem revisão em 20 ANOS. Os "30 anos" que circulam são projeção estatística, não seguimento de paciente.**
-
-| Evidência | Número | Fonte |
-|---|---|---|
-| **1. O que é o estudo** | revisão sistemática e metanálise restrita a **pares modernos** (polietileno reticulado com cabeça de metal ou de cerâmica de 3ª/4ª geração, e cerâmica-cerâmica): **1.904.237 artroplastias** — 1.899.034 de **8 registros nacionais** e 5.203 de 29 estudos clínicos. Busca em MEDLINE e Embase até 13/06/2024, incluindo apenas trabalhos com **mínimo de 10 anos** de sobrevida. Protocolo registrado (PROSPERO CRD42024572518) | **Pentland 2026 · The Lancet · [PMID 41763743](https://pubmed.ncbi.nlm.nih.gov/41763743/) · [DOI](https://doi.org/10.1016/S0140-6736(25)02305-0)** |
-| ✅ **2. O número MEDIDO — este é o que se cita** | sobrevida livre de revisão por qualquer causa, a partir dos dados de registro: **93,6% (IC 95% 92,3–94,7) AOS 20 ANOS** | Pentland 2026 |
-| ⚠️ **3. Os números PROJETADOS — só com a palavra "projeção"** | **25 anos: 92,8% (91,2–94,2)** · **30 anos: 92,1% (90,1–93,7)**. Obtidos, nas palavras dos autores, *"extrapolando os dados extraídos para estimar a sobrevida até 30 anos, usando o modelo multivariável de efeitos aleatórios a partir dos dados de registro"* | Pentland 2026 |
-| **4. Por que não existe seguimento real de 30 anos** | o polietileno reticulado entrou em uso clínico no fim dos anos 1990 — o registro australiano contabiliza seu uso **a partir de 1999**. Não há, em 2026, coorte alguma no mundo com 30 anos de seguimento desses materiais: a projeção não é preguiça dos autores, é **impossibilidade temporal** | de Steiger 2018 · AOANJRR (período do registro: 1999–2016) · [PMID 30063590](https://pubmed.ncbi.nlm.nih.gov/30063590/) · **clássico: é o registro que documenta o início do uso clínico do reticulado, referência temporal que nenhum trabalho posterior substitui** |
-| ⚠️ **5. Duas fontes no mesmo artigo, dois números diferentes** | os 29 **estudos clínicos** agrupados dão sobrevida de **0,97 (IC 0,96–0,98)**; os **registros** dão **93,6%**. Séries de centros selecionados relatam desempenho melhor que registros nacionais, que capturam todos os cirurgiões e todos os serviços | Pentland 2026 — ⚠️ o resumo **não informa a que horizonte temporal** corresponde o 0,97, o que impede comparação direta com os 93,6% de 20 anos |
-| ⚠️ **6. O que o resumo NÃO publica** | não há valores de **10 nem de 15 anos**; e, embora o objetivo declarado inclua comparar as combinações de par tribológico, **a quebra por par não consta do resumo** — para escolher material, o dado direto está na unidade 4.4 | Pentland 2026 |
-
-**CONDUTA:** ao responder à pergunta do paciente *"quanto dura?"*, usar **93,6% em 20 anos** — é o horizonte com dado medido em registro. Ao citar 25 ou 30 anos, acompanhar obrigatoriamente da palavra **"projeção"**. Para decidir **material**, não usar este estudo: usar o dado direto por par tribológico da unidade 4.4.
-
-**Discussão.** Este artigo merece uma unidade própria por dois motivos: é o melhor número disponível para a pergunta que todo paciente faz, e é o número mais fácil de citar errado.
-
-**O que ele mede.** Quase dois milhões de artroplastias, oito registros nacionais, restrito de propósito aos pares que se usam hoje — o que o diferencia das séries históricas que misturam polietileno convencional e metal-metal e, por isso, subestimam a durabilidade atual. O resultado é robusto e é bom: **em vinte anos, mais de nove em cada dez artroplastias não foram revisadas.**
-
-**O que ele projeta.** Os valores de vinte e cinco e trinta anos não vêm de paciente nenhum: vêm de uma equação. Os autores ajustaram um modelo estatístico à curva observada e prolongaram essa curva além do último ponto medido. O procedimento é legítimo e explicitamente declarado — o problema seria repeti-lo sem a ressalva.
-
-**Por que a ressalva importa clinicamente.** A extrapolação assume que a curva continua depois dos vinte anos com o mesmo comportamento que teve antes. Curvas de revisão de artroplastia, porém, tendem a apresentar inflexão tardia: falhas por desgaste do polietileno e por soltura asséptica dependem de tempo e de ciclos de carga acumulados, e se concentram no fim da vida do implante, não no começo. Se essa inflexão existir depois dos vinte anos, os 92% projetados são otimistas. Ninguém sabe ainda — e é exatamente por isso que a palavra "projeção" não é preciosismo estatístico: é a diferença entre informar e prometer.
-
-**Por que não há como saber.** O polietileno reticulado entrou em uso no fim dos anos 1990. Trinta anos de seguimento com esse material simplesmente **não existem em 2026**, em nenhum registro do mundo. A projeção preenche uma lacuna que o tempo ainda não permitiu fechar.
-
-**Uma observação sobre as duas fontes.** O mesmo artigo traz sobrevida de 97% quando agrupa estudos clínicos e de 93,6% quando usa registros. A diferença não é erro: estudos clínicos são publicados por centros que decidiram publicar, com casuísticas selecionadas; registros nacionais capturam todo mundo — o cirurgião de alto volume e o de baixo, o caso simples e o difícil. **Quando as duas fontes divergem, o registro é o número honesto para informar o paciente**, porque ele descreve a prática real, não a melhor prática.
-
-
----
-
-## SLIDE S19 · Síntese: condutas de planejamento com impacto demonstrado no desfecho
-
-**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
-
-- Tecnologias: melhoram o alvo técnico
-- Desfecho clínico: modificado por decisões de planejamento de baixo custo
-- Quadro-síntese na ordem cronológica das decisões
-
-**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
-
-As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos sem modificar o desfecho clínico. As condutas com impacto demonstrado no desfecho são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
-
-**BASE DE EVIDÊNCIA (o quadro-síntese do slide):**
-
-# SÍNTESE — a tese fechada
-
-| Decisão | Conduta | Número-chave |
-|---|---|---|
-| Otimização clínica | descolonizar a pele · glicemia do dia · **detectar** anemia na indicação · cessação de tabagismo | pele OR 0,43 · cessação 52→18% |
-| Imagem | RX com calibração de dupla escala + template (manual ou digital); 3D só anatomia atípica | manual ≥ digital (p<0,001) · erro 12,5% → 2,1% |
-| Execução | tecnologia não muda função; sinal observacional em luxação/infecção | SMD 0,01 · HR 0,947 |
-| Alvo da taça | funcional na coluna rígida; CSI + anteversão + DM | OHS 42 × 40 (P=0,003) |
-| Construto/via | DM no risco (inclui fratura do colo); **cabeça 36 mm, teto em 36**; XLPE + cerâmica; reparo capsular; PENG | 36 mm 0,46% × 32 mm 0,68% · RR ~8 (IC 4–17) |
-| Ordem quadril-coluna | a fusão é o risco; a ordem não muda desfecho | luxação 7× (fusão) |
-| Bilateral | simultânea no selecionado, com estratégia de sangue | OR 0,44 × OR 0,85 (diverge) · OR 4,42 transfusão |
-| Fixação | cimentar: mulher ≥70,5 · fx colo · osso ruim — risco do cimento é **agudo** (dia 0–1), não tardio | fratura OR 0,22 · morte dia 0–1: 0,4% absoluto |
-| Reconstrução | offset + centro de rotação; comprimento não prediz função | força abdutora 5 mm · PROM 20 mm |
-| Protocolo | TXA intravenoso · cefazolina 21–30 min · aspirina de rotina · dexametasona | TXA RR ~0,48 · atraso OR 2,0 · náusea OR 0,21 |
-| Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
-
-**A tecnologia melhora o alvo técnico. O desfecho, quem melhora é o planejamento.**
-
-
----
-
-
-# SLIDES-RESERVA (entram no deck — o corte é decisão do Dr., ao final; ordem sugerida: R6 primeiro)
-
-## SLIDE-RESERVA R1 · Anemia pré-operatória: detecção na indicação e manejo baseado em evidência
+## SLIDE A4 · Anemia pré-operatória: detecção na indicação e manejo baseado em evidência
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1116,7 +1133,7 @@ E se a pergunta é "o que reduz transfusão", a resposta está na mesma revisão
 
 ---
 
-## SLIDE-RESERVA R2 · Frutosamina: marcador de reclassificação de risco, sem validação como critério de adiamento
+## SLIDE A5 · Frutosamina: marcador de reclassificação de risco, sem validação como critério de adiamento
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1165,7 +1182,10 @@ A frutosamina identifica pacientes de risco com HbA1c aparentemente adequada: 4 
 
 ---
 
-## SLIDE-RESERVA R3 · Artrodese lombar prévia: o risco decorre da artrodese, não da sequência cirúrgica
+
+# SLIDES-RESERVA (entram no deck — o corte é decisão do Dr., ao final; ordem sugerida: R4 primeiro)
+
+## SLIDE-RESERVA R1 · Artrodese lombar prévia: o risco decorre da artrodese, não da sequência cirúrgica
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1200,7 +1220,7 @@ O risco de luxação no paciente com artrodese lombar decorre da artrodese em si
 
 ---
 
-## SLIDE-RESERVA R4 · Restauração do offset: limiares distintos por desfecho
+## SLIDE-RESERVA R2 · Restauração do offset: limiares distintos por desfecho
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1248,7 +1268,7 @@ Duas honestidades finais. A primeira é sobre o alvo de ± 2,5 mm: ele vem de um
 
 ---
 
-## SLIDE-RESERVA R5 · Polietileno com rebordo elevado: evidência conflitante entre registros
+## SLIDE-RESERVA R3 · Polietileno com rebordo elevado: evidência conflitante entre registros
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1281,7 +1301,7 @@ Os registros divergem quanto ao liner com rebordo elevado: o inglês (213.146 ar
 
 ---
 
-## SLIDE-RESERVA R6 · Artroplastia bilateral: simultânea versus estagiada
+## SLIDE-RESERVA R4 · Artroplastia bilateral: simultânea versus estagiada
 
 **TEXTO DO SLIDE (resumo em tópicos):**
 
@@ -1323,18 +1343,20 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S2 → S3:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
 - **S8 → S9:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
 - **S9 → S10:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S10 → S11:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S12 → S13:** "Encerrado o bloco da instabilidade, seguem a fixação femoral e o par tribológico."
-- **S14 → S15:** "As decisões restantes são clínicas e farmacológicas — apresentadas ao final da exposição."
-- **S18:** a estimativa de sobrevida do implante responde à pergunta mais frequente do paciente e encerra a apresentação com o dado de maior horizonte temporal.
+- **S10 → S11:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S11 → S12:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S13 → S14:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S14 → S15:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S15 → S16:** "Definido o par tribológico, a pergunta final é a sobrevida do implante — a resposta que o paciente pede."
+- **S16:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
 1. S4 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
 2. S8 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
 3. S9 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-4. S13 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-5. S18 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+4. S14 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+5. S16 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
