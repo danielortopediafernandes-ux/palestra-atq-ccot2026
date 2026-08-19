@@ -253,7 +253,7 @@ A calibração convencional com marcador externo único carrega erro médio de m
 - Desfecho relatado pelo paciente: **sem diferença** (ensaio randomizado)
 - Modelo impresso: ensaio corresponde à cirurgia (ICC 0,93) — anatomia complexa
   *Zhang · Orthop Surg · 2021 · PMID 34898037*
-- Conduta: 2D na rotina · impressão 3D na displasia e revisão
+- Conduta: 2D na rotina · impressão 3D na displasia e anatomia complexa
   *Thomas · RCT · 2022 · PMID 36183111 · Zhang · Orthop Surg · 2021 · PMID 34898037*
 
 **CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não na rotina — maior acurácia sem alteração de desfecho; o modelo impresso reserva-se à anatomia complexa.
@@ -290,7 +290,7 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho do comp
 | **Displasia (Crowe I–IV) — a maior série atual** | diferença do centro de rotação **vertical 14,5 → 3,8 mm** e **horizontal 11,4 → 2,0 mm**; Harris Hip Score 82,6 (3 meses) → **90,4** no último seguimento | **Zhao 2025 · J Arthroplasty · 85 pacientes / 106 quadris · seguimento médio 26,8 meses · [PMID 40368076](https://pubmed.ncbi.nlm.nih.gov/40368076/)** — ⚠️ retrospectivo **sem grupo-controle**; e a intervenção é **implante acetabular customizado impresso**, não o modelo de planejamento — são tecnologias distintas e não devem ser somadas |
 | Crowe IV — simulação + guias impressos | Harris Hip Score 34,2 → 85,2 · discrepância de comprimento **51,5 → 10,2 mm** | Tu 2020 · Hip Int · 12 pacientes · [PMID 32750257](https://pubmed.ncbi.nlm.nih.gov/32750257/) · **sem sucessor: continua sendo a única série de guias impressos em Crowe IV; a série de 2025 usa implante customizado, que é outra pergunta** ⚠️ **12 pacientes, retrospectivo, sem controle** — qualquer artroplastia em Crowe IV melhora muito, então o ganho não pode ser atribuído ao guia; 2 dos 12 tiveram complicação |
 
-**CONDUTA:** indicar o **modelo impresso** na anatomia atípica (displasia/Crowe, deformidade grave, revisão) para ensaiar redução, defeito ósseo, tamanho e posição antes da mesa — não na artrose de rotina.
+**CONDUTA:** indicar o **modelo impresso** na anatomia atípica (displasia/Crowe, deformidade grave) para ensaiar redução, defeito ósseo, tamanho e posição antes da mesa — não na artrose de rotina. *(A aplicação em revisão é plausível, mas as fontes citadas aqui são de displasia; não incluir "revisão" sem fonte própria.)*
 
 **Discussão.** São duas tecnologias distintas e a evidência não se mistura: o **3D por imagem** (unidade 1.2) planeja na tela — melhora o dimensionamento, não muda PROM na rotina. A **impressão 3D** produz o osso do paciente na mão: reamar o acetábulo do modelo, testar o componente acetabular, medir o defeito, decidir a osteotomia um dia antes de abrir. Os pilotos mostram que o que se encontra no ensaio é o que se encontra na cirurgia (componente acetabular ICC 0,93; defeito ósseo P = 0,97). Atenção a um limite de precisão: o estudo de Zhao que reconstrói o centro de rotação usa **implante customizado impresso** — tecnologia distinta do modelo de planejamento, e não se deve somar as duas como se fossem a mesma coisa. **Honestidade metodológica:** são séries-piloto, sem comparador randomizado — o demonstrado é a fidelidade do ensaio, não superioridade em desfecho clínico.
 
@@ -805,13 +805,12 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 - Polietileno reticulado: revisão em 16 anos **6,2% × 11,7%** — pergunta encerrada
   *de Steiger · AOANJRR · JBJS · 2018 · PMID 30063590*
-- Cerâmica no jovem: **HR 0,73** (< 55 anos) · acima de 55, equivalente ao metal
+- Cabeça de cerâmica **sobre reticulado**: vantagem no jovem — **HR 0,73** (< 55 anos); acima de 55, equivale ao metal (nunca inferior)
   *Reddy · J Arthroplasty · AJRR · 2025 · PMID 40939940 · Pakarinen · J Arthroplasty · NARA · 2024 · PMID 39173975*
 - Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
   *de Steiger · AOANJRR · 2020 · PMID 32345846*
 - Desgaste do 36 mm sobre reticulado: **0,01 mm em 14 anos** — a cabeça de 32 mm desgastou mais (0,10 mm)
   *Thoen · Bone Joint J · ensaio randomizado · 2025 · PMID 41173047*
-  *Thoen · Bone Joint J · 2025 · PMID 41173047*
 - Conduta: reticulado em toda ATQ · **36 mm em cerâmica**
   *de Steiger · JBJS · 2018 · PMID 30063590 · de Steiger · AOANJRR · 2020 · PMID 32345846*
 
@@ -819,7 +818,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O polietileno reticulado divide aproximadamente pela metade a revisão em dezesseis anos de registro (6,2% versus 11,7%) — pergunta encerrada. A cabeça de cerâmica associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, é equivalente ao metal. Retomando a cabeça de 36 mm recomendada no bloco da instabilidade, agora sob o aspecto tribológico: o risco de corrosão do cone nas cabeças de 36 mm ou mais concentra-se no cobalto-cromo e em duas hastes especificamente identificadas — não é argumento contra o diâmetro, é argumento pela cerâmica. O ensaio randomizado com radioestereometria remove a última objeção: o desgaste do 36 mm sobre polietileno reticulado é de centésimos de milímetro em catorze anos. As duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
+O polietileno reticulado divide aproximadamente pela metade a revisão em dezesseis anos de registro (6,2% versus 11,7%) — pergunta encerrada. A cabeça de cerâmica sobre o polietileno reticulado associa-se a menor revisão no paciente jovem (HR 0,73 abaixo dos 55 anos); acima dessa idade, equivale ao metal — nunca é inferior. A comparação relevante é cerâmica versus metal sobre o mesmo polietileno reticulado, não o par cerâmica-cerâmica. Retomando a cabeça de 36 mm recomendada no bloco da instabilidade, agora sob o aspecto tribológico: o risco de corrosão do cone nas cabeças de 36 mm ou mais concentra-se no cobalto-cromo e em duas hastes especificamente identificadas — não é argumento contra o diâmetro, é argumento pela cerâmica. O ensaio randomizado com radioestereometria remove a última objeção: o desgaste do 36 mm sobre polietileno reticulado é de centésimos de milímetro em catorze anos. As duas decisões convergem: 36 mm, em cerâmica, sobre polietileno reticulado.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
