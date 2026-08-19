@@ -29,7 +29,7 @@ Toda a lógica deste capítulo repousa numa distinção:
 - **Alvo técnico (parâmetros técnicos):** aquilo que o cirurgião mede — inclinação e anteversão do componente acetabular, anteversão femoral, offset, comprimento do membro, dimensionamento dos implantes. É importante, mas é um **meio**.
 - **Desfecho clínico:** aquilo que o paciente vive — revisão, luxação, infecção, função, satisfação, complicações. É o **fim**.
 
-A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo técnico; os desfechos clínicos são modificados por decisões simples, de baixo custo, tomadas antes da incisão.**
+A tese que os dados sustentam: **a evidência atual dissocia os dois planos — o ganho das tecnologias de planejamento e de execução concentra-se no alvo técnico, sem tradução demonstrada em desfecho clínico; os desfechos clínicos respondem às decisões de planejamento tomadas antes da incisão, de custo marginal.**
 
 **Glossário de siglas** — toda sigla do capítulo tem seu significado aqui (e aparece por extenso na primeira ocorrência do texto):
 
@@ -140,19 +140,20 @@ A tese que os dados sustentam: **a tecnologia melhora sistematicamente o alvo t�
 
 ---
 
-## SLIDE S4 · A tese da apresentação: alvo técnico versus desfecho clínico
+## SLIDE S4 · Tese da apresentação: a dissociação entre acurácia e desfecho clínico
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Alvo técnico: o que o cirurgião mede
-- Desfecho clínico: o que o paciente vive — revisão, luxação, infecção, função
-- Tese: a tecnologia melhora o alvo técnico; o planejamento melhora o desfecho clínico
+- **Alvo técnico** — o que o cirurgião afere: posicionamento e dimensionamento dos componentes
+- **Desfecho clínico** — o que o paciente experimenta: revisão, luxação, infecção, função
+- A evidência atual dissocia os dois planos: o ganho das tecnologias concentra-se no alvo técnico
+- Os desfechos clínicos respondem às decisões de planejamento: alvo individualizado, construto, técnica
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A tecnologia melhora o alvo técnico; o desfecho clínico é modificado pelas decisões de planejamento.
+**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A acurácia responde à tecnologia; o desfecho clínico, às decisões de planejamento.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Os parâmetros técnicos aferidos pelo cirurgião — posicionamento e dimensionamento dos componentes — constituem o alvo técnico. Os desfechos clínicos são os eventos vividos pelo paciente: revisão, luxação, infecção e função. A tese desta apresentação: as tecnologias melhoram sistematicamente o alvo técnico; os desfechos clínicos são modificados por decisões de planejamento de baixo custo.
+Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo que o cirurgião afere: o posicionamento e o dimensionamento dos componentes. O desfecho clínico é aquilo que o paciente experimenta: revisão, luxação, infecção e função. A literatura das tecnologias de planejamento e de execução demonstra, de maneira consistente, ganho no primeiro plano sem tradução correspondente no segundo. Em contraste, um conjunto de decisões de planejamento — a individualização do alvo de posicionamento, a seleção do construto e a técnica cirúrgica — modifica os desfechos clínicos com custo marginal. Demonstrar essa dissociação, decisão a decisão, é o objetivo da apresentação.
 
 **BASE DE EVIDÊNCIA:** seção "Conceitos fundadores — os dois planos de medida", no preâmbulo deste documento.
 
@@ -864,11 +865,11 @@ Metanálise de oito registros nacionais (1.904.237 artroplastias): 93,6% dos imp
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- Tecnologias: melhoram o alvo técnico
-- Desfecho clínico: modificado por decisões de planejamento de baixo custo
+- O ganho das tecnologias concentrou-se no alvo técnico
+- Os desfechos clínicos responderam às decisões de planejamento
 - Quadro-síntese na ordem cronológica das decisões
 
-**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A tecnologia melhora o alvo técnico; o desfecho clínico é modificado pelo planejamento.
+**CONCLUSÃO DO SLIDE (destaque GRANDE — é a ÚLTIMA informação apresentada, fecha o slide):** A acurácia responde à tecnologia; o desfecho clínico, às decisões de planejamento.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -892,7 +893,7 @@ As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos se
 | Protocolo | TXA intravenoso · cefazolina 21–30 min · aspirina de rotina · dexametasona | TXA RR ~0,48 · atraso OR 2,0 · náusea OR 0,21 |
 | Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
 
-**A tecnologia melhora o alvo técnico. O desfecho, quem melhora é o planejamento.**
+**A acurácia responde à tecnologia; o desfecho clínico, às decisões de planejamento.**
 
 
 ---
