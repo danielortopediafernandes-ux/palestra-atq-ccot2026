@@ -6,3 +6,5 @@ _figuras/_png_cache/
 
 # PDFs de artigos/consenso (copyright) — nunca no repo publico; ficam locais + Syncthing/restic
 *.pdf
+__pycache__/
+*.pyc
