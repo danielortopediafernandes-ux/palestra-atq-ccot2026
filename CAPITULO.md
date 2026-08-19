@@ -95,9 +95,9 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 | Parte | Slides |
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
-| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S15 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S16–S21 |
-| Ato 3 · Síntese | S22–S23 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S16 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S17–S22 |
+| Ato 3 · Síntese | S23–S24 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -553,24 +553,22 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-## SLIDE S15 · Em quem a avaliação espinopélvica altera o planejamento?
+## SLIDE S15 · Em quem indicar a avaliação espinopélvica?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
-- A causa da insuficiência da zona estática: a pelve roda ao sentar
-- Rastreio: **ΔSS < 10°** · **PI−LL > 10°** · artrodese > 3 níveis
+- A pelve roda ao sentar e muda a orientação funcional do componente — a zona estática é insuficiente
+- Rastreio: **ΔSS < 10°** · **PI − LL > 10°** · artrodese > 3 níveis
   *Vigdorchik · Bone Joint J · Prêmio Otto Aufranc · 2021 · PMID 34192913*
-- Presente ≥ 1 critério → radiografia em pé × sentado
-  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
-- Modifica: alvo do componente acetabular · anteversão · indicação de dupla mobilidade
-- Resultado: luxação **0,8%** em 5 anos (2.081 ATQs)
-  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
+- Quadris dentro de Lewinnek, porém fora da zona funcional: **14,2%**
+  *Tezuka & Dorr · J Arthroplasty · 2019 · PMID 30454867*
+- Conduta: qualquer critério presente → radiografia lateral em pé × sentado
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Na coluna rígida, desbalanceada ou artrodesada — a radiografia funcional modifica alvo, anteversão e construto: luxação de 0,8% em 5 anos.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A coluna rígida, desbalanceada ou artrodesada — identificada por três critérios objetivos na consulta.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-A avaliação espinopélvica é a resposta direta ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve — que roda ao sentar e altera a orientação funcional do componente acetabular. Três critérios objetivos identificam o paciente em quem o alvo-padrão falha: variação do sacral slope inferior a 10° entre as posições em pé e sentada, desbalanço sagital (PI−LL > 10°) e artrodese lombar extensa. Nesses pacientes, a radiografia funcional modifica o alvo do componente acetabular, a anteversão e a indicação de dupla mobilidade — protocolo validado prospectivamente em 2.081 artroplastias, com luxação de 0,8% em 5 anos. O ganho demonstrado do alvo funcional é de função (OHS 42 versus 40). As demais decisões com impacto na luxação vêm imediatamente a seguir — dupla mobilidade nos grupos de risco, diâmetro da cabeça femoral, reparo capsular na via posterior e a revisão das restrições pós-operatórias; o aspecto tribológico da cabeça de 36 mm é retomado adiante, junto ao par.
+A avaliação espinopélvica responde ao dado do slide anterior: se a maioria das luxações ocorre com o componente dentro da zona estática, a causa está no movimento da pelve, que roda ao sentar e altera a orientação funcional do componente acetabular. Três critérios objetivos, aferíveis em qualquer consulta, identificam o paciente em quem o alvo-padrão falha: variação do sacral slope menor que 10° entre em pé e sentado (coluna rígida), desbalanço sagital com PI menos LL maior que 10°, e artrodese lombar extensa. Um em cada sete quadris aprovados pelo critério estático está, na verdade, fora da zona funcional (14,2%). Um detalhe de rigor: o melhor preditor de sair da zona funcional é a mobilidade femoral aumentada (r = 0,632), acima da espinopélvica — examinar apenas a coluna deixa passar parte dos pacientes. Conduta: presente ao menos um critério, radiografia lateral em pé e sentado.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -607,6 +605,30 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 **Discussão.** O rastreio cabe em qualquer consulta: histórico de fusão lombar, radiografia lateral da coluna lombossacra em pé e sentado. Os três critérios definem o paciente em quem o planejamento padrão falha — e é exatamente nele que o exame adicional muda conduta.
 
+
+---
+
+## SLIDE S16 · O que a avaliação espinopélvica muda na cirurgia?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Alvo do componente (CSI): balanceada **205–245°** · desbalanceada **215–235°** → função **OHS 42 × 40** (P = 0,003)
+  *Verhaegen · Hip Int · multicêntrico · 2025 · PMID 39865697*
+- Anteversão: aumentar no rígido — **26° × 22°**
+  *Verhaegen · Hip Int · 2025 · PMID 39865697*
+- Construto: dupla mobilidade nos grupos de risco → luxação **0,8%** em 5 anos
+  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
+- A diferença de luxação dentro × fora do alvo (0,4% × 1,7%) **não** foi significativa (P = 0,178) — o ganho comprovado é de função
+  *Verhaegen · Hip Int · 2025 · PMID 39865697*
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Modifica alvo, anteversão e construto — o ganho demonstrado é de função; a proteção contra a luxação vem do construto (dupla mobilidade).
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos, todos com número publicado. O alvo do componente passa a ser o índice sagital combinado — 205 a 245° na coluna balanceada, janela mais estreita na desbalanceada —, e atingir esse alvo associou-se a melhor função (Oxford Hip Score 42 versus 40, P = 0,003). A anteversão é aumentada no paciente rígido. E o construto de escolha nos grupos de risco é a dupla mobilidade, com 0,8% de luxação em cinco anos na série validada. A honestidade estatística é essencial: o mesmo estudo multicêntrico não confirmou diferença significativa de luxação entre estar dentro e fora do alvo do componente (0,4% versus 1,7%, P = 0,178). O alvo funcional não deve ser apresentado como redutor comprovado de luxação; o que ele demonstra é ganho de função, e a proteção contra a luxação vem do construto — a dupla mobilidade, desenvolvida no próximo ato.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
 ## [3.4] A radiografia funcional muda o quê na cirurgia?
 
 **RESPOSTA · Três parâmetros — e o ganho demonstrado é de FUNÇÃO, não de luxação.**
@@ -625,9 +647,11 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 ---
 
 
+---
+
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S16 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S17 · A articulação de dupla mobilidade altera o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -664,7 +688,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S17 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S18 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -710,7 +734,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S18 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S19 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -747,7 +771,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S19 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S20 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -786,7 +810,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S20 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S21 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -876,7 +900,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S21 · O par tribológico altera o resultado?
+## SLIDE S22 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -935,7 +959,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S22 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S23 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -983,7 +1007,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S23 · Síntese: o que altera o resultado?
+## SLIDE S24 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1567,14 +1591,15 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S12 → S13:** "A última tecnologia de execução avaliada é o guia personalizado."
 - **S13 → S14:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
 - **S14 → S15:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S15 → S16:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S16 → S17:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S17 → S18:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S18 → S19:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S19 → S20:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S20 → S21:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S21 → S22:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S22:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S15 → S16:** "Identificado o paciente pela avaliação espinopélvica, examina-se o que ela modifica na cirurgia."
+- **S16 → S17:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S17 → S18:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S18 → S19:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S19 → S20:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S20 → S21:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S21 → S22:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S22 → S23:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S23:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1586,9 +1611,10 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 4. S12 — sistema de navegação intraoperatória (braço/tela de posicionamento)
 5. S13 — guia personalizado (PSI) impresso sobre o osso
 6. S14 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-7. S15 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-8. S20 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-9. S22 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+7. S15 — esquema da avaliação em pé × sentado (rastreio espinopélvico) — Vigdorchik 2021 (BJJ)
+8. S16 — alvo do índice sagital combinado (CSI) / anteversão funcional — Verhaegen 2025
+9. S21 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+10. S23 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
