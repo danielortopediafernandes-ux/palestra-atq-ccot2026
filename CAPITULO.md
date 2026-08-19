@@ -95,9 +95,9 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 | Parte | Slides |
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
-| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S16 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S17–S22 |
-| Ato 3 · Síntese | S23–S24 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S17 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S23 |
+| Ato 3 · Síntese | S24–S25 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -553,7 +553,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-## SLIDE S15 · Em quem indicar a avaliação espinopélvica?
+## SLIDE S15 · Em quem indicar o rastreio radiográfico espinopélvico?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -608,7 +608,47 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 ---
 
-## SLIDE S16 · O que a avaliação espinopélvica muda na cirurgia?
+## SLIDE S16 · A classificação quadril-coluna (Hip-Spine): como estratificar o risco?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Dois eixos: **alinhamento** (PI − LL) e **mobilidade** (ΔSS em pé × sentado)
+- **Grupo 1** — alinhado (PI − LL ≤ 10°): 1A móvel · 1B rígido
+  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
+- **Grupo 2** — flatback (PI − LL > 10°): 2A móvel · **2B rígido = maior risco**
+  *Vigdorchik · Bone Joint J · Prêmio Otto Aufranc · 2.081 ATQ · 2021 · PMID 34192913*
+- Conduta: dupla mobilidade em todo **grupo 2B** e em fusão > 3 níveis → luxação **0,8%** em 5 anos
+  *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Quatro grupos por alinhamento × mobilidade; o 2B (flatback rígido) concentra o risco e recebe dupla mobilidade.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+A radiografia funcional mede dois parâmetros que, cruzados, definem a classificação quadril-coluna de Vigdorchik. O primeiro eixo é o alinhamento: a diferença entre a incidência pélvica e a lordose lombar (PI menos LL); acima de 10° caracteriza o flatback, a coluna desbalanceada. O segundo eixo é a mobilidade: a variação do sacral slope entre em pé e sentado; abaixo de 10° caracteriza a coluna rígida. Cruzando os dois, quatro grupos: 1A (alinhado e móvel, o normal), 1B (alinhado, porém rígido), 2A (flatback, porém móvel) e 2B (flatback e rígido) — este último, o de maior risco de luxação. Na série validada de 2.081 artroplastias, a dupla mobilidade foi indicada sistematicamente em todos os pacientes do grupo 2B e naqueles com fusão de mais de três níveis, resultando em 0,8% de luxação em cinco anos. A classificação é, na prática, o mapa que transforma a medida radiográfica em conduta.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
+
+## [3.3.1] A classificação quadril-coluna (Hip-Spine) — como estratificar?
+
+**RESPOSTA · Dois eixos — alinhamento (PI − LL) e mobilidade (ΔSS) — definem quatro grupos; o 2B concentra o risco e recebe dupla mobilidade.**
+
+| Grupo | Definição | n (série de 2.081) | Fonte |
+|---|---|---|---|
+| **1A** — alinhado e móvel | PI − LL ≤ 10° · ΔSS ≥ 10° (o normal) | 987 | Vigdorchik 2021 · Otto Aufranc · BJJ · [PMID 34192913](https://pubmed.ncbi.nlm.nih.gov/34192913/) |
+| **1B** — alinhado, porém rígido | PI − LL ≤ 10° · **ΔSS < 10°** | 232 | Vigdorchik 2021 |
+| **2A** — flatback, porém móvel | **PI − LL > 10°** · ΔSS ≥ 10° | 715 | Vigdorchik 2021 |
+| ⛔ **2B** — flatback e rígido (maior risco) | **PI − LL > 10°** · **ΔSS < 10°** | 147 | Vigdorchik 2021 |
+| Conduta por grupo | **dupla mobilidade em todo 2B e em fusão > 3 níveis** (166 pacientes, 8%) | — | Vigdorchik 2021 |
+| Resultado | sobrevida livre de luxação **99,2%** em 5 anos (**0,8%**); concordância entre observadores 0,83 | 2.081 ATQ | Vigdorchik 2021 |
+
+**CONDUTA:** classificar todo paciente com fator espinal em 1A/1B/2A/2B pela radiografia funcional; indicar dupla mobilidade no grupo 2B e na fusão > 3 níveis.
+
+**Discussão.** A classificação quadril-coluna é o instrumento que traduz a fisiopatologia do slide anterior em decisão operatória. Ela cruza dois eixos independentes — o quanto a coluna está desalinhada (flatback, PI − LL > 10°) e o quanto ela se move (rigidez, ΔSS < 10°) — porque são coisas distintas: há coluna alinhada mas rígida (1B) e coluna desalinhada mas móvel (2A). O paciente que reúne as duas condições, o 2B, é o de maior risco, e foi nele — e na fusão extensa — que o protocolo indicou dupla mobilidade sistemática. O desfecho da série (0,8% de luxação em cinco anos) reflete a estratégia inteira; a parte que a classificação sustenta com mais firmeza é a estratificação reprodutível (concordância 0,83), não a atribuição causal do número à dupla mobilidade isolada.
+
+
+---
+
+## SLIDE S17 · O que a avaliação espinopélvica muda na cirurgia?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -651,7 +691,7 @@ Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos
 
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S17 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S18 · A articulação de dupla mobilidade altera o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -688,7 +728,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S18 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S19 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -734,7 +774,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S19 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S20 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -771,7 +811,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S20 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S21 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -810,7 +850,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S21 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S22 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -900,7 +940,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S22 · O par tribológico altera o resultado?
+## SLIDE S23 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -959,7 +999,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S23 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S24 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1007,7 +1047,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S24 · Síntese: o que altera o resultado?
+## SLIDE S25 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1591,15 +1631,16 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S12 → S13:** "A última tecnologia de execução avaliada é o guia personalizado."
 - **S13 → S14:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
 - **S14 → S15:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S15 → S16:** "Identificado o paciente pela avaliação espinopélvica, examina-se o que ela modifica na cirurgia."
-- **S16 → S17:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S17 → S18:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S18 → S19:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S19 → S20:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S20 → S21:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S21 → S22:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S22 → S23:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S23:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S15 → S16:** "Medidos os parâmetros na radiografia funcional, o paciente é estratificado pela classificação quadril-coluna."
+- **S16 → S17:** "Definido o grupo, examina-se o que a avaliação modifica na cirurgia."
+- **S17 → S18:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S18 → S19:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S19 → S20:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S20 → S21:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S21 → S22:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S22 → S23:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S23 → S24:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S24:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
@@ -1611,10 +1652,11 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 4. S12 — sistema de navegação intraoperatória (braço/tela de posicionamento)
 5. S13 — guia personalizado (PSI) impresso sobre o osso
 6. S14 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-7. S15 — esquema da avaliação em pé × sentado (rastreio espinopélvico) — Vigdorchik 2021 (BJJ)
-8. S16 — alvo do índice sagital combinado (CSI) / anteversão funcional — Verhaegen 2025
-9. S21 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-10. S23 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+7. S15 — esquema em pé × sentado mostrando os parâmetros do rastreio: ΔSS (mobilidade) e PI − LL (alinhamento) — Vigdorchik 2021 (BJJ) **[COMPLEXO — figura essencial]**
+8. S16 — **matriz 2×2 da classificação quadril-coluna** (eixos alinhamento × mobilidade → grupos 1A/1B/2A/2B, 2B em destaque) — Vigdorchik 2021 (BJJ) **[figura essencial]**
+9. S17 — alvo do índice sagital combinado (CSI) / anteversão funcional — Verhaegen 2025
+10. S22 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+11. S24 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
