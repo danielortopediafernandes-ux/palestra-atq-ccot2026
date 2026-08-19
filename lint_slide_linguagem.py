@@ -54,6 +54,12 @@ RE_ELIPSE = re.compile(r";\s+[a-zãáâéêíóôõúç ]+,\s+(à|ao|às|aos|de|
 RE_ANO   = re.compile(r"\b(19|20)\d{2}\b")
 RE_PMID  = re.compile(r"PMID\s*\d{6,9}", re.I)
 RE_NUM   = re.compile(r"\d")          # tem número → é afirmação quantitativa
+# VERBO DE EFEITO / COMPARAÇÃO — afirmação FACTUAL mesmo SEM número exige fonte.
+# Nasceu em 19/08: a frase "Cabeça grande não substitui a dupla mobilidade" entrou
+# no slide SEM prova porque não tinha número — o Dr. cobrou "NUNCA escreva nada sem
+# provar com artigo de alto impacto". Esta regra fecha a brecha das afirmações
+# QUALITATIVAS (superioridade, causalidade, equivalência) sem referência.
+RE_CLAIM = re.compile(r"\b(substitu[ei]|substituem|reduz(?:em)?|aumenta(?:m)?|supera(?:m)?|superior(?:es)?|inferior(?:es)?|equivale(?:m)?|independe(?:m)?|altera(?:m)?|previne(?:m)?|elimina(?:m)?|garante(?:m)?|protege(?:m)?|melhora(?:m)?|piora(?:m)?|não\s+muda|não\s+altera|não\s+substitui|dispensa(?:m)?)\b", re.I)
 RE_CAPS  = re.compile(r"\b[A-ZÁÂÃÉÊÍÓÔÕÚÇ]{2,}\b")
 
 
@@ -121,15 +127,21 @@ def main():
 
     erros, avisos = [], []
     for _, slide, tipo, buf in blocos(linhas):
-        # regra 5: afirmação com número precisa de fonte junto (própria linha ou a seguinte)
+        # regra 5: afirmação com NÚMERO ou VERBO DE EFEITO precisa de fonte junto
+        # (na própria linha ou na seguinte). Cobre tanto o quantitativo quanto o
+        # qualitativo (superioridade/causalidade/equivalência) — Dr. 19/08.
         for k, (nl, ln) in enumerate(buf):
             t = ln.strip()
             if not t.startswith("-"):
                 continue
-            if RE_NUM.search(t) and not eh_fonte(t):
+            tem_num = RE_NUM.search(t)
+            tem_claim = RE_CLAIM.search(t)
+            if (tem_num or tem_claim) and not eh_fonte(t):
                 prox = buf[k + 1][1] if k + 1 < len(buf) else ""
                 if not (eh_fonte(prox) and not prox.strip().startswith("-")):
-                    erros.append((nl, slide, "AFIRMAÇÃO C/ NÚMERO SEM REFERÊNCIA", t[:90]))
+                    rot = "AFIRMAÇÃO C/ NÚMERO SEM REFERÊNCIA" if tem_num else \
+                          f"AFIRMAÇÃO FACTUAL SEM REFERÊNCIA (verbo «{tem_claim.group()}»)"
+                    erros.append((nl, slide, rot, t[:90]))
         # regras 1–4 em todo o texto do bloco
         for nl, ln in buf:
             raw = ln.strip()

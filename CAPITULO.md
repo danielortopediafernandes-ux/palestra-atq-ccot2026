@@ -698,7 +698,8 @@ Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos
 - Fratura do colo ≥ 65 anos: luxação **1,3% × 4,2%** (aHR 0,27 · RCT Lancet)
   *Hailer · Lancet · 2026 · PMID 42392114*
 - Eletivo: benefício nos grupos de risco — coluna rígida/artrodese · revisão
-- Cabeça grande não substitui a dupla mobilidade
+- Cabeça de grande diâmetro não reproduz de forma consistente o efeito da dupla mobilidade — evidência **discordante**, DM favorecida na maior metanálise (133.474 quadris)
+  *Ibrahim 2025 · JBJS Rev · PMID 41379986 · contraponto: Hoskins 2022 PMID 35438011 · Sephton 2025 PMID 39128780*
 - Conduta: indicação dirigida ao risco — não universal
 
 **CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim, no grupo de risco — luxação 1,3% × 4,2% na fratura do colo (ensaio randomizado); indicação dirigida, não universal.
@@ -719,11 +720,15 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 | Fusão lombar / doença degenerativa ≥ 65 anos | luxação em 1 ano **0,91% × 1,68%** (OR 0,53) | Nessler 2023 · JAAOS · 15.572 pacientes · [PMID 36728665](https://pubmed.ncbi.nlm.nih.gov/36728665/) |
 | **Cirurgia de revisão** | dupla mobilidade × par fixo: re-revisão **por luxação OR 0,38** (P < 0,001) · por soltura asséptica OR 0,54 · por qualquer causa OR 0,55 · complicações totais OR 0,43 · **infecção OR 0,99** (sem diferença). ⚠️ **contra cabeça > 36 mm, a vantagem desaparece: OR 0,69 (P = 0,11)** | **Sephton 2025 · J Arthroplasty · metanálise de 13 estudos comparativos · 5.004 quadris de revisão · [PMID 39128780](https://pubmed.ncbi.nlm.nih.gov/39128780/)** — ⚠️ nenhum ensaio randomizado incluído |
 | Estimativa anterior | dupla mobilidade × par fixo na revisão: OR 0,24 | Levin & Mont 2018 · meta de 9 estudos · [PMID 30195654](https://pubmed.ncbi.nlm.nih.gov/30195654/) · **superado: a metanálise de 2025 responde à mesma pergunta com 13 estudos e 5.004 quadris, e encontra efeito menor (0,38) além de delimitar onde ele não existe** |
-| DM × cabeça grande (≥ 36 mm) | cabeça grande teve **MAIS** luxação que a DM (primário OR 4,81; revisão OR 1,99; HR 2,67) e mais revisão por luxação — a proteção da DM é **independente do tamanho do componente acetabular** | Ibrahim 2025 · JBJS Rev · meta · 18 estudos · 133.474 quadris · [PMID 41379986](https://pubmed.ncbi.nlm.nih.gov/41379986/) |
+| **DM × cabeça grande (≥ 36 mm) — a maior série** | cabeça ≥36 mm teve **MAIS** luxação que a DM (primário OR 4,81; revisão OR 1,99; tempo-até-evento HR 2,67, IC 1,54–4,63) · meta-regressão pelo tamanho do componente **não significativa** (OR 1,20, IC 0,88–1,67, P = 0,12) → benefício da DM **independe** do tamanho do componente | Ibrahim 2025 · JBJS Rev · meta 18 estudos (2 RCT) · 133.474 quadris · Nível II · [PMID 41379986](https://pubmed.ncbi.nlm.nih.gov/41379986/) |
+| **DM × cabeça grande — contraponto (desfecho duro)** | revisão **por luxação OR 0,67 (IC 0,45–1,01, P = 0,06 — NÃO significativo)**; a DM só vence em desfechos secundários (revisão por qualquer causa OR 0,70; por fratura OR 0,49; luxação sem revisão OR 0,29) | Hoskins 2022 · Hip Int · meta 9 estudos retrospectivos · 2.722 DM × 9.789 cabeça grande · [PMID 35438011](https://pubmed.ncbi.nlm.nih.gov/35438011/) |
+| **DM × cabeça grande — rede (desfecho duro)** | **sem diferença** DM × cabeça grande (SUCRA empatado: DM 46,7% × cabeça grande 45,1%); a DM só supera a cabeça PADRÃO (RR luxação 4,19) | Pituckanotai 2017 · Eur J Orthop Surg Traumatol · meta em rede 11 estudos · 4.084 pacientes · [PMID 29119371](https://pubmed.ncbi.nlm.nih.gov/29119371/) · **superado: as metanálises de 2022–2025 (Hoskins, Sephton, Ibrahim) respondem à mesma comparação; mantido para registrar que o achado de "sem diferença" já aparecia em 2017** |
 
 **CONDUTA:** indicar a dupla mobilidade no grupo de risco definido no pré-operatório (coluna rígida/fusão, revisão, fratura do colo do idoso) — não universalmente.
 
-**Discussão.** A dupla mobilidade corta a luxação — e agora em dois cenários com nível de evidência distinto. O **Duality** (Lancet 2026) trouxe o primeiro ensaio randomizado em fratura do colo: a DM reduziu a luxação para um terço (1,3% × 4,2%, aHR 0,27), no cenário em que antes só havia extrapolação. No eletivo, o benefício segue concentrado no grupo de risco (fusão/coluna rígida, revisão), e a metanálise de 133 mil quadris fecha o argumento mecânico: cabeça grande **não** substitui a DM — a proteção extra independe do tamanho do componente acetabular. A generalização indiscriminada, porém, trocaria um benefício concentrado por custos e incertezas (desgaste, luxação intraprotética) diluídos numa população que não precisava do implante.
+**Discussão.** A dupla mobilidade corta a luxação — e agora em dois cenários com nível de evidência distinto. O **Duality** (Lancet 2026) trouxe o primeiro ensaio randomizado em fratura do colo: a DM reduziu a luxação para um terço (1,3% × 4,2%, aHR 0,27), no cenário em que antes só havia extrapolação. No eletivo, o benefício segue concentrado no grupo de risco (fusão/coluna rígida, revisão).
+
+Quanto à comparação **DM × cabeça de grande diâmetro**, a evidência é **discordante** e não há RCT dedicado (revisão específica: `REVISAO_cabeca_grande_vs_dupla_mobilidade_2026-08-19.md`). A maior e mais recente metanálise (Ibrahim 2025, 133.474 quadris) favorece a DM e mostra, por meta-regressão, que o benefício **independe do tamanho do componente acetabular**; porém três metanálises menores (Hoskins 2022 OR 0,67 P = 0,06; Sephton 2025 subgrupo OR 0,69 P = 0,11; Pituckanotai 2017 sem diferença) **não** confirmam superioridade no desfecho duro (revisão/luxação) contra a cabeça grande. A leitura defensável é que a cabeça de grande diâmetro **não reproduz de forma consistente** o efeito da DM — não que "não substitui" como fato fechado. A generalização indiscriminada da DM, por sua vez, trocaria um benefício concentrado por custos e incertezas (desgaste, luxação intraprotética) diluídos numa população que não precisava do implante.
 
 
 ---
@@ -738,7 +743,6 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
   *Bender · J Arthroplasty · registro AJRR · 2025 · PMID 40015384*
 - Teto em 36: com ≥ 40 mm a luxação **não cai mais** · revisão e infecção sobem
   *Bender · J Arthroplasty · 2025 · PMID 40015384*
-- Cabeça grande **não substitui** a dupla mobilidade
 - Conduta: **36 mm quando o componente acetabular comporta** · piso 32 mm
   *Bender · J Arthroplasty · 2025 · PMID 40015384 · Tsikandylakis · registro NARA · 2018 · PMID 30260863*
 
@@ -746,7 +750,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstram a escada da estabilidade: revisão por luxação de 1,4% com cabeças de 22–28 mm, 0,9% com 32 mm e 0,6% com 36 mm — no registro americano, 0,46% versus 0,68%. O benefício tem teto: a partir de 40 mm a luxação não cai mais (0,51%) e a revisão e a infecção aumentam. A cabeça de grande diâmetro, por sua vez, não substitui a dupla mobilidade no grupo de risco. Conduta: planejar 36 mm sempre que o diâmetro acetabular comportar, com piso absoluto de 32 mm. O material dessa cabeça é decisão tribológica — retomada adiante, no par tribológico.
+Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstram a escada da estabilidade: revisão por luxação de 1,4% com cabeças de 22–28 mm, 0,9% com 32 mm e 0,6% com 36 mm — no registro americano, 0,46% versus 0,68%. O benefício tem teto: a partir de 40 mm a luxação não cai mais (0,51%) e a revisão e a infecção aumentam. A cabeça de grande diâmetro, por sua vez, não reproduz de forma consistente o efeito da dupla mobilidade no grupo de risco — evidência discordante, detalhada no slide da dupla mobilidade. Conduta: planejar 36 mm sempre que o diâmetro acetabular comportar, com piso absoluto de 32 mm. O material dessa cabeça é decisão tribológica — retomada adiante, no par tribológico.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -1553,7 +1557,9 @@ Duas honestidades finais. A primeira é sobre o alvo de ± 2,5 mm: ele vem de um
 **TEXTO DO SLIDE (resumo em tópicos):**
 
 - Registro inglês: favorável · registro alemão: sem diferença
+  *Davis 2021 · Bone Joint J · NJR · PMID 34465151 · Krull 2022 · Bone Joint J · EPRD · PMID 35775174*
 - Cabeça maior com liner neutro supera cabeça menor com rebordo
+  *Friedman 2026 · J Arthroplasty · PMID 41534611*
 
 **ROTEIRO DE FALA:**
 
