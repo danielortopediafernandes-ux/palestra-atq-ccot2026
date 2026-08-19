@@ -805,7 +805,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 - Polietileno reticulado: revisão em 16 anos **6,2% × 11,7%** — pergunta encerrada
   *de Steiger · AOANJRR · JBJS · 2018 · PMID 30063590*
-- Cabeça de cerâmica **sobre reticulado**: vantagem no jovem — **HR 0,73** (< 55 anos); acima de 55, equivale ao metal (nunca inferior)
+- Cabeça de cerâmica **sobre reticulado**: vantagem no jovem — **HR 0,73** (< 55 anos); acima de 55, equivale ao metal (não inferior)
   *Reddy · J Arthroplasty · AJRR · 2025 · PMID 40939940 · Pakarinen · J Arthroplasty · NARA · 2024 · PMID 39173975*
 - Corrosão (ARMD) das cabeças ≥ 36 mm: concentrada no **cobalto-cromo** (Accolade I HR 8,3 · M/L Taper HR 14,4)
   *de Steiger · AOANJRR · 2020 · PMID 32345846*
