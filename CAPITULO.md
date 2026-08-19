@@ -90,14 +90,14 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 
 # PARTE I — A APRESENTAÇÃO (esqueleto do Dr., 18/08 · 3 atos + apêndice clínico)
 
-**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S8 pode ser incorporado a S7 (uma linha); S10 pode ser incorporado a S9 (rodapé). **Ordem sugerida de corte das reservas:** R4 → R3 → R2 → R1. **O conteúdo clínico-farmacológico está no APÊNDICE (A1–A5), fora da palestra — por decisão do Dr. (18/08), em princípio não haverá tempo para ele.**
+**Estrutura decidida pelo Dr. em 17–18/08/2026.** O conteúdo é apresentado completo: a prioridade desta parte é a **qualidade da informação e a estrutura lógica** — o tempo e a seleção do que fica ou sai são **decisão exclusiva do Dr., tomada somente ao final** (ordem do Dr., 18/08). **Fusões possíveis, se o Dr. decidir cortar:** S9 pode ser incorporado a S7 (uma linha); S11 pode ser incorporado a S10 (rodapé). **Ordem sugerida de corte das reservas:** R4 → R3 → R2 → R1. **O conteúdo clínico-farmacológico está no APÊNDICE (A1–A5), fora da palestra — por decisão do Dr. (18/08), em princípio não haverá tempo para ele.**
 
 | Parte | Slides |
 |---|---|
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
-| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S12 |
-| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S13–S18 |
-| Ato 3 · Síntese | S19–S20 |
+| Ato 1 · Tecnologias e alvo de posicionamento: acurácia × desfecho | S5–S13 |
+| Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S14–S19 |
+| Ato 3 · Síntese | S20–S21 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -252,16 +252,12 @@ A calibração convencional com marcador externo único carrega erro médio de m
   *Parisi · 2024 · PMID 39518705 · Bishi · meta · 2022 · PMID 35076413*
 - Desfecho relatado pelo paciente (PROM): **sem diferença** 2D × 3D (ensaio randomizado)
   *Thomas · RCT · 2022 · PMID 36183111*
-- Modelo impresso: ensaio corresponde à cirurgia (ICC 0,93) — anatomia complexa
-  *Zhang · Orthop Surg · 2021 · PMID 34898037*
-- Conduta: 2D na rotina · impressão 3D na displasia e anatomia complexa
-  *Thomas · RCT · 2022 · PMID 36183111 · Zhang · Orthop Surg · 2021 · PMID 34898037*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não na rotina — maior acurácia sem alteração de desfecho; o modelo impresso reserva-se à anatomia complexa.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não na rotina — melhora a acurácia do componente acetabular, sem alterar o desfecho relatado.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-O planejamento tridimensional por tomografia aumenta o acerto do tamanho do componente acetabular (96,9% versus 87,1% do bidimensional), porém o único ensaio randomizado que mediu desfecho relatado pelo paciente não encontrou diferença. Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso permite ensaiar a cirurgia previamente, e o ensaio corresponde à cirurgia real (concordância de 0,93 para o tamanho do componente acetabular; defeito ósseo P = 0,97). Conduta: templating bidimensional na artrose de rotina; modelo impresso reservado à anatomia atípica.
+O planejamento tridimensional por tomografia aumenta o acerto do tamanho do componente acetabular (96,9% versus 87,1% do bidimensional); o único ensaio randomizado que mediu desfecho relatado pelo paciente não encontrou diferença. Conduta: na artrose de rotina, o templating bidimensional basta.
 
 **BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
@@ -278,6 +274,26 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho do comp
 **CONDUTA:** na artrose de rotina, o templating 2D basta.
 
 **Discussão.** Aqui aparece pela primeira vez o padrão que se repetirá na palestra inteira: a tecnologia melhora o número que **nós** medimos (acurácia de dimensionamento) e não move o número que o **paciente** sente (PROM). Noventa e seis por cento contra oitenta e sete é uma diferença real — de alvo técnico. A correção de rigor: dos dois ensaios randomizados citados, só um (Thomas 2022) mediu de fato a função; o outro (Pongkunakorn 2025) é um ensaio de **acurácia** — e um ensaio de acurácia não pode ser invocado como prova de "PROMs comparáveis". Guardar o padrão: ele é a chave de leitura de tudo que vem a seguir.
+
+
+---
+
+## SLIDE S8 · O modelo 3D impresso altera o planejamento na anatomia complexa?
+
+**TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
+
+- Ensaio no modelo impresso corresponde à cirurgia: **ICC 0,93** (componente acetabular) · defeito ósseo **P = 0,97**
+  *Zhang · Orthop Surg · 2021 · PMID 34898037*
+- Permite ensaiar redução, defeito ósseo, tamanho e posição antes da mesa
+  *Godoy-Monzón · Acta Ortop Mex · 2025 · PMID 40925848*
+
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim, na anatomia atípica (displasia/Crowe, deformidade) — reservado a esses casos, não à rotina.
+
+**ROTEIRO DE FALA (explicação completa — não vai ao slide):**
+
+Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso permite ensaiar a cirurgia previamente, e o ensaio corresponde à cirurgia real (concordância de 0,93 para o tamanho do componente acetabular; defeito ósseo P = 0,97). Conduta: modelo impresso reservado à anatomia atípica; não na rotina.
+
+**BASE DE EVIDÊNCIA (unidades completas — tabelas, condutas e discussão):**
 
 ## [1.3] Impressão 3D (modelo físico) — quando usar?
 
@@ -298,7 +314,10 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho do comp
 
 ---
 
-## SLIDE S8 · O planejamento assistido por inteligência artificial altera o resultado?
+
+---
+
+## SLIDE S9 · O planejamento assistido por inteligência artificial altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -337,7 +356,7 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 
 ---
 
-## SLIDE S9 · A assistência robótica altera a função?
+## SLIDE S10 · A assistência robótica altera a função?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -387,7 +406,7 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 ---
 
-## SLIDE S10 · Robótica e navegação alteram os demais desfechos?
+## SLIDE S11 · Robótica e navegação alteram os demais desfechos?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -439,7 +458,7 @@ Em registro nacional, a taxa de revisão não difere entre artroplastias robóti
 
 ---
 
-## SLIDE S11 · A zona de segurança de Lewinnek é suficiente?
+## SLIDE S12 · A zona de segurança de Lewinnek é suficiente?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -477,7 +496,7 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
 ---
 
 
-## SLIDE S12 · Em quem a avaliação espinopélvica altera o planejamento?
+## SLIDE S13 · Em quem a avaliação espinopélvica altera o planejamento?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -551,7 +570,7 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S13 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S14 · A articulação de dupla mobilidade altera o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -588,7 +607,7 @@ No primeiro ensaio randomizado de dupla mobilidade na fratura do colo femoral (1
 
 ---
 
-## SLIDE S14 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S15 · O diâmetro da cabeça femoral altera a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -634,7 +653,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S15 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S16 · O reparo capsular na via posterior altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -671,7 +690,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S16 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S17 · As restrições pós-operatórias alteram o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -710,7 +729,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S17 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S18 · A fixação femoral altera o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -800,7 +819,7 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, na fratura do colo f
 
 ---
 
-## SLIDE S18 · O par tribológico altera o resultado?
+## SLIDE S19 · O par tribológico altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -859,7 +878,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 
 # ATO 3 — SÍNTESE
 
-## SLIDE S19 · Quanto dura a artroplastia moderna — dado medido ou projeção?
+## SLIDE S20 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -907,7 +926,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S20 · Síntese: o que altera o resultado?
+## SLIDE S21 · Síntese: o que altera o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1483,25 +1502,30 @@ A artroplastia bilateral simultânea, no paciente selecionado, associa-se a meno
 - **S4 → S5:** "A avaliação de cada ferramenta seguirá o mesmo eixo — o que ela melhora no parâmetro técnico e o que se demonstra no desfecho clínico. A análise começa pelo instrumento fundamental do planejamento: o template."
 - **S5 → S6:** "A ferramenta não é o determinante da acurácia; o determinante é a calibração da radiografia."
 - **S6 → S7:** "Estabelecido o padrão bidimensional — template calibrado com dupla escala —, a pergunta seguinte é se a imagem tridimensional acrescenta desfecho."
-- **S8 → S9:** "As tecnologias apresentadas até este ponto atuam no planejamento; as duas seguintes atuam na execução. O critério de avaliação permanece o mesmo: parâmetro técnico versus desfecho clínico."
-- **S10 → S11:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
-- **S11 → S12:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
-- **S12 → S13:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
-- **S13 → S14:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
-- **S14 → S15:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
-- **S15 → S16:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
-- **S16 → S17:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
-- **S17 → S18:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
-- **S18 → S19:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
-- **S19:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
+- **S7 → S8:** "A imagem tridimensional na tela melhora a acurácia sem alterar o desfecho na rotina; resta o modelo físico impresso, cuja indicação se restringe à anatomia complexa."
+- **S8 → S9:** "Encerrado o planejamento por imagem e por modelo físico, a fronteira seguinte é o planejamento assistido por inteligência artificial."
+- **S9 → S10:** "As tecnologias apresentadas até este ponto atuam no planejamento; as duas seguintes atuam na execução. O critério de avaliação permanece o mesmo: parâmetro técnico versus desfecho clínico."
+- **S11 → S12:** "Demonstrada a precisão da execução, examina-se a seguir a validade do alvo de posicionamento que essas tecnologias executam."
+- **S12 → S13:** "Se a maioria das luxações ocorre com o componente dentro da zona estática, a causa deve ser procurada no movimento da pelve — a avaliação espinopélvica individualiza o alvo."
+- **S13 → S14:** "Identificado o paciente de risco para instabilidade, seguem as decisões de construto e de técnica que a evidência sustenta — a primeira é a articulação de dupla mobilidade."
+- **S14 → S15:** "Ao construto reservado ao grupo de risco soma-se a decisão de diâmetro válida para todos os pacientes: a cabeça femoral de 36 mm."
+- **S15 → S16:** "A decisão seguinte contra a luxação não é de implante, e sim de técnica: o manejo capsular da via posterior."
+- **S16 → S17:** "Realizado o reparo capsular, examina-se a necessidade das restrições pós-operatórias."
+- **S17 → S18:** "Encerrado o bloco da instabilidade, segue a fixação femoral."
+- **S18 → S19:** "Definida a fixação, o par tribológico completa as decisões de construto — retomando o aspecto tribológico da cabeça de 36 mm."
+- **S19 → S20:** "Definido o par tribológico, a questão final é a sobrevida do implante — o dado mais frequentemente solicitado pelo paciente."
+- **S20:** a estimativa de sobrevida encerra a parte expositiva com o dado de maior horizonte temporal; a síntese fecha a apresentação.
 
 ## Figuras reais — RESPONSABILIDADE DA SESSÃO DE SLIDES (a sessão de conteúdo não busca figuras — ordem do Dr., 18/08)
 
-1. S7 — modelo impresso × achado cirúrgico (Zhang 2021, Orthop Surg) e/ou acurácia 3D
-2. S11 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
-3. S12 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
-4. S17 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
-5. S19 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
+**Regra (Dr., 19/08): slide é de graça — cada slide de conteúdo carrega POUCOS tópicos e reserva ESPAÇO para uma figura real. Quando o slide junta duas ideias/tecnologias distintas, dividir em dois. A sessão de slides busca e credita as figuras.**
+
+1. S7 — reconstrução 3D por TC · ganho de acurácia 3D × 2D (Parisi 2024; Bishi meta 2022)
+2. S8 — modelo 3D impresso × achado cirúrgico no quadril displásico (Zhang 2021, Orthop Surg)
+3. S12 — distribuição das luxações dentro/fora da zona — Abdel 2016 (CORR)
+4. S13 — esquema da avaliação em pé × sentado — Vigdorchik 2021 (BJJ) ou Verhaegen 2025
+5. S18 — curva de mortalidade precoce por fixação — Viberg 2022 (BJJ)
+6. S20 — curva de sobrevida com demarcação entre dado observado e projeção — Pentland 2026 (Lancet)
 
 *(Regra: figura real de artigo com crédito; obter via VPN UFSC no Mini.)*
 
