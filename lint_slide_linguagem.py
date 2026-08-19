@@ -44,6 +44,11 @@ BLACKLIST = [
 # 1ª pessoa (verbo do cirurgião na voz pessoal) — só formas inequívocas.
 # Excluídos: "uso"/"cimento" (substantivos), "indico" (pode ser conduta impessoal).
 RE_1P = re.compile(r"\b(miro|faço|peço|acho|vejo|quero|prefiro|escolho|decido)\b", re.I)
+# PALAVRAS DE FORÇA — universalização/intensificação. Não é erro por si só, mas
+# OBRIGA confronto com a frase exata do abstract (regra 10 · #1 proibido inferir).
+# Nasceu em 19/08, depois de eu escrever "dupla escala em TODA radiografia" quando
+# a fonte (Ries 2022) diz só "could be used / consistent in all subgroups".
+RE_FORCA = re.compile(r"\b(tod[oa]s?|sempre|nunca|obrigatóri[oa]|mandatóri[oa]|essencial|indispensáve(?:l|is)|padrão-ouro|garant[ae]|elimina|impede|cura|previne)\b", re.I)
 # heurística de elipse-com-vírgula: "…; <palavra(s)>, <preposição>…" sem verbo no 2º membro
 RE_ELIPSE = re.compile(r";\s+[a-zãáâéêíóôõúç ]+,\s+(à|ao|às|aos|de|da|do|das|dos|pela|pelo|em)\b", re.I)
 RE_ANO   = re.compile(r"\b(19|20)\d{2}\b")
@@ -146,6 +151,9 @@ def main():
                 erros.append((nl, slide, "1ª PESSOA", RE_1P.search(low).group()))
             if RE_ELIPSE.search(t):
                 avisos.append((nl, slide, "POSSÍVEL ELIPSE-COM-VÍRGULA (calque)", t[:90]))
+            mf = RE_FORCA.search(t)
+            if mf and not raw.startswith("*"):
+                avisos.append((nl, slide, "PALAVRA DE FORÇA — confrontar com a frase exata do abstract", f'«{mf.group()}» — {t[:70]}'))
 
     # CASAMENTO: todo PMID citado no TEXTO DO SLIDE tem de existir na BASE do mesmo slide
     base_pm, texto_pm = pmids_por_slide(linhas)
