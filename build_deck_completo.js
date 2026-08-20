@@ -153,7 +153,7 @@ function topico(cfg) {
 
   sl.addText([
     { text: "Tese — ", options: { bold: true, color: TEALB, fontSize: 20, fontFace: BF } },
-    { text: "a tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.",
+    { text: "a tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.",
       options: { italic: true, color: INK, fontSize: 20, fontFace: BF } }],
     markAnim({ shape: p.ShapeType.roundRect, rectRadius: 0.06, fill: { color: COND }, line: { color: TEAL, width: 1.25 }, shadow: shadow(),
       x: 0.60, y: 4.65, w: 12.13, h: 1.30, align: "left", valign: "middle", margin: [8, 18, 8, 18], lineSpacingMultiple: 1.10 }));
@@ -501,7 +501,7 @@ topico({
   sl.addText("ATO 3 · SÍNTESE", { x: 0.62, y: 0.40, w: 12.1, h: 0.34, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
   sl.addText("O que altera o resultado", { x: 0.58, y: 0.76, w: 12.1, h: 0.90, color: INK, bold: true, fontSize: 34, fontFace: HF, valign: "top", margin: 0 });
 
-  sl.addText(parseRuns("A tecnologia define a precisão, mas ~alterar o desfecho~ depende de saber o que planejar.", INK, 18),
+  sl.addText(parseRuns("A tecnologia define a precisão, mas ~alterar o desfecho~ depende de respeitar a evidência que a literatura fornece.", INK, 18),
     markAnim({ shape: p.ShapeType.roundRect, rectRadius: 0.06, fill: { color: TEAL }, line: { type: "none" }, shadow: shadow(),
       x: 0.58, y: 1.72, w: 12.15, h: 0.62, italic: true, align: "left", valign: "middle", margin: [4, 14, 4, 14] }));
 

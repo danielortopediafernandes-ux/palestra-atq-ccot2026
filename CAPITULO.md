@@ -29,7 +29,7 @@ Toda a lógica deste capítulo repousa numa distinção:
 - **Alvo técnico (parâmetros técnicos):** aquilo que o cirurgião mede — inclinação e anteversão do componente acetabular, anteversão femoral, offset, comprimento do membro, dimensionamento dos implantes. É importante, mas é um **meio**.
 - **Desfecho clínico:** aquilo que o paciente vive — revisão, luxação, infecção, função, satisfação, complicações. É o **fim**.
 
-A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar** — o ganho das tecnologias de planejamento e de execução concentra-se no alvo técnico, sem tradução demonstrada em desfecho clínico; os desfechos clínicos respondem às decisões de planejamento tomadas antes da incisão, de custo marginal.
+A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece** — o ganho das tecnologias de planejamento e de execução concentra-se no alvo técnico, sem tradução demonstrada em desfecho clínico; os desfechos clínicos respondem às decisões de planejamento tomadas antes da incisão, de custo marginal.
 
 **Glossário de siglas** — toda sigla do capítulo tem seu significado aqui (e aparece por extenso na primeira ocorrência do texto):
 
@@ -149,7 +149,7 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 - A evidência atual dissocia os dois planos: o ganho das tecnologias concentra-se no alvo técnico
 - Os desfechos clínicos respondem às decisões de planejamento: alvo individualizado, construto, técnica
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1145,7 +1145,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 - Os desfechos clínicos responderam às decisões de planejamento
 - Quadro-síntese na ordem cronológica das decisões
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1169,7 +1169,7 @@ As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos se
 | Protocolo | TXA intravenoso · cefazolina 21–30 min · aspirina de rotina · dexametasona | TXA RR ~0,48 · atraso OR 2,0 · náusea OR 0,21 |
 | Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
 
-**A tecnologia define a precisão, mas alterar o desfecho depende de saber o que planejar.**
+**A tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.**
 
 
 ---
