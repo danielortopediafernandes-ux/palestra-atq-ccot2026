@@ -76,16 +76,22 @@ def blocos(linhas):
             slide = m.group(1)
         if s.lstrip().startswith("**TEXTO DO SLIDE"):
             j = i + 1; buf = []
-            while j < len(linhas) and not linhas[j].lstrip().startswith(("**CONCLUSÃO","**ROTEIRO","**BASE","## ","# ")):
+            while j < len(linhas) and not linhas[j].lstrip().startswith(("**CONCLUSÃO","**RESPOSTA DO SLIDE","**ROTEIRO","**BASE","## ","# ")):
                 # só bullets de conteúdo; ignora linhas em branco e cabeçalho
                 if linhas[j].lstrip().startswith(("-", "*")):
                     buf.append((j + 1, linhas[j]))
                 j += 1
-            out.append((i + 1, slide, "TEXTO", buf)); i = j; continue
+            out.append((i + 1, slide, "TEXTO", buf, None)); i = j; continue
         if s.lstrip().startswith("**CONCLUSÃO DO SLIDE"):
             # a conclusão REAL é o texto após o fecho da instrução '):**'
             real = s.split("):**", 1)[1] if "):**" in s else ""
-            out.append((i + 1, slide, "CONCLUSÃO", [(i + 1, real)]))
+            out.append((i + 1, slide, "CONCLUSÃO", [(i + 1, real)], None))
+        # MODELO RESPOSTA (Dr. 20/08): substitui a CONCLUSÃO; a linha seguinte
+        # DEVE ser "*Artigo principal — …*" (a âncora). Capturamos o par p/ checar.
+        if s.lstrip().startswith("**RESPOSTA DO SLIDE"):
+            real = s.split("):**", 1)[1] if "):**" in s else ""
+            artigo = linhas[i + 1] if i + 1 < len(linhas) else ""
+            out.append((i + 1, slide, "RESPOSTA", [(i + 1, real)], artigo))
         i += 1
     return out
 
@@ -159,7 +165,15 @@ def main():
     linhas = open(caminho, encoding="utf-8").read().split("\n")
 
     erros, avisos = [], []
-    for _, slide, tipo, buf in blocos(linhas):
+    for _, slide, tipo, buf, artigo in blocos(linhas):
+        # MODELO RESPOSTA (Dr. 20/08): toda RESPOSTA DO SLIDE precisa do ARTIGO
+        # PRINCIPAL que a justifica — na linha imediatamente abaixo, no formato
+        # "*Artigo principal — Autor ANO · Revista · … · PMID …*".
+        if tipo == "RESPOSTA":
+            a = (artigo or "").strip()
+            ok = a.startswith("*Artigo principal") and (RE_PMID.search(a) or RE_ANO.search(a))
+            if not ok:
+                erros.append((buf[0][0], slide, "RESPOSTA SEM ARTIGO PRINCIPAL (âncora)", buf[0][1][:80]))
         # regra 5: afirmação com NÚMERO ou VERBO DE EFEITO precisa de fonte junto
         # (na própria linha ou na seguinte). Cobre tanto o quantitativo quanto o
         # qualitativo (superioridade/causalidade/equivalência) — Dr. 19/08.

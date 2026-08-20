@@ -175,7 +175,8 @@ Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo q
 - Nenhum estudo comparou desfecho clínico entre os métodos — apenas acurácia
   *busca 2015–2026, sem comparação de desfecho*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Nenhum desses dois métodos é superior em acurácia.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Nenhum. Não há superioridade de acurácia entre manual e digital. Usar template em toda ATQ; o determinante é a calibração, não a ferramenta.
+*Artigo principal — Petretta 2015 · Clin Orthop Relat Res · nível III · 5 observadores · 52 ATQs · PMID 25910779*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -217,7 +218,8 @@ O template manual aplicado sobre imagem digital calibrada obteve acurácia igual
   *Ashkenazi · SICOT-J · 2023 · PMID 37195151*
 - Conduta: dupla escala sobretudo no paciente de maior risco de erro — obeso e sexo feminino
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A calibração não altera o planejamento do componente acetabular; altera o da haste femoral — sobretudo no obeso e no sexo feminino.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, na haste. O marcador único subdimensiona a haste (erro 12,5%); adotar dupla escala sobretudo no obeso e na mulher. Não altera o componente acetabular.
+*Artigo principal — Ries 2022 · Arch Orthop Trauma Surg · prospectivo · 100 pacientes · PMID 35099608*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -253,7 +255,8 @@ A calibração convencional com marcador externo único carrega erro médio de m
 - Desfecho relatado pelo paciente (PROM): **sem diferença** 2D × 3D (ensaio randomizado)
   *Thomas · RCT · 2022 · PMID 36183111*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não na rotina — melhora a acurácia do componente acetabular, sem alterar o desfecho relatado.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não na rotina. Melhora a acurácia do componente acetabular, mas não o desfecho relatado pelo paciente. Templating 2D basta na artrose comum.
+*Artigo principal — Thomas 2022 · ensaio randomizado (desfecho relatado pelo paciente) · PMID 36183111*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -287,7 +290,8 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho do comp
 - Permite ensaiar redução, defeito ósseo, tamanho e posição antes da mesa
   *Godoy-Monzón · Acta Ortop Mex · 2025 · PMID 40925848*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim, na anatomia atípica (displasia/Crowe, deformidade) — reservado a esses casos, não à rotina.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, na atípica. Displasia/Crowe e deformidade grave — ensaiar a cirurgia antes da mesa. Não na rotina; evidência de série-piloto.
+*Artigo principal — Zhang 2021 · Orthop Surg · série-piloto · 17 pacientes · PMID 34898037*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -329,7 +333,8 @@ Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso p
   *Taghavi · Arthroplasty · meta · 2026 · PMID 42547897*
 - Conduta: não adotar sem validação local
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Ainda não — a acurácia melhora, mas sem validação de desfecho e restrita a um único país.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Ainda não. Melhora a acurácia do dimensionamento, mas sem validação de desfecho e restrita a um único país. Não adotar sem validação local.
+*Artigo principal — Altahtamouni 2026 · metanálise · 8 estudos · 1.371 pacientes · nível III · PMID 41727957*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -366,7 +371,8 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
   *Ruangsomboon · meta 8 RCT · 2024 · PMID 38888718*
 - Conduta: não indicar a robótica para melhorar a função na rotina
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — a precisão triplica, mas a função permanece equivalente à do método convencional.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não. Precisão maior, função igual à do método convencional. Não indicar a robótica pela função.
+*Artigo principal — Ruangsomboon 2024 · J Robot Surg · metanálise de 8 ensaios randomizados · 1.014 pacientes · PMID 38888718*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -416,7 +422,8 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
   *Giannakis · Premier Database · 2026 · PMID 42093134 · Zhang · meta 1,83 mi · 2026 · PMID 42009981*
 - Conduta: estes desfechos não têm ensaio randomizado com poder — não indicar por eles, acompanhar o sinal
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Só a função tem ensaio randomizado; estes desfechos, não — revisão sem diferença, internação 0,49 dia menor, sinais observacionais em luxação e infecção.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Ainda não. Revisão sem diferença; luxação e infecção com sinal observacional, sem ensaio randomizado. Não indicar por esses desfechos.
+*Artigo principal — Farhan-Alanie 2025 · registro nacional NJR · revisão HR 0,947 · PMID 41442047*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -455,7 +462,8 @@ Diferentemente da função — medida em ensaios randomizados —, os demais des
   *Latifi · J Robot Surg · 2026 · PMID 42474881 · Latifi · Int Orthop · 2026 · PMID 42118304*
 - Conduta: não adotar por desfecho — o sinal observacional de registro não se confirma nas coortes pareadas recentes
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A navegação melhora o posicionamento intraoperatório, mas o benefício clínico não se confirma — sem ensaio randomizado de desfecho.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não. Melhora o posicionamento intraoperatório, mas o benefício clínico não se confirma nas coortes pareadas. Não adotar por desfecho.
+*Artigo principal — Alqazzaz 2026 · J Arthroplasty · coorte de 3.243 ATQ · luxação não significativa · PMID 42103591*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -492,7 +500,8 @@ A navegação por imagem aumenta a acurácia do posicionamento intraoperatório 
   *Gauci · revisão · nível V · 2022 · PMID 34838754*
 - Conduta: não adotar na rotina — ganho de acurácia, sem prova de desfecho
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Um ensaio randomizado pequeno mostra melhor acurácia de anteversão; não há evidência de desfecho clínico no quadril.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não. Um ensaio randomizado pequeno melhora a acurácia de anteversão; sem prova de desfecho no quadril. Não adotar na rotina.
+*Artigo principal — Zheng 2023 · Biomed Eng Online · ensaio randomizado · 60 pacientes · PMID 37705017*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -526,7 +535,8 @@ Os guias personalizados são a tecnologia de execução com menos evidência no 
   *Hernández · J Clin Orthop Trauma · 2021 · PMID 34434695*
 - Conduta: o ângulo estático é o piso, não o alvo suficiente — individualizar o alvo
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — a maioria das luxações ocorre com o componente dentro da zona; o alvo de posicionamento precisa ser individualizado.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não. 58% das luxações ocorrem com o componente dentro da zona. O ângulo estático é o piso, não o alvo — individualizar o alvo.
+*Artigo principal — Abdel 2016 · Clin Orthop Relat Res · 9.784 ATQs primárias · PMID 26150264*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -564,7 +574,8 @@ Em 9.784 artroplastias, 58% das luxações ocorreram com o componente acetabular
   *Tezuka & Dorr · J Arthroplasty · 2019 · PMID 30454867*
 - Conduta: qualquer critério presente → radiografia lateral em pé × sentado
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A coluna rígida, desbalanceada ou artrodesada — identificada por três critérios objetivos na consulta.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Na coluna de risco. Rastrear quando: (1) ΔSS < 10° (rígida), (2) PI − LL > 10° (flatback), (3) artrodese > 3 níveis. Presente um → RX em pé × sentado.
+*Artigo principal — Vigdorchik 2021 · Bone Joint J · Prêmio Otto Aufranc · 2.081 ATQ · PMID 34192913*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -620,7 +631,8 @@ O conceito só ganhou peso clínico quando foi validado prospectivamente numa s�
 - Conduta: dupla mobilidade em todo **grupo 2B** e em fusão > 3 níveis → luxação **0,8%** em 5 anos
   *Vigdorchik · Bone Joint J · 2021 · PMID 34192913*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Quatro grupos por alinhamento × mobilidade; o 2B (flatback rígido) concentra o risco e recebe dupla mobilidade.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Dois eixos. Alinhamento (PI − LL) × mobilidade (ΔSS) definem 4 grupos. O 2B (flatback rígido) concentra o risco e recebe dupla mobilidade.
+*Artigo principal — Vigdorchik 2021 · Bone Joint J · Prêmio Otto Aufranc · 2.081 ATQ · PMID 34192913*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -661,7 +673,8 @@ A radiografia funcional mede dois parâmetros que, cruzados, definem a classific
 - A diferença de luxação dentro × fora do alvo (0,4% × 1,7%) **não** foi significativa (P = 0,178) — o ganho comprovado é de função
   *Verhaegen · Hip Int · 2025 · PMID 39865697*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Modifica alvo, anteversão e construto — o ganho demonstrado é de função; a proteção contra a luxação vem do construto (dupla mobilidade).
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Alvo, anteversão, construto. Muda o alvo (CSI) e a anteversão, e indica a dupla mobilidade. O ganho provado é de função; a proteção contra luxação vem do construto.
+*Artigo principal — Verhaegen 2025 · Hip Int · multicêntrico prospectivo · 435 ATQs · PMID 39865697*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -702,7 +715,8 @@ Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos
   *Ibrahim 2025 · JBJS Rev · PMID 41379986 · contraponto: Hoskins 2022 PMID 35438011 · Sephton 2025 PMID 39128780*
 - Conduta: indicação dirigida ao risco — não universal
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim, no grupo de risco — luxação 1,3% × 4,2% na fratura do colo (ensaio randomizado); indicação dirigida, não universal.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, somente no grupo de risco: (1) fratura do colo, (2) fusão lombar, (3) coluna rígida. Não é indicação universal.
+*Artigo principal — Hailer 2026 · The Lancet · ensaio randomizado multicêntrico (Duality) · 1.600 pacientes · PMID 42392114*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -746,7 +760,8 @@ Quanto à comparação **DM × cabeça de grande diâmetro**, a evidência é **
   *Ibrahim 2025 · JBJS Rev · PMID 41379986*
 - Leitura honesta: amostra maior e ajuste por confundidor dão mais peso à evidência — mas, sem ensaio randomizado, o resultado é favorável, não provado
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A metanálise maior, ajustada pelo tamanho do componente, indica que a proteção vem da dupla mobilidade em si — não do diâmetro da cabeça. Ler um artigo é pesar amostra, ajuste e desenho, não apenas o resultado.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Pese amostra e ajuste. A maior metanálise, ajustada pelo tamanho do componente, mostra que a proteção vem da dupla mobilidade — não do diâmetro. Sem RCT: favorável, não provado.
+*Artigo principal — Ibrahim 2025 · JBJS Rev · metanálise · 133.474 quadris · nível II · PMID 41379986*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -785,7 +800,8 @@ Uma licença metodológica, porque a distinção é instrutiva. Diante de quatro
 - Conduta: **36 mm quando o componente acetabular comporta** · piso 32 mm
   *Bender · J Arthroplasty · 2025 · PMID 40015384 · Tsikandylakis · registro NARA · 2018 · PMID 30260863*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — 36 mm quando o acetábulo comporta: revisão por luxação 0,46% × 0,68%, com teto do benefício em 36 mm.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, 36 mm. Planejar 36 mm quando o componente comporta; piso 32 mm. Teto em 36 — ≥ 40 mm não reduz luxação e aumenta revisão e infecção.
+*Artigo principal — Bender 2025 · J Arthroplasty · registro AJRR · 319.531 ATQs · PMID 40015384*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -828,7 +844,8 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
   *Cherry · Int Orthop · 2025 · PMID 40715845*
 - Conduta: reparo capsular sistemático em toda via posterior
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Sim — sem reparo, risco de luxação aproximadamente 8 vezes maior; reparo capsular sistemático.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, sempre. Sem o reparo, luxação cerca de 8× maior; com ele, iguala-se às demais vias. Reparo capsular em toda via posterior.
+*Artigo principal — Kwon 2006 · Clin Orthop Relat Res · metanálise de 5 estudos · RR 8,21 (IC 4,05–16,67) · PMID 16741471*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -865,7 +882,8 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
   *Korfitsen · Acta Orthop · 2023 · PMID 37039064*
 - Conduta: com reparo capsular, sem restrições rígidas de rotina
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Não — com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce; sem restrições de rotina.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Não. Com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce. Sem restrições rígidas de rotina.
+*Artigo principal — Yadav 2026 · ensaio randomizado · 1.133 pacientes · PMID 42055222*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -905,7 +923,8 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 - No eletivo, o cimento tem contrapartida: menos revisão × mais mortalidade global (OR 0,73)
   *Alagha · J Arthroplasty · 60.064 pareados · 2025 · PMID 39814112*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Em três perfis. Cimentar: (1) mulher ≥ 70,5 anos, (2) fratura do colo, (3) osso de má qualidade. O risco do cimento é agudo (dia 0–1), não tardio.
+*Artigo principal — Fernandez 2022 · N Engl J Med · ensaio randomizado (WHiTE 5) · PMID 35139272*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -958,7 +977,8 @@ A cimentação é indicada na mulher com 70,5 anos ou mais, no osso de má quali
 - Cimentless com colar equipara-se à cimentada polished taper-slip — o desenho pesa mais que o cimento
   *Lamb · JBJS · 809.832 ATQs · 2025 · PMID 39874379*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** No paciente sem indicação de cimento, haste com colar e geometria gradual-taper — o desenho pesa mais que o cimento.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Com colar. Haste com colar e geometria gradual-taper; evitar em cunha sem colar no osso de risco. O desenho pesa mais que o cimento.
+*Artigo principal — Kelly 2024 · J Arthroplasty · registro AJRR · 266.040 hastes ≥ 65 anos · PMID 38323976*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1018,7 +1038,8 @@ Se a decisão for pela fixação não-cimentada, o desenho do implante é a vari
   *Wright · Mayo · 690 ATQs · 2024 · PMID 38964487*
 - Pergunta encerrada: o convencional saiu de uso; nenhum registro moderno mantém braço de comparação
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Polietileno reticulado em toda artroplastia — a revisão em 16 anos cai à metade e o desgaste em 20 anos é desprezível.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Sim, sempre. Polietileno reticulado em toda ATQ — a revisão em 16 anos cai à metade e o desgaste em 20 anos é desprezível. O convencional não tem mais lugar.
+*Artigo principal — de Steiger 2018 · JBJS · registro AOANJRR · 199.131 × 41.171 procedimentos · PMID 30063590*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1042,7 +1063,8 @@ O polietileno reticulado divide aproximadamente pela metade a revisão em dezess
 - Desgaste do 36 mm sobre reticulado: **0,01 mm em 14 anos** — a cabeça de 32 mm desgastou mais (0,10 mm)
   *Thoen · Bone Joint J · ensaio randomizado · 2025 · PMID 41173047*
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** Cerâmica no jovem; no idoso, metal sobre reticulado é equivalente. Quando o planejamento indicar 36 mm (S20), preferir cerâmica — é ali que a corrosão do cobalto-cromo se concentra.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** Cerâmica no jovem. < 55 anos, a cerâmica reduz revisão; ≥ 55, metal equivale. 36 mm em cerâmica — é onde a corrosão do cobalto-cromo se concentra.
+*Artigo principal — Reddy 2025 · J Arthroplasty · registro AJRR · 101.313 ATQs · PMID 40939940*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
@@ -1099,7 +1121,8 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
   *Pentland · The Lancet · 2026 · PMID 41763743*
 - Dado medido ≠ projeção: citar sempre com a distinção
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** 93,6% livres de revisão em 20 anos — dado medido; os valores de 25 e 30 anos são projeção por modelo.
+**RESPOSTA DO SLIDE (funde veredito + conduta, objetiva/enumerada; artigo principal âncora; na ANIMAÇÃO surge por ÚLTIMO — fecha o slide):** 93,6% em 20 anos. 93,6% sem revisão aos 20 anos — dado medido. 25 e 30 anos são projeção por modelo; citar sempre com a ressalva.
+*Artigo principal — Pentland 2026 · The Lancet · 8 registros nacionais · 1.899.034 ATQs · PMID 41763743*
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
