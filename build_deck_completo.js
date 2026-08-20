@@ -166,7 +166,7 @@ function topico(cfg) {
 // S5 · Template manual ou digital?
 topico({
   eyebrow: "ATO 1 · IMAGEM · TEMPLATE",
-  titulo: "Template manual ou digital: qual altera o resultado?",
+  titulo: "Template manual ou digital: qual muda o resultado?",
   tituloSize: 28,
   tagline: "Nenhum dos dois métodos é superior em acurácia.",
   bullets: [
@@ -181,7 +181,7 @@ topico({
 // S6 · Calibração
 topico({
   eyebrow: "ATO 1 · IMAGEM · CALIBRAÇÃO",
-  titulo: "A calibração com marcador único é suficiente?",
+  titulo: "A calibração com marcador único muda o resultado?",
   tituloSize: 30,
   tagline: "A calibração não altera o planejamento do componente acetabular; altera o da haste — sobretudo no obeso e no sexo feminino.",
   bullets: [
@@ -196,7 +196,7 @@ topico({
 // S7 · 3D por TC
 topico({
   eyebrow: "ATO 1 · IMAGEM · TRIDIMENSIONAL",
-  titulo: "O planejamento 3D por tomografia altera o resultado?",
+  titulo: "O planejamento 3D por tomografia muda o resultado?",
   tituloSize: 30,
   tagline: "Não na rotina — melhora a acurácia do componente acetabular, sem alterar o desfecho relatado pelo paciente.",
   bullets: [
@@ -209,7 +209,7 @@ topico({
 // S8 · Modelo 3D impresso
 topico({
   eyebrow: "ATO 1 · IMAGEM · IMPRESSÃO 3D",
-  titulo: "O modelo 3D impresso altera o planejamento na anatomia complexa?",
+  titulo: "O modelo 3D impresso muda o resultado na anatomia complexa?",
   tituloSize: 28,
   tagline: "Sim — na anatomia atípica (displasia/Crowe, deformidade); reservado a esses casos, não à rotina.",
   bullets: [
@@ -222,7 +222,7 @@ topico({
 // S9 · IA
 topico({
   eyebrow: "ATO 1 · IMAGEM · INTELIGÊNCIA ARTIFICIAL",
-  titulo: "O planejamento assistido por IA altera o resultado?",
+  titulo: "O planejamento assistido por IA muda o resultado?",
   tituloSize: 30,
   tagline: "Ainda não — a acurácia melhora, mas sem validação de desfecho e restrita a um único país.",
   bullets: [
@@ -236,7 +236,7 @@ topico({
 // S10 · Robótica — função
 topico({
   eyebrow: "ATO 1 · EXECUÇÃO · ROBÓTICA · FUNÇÃO",
-  titulo: "A assistência robótica altera a função?",
+  titulo: "A assistência robótica muda o resultado — a função?",
   tituloSize: 32,
   tagline: "Não — a precisão triplica, mas a função permanece equivalente ao método convencional.",
   bullets: [
@@ -249,7 +249,7 @@ topico({
 // S11 · Robótica — demais desfechos
 topico({
   eyebrow: "ATO 1 · EXECUÇÃO · ROBÓTICA · DEMAIS DESFECHOS",
-  titulo: "A robótica altera revisão, luxação e infecção?",
+  titulo: "A robótica muda o resultado — revisão, luxação, infecção?",
   tituloSize: 32,
   tagline: "Só a função tem RCT; revisão sem diferença, internação 0,49 dia menor, sinais observacionais em luxação e infecção.",
   bullets: [
@@ -263,7 +263,7 @@ topico({
 // S12 · Navegação
 topico({
   eyebrow: "ATO 1 · EXECUÇÃO · NAVEGAÇÃO",
-  titulo: "A navegação intraoperatória altera o desfecho?",
+  titulo: "A navegação intraoperatória muda o resultado?",
   tituloSize: 30,
   tagline: "Melhora o posicionamento intraoperatório; o benefício clínico não se confirma nas coortes pareadas recentes.",
   bullets: [
@@ -277,7 +277,7 @@ topico({
 // S13 · PSI
 topico({
   eyebrow: "ATO 1 · EXECUÇÃO · GUIAS PERSONALIZADOS (PSI)",
-  titulo: "Os guias personalizados alteram o resultado?",
+  titulo: "Os guias personalizados mudam o resultado?",
   tituloSize: 30,
   tagline: "Um RCT pequeno mostra melhor acurácia de anteversão; sem evidência de desfecho clínico no quadril.",
   bullets: [
@@ -290,7 +290,7 @@ topico({
 // S14 · Lewinnek
 topico({
   eyebrow: "ATO 1 · ALVO · LEWINNEK",
-  titulo: "A zona de segurança de Lewinnek é suficiente?",
+  titulo: "A zona de segurança de Lewinnek muda o resultado?",
   tituloSize: 32,
   tagline: "Não — a maioria das luxações ocorre com o componente dentro da zona; o alvo precisa ser individualizado.",
   bullets: [
@@ -331,7 +331,7 @@ topico({
 // S17 · O que a avaliação muda na cirurgia
 topico({
   eyebrow: "ATO 1 · ALVO · O QUE MUDA NA CIRURGIA",
-  titulo: "O que a avaliação espinopélvica muda na cirurgia?",
+  titulo: "O que a avaliação espinopélvica muda no resultado?",
   tituloSize: 30,
   tagline: "Modifica alvo, anteversão e construto — o ganho demonstrado é de função; a proteção contra luxação vem do construto.",
   bullets: [
@@ -350,7 +350,7 @@ topico({
 // S18 · Dupla mobilidade
 topico({
   eyebrow: "ATO 2 · INSTABILIDADE · DUPLA MOBILIDADE",
-  titulo: "A articulação de dupla mobilidade altera o resultado — e em quem?",
+  titulo: "A articulação de dupla mobilidade muda o resultado — e em quem?",
   tituloSize: 28,
   tagline: "Sim, no grupo de risco — luxação 1,3% × 4,2% na fratura do colo (ensaio randomizado); indicação dirigida, não universal.",
   bullets: [
@@ -380,7 +380,7 @@ topico({
 // S20 · Diâmetro da cabeça
 topico({
   eyebrow: "ATO 2 · INSTABILIDADE · DIÂMETRO DA CABEÇA",
-  titulo: "O diâmetro da cabeça femoral altera a luxação?",
+  titulo: "O diâmetro da cabeça femoral muda o resultado — a luxação?",
   tituloSize: 30,
   tagline: "Sim — 36 mm quando o acetábulo comporta: revisão por luxação 0,46% × 0,68%, com teto do benefício em 36 mm.",
   bullets: [
@@ -394,7 +394,7 @@ topico({
 // S21 · Reparo capsular
 topico({
   eyebrow: "ATO 2 · INSTABILIDADE · TÉCNICA · REPARO CAPSULAR",
-  titulo: "O reparo capsular na via posterior altera o resultado?",
+  titulo: "O reparo capsular na via posterior muda o resultado?",
   tituloSize: 30,
   tagline: "Sim — sem reparo, risco de luxação aproximadamente 8 vezes maior; reparo capsular sistemático.",
   bullets: [
@@ -408,7 +408,7 @@ topico({
 // S22 · Restrições pós-operatórias
 topico({
   eyebrow: "ATO 2 · PÓS-OPERATÓRIO · RESTRIÇÕES",
-  titulo: "As restrições pós-operatórias alteram o resultado?",
+  titulo: "As restrições pós-operatórias mudam o resultado?",
   tituloSize: 30,
   tagline: "Não — com reparo capsular, não reduzem a luxação (0,88%) e pioram a função precoce; sem restrições de rotina.",
   bullets: [
@@ -422,7 +422,7 @@ topico({
 // S23 · Cimentar em quem
 topico({
   eyebrow: "ATO 2 · FIXAÇÃO · CIMENTAR EM QUEM",
-  titulo: "A fixação femoral altera o resultado — em quem cimentar?",
+  titulo: "A fixação femoral muda o resultado — em quem cimentar?",
   tituloSize: 28,
   tagline: "Cimentar mulher ≥ 70,5 anos, fratura do colo e osso de má qualidade; o risco do cimento é agudo (dia 0–1), não tardio.",
   bullets: [
@@ -451,7 +451,7 @@ topico({
 // S25 · Polietileno reticulado
 topico({
   eyebrow: "ATO 2 · PAR TRIBOLÓGICO · POLIETILENO RETICULADO",
-  titulo: "Polietileno reticulado altera o resultado?",
+  titulo: "Polietileno reticulado muda o resultado?",
   tituloSize: 32,
   tagline: "Polietileno reticulado em toda artroplastia — a revisão em 16 anos cai à metade e o desgaste em 20 anos é desprezível.",
   bullets: [
@@ -499,7 +499,7 @@ topico({
 (function () {
   const sl = p.addSlide(); bgDark(sl); topbar(sl); rodape(sl);
   sl.addText("ATO 3 · SÍNTESE", { x: 0.62, y: 0.40, w: 12.1, h: 0.34, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
-  sl.addText("O que altera o resultado", { x: 0.58, y: 0.76, w: 12.1, h: 0.90, color: INK, bold: true, fontSize: 34, fontFace: HF, valign: "top", margin: 0 });
+  sl.addText("O que muda o resultado", { x: 0.58, y: 0.76, w: 12.1, h: 0.90, color: INK, bold: true, fontSize: 34, fontFace: HF, valign: "top", margin: 0 });
 
   sl.addText(parseRuns("A tecnologia define a precisão, mas ~alterar o desfecho~ depende de respeitar a evidência que a literatura fornece.", INK, 18),
     markAnim({ shape: p.ShapeType.roundRect, rectRadius: 0.06, fill: { color: TEAL }, line: { type: "none" }, shadow: shadow(),

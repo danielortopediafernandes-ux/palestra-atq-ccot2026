@@ -162,7 +162,7 @@ Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo q
 
 # ATO 1 — TECNOLOGIAS DE PLANEJAMENTO E EXECUÇÃO E O ALVO DE POSICIONAMENTO: ACURÁCIA VERSUS DESFECHO
 
-## SLIDE S5 · Template manual versus digital: qual altera o resultado?
+## SLIDE S5 · Template manual versus digital: qual muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — cada afirmação com a SUA referência abaixo; é isto que vai ao slide):**
 
@@ -203,7 +203,7 @@ O template manual aplicado sobre imagem digital calibrada obteve acurácia igual
 
 ---
 
-## SLIDE S6 · A calibração convencional com marcador único é suficiente?
+## SLIDE S6 · A calibração convencional com marcador único muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -244,7 +244,7 @@ A calibração convencional com marcador externo único carrega erro médio de m
 
 ---
 
-## SLIDE S7 · O planejamento tridimensional por tomografia altera o resultado?
+## SLIDE S7 · O planejamento tridimensional por tomografia muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -278,7 +278,7 @@ O planejamento tridimensional por tomografia aumenta o acerto do tamanho do comp
 
 ---
 
-## SLIDE S8 · O modelo 3D impresso altera o planejamento na anatomia complexa?
+## SLIDE S8 · O modelo 3D impresso muda o resultado na anatomia complexa?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -317,7 +317,7 @@ Na anatomia complexa (displasia, deformidade grave), o modelo físico impresso p
 
 ---
 
-## SLIDE S9 · O planejamento assistido por inteligência artificial altera o resultado?
+## SLIDE S9 · O planejamento assistido por inteligência artificial muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -356,7 +356,7 @@ Os algoritmos de aprendizado de máquina preveem o tamanho dos componentes melho
 
 ---
 
-## SLIDE S10 · A assistência robótica altera a função?
+## SLIDE S10 · A assistência robótica muda o resultado — a função?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -404,7 +404,7 @@ A assistência robótica triplica a precisão do posicionamento: erro de antever
 
 ---
 
-## SLIDE S11 · A robótica altera os demais desfechos — revisão, luxação, infecção?
+## SLIDE S11 · A robótica muda o resultado — revisão, luxação, infecção?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -443,7 +443,7 @@ Diferentemente da função — medida em ensaios randomizados —, os demais des
 
 ---
 
-## SLIDE S12 · A navegação intraoperatória altera o desfecho?
+## SLIDE S12 · A navegação intraoperatória muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -482,7 +482,7 @@ A navegação por imagem aumenta a acurácia do posicionamento intraoperatório 
 
 ---
 
-## SLIDE S13 · Os guias personalizados (PSI) alteram o resultado?
+## SLIDE S13 · Os guias personalizados (PSI) mudam o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -516,7 +516,7 @@ Os guias personalizados são a tecnologia de execução com menos evidência no 
 
 ---
 
-## SLIDE S14 · A zona de segurança de Lewinnek é suficiente?
+## SLIDE S14 · A zona de segurança de Lewinnek muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -648,7 +648,7 @@ A radiografia funcional mede dois parâmetros que, cruzados, definem a classific
 
 ---
 
-## SLIDE S17 · O que a avaliação espinopélvica muda na cirurgia?
+## SLIDE S17 · O que a avaliação espinopélvica muda no resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -691,7 +691,7 @@ Identificado o paciente, a avaliação funcional muda a cirurgia em três pontos
 
 # ATO 2 — DECISÕES TÉCNICAS: INSTABILIDADE, FIXAÇÃO FEMORAL E PARES TRIBOLÓGICOS
 
-## SLIDE S18 · A articulação de dupla mobilidade altera o resultado — e em quem?
+## SLIDE S18 · A articulação de dupla mobilidade muda o resultado — e em quem?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -772,7 +772,7 @@ Uma licença metodológica, porque a distinção é instrutiva. Diante de quatro
 
 ---
 
-## SLIDE S20 · O diâmetro da cabeça femoral altera a luxação?
+## SLIDE S20 · O diâmetro da cabeça femoral muda o resultado — a luxação?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -816,7 +816,7 @@ Quatro registros nacionais, com mais de 800 mil artroplastias somadas, demonstra
 
 ---
 
-## SLIDE S21 · O reparo capsular na via posterior altera o resultado?
+## SLIDE S21 · O reparo capsular na via posterior muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -853,7 +853,7 @@ Sem reparo capsular, a via posterior apresenta risco de luxação aproximadament
 
 ---
 
-## SLIDE S22 · As restrições pós-operatórias alteram o resultado?
+## SLIDE S22 · As restrições pós-operatórias mudam o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -892,7 +892,7 @@ Realizado o reparo capsular, as restrições pós-operatórias não reduzem a lu
 
 ---
 
-## SLIDE S23 · A fixação femoral altera o resultado — em quem cimentar?
+## SLIDE S23 · A fixação femoral muda o resultado — em quem cimentar?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1008,7 +1008,7 @@ Se a decisão for pela fixação não-cimentada, o desenho do implante é a vari
 
 ---
 
-## SLIDE S25 · Polietileno reticulado altera o resultado?
+## SLIDE S25 · Polietileno reticulado muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
@@ -1137,7 +1137,7 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S28 · Síntese: o que altera o resultado?
+## SLIDE S28 · Síntese: o que muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
