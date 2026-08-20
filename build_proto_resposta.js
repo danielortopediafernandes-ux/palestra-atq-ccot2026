@@ -56,7 +56,7 @@ function respostaH(cfg) {
   const txt = cfg.resposta.replace(/[*~]/g, "");
   const linhas = Math.max(2, Math.ceil(txt.length / 90));
   const linhasFonte = cfg.respostaFonte.length > 118 ? 2 : 1; // artigo principal costuma caber em 1 linha
-  return 0.62 + linhas * 0.37 + linhasFonte * 0.24; // rótulo+margens (~0,62) + resposta 19pt + fonte 11,5pt
+  return 0.78 + linhas * 0.37 + linhasFonte * 0.24; // rótulo+margens (~0,62) + resposta 19pt + fonte 11,5pt
 }
 
 function respostaHero(sl, cfg, hBox) {
