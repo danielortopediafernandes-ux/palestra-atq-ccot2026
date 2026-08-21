@@ -22,14 +22,14 @@ As unidades numeradas ([0.1], [3.4] etc.) preservam a numeração original — a
 
 ---
 
-## Conceitos fundadores — os dois planos de medida
+## Acurácia técnica e resultado clínico
 
 Toda a lógica deste capítulo repousa numa distinção:
 
 - **Alvo técnico (parâmetros técnicos):** aquilo que o cirurgião mede — inclinação e anteversão do componente acetabular, anteversão femoral, offset, comprimento do membro, dimensionamento dos implantes. É importante, mas é um **meio**.
 - **Resultado clínico:** aquilo que o paciente vive — revisão, luxação, infecção, função, satisfação, complicações. É o **fim**.
 
-A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece** — o ganho das tecnologias de planejamento e de execução concentra-se no alvo técnico, sem tradução demonstrada em resultado clínico; os resultados clínicos respondem às decisões de planejamento tomadas antes da incisão, de custo marginal.
+A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o resultado depende do que temos de evidência na literatura** — o ganho das tecnologias de planejamento e de execução concentra-se no alvo técnico, sem tradução demonstrada em resultado clínico; os resultados clínicos respondem às decisões de planejamento tomadas antes da incisão, de custo marginal.
 
 **Glossário de siglas** — toda sigla do capítulo tem seu significado aqui (e aparece por extenso na primeira ocorrência do texto):
 
@@ -97,7 +97,7 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 | Abertura · capa, conflito de interesse, equipe, tese | S1–S4 |
 | Ato 1 · Tecnologias e alvo de posicionamento: acurácia × resultado | S5–S17 |
 | Ato 2 · Decisões técnicas: instabilidade → fixação → par tribológico | S18–S26 |
-| Ato 3 · Síntese | S27–S28 |
+| Ato 3 · Conclusão | S27–S28 |
 | Apêndice clínico-farmacológico (fora da palestra) | A1–A5 |
 
 ---
@@ -150,13 +150,13 @@ A tese que os dados sustentam: **a tecnologia define a precisão, mas alterar o 
 - A evidência atual dissocia os dois planos: o ganho das tecnologias concentra-se no alvo técnico
 - Os resultados clínicos respondem às decisões de planejamento: alvo individualizado, construto, técnica
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o resultado depende do que temos de evidência na literatura.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
-Esta apresentação distingue dois planos de medida. O alvo técnico é aquilo que o cirurgião afere: o posicionamento e o dimensionamento dos componentes. O resultado clínico é aquilo que o paciente experimenta: revisão, luxação, infecção e função. A literatura das tecnologias de planejamento e de execução demonstra, de maneira consistente, ganho no primeiro plano sem tradução correspondente no segundo. Em contraste, um conjunto de decisões de planejamento — a individualização do alvo de posicionamento, a seleção do construto e a técnica cirúrgica — modifica os resultados clínicos com custo marginal. Demonstrar essa dissociação, decisão a decisão, é o objetivo da apresentação.
+Esta apresentação distingue a acurácia técnica do resultado clínico. O alvo técnico é aquilo que o cirurgião afere: o posicionamento e o dimensionamento dos componentes. O resultado clínico é aquilo que o paciente experimenta: revisão, luxação, infecção e função. A literatura das tecnologias de planejamento e de execução demonstra, de maneira consistente, ganho no primeiro plano sem tradução correspondente no segundo. Em contraste, um conjunto de decisões de planejamento — a individualização do alvo de posicionamento, a seleção do construto e a técnica cirúrgica — modifica os resultados clínicos com custo marginal. Demonstrar essa dissociação, decisão a decisão, é o objetivo da apresentação.
 
-**BASE DE EVIDÊNCIA:** seção "Conceitos fundadores — os dois planos de medida", no preâmbulo deste documento.
+**BASE DE EVIDÊNCIA:** seção "Acurácia técnica e resultado clínico", no preâmbulo deste documento.
 
 
 ---
@@ -1110,7 +1110,7 @@ Duas honestidades finais. A sobrevida de "92% em trinta anos" que começa a circ
 ---
 
 
-# ATO 3 — SÍNTESE
+# ATO 3 — CONCLUSÃO
 
 ## SLIDE S27 · Quanto dura a artroplastia moderna — dado medido ou projeção?
 
@@ -1161,23 +1161,23 @@ Metanálise de oito registros nacionais (1.899.034 artroplastias; 1.904.237 no t
 
 ---
 
-## SLIDE S28 · Síntese: o que muda o resultado?
+## SLIDE S28 · Conclusão: o que muda o resultado?
 
 **TEXTO DO SLIDE (resumo em tópicos — é isto que vai ao slide):**
 
 - O ganho das tecnologias concentrou-se no alvo técnico
 - Os resultados clínicos responderam às decisões de planejamento
-- Quadro-síntese na ordem cronológica das decisões
+- Quadro-resumo na ordem cronológica das decisões
 
-**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece.
+**CONCLUSÃO DO SLIDE (destaque grande, POSICIONADA logo ABAIXO DO TÍTULO; na ANIMAÇÃO surge por ÚLTIMO — depois dos tópicos —, para fechar o slide):** A tecnologia define a precisão, mas alterar o resultado depende do que temos de evidência na literatura.
 
 **ROTEIRO DE FALA (explicação completa — não vai ao slide):**
 
 As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos sem modificar o resultado clínico. As condutas com impacto demonstrado no resultado são decisões de planejamento de baixo custo, aplicáveis da consulta de indicação ao pós-operatório — sintetizadas neste quadro na ordem em que são tomadas.
 
-**BASE DE EVIDÊNCIA (o quadro-síntese do slide):**
+**BASE DE EVIDÊNCIA (o quadro-resumo do slide):**
 
-# SÍNTESE — a tese fechada
+# Conclusão: o que muda o resultado
 
 | Decisão | Conduta | Número-chave |
 |---|---|---|
@@ -1193,7 +1193,7 @@ As tecnologias avaliadas melhoraram consistentemente os parâmetros técnicos se
 | Protocolo | TXA intravenoso · cefazolina 21–30 min · aspirina de rotina · dexametasona | TXA RR ~0,48 · atraso OR 2,0 · náusea OR 0,21 |
 | Restrições pós-op | não prescrever de rotina (com reparo capsular) | luxação 0,88%, sem diferença |
 
-**A tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece.**
+**A tecnologia define a precisão, mas alterar o resultado depende do que temos de evidência na literatura.**
 
 
 ---
