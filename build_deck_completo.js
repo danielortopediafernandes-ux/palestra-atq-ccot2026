@@ -23,7 +23,7 @@ const bgDark = (s) => { s.background = { color: BG }; };
 const shadow = () => ({ type: "outer", color: "000000", opacity: 0.32, blur: 8, offset: 3, angle: 90 });
 const topbar = (sl) => sl.addShape(p.ShapeType.rect, { x: 0, y: 0, w: 13.33, h: 0.14, fill: { color: TEAL }, line: { type: "none" } });
 const rodape = (sl) => {
-  sl.addText("Dr. Daniel Araújo Fernandes · Planejamento pré-operatório em artroplastia total do quadril",
+  sl.addText("Dr. Daniel Araújo Fernandes · Planejamento, Precisão e Técnica na Artroplastia do Quadril",
     { x: 0.6, y: 7.16, w: 9.6, h: 0.26, color: MUT, fontSize: 9.5, fontFace: BF, align: "left", margin: 0 });
   sl.addText("XVI CCOT · 2026", { x: 10.2, y: 7.16, w: 2.5, h: 0.26, color: MUT, fontSize: 9.5, fontFace: BF, align: "right", margin: 0 });
 };
@@ -104,8 +104,8 @@ function topico(cfg) {
 // S1 CAPA
 (function () { const sl = p.addSlide(); bgDark(sl); topbar(sl);
   sl.addText("XVI CONGRESSO CATARINENSE DE ORTOPEDIA E TRAUMATOLOGIA", { x: 0.62, y: 0.72, w: 12.1, h: 0.40, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
-  sl.addText("Planejamento pré-operatório em artroplastia total do quadril", { x: 0.58, y: 2.60, w: 12.15, h: 1.90, color: INK, bold: true, fontSize: 42, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.03 });
-  sl.addText("o que realmente muda o resultado", { x: 0.62, y: 4.55, w: 12.10, h: 0.60, color: TEALB, italic: true, bold: true, fontSize: 26, fontFace: BF, margin: 0 });
+  sl.addText("Planejamento, Precisão e Técnica na Artroplastia do Quadril", { x: 0.58, y: 2.30, w: 12.15, h: 1.90, color: INK, bold: true, fontSize: 40, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.03 });
+  sl.addText("Planejamento pré-operatório — o que realmente muda o resultado", { x: 0.62, y: 4.45, w: 12.10, h: 0.70, color: TEALB, italic: true, bold: true, fontSize: 23, fontFace: BF, margin: 0 });
   sl.addShape(p.ShapeType.line, { x: 0.64, y: 5.62, w: 3.0, h: 0, line: { color: TEAL, width: 2.5 } });
   sl.addText("Dr. Daniel Araújo Fernandes", { x: 0.62, y: 5.76, w: 9, h: 0.4, color: INK, bold: true, fontSize: 20, fontFace: BF, margin: 0 });
   sl.addText("Florianópolis · 21 de agosto de 2026", { x: 0.62, y: 6.20, w: 9, h: 0.36, color: BODY, fontSize: 15, fontFace: BF, margin: 0 });
@@ -126,11 +126,11 @@ function topico(cfg) {
 // S4 TESE
 (function () { const sl = p.addSlide(); bgDark(sl); topbar(sl); rodape(sl);
   sl.addText("CONCEITO FUNDADOR", { x: 0.62, y: 0.40, w: 12.1, h: 0.34, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
-  sl.addText("A dissociação entre acurácia e desfecho clínico", { x: 0.58, y: 0.76, w: 12.1, h: 1.05, color: INK, bold: true, fontSize: 32, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.02 });
+  sl.addText("A dissociação entre acurácia e resultado clínico", { x: 0.58, y: 0.76, w: 12.1, h: 1.05, color: INK, bold: true, fontSize: 32, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.02 });
   const cy=2.15,cw=5.86,ch=2.10;
   sl.addText([{text:"ALVO TÉCNICO\n",options:{bold:true,color:INK,fontSize:22,fontFace:HF}},{text:"o que o cirurgião afere\n",options:{color:BODY,fontSize:15,fontFace:BF,italic:true}},{text:"posicionamento e dimensionamento dos componentes",options:{color:BODY,fontSize:15,fontFace:BF}}],{shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:CARD},line:{type:"none"},shadow:shadow(),x:0.60,y:cy,w:cw,h:ch,valign:"middle",align:"left",margin:[10,18,10,18],lineSpacingMultiple:1.12});
-  sl.addText([{text:"DESFECHO CLÍNICO\n",options:{bold:true,color:INK,fontSize:22,fontFace:HF}},{text:"o que o paciente experimenta\n",options:{color:INK,fontSize:15,fontFace:BF,italic:true}},{text:"revisão · luxação · infecção · função",options:{color:INK,fontSize:15,fontFace:BF}}],{shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:TEAL},line:{type:"none"},shadow:shadow(),x:6.87,y:cy,w:cw,h:ch,valign:"middle",align:"left",margin:[10,18,10,18],lineSpacingMultiple:1.12});
-  sl.addText([{text:"Tese — ",options:{bold:true,color:R_VERDICT,fontSize:20,fontFace:BF}},{text:"a tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.",options:{italic:true,color:INK,fontSize:20,fontFace:BF}}],markAnim({shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:R_FILL},line:{color:R_LINE,width:2.0},shadow:shadow(),x:0.60,y:4.65,w:12.13,h:1.30,align:"left",valign:"middle",margin:[8,18,8,18],lineSpacingMultiple:1.10}));
+  sl.addText([{text:"RESULTADO CLÍNICO\n",options:{bold:true,color:INK,fontSize:22,fontFace:HF}},{text:"o que o paciente experimenta\n",options:{color:INK,fontSize:15,fontFace:BF,italic:true}},{text:"revisão · luxação · infecção · função",options:{color:INK,fontSize:15,fontFace:BF}}],{shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:TEAL},line:{type:"none"},shadow:shadow(),x:6.87,y:cy,w:cw,h:ch,valign:"middle",align:"left",margin:[10,18,10,18],lineSpacingMultiple:1.12});
+  sl.addText([{text:"Tese — ",options:{bold:true,color:R_VERDICT,fontSize:20,fontFace:BF}},{text:"a tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece.",options:{italic:true,color:INK,fontSize:20,fontFace:BF}}],markAnim({shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:R_FILL},line:{color:R_LINE,width:2.0},shadow:shadow(),x:0.60,y:4.65,w:12.13,h:1.30,align:"left",valign:"middle",margin:[8,18,8,18],lineSpacingMultiple:1.10}));
 })();
 
 // ATO 1
@@ -138,7 +138,7 @@ topico({ id:"S5", eyebrow:"ATO 1 · IMAGEM · TEMPLATE", titulo:"Template manual
   {t:"Haste — template manual superou o software: acerto ~75% × 60%~", f:"Petretta 2015 · CORR · PMID 25910779"},
   {t:"Haste — método digital superou o manual: acerto ~94% × 84%~", f:"Pongkunakorn 2021 · J Arthroplasty · 113 quadris · PMID 33583670"},
   {t:"Componente acetabular — **nenhum método foi superior**", f:"Petretta 2015 (p = 0,05) · Pongkunakorn 2021 (p = 0,48)"},
-  {t:"**Nenhum estudo comparou desfecho clínico** — apenas acurácia", f:"busca 2015–2026"} ]});
+  {t:"**Nenhum estudo comparou resultado clínico** — apenas acurácia", f:"busca 2015–2026"} ]});
 topico({ id:"S6", eyebrow:"ATO 1 · IMAGEM · CALIBRAÇÃO", titulo:"A calibração com marcador único muda o resultado?",
   fig:{ img:"1.1_calibracao_esquema_marcador.jpg", credito:"Marcador de dupla escala × marcador único · Ries 2022 · PMID 35099608" }, bullets:[
   {t:"Marcador único: erro ~12,5%~ (até 23,3%) · dupla escala ~2,1%~", f:"Ries 2022 · Arch Orthop Trauma Surg · 100 pac · PMID 35099608"},
@@ -147,7 +147,7 @@ topico({ id:"S6", eyebrow:"ATO 1 · IMAGEM · CALIBRAÇÃO", titulo:"A calibraç
 topico({ id:"S7", eyebrow:"ATO 1 · IMAGEM · TRIDIMENSIONAL", titulo:"O planejamento 3D por tomografia muda o resultado?",
   fig:{ img:"3or6_pelve3D_anteversao_geometria.png", credito:"Reconstrução 3D por tomografia — mensuração de anteversão" }, bullets:[
   {t:"Acerto do componente acetabular — 3D ~96,9% × 87,1%~ (2D)", f:"Parisi 2024 · PMID 39518705 · Bishi 2022 · meta · PMID 35076413"},
-  {t:"Desfecho relatado pelo paciente (PROM) — **sem diferença** (RCT)", f:"Thomas 2022 · RCT · PMID 36183111"} ]});
+  {t:"Resultado relatado pelo paciente (PROM) — **sem diferença** (RCT)", f:"Thomas 2022 · RCT · PMID 36183111"} ]});
 topico({ id:"S8", eyebrow:"ATO 1 · IMAGEM · IMPRESSÃO 3D", titulo:"O modelo 3D impresso muda o resultado na anatomia complexa?", bullets:[
   {t:"Ensaio no modelo corresponde à cirurgia — ~ICC 0,93~ · defeito ósseo P = 0,97", f:"Zhang 2021 · Orthop Surg · 17 pac · PMID 34898037"},
   {t:"Permite ensaiar redução, defeito ósseo, tamanho e posição antes da mesa", f:"Godoy-Monzón 2025 · Acta Ortop Mex · 22 pac · PMID 40925848"} ]});
@@ -158,7 +158,7 @@ topico({ id:"S9", eyebrow:"ATO 1 · IMAGEM · INTELIGÊNCIA ARTIFICIAL", titulo:
 topico({ id:"S10", eyebrow:"ATO 1 · EXECUÇÃO · ROBÓTICA · FUNÇÃO", titulo:"A assistência robótica muda o resultado — a função?", bullets:[
   {t:"Erro de anteversão — ~2,6° × 8,9°~ (TC pré/pós, RCT)", f:"Fontalis 2024 · RCT · 60 pac · PMID 38555946"},
   {t:"Único ganho clínico — internação ~−0,49 dia~, significância marginal", f:"Poyser 2026 · coorte pareada · PMID 41519489"} ]});
-topico({ id:"S11", eyebrow:"ATO 1 · EXECUÇÃO · ROBÓTICA · DEMAIS DESFECHOS", titulo:"A robótica muda o resultado — revisão, luxação, infecção?", bullets:[
+topico({ id:"S11", eyebrow:"ATO 1 · EXECUÇÃO · ROBÓTICA · DEMAIS RESULTADOS", titulo:"A robótica muda o resultado — revisão, luxação, infecção?", bullets:[
   {t:"Internação — ~−0,49 dia~, significância marginal (P = 0,044)", f:"Poyser 2026 · coorte pareada · PMID 41519489"},
   {t:"Revisão — **HR 0,947** (registro nacional) · sem diferença", f:"Farhan-Alanie 2025 · NJR · PMID 41442047"},
   {t:"Luxação ~OR 0,57~ · infecção ~OR 0,83~ — sinais observacionais", f:"Giannakis 2026 · Premier · PMID 42093134 · Zhang 2026 · meta · PMID 42009981"} ]});
@@ -234,8 +234,8 @@ topico({ id:"S27", eyebrow:"ATO 3 · SOBREVIDA", titulo:"Quanto dura a artroplas
 (function () { const sl = p.addSlide(); bgDark(sl); topbar(sl); rodape(sl);
   sl.addText("ATO 3 · SÍNTESE", { x: 0.62, y: 0.40, w: 12.1, h: 0.34, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
   sl.addText("O que muda o resultado", { x: 0.58, y: 0.76, w: 12.1, h: 0.90, color: INK, bold: true, fontSize: 34, fontFace: HF, valign: "top", margin: 0 });
-  sl.addText([{text:"Tese — ",options:{bold:true,color:R_VERDICT,fontSize:18,fontFace:BF}},{text:"a tecnologia define a precisão, mas alterar o desfecho depende de respeitar a evidência que a literatura fornece.",options:{italic:true,color:INK,fontSize:18,fontFace:BF}}],markAnim({shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:R_FILL},line:{color:R_LINE,width:2.0},shadow:shadow(),x:0.58,y:1.72,w:12.15,h:0.72,align:"left",valign:"middle",margin:[4,16,4,16]}));
-  const linhas=[["Otimização clínica","descolonizar · glicemia do dia · detectar anemia · cessação de tabagismo","pele OR 0,43 · cessação 52→18%"],["Imagem","RX com dupla escala + template (manual ou digital); 3D só anatomia atípica","manual ≥ digital · erro 12,5% → 2,1%"],["Execução","tecnologia não muda função; sinal observacional em luxação/infecção","SMD 0,01 · HR 0,947"],["Alvo do componente","funcional na coluna rígida; CSI + anteversão + DM","OHS 42 × 40 (P = 0,003)"],["Construto/via","DM no risco (inclui fratura do colo) · 36 mm em cerâmica · reparo capsular","36 mm 0,46% × 32 mm 0,68% · RR ≈ 8"],["Ordem quadril-coluna","a fusão é o risco; a ordem não muda desfecho","luxação 7× (fusão)"]];
+  sl.addText([{text:"Tese — ",options:{bold:true,color:R_VERDICT,fontSize:18,fontFace:BF}},{text:"a tecnologia define a precisão, mas alterar o resultado depende de respeitar a evidência que a literatura fornece.",options:{italic:true,color:INK,fontSize:18,fontFace:BF}}],markAnim({shape:p.ShapeType.roundRect,rectRadius:0.06,fill:{color:R_FILL},line:{color:R_LINE,width:2.0},shadow:shadow(),x:0.58,y:1.72,w:12.15,h:0.72,align:"left",valign:"middle",margin:[4,16,4,16]}));
+  const linhas=[["Otimização clínica","descolonizar · glicemia do dia · detectar anemia · cessação de tabagismo","pele OR 0,43 · cessação 52→18%"],["Imagem","RX com dupla escala + template (manual ou digital); 3D só anatomia atípica","manual ≥ digital · erro 12,5% → 2,1%"],["Execução","tecnologia não muda função; sinal observacional em luxação/infecção","SMD 0,01 · HR 0,947"],["Alvo do componente","funcional na coluna rígida; CSI + anteversão + DM","OHS 42 × 40 (P = 0,003)"],["Construto/via","DM no risco (inclui fratura do colo) · 36 mm em cerâmica · reparo capsular","36 mm 0,46% × 32 mm 0,68% · RR ≈ 8"],["Ordem quadril-coluna","a fusão é o risco; a ordem não muda resultado","luxação 7× (fusão)"]];
   const y0=2.66,rowH=0.66,colX=[0.62,3.10,8.90],colW=[2.42,5.72,3.68];
   ["DECISÃO","CONDUTA","NÚMERO-CHAVE"].forEach((h,i)=>sl.addText(h,{x:colX[i],y:y0,w:colW[i],h:0.34,color:TEALB,bold:true,fontSize:12,charSpacing:1.2,fontFace:BF,margin:0}));
   linhas.forEach((row,i)=>{ const y=y0+0.38+i*rowH; sl.addShape(p.ShapeType.rect,{x:0.60,y:y-0.04,w:12.15,h:rowH-0.04,fill:{color:i%2?CARD:CARD2},line:{type:"none"}}); sl.addText(row[0],{x:colX[0],y,w:colW[0],h:rowH-0.10,color:INK,bold:true,fontSize:12.5,fontFace:BF,valign:"middle",margin:0}); sl.addText(row[1],{x:colX[1],y,w:colW[1],h:rowH-0.10,color:BODY,fontSize:12.5,fontFace:BF,valign:"middle",margin:0}); sl.addText(row[2],{x:colX[2],y,w:colW[2],h:rowH-0.10,color:R_VERDICT,bold:true,fontSize:12.5,fontFace:BF,valign:"middle",margin:0}); });
