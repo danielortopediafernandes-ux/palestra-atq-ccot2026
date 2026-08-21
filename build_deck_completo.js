@@ -57,10 +57,11 @@ function figCard(sl, fig, cx, cy, cw, ch) {
 // QR de canto (slides SEM figura) → versão pública/handout (drfernandes.com.br/atq)
 const QRIMG = path.join(FIGDIR, "qr_atq_teal.png");
 function qrCorner(sl) {
-  const qw = 0.72, cardW = 0.92, cardH = 1.04, cardX = 13.33 - 0.20 - cardW, cardY = 7.5 - 0.46 - cardH;
-  sl.addShape(p.ShapeType.roundRect, { rectRadius: 0.04, fill: { color: "FFFFFF" }, line: { type: "none" }, shadow: shadow(), x: cardX, y: cardY, w: cardW, h: cardH });
-  sl.addImage({ path: QRIMG, x: cardX + (cardW - qw) / 2, y: cardY + 0.08, w: qw, h: qw });
-  sl.addText("drfernandes.com.br/atq", { x: cardX, y: cardY + 0.09 + qw, w: cardW, h: 0.18, color: "5A6B74", bold: true, fontSize: 6.5, fontFace: BF, align: "center", valign: "middle", margin: 0 });
+  // QR GRANDE (Dr. 20/08) — escaneável da plateia. Canto inferior-direito.
+  const qw = 1.78, cardW = 2.00, cardH = 2.22, cardX = 13.33 - 0.22 - cardW, cardY = 7.5 - 0.32 - cardH;
+  sl.addShape(p.ShapeType.roundRect, { rectRadius: 0.06, fill: { color: "FFFFFF" }, line: { type: "none" }, shadow: shadow(), x: cardX, y: cardY, w: cardW, h: cardH });
+  sl.addImage({ path: QRIMG, x: cardX + (cardW - qw) / 2, y: cardY + 0.12, w: qw, h: qw });
+  sl.addText("drfernandes.com.br/atq", { x: cardX, y: cardY + 0.16 + qw, w: cardW, h: 0.24, color: "5A6B74", bold: true, fontSize: 10, fontFace: BF, align: "center", valign: "middle", margin: 0 });
 }
 function respostaH(id) {
   const d = RESP[id]; const txt = (d.veredito + " " + d.corpo).replace(/[*~]/g, "");
@@ -95,7 +96,8 @@ function topico(cfg) {
   } else {
     let y = lowerY;
     const step = cfg.bullets.length >= 4 ? 0.86 : 0.94;
-    for (const b of cfg.bullets) { bullet(sl, b, 0.7, y, 12.0, 19); y += step; }
+    // largura reduzida p/ os tópicos não passarem por baixo do QR grande (canto inf-dir)
+    for (const b of cfg.bullets) { bullet(sl, b, 0.7, y, 10.45, 19); y += step; }
     qrCorner(sl);
   }
   respostaHero(sl, cfg.id, hBox);
@@ -105,7 +107,7 @@ function topico(cfg) {
 (function () { const sl = p.addSlide(); bgDark(sl); topbar(sl);
   sl.addText("XVI CONGRESSO CATARINENSE DE ORTOPEDIA E TRAUMATOLOGIA", { x: 0.62, y: 0.72, w: 12.1, h: 0.40, color: TEALB, bold: true, fontSize: 14, charSpacing: 2.5, fontFace: BF, margin: 0 });
   sl.addText("Planejamento, Precisão e Técnica na Artroplastia do Quadril", { x: 0.58, y: 2.30, w: 12.15, h: 1.90, color: INK, bold: true, fontSize: 40, fontFace: HF, valign: "top", margin: 0, lineSpacingMultiple: 1.03 });
-  sl.addText("Planejamento pré-operatório — o que realmente muda o resultado", { x: 0.62, y: 4.45, w: 12.10, h: 0.70, color: TEALB, italic: true, bold: true, fontSize: 23, fontFace: BF, margin: 0 });
+  sl.addText("Planejamento pré-operatório — o que realmente muda o resultado", { x: 0.62, y: 4.40, w: 12.10, h: 1.05, color: TEALB, italic: true, bold: true, fontSize: 27, fontFace: BF, margin: 0, lineSpacingMultiple: 1.05 });
   sl.addShape(p.ShapeType.line, { x: 0.64, y: 5.62, w: 3.0, h: 0, line: { color: TEAL, width: 2.5 } });
   sl.addText("Dr. Daniel Araújo Fernandes", { x: 0.62, y: 5.76, w: 9, h: 0.4, color: INK, bold: true, fontSize: 20, fontFace: BF, margin: 0 });
   sl.addText("Florianópolis · 21 de agosto de 2026", { x: 0.62, y: 6.20, w: 9, h: 0.36, color: BODY, fontSize: 15, fontFace: BF, margin: 0 });
